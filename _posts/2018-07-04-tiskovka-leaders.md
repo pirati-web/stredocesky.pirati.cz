@@ -1,12 +1,16 @@
 ---
 date: 2018-07-04
 category: blog
-tags: kandidáti leadři
+tags:
+ - Středočeský kraj
+ - komunální volby
+ - kandidáti
+ - leadři
 layout: post
 title: Pirátské kandidátky měst Středočeského kraje znají své leadery!
 author: Štěpán Drtina
 authorId: stepan.drtina    # uid nekoho z _people (nepoviné)
-image: posts/obrazek.u.tohoto.postu.jpg
+image: posts/sbirani_odpadu.jpg
 ---
 
 Piráti se intenzivně připravují na komunální volby po celé České republice a Středočeši v žádném ohledu nezahálejí. Primární volby jsou v plném proudu a první místa pirátských kandidátek jsou již jasná. V hlasování dostal prostor k vyjádření každý člen krajského fóra (případně místního sdružení) k volbě toho nejpovolanějšího. Mezi zvolenými kapitány jednotlivých posádek se umístila řada zajímavých osobností. Pojďme si je v následujících řádcích stručně představit.

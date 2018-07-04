@@ -5,19 +5,19 @@ fullname: Filip Dítě  	# jméno s tituly etc.
 category:
   - clenove
   - kontaktni_osoba
-description: 
+description: krajský koordinátor
 img: people/ppp.jpg # zakomentuj radek dokud není fotka
 ordclenove: 90
 mail:
   - filip.dite@pirati.cz
-#profiles:
+mob:
+  - +420 770 113 646
+profiles:
 ---
 
-Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
+**Filip Dítě** (*6. červenec 1988) je krajský koordinátor pro Středočeský kraj. Filip pochází z Mladé Boleslavi, kde i žije.
 
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
+Je vyučen. Ve svém profesním životě se nenudil, prošel několika firmami a podniky. Tři roky pracoval v logistice než přešel na dráhu barmana, ve které vydržel pět let. Poté se vrátil k profesi v logistice (řidič VZV), kterou vykonával až do nástupu na pozici krajského koordinátora v březnu 2018.
 
-**Politik:** Třeba čemu se věnuje.
-
-**Osobní:** Něco dalšího, měnit dle libosti, tady může být cokoliv. Není nutné, aby byly nadpisy tučně. Fakt jak chcete.
+Mezi jeho zájmy patří hudba, práce s PC, rád se podívá na dokumenty nebo posedí s přáteli. 
 
