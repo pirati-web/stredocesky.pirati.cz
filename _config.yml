@@ -1,0 +1,149 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Piráti Středočeského kraje
+email: stredocesi@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+keywords: střední čechy, středočeši, piráti, pirátská strana, politická strana, politika, otevřenost, transparentnost 
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+organization:
+  name: Česká pirátská strana - KS Středočeský kraj
+  shortName: Piráti Středočeského kraje
+  contactUid: filip.dite
+  email: filip.dite@pirati.cz
+  phone: +420 770 113 646
+  address: |
+    Řehořova 943/19
+    130 00 Praha 3
+  residenceImg:
+  mapLink: https://mapy.cz/zakladni?x=14.4422137&y=50.0863569&z=17&source=firm&id=2490703
+  redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
+
+homepageBanner:
+  display: false
+  link: /komunalni-volby/
+  title: Komunální volby 2018
+  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
+  image:
+      #    default: path/to/img.jpg
+      # mobile: path/to/img.jpg
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Celostátní kalendář
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+facebook:
+  loadSDK: true
+  profilePage:
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: pirati_sck
+
+#instagram:
+#  profilePage: https://www.instagram.com/pirati.cz/
+
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+#flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/stredocesky-kraj-f276/
+
+github:
+  url: https://github.com/pirati-web/jekyll-theme-pirati/
+  branch: master
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+
+  program:
+    output: true
+    permalink: /komunalni-volby/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar: "people, foto, personContact"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar: "garant, program"
+
+emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
