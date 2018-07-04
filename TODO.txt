@@ -8,4 +8,7 @@
 * socialni site
  - facebook sck
  - dalsi site globalni?
+* presmerovani stranek
+ - https://www.pirati.cz/pripoj-se/strednicechy/
+ - http://strednicechy.pirati.cz/
 
