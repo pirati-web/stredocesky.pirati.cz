@@ -46,6 +46,6 @@ gem "image_optim_pack"
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 # jcz1
-gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
+#gem 'execjs'
+#gem 'therubyracer', :platforms => :ruby
 

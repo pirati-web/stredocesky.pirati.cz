@@ -12,6 +12,7 @@
  - /mladaboleslav/ /kolin/ /kutnahora/
  - brandys a mb stranky maji, staci presmerovat
  - nejake linky jsou na https://wiki.pirati.cz/regiony/strednicechy/start
+ - kratke URL http://stredocesky.pirati.cz/<jmenoMS>/
 * sjednotit profily lidi - mely by byt "o nem", ne "o mne"
 * lepsi fotky mluvicich hlav :D (prefotit vsechny pred platnem)
 
