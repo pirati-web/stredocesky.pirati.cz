@@ -3,11 +3,11 @@ uid: filip.dite
 name:     Filip Dítě  	# běžně používáné jméno
 fullname: Filip Dítě  	# jméno s tituly etc.
 category:
-  - clenove
+  - koordinator
   - kontaktni_osoba
 description: krajský koordinátor
-img: people/ppp.jpg # zakomentuj radek dokud není fotka
-ordclenove: 90
+img: people/filip-dite.jpg # zakomentuj radek dokud není fotka
+ordKoordinator: 1
 mail:
   - filip.dite@pirati.cz
 mob:

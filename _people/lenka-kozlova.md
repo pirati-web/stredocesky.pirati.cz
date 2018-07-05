@@ -3,25 +3,22 @@ uid: lenka.kozlova
 name:     Lenka Kozlová  	# běžně používáné jméno
 fullname: Lenka Kozlová  	# jméno s tituly etc.
 category:
-  - clen
   - poslanec
 description: poslankyně Parlamentu ČR
-img: people/ppp.jpg
-ordclenove: 1
-asistenti:
-  - name: Mgr. Věra Marušiaková
-    position: Asitentka
-    mail: neco
+img: people/lenka-kozlova.jpg
+#ordPoslanec: 1
+# generovani e-mailu asistentu nefunguje
+# ani podle https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/olga-richterova.md
 #asistenti:
 #  - name: Jaroslav Němec
 #    position: Asistent
-#    mail: jarnemec@psp.cz
+#    mail: jarnemec@psp.cz # generovani e-mailu nefunguje
 #  - name: David Wagner
 #    position: Asistent
-#    mail: wagnerd@psp.cz
+#    mail: wagnerd@psp.cz # generovani e-mailu nefunguje
 #  - name: Antonín Schejbal
 #    position: Asistent
-#    mail: schejbala@psp.cz
+#    mail: schejbala@psp.cz # generovani e-mailu nefunguje
 mail:
   - lenka.kozlova@pirati.cz
 profiles:
@@ -30,7 +27,7 @@ profiles:
   twitter: https://twitter.com/Kozlova_Pirati
   web: http://lenkakozlova.cz/
 office:
-  - address: Malostranské náměstí 7, 118 26  Praha 1 – Malá Strana
+  - address: Malostranské náměstí 7/19, 118 26  Praha 1 – Malá Strana
     name: Poslanecký klub České pirátské strany
 #    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 ---

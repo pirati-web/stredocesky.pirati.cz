@@ -1,14 +1,15 @@
 * krajsky kalendar - viz https://www.pirati.cz/pripoj-se/strednicechy/
  (hezka integrace na https://pardubice.pirati.cz/)
-* kozlova - asistenti
 * franta kopriva
 * dalsi lide z https://wiki.pirati.cz/regiony/strednicechy/start
-* fotky lidi
+* fotky lidi z wiki https://wiki.pirati.cz/lide/... nebo jejich soukr webu
 * strana kontakty
 * socialni site
- - facebook sck
+ - facebook sck api key
  - dalsi site globalni?
 * presmerovani stranek
  - https://www.pirati.cz/pripoj-se/strednicechy/
  - http://strednicechy.pirati.cz/
+* MS: https://stredocesky.pirati.cz/xx xx=mladaboleslav/kolin/kutnahora
+* MS: brandys a mb stranky maji, staci presmerovat
 

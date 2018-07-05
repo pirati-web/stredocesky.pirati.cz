@@ -3,12 +3,12 @@ uid: stepan.drtina
 name:     Štěpán Drtina  	# běžně používáné jméno
 fullname: Štěpán Drtina  	# jméno s tituly etc.
 category:
-  - clenove
+  - koordinator
   - kontaktni_osoba
 description: krajský koordinátor 
-img: people/ppp.jpg
-#img: people/stepan-drtina.jpg # z nejakeho duvodu pada jekyll na vlastni fotce
-ordclenove: 91
+#img: people/ppp.jpg
+img: people/stepan-drtina.jpg # z nejakeho duvodu pada jekyll na vlastni fotce
+ordKoordinator: 2
 mail:
   - stepan.drtina@pirati.cz
 mob:
