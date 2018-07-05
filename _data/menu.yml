@@ -14,9 +14,9 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Lidé
     match: lide
-  - link: /komunalni-volby/
+  - link: /volby/komunalni/2018/
     name: Komunální volby 2018
     match: komunalni-volby
   - link: /kontakt/
@@ -32,12 +32,12 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Komunální volby
       - link: /aktuality/
         name: Aktuality
+      - link: /lide/
+        name: Lidé
+      - link: /volby/komunalni/2018/
+        name: Komunální volby 2018
   - class: small-12 medium-4
     title: Otevřenost
     links:

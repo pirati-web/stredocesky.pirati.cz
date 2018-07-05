@@ -1,6 +1,6 @@
 ---
 layout: members
-title: O nás
+title: Lidé
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty ve Středočeském kraji.
 keywords: lidé, členové, piráti, pirátky, příznivci, středočeši, středočeský kraj
 viewMode: grouped # or alltogether

@@ -1,2 +1,2 @@
 # stredocesky.pirati.cz
-# stay tuned
+stay tuned...
