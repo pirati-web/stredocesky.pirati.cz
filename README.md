@@ -15,23 +15,29 @@ Více viz https://help.github.com/
 
 ## Start
 
-> mkdir ~/git
-> cd ~/git
-> git clone https://github.com/pirati-web/stredocesky.pirati.cz
-> git config user.name "vas_github_user"
-> git config --global credential.helper cache
-> git config --global credential.helper 'cache --timeout=3600'
+```
+mkdir ~/git
+cd ~/git
+git clone https://github.com/pirati-web/stredocesky.pirati.cz
+git config user.name "vas_github_user"
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+```
 
 ## Zápis změn do lokálního repository a přenos na server
 
-> git status
-> git add -A
-> git commit -a
-> git push
+```
+git status
+git add -A
+git commit -a
+git push
+```
 
 ## Aktualizace lokálního repository
 
 To udělejte vždy, než něco začnete měnit.
 
-> git fetch
+```
+git fetch
+```
 
