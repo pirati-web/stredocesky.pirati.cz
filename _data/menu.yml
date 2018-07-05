@@ -16,6 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
   - link: /volby/komunalni/2018/
     name: Komunální volby 2018
     match: komunalni-volby
@@ -29,6 +32,8 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
+      - link: /mistni-sdruzeni/
+        name: Místní sdružení
   - class: small-12 medium-4
     title: Makáme
     links:

@@ -16,7 +16,3 @@ groups:
     sort: ordKoordinator
 ---
 
-## Místní sdružení Pirátů ve Středočeském kraji
-
-Naše krajské sdružení se skládá celkem z 6 místních sdružení kterými jsou Mladá Boleslav, Kolín, Kladno, Příbram, Brandýs n.L-Stará Boleslav a Benešov.
-
