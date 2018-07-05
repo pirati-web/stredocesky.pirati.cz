@@ -38,7 +38,7 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
 
 homepageBanner:
-  display: true
+  display: false
   link: /volby/komunalni/2018/
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
