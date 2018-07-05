@@ -1,6 +1,6 @@
 # Pirátský web Stredočeského kraje - stredocesky.pirati.cz
 
-* soubory .md jsou v "Markdown" formátu - viz https://en.wikipedia.org/wiki/Markdown
+* soubory .md jsou v "Markdown" formátu - viz https://en.wikipedia.org/wiki/Markdown nebo https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * pokud je to možné, je lepší použít md než html
 * pokud kód nemůžete otestovat na lokále (stažení celého repa, build a spuštění v jekyllu), dělejte jen drobné změny, kterým rozumíte
 * obecně k pirátským šablonám: https://github.com/pirati-web
