@@ -45,7 +45,7 @@ gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
-# jcz1
-#gem 'execjs'
-#gem 'therubyracer', :platforms => :ruby
+# jcz1 - javascript runtime deps
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
 

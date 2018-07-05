@@ -38,13 +38,13 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
 
 homepageBanner:
-  display: false
-  link: /komunalni-volby/
+  display: true
+  link: /volby/komunalni/2018/
   title: Komunální volby 2018
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-      #    default: path/to/img.jpg
-      # mobile: path/to/img.jpg
+      default: header/komunal-banner-large.png
+      mobile: header/komunal-banner-small.png
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
