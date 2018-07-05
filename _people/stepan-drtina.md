@@ -6,8 +6,7 @@ category:
   - koordinator
   - kontaktni_osoba
 description: krajský koordinátor 
-#img: people/ppp.jpg
-img: people/stepan-drtina.jpg # z nejakeho duvodu pada jekyll na vlastni fotce
+img: people/stepan-drtina.jpg
 ordKoordinator: 2
 mail:
   - stepan.drtina@pirati.cz
@@ -20,7 +19,7 @@ profiles:
   linkedin:
 ---
 
-**Štěpán Drtina** (*2. květen 1994) se narodil v Čáslavi, ale celý život žije nedaleko krásného města Kutné Hory. Po absolvování zdejšího Církevního gymnázia odešel studovat geografii do Ústí nad Labem. Studia ale po roce zanechal a vítr ho nakonec zavál na pedagogickou fakultu v Hradci Králové (historie - společenské vědy se zaměřením na vzdělávání), kde také v červnu 2017 získal bc. titul. V současnosti na stejné univerzitě studuje magisterský program Novodobé české a československé dějiny.
+**Štěpán Drtina** (* 2. květen 1994) se narodil v Čáslavi, ale celý život žije nedaleko krásného města Kutné Hory. Po absolvování zdejšího Církevního gymnázia odešel studovat geografii do Ústí nad Labem. Studia ale po roce zanechal a vítr ho nakonec zavál na pedagogickou fakultu v Hradci Králové (historie - společenské vědy se zaměřením na vzdělávání), kde také v červnu 2017 získal bc. titul. V současnosti na stejné univerzitě studuje magisterský program Novodobé české a československé dějiny.
 
 Od března 2018 je členem KS Středočeský kraj, ve kterém také s Filipem Dítětem vykonává pozici Krajského koordinátora. Piráti ho oslovili svým neotřelým a kritickým politickým přístupem a také tím, že jejich proklamované principy aplikují i sami na sebe (což je zářná výjimka).
 
