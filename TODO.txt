@@ -15,4 +15,5 @@
  - kratke URL http://stredocesky.pirati.cz/<jmenoMS>/
 * sjednotit profily lidi - mely by byt "o nem", ne "o mne"
 * lepsi fotky mluvicich hlav :D (prefotit vsechny pred platnem)
+* stredocesky.pirati.cz/kutnahora presmerovavat na pirati-kutnahora.cz
 
