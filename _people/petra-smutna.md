@@ -18,7 +18,7 @@ profiles:
   linkedin:
 ---
 
-**Bc. Petra Smutná** (* 1977) je místopředsedkyní Krajského sdružení Středočeského kraje, členkou Republikového výboru a členkou Mediálního týmu.
+**Petra Smutná** (* 1977) je místopředsedkyní Krajského sdružení Středočeského kraje, členkou Republikového výboru a členkou Mediálního týmu.
 
 Narodila se v Mladé Boleslavi, kde trvale žije. V r. 2002 získala bakalářský titul v oboru Podniková ekonomika na Fakultě Sociálně Ekonomické Univerzity J. E. Purkyně v Ústí nad Labem. Již při studiích pracovala na hlavní zaměstnanecký poměr, a to v oblasti bankovnictví - pojišťovnictví, kde během čtrnácti let postupně získala obchodní a manažerské zkušenosti. Nyní svoji energii věnuje především České pirátské straně.
 

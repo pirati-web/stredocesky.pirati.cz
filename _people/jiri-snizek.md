@@ -18,7 +18,7 @@ profiles:
   linkedin:
 ---
 
-**Ing. Jiří Snížek** (* 13. července 1989) je od 3. dubna 2018 čtvrtým místopředsedou krajského sdružení Středočeský kraj v České pirátské straně. Narodil se v Kolíně. Žil v Záboří nad Labem a v Praze. Od roku 2015 žije v Kolíně. V letošních volbách do zastupitelstva města Kolína kandiduje na druhém místě pirátské kandidátní listiny.
+**Jiří Snížek** (* 13. července 1989) je od 3. dubna 2018 čtvrtým místopředsedou krajského sdružení Středočeský kraj v České pirátské straně. Narodil se v Kolíně. Žil v Záboří nad Labem a v Praze. Od roku 2015 žije v Kolíně. V letošních volbách do zastupitelstva města Kolína kandiduje na druhém místě pirátské kandidátní listiny.
 
 Chodil na základní školy v Záboří nad Labem a v Týnci nad Labem, dále pak na Gymnázium Jiřího Ortena v Kutné Hoře. Vystudoval obor Elektronika a sdělovací technika v rámci studijního programu Elektronika a informatika na Elektrotechnické fakultě ČVUT v Praze (Bc.). Napsal bakalářskou práci na téma Digitální výhybky v akustickém pásmu (Digital crossovers in acoustic range). Dále vystudoval program Inteligentní budovy, který zajišťují fakulty elektrotechnická, stavební a strojní ČVUT (Ing. - magisterskou práci vypracoval na téma Návrh realizace a řízení klimatu v bytě - Design and Control of the Clima System in the Flat).
 
