@@ -1,17 +1,16 @@
+* vymenit obrazek pro tiskovku - leaders
 * krajsky kalendar - viz https://www.pirati.cz/pripoj-se/strednicechy/
  (hezka integrace na https://pardubice.pirati.cz/)
-* franta kopriva
-* dalsi lide z https://wiki.pirati.cz/regiony/strednicechy/start
-* fotky lidi z wiki https://wiki.pirati.cz/lide/... nebo jejich soukr webu
-* strana kontakty
 * socialni site
  - facebook sck api key
  - dalsi site globalni?
 * presmerovani stranek
  - https://www.pirati.cz/pripoj-se/strednicechy/
  - http://strednicechy.pirati.cz/
-* MS: https://stredocesky.pirati.cz/xx xx=mladaboleslav/kolin/kutnahora
-* MS: brandys a mb stranky maji, staci presmerovat
+* stranky MS
+ - https://stredocesky.pirati.cz/xx xx=mladaboleslav/kolin/kutnahora
+ - brandys a mb stranky maji, staci presmerovat
+ - nejake linky jsou na https://wiki.pirati.cz/regiony/strednicechy/start
 * sjednotit profily lidi - mely by byt "o nem", ne "o mne"
 * lepsi fotky mluvicich hlav :D (prefotit vsechny pred platnem)
 
