@@ -13,6 +13,7 @@ Vystačíte si s jakýmkoliv editorem a "git" klientem (balík by se měl jmenov
 
 Více viz https://help.github.com/
 
+
 ## Start
 
 ```
