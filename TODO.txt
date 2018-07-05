@@ -2,12 +2,8 @@
 * zpropagovat a dat ke stazeni piratske listy
 * dodelat komunalky az budou podklady
 * hezci integrace kalendare viz https://pardubice.pirati.cz/
-* socialni site
- - facebook sck api key
- - dalsi site globalni?
 * presmerovani stranek
  - https://www.pirati.cz/pripoj-se/strednicechy/
- - http://strednicechy.pirati.cz/
 * stranky MS podle https://olomoucky.pirati.cz/mistni-sdruzeni/
  - /mladaboleslav/ /kolin/ /kutnahora/
  - brandys a mb stranky maji, staci presmerovat
