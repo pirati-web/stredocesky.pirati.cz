@@ -4,7 +4,7 @@ name:     Petra Smutná  	# běžně používáné jméno
 fullname: Bc. Petra Smutná  	# jméno s tituly etc.
 category:
   - pks
-description: 1. místopředseda kraje
+description: 1. místopředsedkyně kraje
 img: people/petra-smutna.jpg
 ordPKS: 2
 mail:
