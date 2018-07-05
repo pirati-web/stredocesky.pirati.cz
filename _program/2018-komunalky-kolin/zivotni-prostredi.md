@@ -1,8 +1,8 @@
 ---
 title: Životní prostředí
 uid: zivotni-prostredi
-campaignCategoryUid: 2018-komunal-kolin
-campaignGroupUid: volby-2018
+campaignCategoryUid: 2018-komunalky-kolin
+campaignGroupUid: 2018-komunalky
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41532
 garant: jakub.pirat
 perex: Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme bojovat proti přehřívání města, znečisťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti.

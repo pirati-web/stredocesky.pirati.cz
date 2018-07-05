@@ -1,6 +1,6 @@
 ---
-title: Kandidátka na radnici
-uid: radnice
+title: Kandidátka pro Kolín
+uid: 2018-komunalky-kolin
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: prvni.leader
