@@ -1,9 +1,9 @@
 ---
-layout: communal-elections
-title: Komunální volby v Praze
-campaignCategoryUid: strednicechy2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+layout: default
+title: Komunální volby ve Středočeském kraji
 ---
+
+# Komunální volby 2018
 
 Úvodní text. Např vysvětlení koalice, podpory.
 

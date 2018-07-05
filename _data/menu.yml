@@ -17,17 +17,17 @@ main:
     name: O nás
     match: lide
   - link: /komunalni-volby/
-    name: Komunální volby
+    name: Komunální volby 2018
     match: komunalni-volby
   - link: /kontakt/
-    name: Kontakt
+    name: Kontakty
     match: kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /pripoj-se/
+      - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
     title: Makáme
@@ -35,7 +35,7 @@ bottom:
       - link: /lide/
         name: Lidé
       - link: /komunalni-volby/
-        name: Volby
+        name: Komunální volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

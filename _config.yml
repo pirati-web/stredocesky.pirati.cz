@@ -33,7 +33,7 @@ organization:
   address: |
     Řehořova 943/19
     130 00 Praha 3
-  residenceImg:
+  residenceImg: pice-mapa.jpg
   mapLink: https://mapy.cz/zakladni?x=14.4422137&y=50.0863569&z=17&source=firm&id=2490703
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
 
@@ -50,9 +50,13 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  #title: Celostátní kalendář
+  #id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+  title: Kalendář Středočeského kraje
+  id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
@@ -94,6 +98,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - TODO.txt
+
 
 permalink: /aktuality/:title.html
 collections:
