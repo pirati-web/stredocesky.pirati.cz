@@ -1,4 +1,5 @@
 * vymenit obrazek pro tiskovku - leaders
+* zpropagovat a dat ke stazeni piratske listy
 * dodelat komunalky az budou podklady
 * hezci integrace kalendare viz https://pardubice.pirati.cz/
 * socialni site
