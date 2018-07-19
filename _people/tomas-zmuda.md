@@ -1,14 +1,14 @@
 ---
-uid:      tomas.zmunda
-name:     Tomáš Zmunda  	# běžně používáné jméno
-fullname: Ing. Tomáš Zmunda  	# jméno s tituly etc.
+uid:      tomas.zmuda
+name:     Tomáš Zmuda  	# běžně používáné jméno
+fullname: Ing. Tomáš Zmuda  	# jméno s tituly etc.
 category:
   - pks
 description: 3. místopředseda kraje
-img: people/tomas-zmunda.jpg
+img: people/tomas-zmuda.jpg
 ordPKS: 4
 mail:
-  - tomas.zmunda@pirati.cz
+  - tomas.zmuda@pirati.cz
 mob:
 #  - +420 
 profiles:
