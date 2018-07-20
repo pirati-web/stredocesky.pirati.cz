@@ -12,7 +12,7 @@ leader:
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: jiri.snizek
     profession: knihovník
-    description: expert na skoky
+    description: školitel programového vybavení pro veřejnou správu
     party: bez politické příslušnosti
   - uid: jakub.pirat
     profession: knihovník
