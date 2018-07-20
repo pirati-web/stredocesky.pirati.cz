@@ -10,7 +10,7 @@ leader:
   description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: mistni.predseda
+  - uid: jiri.snizek
     profession: knihovník
     description: expert na skoky
     party: bez politické příslušnosti
