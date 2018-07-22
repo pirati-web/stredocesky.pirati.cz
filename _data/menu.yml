@@ -1,4 +1,7 @@
 top:
+  - link: "STŘEDOČESKÝ PIRÁTI"
+    url:  "https://stredocesky.pirati.cz"
+    icon: "fa fa-home"
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
