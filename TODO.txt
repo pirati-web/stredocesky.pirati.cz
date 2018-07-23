@@ -1,4 +1,4 @@
-* kontrola v jinych prohlizecich / OS (MSIE)
+* kontrola v jinych prohlizecich / OS (MSIE, Android, ...)
 * vymenit obrazek pro tiskovku - leaders
 * zpropagovat a dat ke stazeni piratske listy
 * dodelat komunalky az budou podklady
@@ -6,6 +6,7 @@
 * presmerovani stranek
  - https://www.pirati.cz/pripoj-se/strednicechy/
 * stranky MS podle https://olomoucky.pirati.cz/mistni-sdruzeni/
+ - zkontrolovat sirku stranky
  - /mladaboleslav/ /kolin/ /kutnahora/
  - brandys a mb stranky maji, staci presmerovat
  - /kutnahora presmerovavat na pirati-kutnahora.cz
@@ -13,4 +14,5 @@
  - kratke URL http://stredocesky.pirati.cz/<jmenoMS>/
 * sjednotit profily lidi - mely by byt "o nem", ne "o mne"
 * lepsi fotky mluvicich hlav :D (prefotit vsechny pred platnem)
+* oprava profilu na centr webu, napr.: https://www.pirati.cz/lide/dominika-michailidu/
 
