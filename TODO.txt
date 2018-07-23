@@ -1,3 +1,4 @@
+* stredoceske logo a banner
 * kontrola v jinych prohlizecich / OS (MSIE, Android, ...)
 * vymenit obrazek pro tiskovku - leaders
 * zpropagovat a dat ke stazeni piratske listy
