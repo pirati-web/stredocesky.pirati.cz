@@ -3,6 +3,7 @@
 * vymenit obrazek pro tiskovku - leaders
 * zpropagovat a dat ke stazeni piratske listy
 * dodelat komunalky az budou podklady
+* zmizet nebo opravit link na "Navrhni upravu" vpravo dole
 * hezci integrace kalendare viz https://pardubice.pirati.cz/
 * presmerovani stranek
  - https://www.pirati.cz/pripoj-se/strednicechy/
