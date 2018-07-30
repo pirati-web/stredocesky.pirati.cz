@@ -13,7 +13,7 @@ image: posts/2-panelak.jpg
 
 Jaký je praktický důsledek výše popsané situace? Pokud jste si někdy položili otázku, proč je z Benešova do Hradce Králové, nebo z Mělníka do Berouna rychlejší a jednodušší jet přes Prahu, jste ve stejné situaci jako statisíce řidičů, kteří každé pondělí končí v zácpě na nedokončených okruzích. Jak je vidět z grafu níže, pro Středočeský kraj byla doprava naposledy prioritou v krizových letech 2007 – 2009, kdy lidé vyvíjeli tlak na zastupitele kvůli hledání pracovních příležitostí. Od té doby si přestali zoufat – a koupili si raději auto.
 
-<img src="/assets/img/posts/2-graf.jpg" alt="graf" />
+{% asset 'posts/2-graf.jpg' alt='Graf' %}
 
 Samosprávy všech krajů sice radostně vítají investory, kterým stát tak rád odpouští daně, zato v podpoře jejich zaměstnanců – vlastních občanů – je výrazně lenivější. Pokud velcí hráči jako Amazon, Komerční Park Čestlice, Škoda Auto Mladá Boleslav nebo nyní Daimler u Kralup nad Vltavou touží po kvalitních zaměstnancích, jsou nuceni „luxovat“ široké okolí a organizovat vlastní svoz. Zpětně tak vytvářejí podmínky pro vznik nocleháren, v které se proměňují města jako Kladno nebo Benešov. A úspěšní zaměstnanci mohou přesídlit do satelitního městečka s celoživotním břemenem hypotéky... přijde vám to jako udržitelný scénář pro plánování infrastruktury?
 
@@ -21,7 +21,7 @@ Na prvním místě by měl být vždy zájem cestujícího – zákazníka, kter
 
 Tady pokládám své peníze na stůl a ptám se: proč máme stále na výběr jen mezi extrémy? Splašený taxametr, nebo čekání na modrého Godota, který v naší obci staví jen v první úterý přestupného února? Častým protiargumentem je: „Nezaplatili bychom řidiče; náklady na pořízení i provozování mikrobusů a klasických autobusů jsou podobné“. Každý si dnes může s pomocí internetu a hokynářských počtů ověřit nesmyslnost podobného tvrzení. Je to model výhodný pro velké společnosti, které  – podobně jako velcí zemědělci – jednou rukou „sklízejí“ dotace určené na rozvoj regionů a druhou řídí jen ty ziskové projekty; v zahraničí je na to hezký termín cherry picking, lízání smetany. 
 
-<img src="/assets/img/posts/2-mesto.jpg" alt="město" />
+{% asset 'posts/2-mesto.jpg' alt='Město' %}
 
 Při čekání na autonomní a sdílená vozidla, která (ke škodě profesionálních řidičů a kultury kolektivního cestování) otázku veřejné dopravy nejspíš vyřeší jednou provždy, bychom se měli v pátrání po ideální veřejné dopravě podívat především tam, kde už nehospodárná veřejná doprava selhala, nebo se formovala živelně a organicky. Než nás životní úrovní předežene Asie, Afrika, Mexiko nebo země bývalého Sovětského svazu, je na čase osvěžit si pojem maršrutka<sup>3</sup>. 
 
