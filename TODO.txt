@@ -1,4 +1,6 @@
 * stredoceske logo a banner
+* zjistit a zmenit Facebook appId
+  (aktualni link vede spravne, ale ukazuje Česká pirátská strana - Praha)
 * kontrola v jinych prohlizecich / OS (MSIE, Android, ...)
 * vymenit obrazek pro tiskovku - leaders
 * zpropagovat a dat ke stazeni piratske listy
