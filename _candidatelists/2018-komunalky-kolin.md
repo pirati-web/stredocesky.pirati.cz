@@ -3,35 +3,172 @@ title: Kandidátka pro Kolín
 uid: 2018-komunalky-kolin
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: prvni.leader
+  name: Ing. arch. Vojtěch Ertl
   age: 31
-  profession: knihovník
-  party: Piráti
+  profession: architekt
+  party: člen Pirátské strany
   description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
+# 2.
   - uid: jiri.snizek
-    profession: knihovník
+    profession: školitel
     description: školitel programového vybavení pro veřejnou správu
+    party: člen Pirátské strany
+# 3.
+  - name: Martin Polák
+    age: 33
+    profession: polygraf
+    party: člen Pirátské strany
+    description:
+# 4.
+  - name: Jiří Chládek
+    age: 19
+    profession: student
+    party: člen Pirátské strany
+    description:
+# 5.
+  - name: Bc. Martin Kokeš
+    age: 30
+    profession: učitel
     party: bez politické příslušnosti
-  - uid: jakub.pirat
-    profession: knihovník
-  - uid: aktivni.priznivec
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
-    party: Evropani.cz
+    description:
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
+# 6.
+  - name: Mgr. Cyril Koky, MPA
     age: 49
-    profession: obvodní lékař
+    profession: zaměstnanec krajského úřadu Středočeského kraje
     party: bez politické příslušnosti
-  - name: Tomáš Šťoural
-    age: 19
+    description:
+# 7.
+  - name: Bc. Matěj Forst
+    age: 31
+    profession: archeolog
+    party: bez politické příslušnosti
+    description:
+# 8.
+  - name: Mgr. Jiří Buček
+    age: 30
+    profession: finanční manažer
+    party: bez politické příslušnosti
+    description:
+# 9.
+  - name: Jaroslav Pros
+    age: 31
+    profession: systémový specialista
+    party: bez politické příslušnosti
+    description:
+# 10.
+  - name: Cyril Koky
+    age: 25
+    profession: systémový specialista
+    party: bez politické příslušnosti
+    description:
+# 11.
+  - name: Bc. Ondřej Stříbrný
+    age: 36
+    profession: vlakvedoucí
+    party: bez politické příslušnosti
+    description:
+# 12.
+  - name: Matěj Janata
+    age: 27
+    profession: vlakvedoucí
+    party: bez politické příslušnosti
+    description:
+# 13.
+  - name: David Louman
+    age: 27
+    profession: vlakvedoucí
+    party: bez politické příslušnosti
+    description:
+# 14.
+  - name: Mgr. Michala Forstová
+    age: 29
+    profession: průvodce v LMŠ
+    party: bez politické příslušnosti
+    description:
+# 15.
+  - name: Ing. Svatopluk Boček
+    age: 39
+    profession: manažer
+    party: bez politické příslušnosti
+    description:
+# 16.
+  - name: Ing. Miroslav František Neřold
+    age: 55
+    profession: datový specialista
+    party: bez politické příslušnosti
+    description:
+# 17.
+  - name: Naděžda Poláková
+    age: 43
+    profession: mateřská dovolená
+    party: bez politické příslušnosti
+    description:
+# 18.
+  - name: Bc. Monika Váňová
+    age: 28
+    profession: učitelka v lesní MŠ
+    party: bez politické příslušnosti
+    description:
+# 19.
+  - name: Stanislav Dolejší
+    age: 29
+    profession: IT technik
+    party: bez politické příslušnosti
+    description:
+# 20.
+  - name: Zuzana Horná
+    age: 27
+    profession: nákupčí
+    party: bez politické příslušnosti
+    description:
+# 21.
+  - name: Bc. Magdaléna Kateřina Lokajová
+    age: 26
+    profession: asistentka pedagoga
+    party: bez politické příslušnosti
+    description:
+# 22.
+  - name: Lukáš Maděryč
+    age: 25
+    profession: archeolog
+    party: bez politické příslušnosti
+    description:
+# 23.
+  - name: Mgr. Kristýna Holubová
+    age: 28
+    profession: referent
+    party: bez politické příslušnosti
+    description:
+# 24.
+  - name: Jana Poláková
+    age: 56
+    profession: dělnice
+    party: bez politické příslušnosti
+    description:
+# 25.
+  - name: Jiří Kruliš
+    age: 34
+    profession: výškové práce
+    party: bez politické příslušnosti
+    description:
+# 26.
+  - name: Bc. Aneta Krutská
+    age: 25
     profession: student
-    party: Piráti
+    party: bez politické příslušnosti
+    description:
+# 27.
+  - name: David Čech
+    age: 39
+    profession: sanitář
+    party: bez politické příslušnosti
+    description:
+
 note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+
 ---
