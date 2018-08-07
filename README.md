@@ -7,6 +7,13 @@
 * další repository pro inspiraci: https://github.com/pirati-web
 * technická diskuze (nejen) k webu viz https://chat.pirati.cz/channel/stredocesi
 
+# Jednoduchá editace souborů přímo na githubu
+
+Pro editaci stačí mít github účet, nejsou potřeba žádná speciální práva. Postup je následující:
+
+1. ...
+2. ...
+
 # Pro linuxáky
 
 Vystačíte si s jakýmkoliv editorem a "git" klientem (balík by se měl jmenovat stejně). Pár tipů pro command line git klienta viz níže - i tak byste ale měli vědět, co v každém kroku děláte!
