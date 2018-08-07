@@ -25,6 +25,7 @@ PKS
 * presmerovat https://www.pirati.cz/pripoj-se/strednicechy/
 * rozhodnout co s obsahem na wiki (nejaky archiv/history)?
   https://wiki.pirati.cz/regiony/strednicechy/start
+* zalozit stredocesi@pirati.cz a presmerovat na kontaktni osoby nebo PKS + upravit kontakty na webu
 
 RESI jcz1
 * sjednotit profily lidi - mely by byt "o nem", ne "o mne"
