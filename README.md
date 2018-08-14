@@ -13,7 +13,11 @@
 * datum (pokud nemá být aktuální)
 * titulní fotografii (zobrazuje se v seznamu článků a také v samotném článku nahoře - bez dalšího popisu)
 * tagy
-* text co nejméně formátovaný + případně další fotografie
+* první část textu vhodnou pro automaticky generovaný perex
+* text co nejméně formátovaný, bez obtékání obrázků
+* možné doplnit více obrázky
+* citace v samostatném odstavci s uvozovkama + uvozením autora (před nebo poté)
+* dlouhé URL odkazy v seznamu dalších zdrojů je třeba opatřit jednoznačným jménem/popisem (např. iDnes: K Jirkovi se vrátit nechci, říká Andrea Pomeje)
 
 # Co má nebo musí mít osobní profilová stránka
 
