@@ -31,7 +31,8 @@ Co s vybranými penězi chceme následně udělat? Vrátit je zpátky do infrast
 
 {% asset 'posts/3-heslo.jpg' alt='Pirátské heslo' %}
 
-Citace závěrem (SPEL): *“Dobře provedený Smart parking systém může nejen zvýšit spokojenost rezidentů i návštěvníků města, ale může být pro město i velmi dobrou investicí. Nezanedbatelný je i pozitivní vliv na životní prostředí a bezpečnost silničního provozu. Urychlení nalezení volného parkovacího místa snižuje emisní zátěž – informace o stavu obsazenosti parkoviště je řidiči sdělováno dynamickými LED informačními tabulemi a má ji k dispozici na webovém portálu. Navíc, řidič hledající volné místo pro parkování nevěnuje pozornost okolnímu provozu a zvyšuje nebezpečí nehody.”*
+Citace závěrem (SPEL):
+> „Dobře provedený Smart parking systém může nejen zvýšit spokojenost rezidentů i návštěvníků města, ale může být pro město i velmi dobrou investicí. Nezanedbatelný je i pozitivní vliv na životní prostředí a bezpečnost silničního provozu. Urychlení nalezení volného parkovacího místa snižuje emisní zátěž – informace o stavu obsazenosti parkoviště je řidiči sdělováno dynamickými LED informačními tabulemi a má ji k dispozici na webovém portálu. Navíc, řidič hledající volné místo pro parkování nevěnuje pozornost okolnímu provozu a zvyšuje nebezpečí nehody."
 
 Vybrané společnosti poskytující řešení parkování ve městech:
 
