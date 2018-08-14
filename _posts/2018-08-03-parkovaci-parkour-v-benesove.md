@@ -8,7 +8,7 @@ layout: post
 title: Parkovací parkour v Benešově
 author: Jan Lička
 authorId: jan.licka    # uid nekoho z _people (nepoviné)
-image: posts/3-mapa.jpg
+image: posts/2018/parkour-mapa.jpg
 ---
 
 Tento rozbor bych rád uvedl osobní zkušeností. Už z dětství na sídlišti v Kralupech si pamatuji na “strkačku”: každovečerní rituál parkování aut, kdy později příchozí stáli v dalších řadách a s nezataženou ruční brzdou umožnili ranním ptáčatům, aby mohla svoje vozidlo vysvobodit pomocí postrkování těch napříč stojících. Postupně se objevovala modrá V.I.Péčka, rezervační zátarasy z krabic i falešné průkazy invalidů… je smutné, že když se podíváme na dnešní sídliště v České republice, příliš daleko jsme se za těch třicet let nedostrkali.
@@ -17,7 +17,7 @@ V Benešově samotném jsem nejednou potkal řidiče, kteří ostražitě vyčk�
 
 Prvním krokem je sjednotit a zpřehlednit způsob parkování – tak, aby existovala jasná pravidla srozumitelná všem, včetně návštěvníků města. Tak, aby lidé věděli, za co platí a dostali za své peníze adekvátní protihodnotu. Co tedy jako Piráti navrhujeme?
 
-{% asset 'posts/3-mapa.jpg' alt='Katastální mapa' %}
+{% asset 'posts/2018/parkour-mapa.jpg' alt='Katastální mapa' %}
 
 *Rozdělení ploch z pohledu katastrální mapy, modře v majetku města. Stejně jako v případě Táborských kasáren se čeká na koncepční řešení tohoto obrovského prostoru. Nebylo by nakonec lepší oněch odhadovaných 100 milionů na zvýšení prestiže Masarykova náměstí investovat do proměny místa, které de facto už roky jako náměstí slouží, ale svoji podobu stále hledá? Mapa vznikla na základě veřejných údajů z katastru.*
 
@@ -29,7 +29,7 @@ Abychom mohli městské policii uvolnit ruce na důležitější úkoly než je 
 
 Co s vybranými penězi chceme následně udělat? Vrátit je zpátky do infrastruktury! Díky nim budeme moci například dokončit cyklostezky, rekonstruovat povrch zmíněných centrálních parkovišť a začít uvažovat o jejich zkapacitnění – bez toho, abychom museli zatěžovat obecní kasu dalšími půjčkami. Jakmile si lidé zažijí standardizované schéma parkování, můžeme jej začít rozšiřovat o další služby; noční ostrahu, myčku nebo občerstvení. Dopravcům-živnostníkům pak dáme prostor pro drobné podnikání rozvozem mikrobusy do okolních obcí ve špičkových časech – tak, abyste ve výsledku své vlastní auto potřebovali už jen na výlety.
 
-{% asset 'posts/3-heslo.jpg' alt='Pirátské heslo' %}
+{% asset 'posts/2018/parkour-heslo.jpg' alt='Pirátské heslo' %}
 
 Citace závěrem (SPEL):
 > „Dobře provedený Smart parking systém může nejen zvýšit spokojenost rezidentů i návštěvníků města, ale může být pro město i velmi dobrou investicí. Nezanedbatelný je i pozitivní vliv na životní prostředí a bezpečnost silničního provozu. Urychlení nalezení volného parkovacího místa snižuje emisní zátěž – informace o stavu obsazenosti parkoviště je řidiči sdělováno dynamickými LED informačními tabulemi a má ji k dispozici na webovém portálu. Navíc, řidič hledající volné místo pro parkování nevěnuje pozornost okolnímu provozu a zvyšuje nebezpečí nehody."

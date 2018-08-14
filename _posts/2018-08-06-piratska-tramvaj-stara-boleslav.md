@@ -8,7 +8,7 @@ layout: post
 title: V centru Staré Boleslavi zaparkovala pirátská tramvaj
 author: Jakub Dušánek
 #authorId: jan.licka    # uid nekoho z _people (nepoviné)
-image: posts/4-tramvaj-boleslav.jpg
+image: posts/2018/boleslav-tramvaj.jpg
 ---
 
 Praha, 6. srpna 2018 – Klasický tramvajový vůz typu T3 umístili Piráti do proluky u Mariánského náměstí ve Staré Boleslavi. Akcí upozorňují na nedostatečnou dopravní obslužnost, která dlouhodobě město trápí. A zároveň představují plán na vybudování vlakotramvajové linky Praha – Brandýs nad Labem-Stará Boleslav. 
