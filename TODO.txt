@@ -18,8 +18,7 @@ PKS
 * lepsi fotky mluvicich hlav do profilu
 * oprava osobnich profilu na centralnim webu, napr.: https://www.pirati.cz/lide/dominika-michailidu/
   - presmerovani na stredoceske profily?
-* zjistit/zaregistrovat Facebook appId
-  (aktualni link na webu vede spravne, ale ukazuje Česká pirátská strana - Praha - appId je z Prahy)
+* zjistit/zaregistrovat Facebook appId pro lepsi integraci (viz _config.yml)
 * zpropagovat a dat ke stazeni piratske listy(?)
 * podklady pro komunalky
 * presmerovat https://www.pirati.cz/pripoj-se/strednicechy/

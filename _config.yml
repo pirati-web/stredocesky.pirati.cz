@@ -61,7 +61,7 @@ calendar:
 facebook:
   loadSDK: true
   profilePage: https://www.facebook.com/pirati.stc
-  appId: 1526197851008996
+  #  appId: 1526197851008996
 
 twitter:
   loadSDK: true
