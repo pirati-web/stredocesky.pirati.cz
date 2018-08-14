@@ -4,13 +4,14 @@ PRACE PRO DOBROVOLNIKY
   https://stredocesky.pirati.cz/assets/img/brand/logo_napis.svg
 * vyrobit banner na homepage
 * stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
- - podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
+  nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
+ - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
  - pro kazde MS je potreba dat dohromady:
+   * fotku hlavniho mesta
    * seznam obci, ktere sdruzuje nebo popis uzemi
    * odkaz na sekci piratskeho fora
    * facebook, ...?
-   * predseda + kontaktni osoba + pripadne dalsi osoby
-     - jmeno, fotka, popis, kontakt (e-mail, pripadne telefon), info do profilu
+   * predseda - jmeno, fotka, popis, kontakt (e-mail, pripadne telefon), info do profilu
  - ruzne (ne)aktualni informace jsou na https://wiki.pirati.cz/regiony/strednicechy/start
 * kontrola webu v jinych prohlizecich / OS (MSIE, Android, ...)
 
@@ -21,11 +22,14 @@ PKS
 * zjistit/zaregistrovat Facebook appId pro lepsi integraci (viz _config.yml)
 * zpropagovat a dat ke stazeni piratske listy(?)
 * podklady pro komunalky
+* profil Petr Chalus - https://stredocesky.pirati.cz/lide/petr-chalus/
 * presmerovat https://www.pirati.cz/pripoj-se/strednicechy/
 * rozhodnout co s obsahem na wiki (nejaky archiv/history)?
   https://wiki.pirati.cz/regiony/strednicechy/start
 * zalozit stredocesi@pirati.cz a presmerovat na kontaktni osoby nebo PKS + upravit kontakty na webu
 
 RESI jcz1
-* kontrola sirky stranky MS
+* mistni-sdruzeni az budou podklady (mula je v mistni-sdruzeni/new)
+* senatni volby do menu - az bude profil Petra Chaluse
+  https://stredocesky.pirati.cz/volby/senat/2018/
 

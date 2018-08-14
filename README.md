@@ -2,7 +2,7 @@
 
 * pokud je to možné, je lepší použít Markdown (.md) formát než html
 * pokud kód nemůžete otestovat na lokále (stažení celého repa, build a spuštění v jekyllu), dělejte jen drobné změny, kterým rozumíte
-* obecně k pirátským šablonám: https://github.com/pirati-web
+* obecně k pirátským šablonám: https://github.com/pirati-web/example.pirati.cz
 * další repository pro inspiraci: https://github.com/pirati-web
 * technická diskuze (nejen) k webu viz https://chat.pirati.cz/channel/stredocesi
 
