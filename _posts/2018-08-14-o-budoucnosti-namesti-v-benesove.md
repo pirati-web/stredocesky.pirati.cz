@@ -14,9 +14,9 @@ Rád bych dnešní článek věnoval zamyšlení o roli Masarykova náměstí a 
 
 Před samotným rozborem situace uvádím shrnutí stávajícího stavu věcí skrze doslovnou citaci z článku iMateriály (Business Media):
 
-> „V příštích dvou letech by měly přijít na řadu projekční práce a teprve poté stavební úpravy, které si podle odhadu radnice vyžádají 70 až 100 milionů korun. Pokud by se objevily nečekané problémy například ve starých sklepeních, mohla by být konečná cena ještě vyšší. Steinbachová novinářům řekla, že při práci na návrhu vycházeli z dobových fotografií, když hlavní náměstí sloužilo jako místo pro setkávání, obchod a kulturní aktivity. [...] Žádný strom by neměl být pokácen, pouze část má být přesazena. Přibudou mimo jiné lavice a stolky, na nichž bude možné hrát šachy a deskové hry."
-
-Soutěž na úpravy Masarykova a Malého náměstí byla vyhlášena letos v únoru. Zapojilo se do ní 14 týmů z ČR, Slovenska, ale například i z Německa. Celkem 56 architektů, urbanistů, inženýrů a dalších profesionálů odvedlo více než 21 000 hodin práce. Městský architekt Michal Schwarz připomněl, že současná podoba náměstí je z poloviny 90. let minulého století, kdy byla oblíbená betonová zámková dlažba. Tento materiál ale není z hlediska kvality i trvanlivosti vyhovující.
+> „V příštích dvou letech by měly přijít na řadu projekční práce a teprve poté stavební úpravy, které si podle odhadu radnice vyžádají 70 až 100 milionů korun. Pokud by se objevily nečekané problémy například ve starých sklepeních, mohla by být konečná cena ještě vyšší. Steinbachová novinářům řekla, že při práci na návrhu vycházeli z dobových fotografií, když hlavní náměstí sloužilo jako místo pro setkávání, obchod a kulturní aktivity. [...] Žádný strom by neměl být pokácen, pouze část má být přesazena. Přibudou mimo jiné lavice a stolky, na nichž bude možné hrát šachy a deskové hry.
+>
+> Soutěž na úpravy Masarykova a Malého náměstí byla vyhlášena letos v únoru. Zapojilo se do ní 14 týmů z ČR, Slovenska, ale například i z Německa. Celkem 56 architektů, urbanistů, inženýrů a dalších profesionálů odvedlo více než 21 000 hodin práce. Městský architekt Michal Schwarz připomněl, že současná podoba náměstí je z poloviny 90. let minulého století, kdy byla oblíbená betonová zámková dlažba. Tento materiál ale není z hlediska kvality i trvanlivosti vyhovující."
 
 {% asset 'posts/2018/benesov-namesti2.jpg' alt='Návrh nového náměstí' %}
 Nové náměstí; Marcela Steinbachová a Vít Holý, ateliér Skupina
