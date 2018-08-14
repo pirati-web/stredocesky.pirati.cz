@@ -2,7 +2,7 @@
 date: 2018-07-29
 category: blog
 tags:
- - hromadná doprava
+ - hromadná_doprava
 layout: post
 title: Kaštani na mastné tyči - Strasti hromadného cestujícího
 author: Jan Lička
