@@ -28,9 +28,8 @@ PKS
 * zalozit stredocesi@pirati.cz a presmerovat na kontaktni osoby nebo PKS + upravit kontakty na webu
 
 RESI jcz1
-* sjednotit profily lidi - mely by byt "o nem", ne "o mne"
 * zmizet nebo opravit link na "Navrhni upravu" vpravo dole
 * hezci integrace kalendare viz https://pardubice.pirati.cz/ ?
 * kontrola sirky stranky MS
-* popis toho, co ma mit clanek
+* orezat fotky do ctverce
 
