@@ -32,6 +32,7 @@
 * seznam nečíslovaný
 1. seznam číslovaný
 [odkaz](http://www.pirati.cz)
+obrazek: {% asset 'posts/clanek-jmeno_souboru.jpg' alt='Popis obrázku' %}
 ```
 
 Jak správně citovat:
