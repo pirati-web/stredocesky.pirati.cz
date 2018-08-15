@@ -5,7 +5,7 @@ fullname: Martin Polák  	# jméno s tituly etc.
 category:
   - kandidat-do-zastupitelstva
 description: předseda MS Kolín
-img: people/martin-kokes.jpg
+img: people/martin-polak.jpg
 mail:
   - martin.polak@pirati.cz
 mob:
