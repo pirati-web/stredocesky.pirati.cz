@@ -3,11 +3,11 @@ title: Kandidátka pro Kolín
 uid: 2018-komunalky-kolin
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  name: Ing. arch. Vojtěch Ertl
+  uid: vojtech.ertl
   age: 31
   profession: architekt
   party: člen Pirátské strany
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  description: lídr kolínské kandidátky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
 # 2.
