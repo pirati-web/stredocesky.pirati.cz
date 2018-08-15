@@ -16,17 +16,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     description: školitel programového vybavení pro veřejnou správu
 # 3.
-  - name: Martin Polák
+  - uid: martin.polak
     age: 33
     profession: polygraf
     party: člen Pirátské strany
-    description:
+    description: předseda místního sdružení
 # 4.
-  - name: Jiří Chládek
+  - uid: jiri.chladek
     age: 19
     profession: student
     party: člen Pirátské strany
-    description:
+    description: 2. místopředseda místního sdružení
 # 5.
   - uid: martin.kokes
     age: 30
