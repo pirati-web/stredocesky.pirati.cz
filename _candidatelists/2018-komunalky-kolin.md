@@ -13,8 +13,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 # 2.
   - uid: jiri.snizek
     profession: školitel
-    description: školitel programového vybavení pro veřejnou správu
     party: člen Pirátské strany
+    description: školitel programového vybavení pro veřejnou správu
 # 3.
   - name: Martin Polák
     age: 33
@@ -28,9 +28,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: člen Pirátské strany
     description:
 # 5.
-  - name: Bc. Martin Kokeš
+  - uid: martin.kokes
     age: 30
-    profession: učitel
+    profession: učitel a programátor
     party: bez politické příslušnosti
     description:
 tail: # zbytek kandidatky
