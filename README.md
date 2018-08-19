@@ -19,6 +19,8 @@
 * citace v samostatném odstavci s uvozovkama + uvozením autora (před nebo poté)
 * dlouhé URL odkazy v seznamu dalších zdrojů je třeba opatřit jednoznačným jménem/popisem (např. iDnes: K Jirkovi se vrátit nechci, říká Andrea Pomeje)
 
+Všechny články jdou přes Jirku Snížka, který ve spolupráci s PKD a mediálním odborem kraje posuzuje, zda patří na krajský web.
+
 # Co má nebo musí mít osobní profilová stránka
 
 * jméno a příjmení, tituly
@@ -54,6 +56,8 @@ Pro editaci stačí mít github účet, nejsou potřeba žádná speciální pr�
 
 1. ...
 2. ...
+
+Pro jednoduché editace je možné použít odkazy "Navrhni úpravu" vpravo dole na každé stránce webu. Odkaz vás přesměruje na přímo na editaci na githugu.
 
 # Pro linuxáky
 
