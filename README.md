@@ -54,10 +54,17 @@ Více viz https://en.wikipedia.org/wiki/Markdown nebo https://github.com/adam-p/
 
 Pro editaci stačí mít github účet, nejsou potřeba žádná speciální práva. Postup je následující:
 
-1. ...
-2. ...
-
 Pro jednoduché editace je možné použít odkazy "Navrhni úpravu" vpravo dole na každé stránce webu. Odkaz vás přesměruje na přímo na editaci na githugu.
+Nebo po rozkliknutí konkrétního souboru na githubu lze kliknout na ikonu tužky v pravém horním rohu (po najetí myší se objeví hláška: "Edit the file in your fork of this project").
+
+1. Změňte potřebné části souboru (nahoře na liště mód "Edit file"),
+2. zkontrolujte správnost provedených změn kliknutím na "Preview changes" na horní liště (červeně jsou označeny odebrané části textu, zeleně naopak ty přidané),
+3. sjeďte na konec stránky k tabulce "Propose file change" a vyplňte pole "Add an optional extended description..." - stručně a jasně shrňte své změny,
+4. klikněte na zelené tlačítko "Propose file change",
+5. objeví se nová stránka, kde ještě jednou uvidíte provedené změny a pokud je vše v pořádku, klikněte na horní zelené tlačítko "Create pull request" a pak ještě jednou na další stránce,
+6. počkejte, až vaše změny potvdí administrátor stránek (přijde vám do e-mailu zpráva, když se tak stane),
+7. a máte HOTOVO!
+
 
 # Pro linuxáky
 
