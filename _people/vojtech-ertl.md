@@ -11,7 +11,7 @@ img: people/vojtech-ertl.jpg
 mail:
   - vojtech.ertl@pirati.cz
 mob:
-  - +420
+#  - +420
 profiles:
   github:
   facebook: https://www.facebook.com/vojtech.ertl.9

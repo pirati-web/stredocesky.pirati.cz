@@ -11,7 +11,7 @@ img: people/marek-jericha.jpg
 mail:
   - 
 mob:
-  - +420
+#  - +420
 profiles:
   github:
   facebook: 

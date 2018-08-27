@@ -11,7 +11,7 @@ img: people/barbora-novakova.jpg
 mail:
   - 
 mob:
-  - +420
+#  - +420
 profiles:
   github:
   facebook: 
