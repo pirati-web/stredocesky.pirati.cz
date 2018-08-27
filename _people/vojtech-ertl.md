@@ -1,7 +1,9 @@
 ---
-uid:      vojtech.ertl
-name:     Vojtěch Ertl  	# běžně používáné jméno
-fullname: Ing. arch. Vojtěch Ertl  	# jméno s tituly etc.
+uid: vojtech.ertl
+name: Vojtěch Ertl
+titles:
+  before: Ing. arch. 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 1. místopředseda místního sdružení Kolín

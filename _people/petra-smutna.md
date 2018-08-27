@@ -1,7 +1,9 @@
 ---
-uid:      petra.smutna
-name:     Petra Smutná  	# běžně používáné jméno
-fullname: Bc. Petra Smutná  	# jméno s tituly etc.
+uid: petra.smutna
+name: Petra Smutná
+titles:
+  before: Bc. 
+  after:
 category:
   - pks
 description: 1. místopředsedkyně kraje

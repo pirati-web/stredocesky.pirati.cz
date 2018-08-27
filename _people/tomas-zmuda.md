@@ -1,7 +1,9 @@
 ---
-uid:      tomas.zmuda
-name:     Tomáš Zmuda  	# běžně používáné jméno
-fullname: Ing. Tomáš Zmuda  	# jméno s tituly etc.
+uid: tomas.zmuda
+name: Tomáš Zmuda
+titles:
+  before: Ing. 
+  after:
 category:
   - pks
 description: 3. místopředseda kraje

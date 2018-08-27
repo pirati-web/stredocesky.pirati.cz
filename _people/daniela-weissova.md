@@ -1,7 +1,9 @@
 ---
-#uid:      daniela.weissova
-name:     Daniela Weissová  	# běžně používáné jméno
-fullname: Daniela Weissová  	# jméno s tituly etc.
+uid: daniela.weissova
+name: Daniela Weissová
+titles:
+  before: 
+  after:
 category:
   - kandidat-senator2018
 description: kandidátka na senátorku

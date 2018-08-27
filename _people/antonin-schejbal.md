@@ -1,7 +1,9 @@
 ---
-uid:      antonin.schejbal
-name:     Antonín Schejbal  	# běžně používáné jméno
-fullname: Antonín Schejbal  	# jméno s tituly etc.
+uid: antonin.schejbal
+name: Antonín Schejbal
+titles:
+  before:
+  after:
 category:
   - pks
 description: předseda kraje

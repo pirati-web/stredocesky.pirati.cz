@@ -1,7 +1,9 @@
 ---
-uid:      jiri.chladek
-name:     Jiří Chládek  	# běžně používáné jméno
-fullname: Jiří Chládek  	# jméno s tituly etc.
+uid: jiri.chladek
+name: Jiří Chládek
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 2. místopředseda místního sdružení Kolín

@@ -72,7 +72,7 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-theme-pirati (4.2.2)
+    jekyll-theme-pirati (6.6.0)
       jekyll (~> 3.6)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
@@ -136,7 +136,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
-  jekyll-theme-pirati (~> 4.2.2)
+  jekyll-theme-pirati (~> 6.6.0)
   json
   mini_magick
   sprockets (~> 4.0.0.beta)

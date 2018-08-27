@@ -1,24 +1,24 @@
 ---
 uid: lenka.kozlova
-name:     Lenka Kozlová  	# běžně používáné jméno
-fullname: Lenka Kozlová  	# jméno s tituly etc.
+name: Lenka Kozlová
+titles:
+  before: 
+  after:
 category:
   - poslanec
 description: poslankyně Parlamentu ČR
 img: people/lenka-kozlova.jpg
 #ordPoslanec: 1
-# generovani e-mailu asistentu nefunguje
-# ani podle https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/olga-richterova.md
-#asistenti:
-#  - name: Jaroslav Němec
-#    position: Asistent
-#    mail: jarnemec@psp.cz # generovani e-mailu nefunguje
-#  - name: David Wagner
-#    position: Asistent
-#    mail: wagnerd@psp.cz # generovani e-mailu nefunguje
-#  - name: Antonín Schejbal
-#    position: Asistent
-#    mail: schejbala@psp.cz # generovani e-mailu nefunguje
+asistenti:
+  - name: Jaroslav Němec
+    position: Asistent
+    mail: jarnemec@psp.cz
+  - name: David Wagner
+    position: Asistent
+    mail: wagnerd@psp.cz
+  - name: Antonín Schejbal
+    position: Asistent
+    mail: schejbala@psp.cz
 mail:
   - lenka.kozlova@pirati.cz
 profiles:

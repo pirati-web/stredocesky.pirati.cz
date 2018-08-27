@@ -1,7 +1,9 @@
 ---
-uid:      marek.jericha
-name:     Marek Jeřicha  	# běžně používáné jméno
-fullname: Marek Jeřicha  	# jméno s tituly etc.
+uid: marek.jericha
+name: Marek Jeřicha
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 

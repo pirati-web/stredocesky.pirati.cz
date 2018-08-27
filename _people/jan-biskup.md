@@ -1,7 +1,9 @@
 ---
-uid:      jan.biskup
-name:     Jan Biskup  	# běžně používáné jméno
-fullname: Jan Biskup  	# jméno s tituly etc.
+uid: jan.biskup
+name: Jan Biskup
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 

@@ -1,7 +1,9 @@
 ---
-#uid:      petr.chalus
-name:     Petr Chaluš  	# běžně používáné jméno
-fullname: Petr Chaluš  	# jméno s tituly etc.
+#uid: petr.chalus
+name: Petr Chaluš
+titles:
+  before: 
+  after:
 category:
   - kandidat-senator2018
 description: kandidát na senátora

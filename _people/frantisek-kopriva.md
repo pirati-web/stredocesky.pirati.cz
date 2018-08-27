@@ -1,24 +1,18 @@
 ---
 uid: frantisek.kopriva
-name:     František Kopřiva  	# běžně používáné jméno
-fullname: František Kopřiva  	# jméno s tituly etc.
+name: František Kopřiva
+titles:
+  before: 
+  after:
 category:
   - poslanec
 description: poslanec Parlamentu ČR
 img: people/frantisek-kopriva.jpg
 #ordPoslanec: 1
-# generovani e-mailu asistentu nefunguje
-# ani podle https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/olga-richterova.md
 #asistenti:
 #  - name: Jaroslav Němec
 #    position: Asistent
-#    mail: jarnemec@psp.cz # generovani e-mailu nefunguje
-#  - name: David Wagner
-#    position: Asistent
-#    mail: wagnerd@psp.cz # generovani e-mailu nefunguje
-#  - name: Antonín Schejbal
-#    position: Asistent
-#    mail: schejbala@psp.cz # generovani e-mailu nefunguje
+#    mail: jarnemec@psp.cz
 mail:
   - frantisek.kopriva@pirati.cz
 profiles:

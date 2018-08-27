@@ -1,7 +1,9 @@
 ---
-uid:      jiri.snizek
-name:     Jiří Snížek  	# běžně používáné jméno
-fullname: Ing. Jiří Snížek  	# jméno s tituly etc.
+uid: jiri.snizek
+name: Jiří Snížek
+titles:
+  before: Ing. 
+  after:
 category:
   - pks
 description: 4. místopředseda kraje

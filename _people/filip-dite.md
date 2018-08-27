@@ -1,7 +1,9 @@
 ---
 uid: filip.dite
-name:     Filip Dítě  	# běžně používáné jméno
-fullname: Filip Dítě  	# jméno s tituly etc.
+name: Filip Dítě
+titles:
+  before: 
+  after:
 category:
   - koordinator
   - kontaktni_osoba

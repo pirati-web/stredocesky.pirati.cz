@@ -1,7 +1,9 @@
 ---
-uid:      martin.polak
-name:     Martin Polák  	# běžně používáné jméno
-fullname: Martin Polák  	# jméno s tituly etc.
+uid: martin.polak
+name: Martin Polák
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: předseda MS Kolín

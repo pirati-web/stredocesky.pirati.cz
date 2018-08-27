@@ -1,7 +1,9 @@
 ---
 uid: jan.licka
-name:     Jan Lička  	# běžně používáné jméno
-fullname: Jan Lička  	# jméno s tituly etc.
+name: Jan Lička
+titles:
+  before: 
+  after:
 category:
   - clen
 description: člen

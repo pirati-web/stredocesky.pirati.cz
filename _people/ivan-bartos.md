@@ -1,24 +1,18 @@
 ---
 uid: ivan.bartos
-name:     Ivan Bartoš  	# běžně používáné jméno
-fullname: PhDr. Ivan Bartoš, Ph.D.  	# jméno s tituly etc.
+name: Ivan Bartoš
+titles:
+  before: PhDr.
+  after: Ph.D.
 category:
   - poslanec
 description: poslanec Parlamentu ČR
 img: people/ivan-bartos.jpg
 #ordPoslanec: 1
-# generovani e-mailu asistentu nefunguje
-# ani podle https://raw.githubusercontent.com/pirati-web/pirati.cz/gh-pages/_people/olga-richterova.md
-#asistenti:
-#  - name: Jaroslav Němec
-#    position: Asistent
-#    mail: jarnemec@psp.cz # generovani e-mailu nefunguje
-#  - name: David Wagner
-#    position: Asistent
-#    mail: wagnerd@psp.cz # generovani e-mailu nefunguje
-#  - name: Antonín Schejbal
-#    position: Asistent
-#    mail: schejbala@psp.cz # generovani e-mailu nefunguje
+asistenti:
+  - name: Mgr. Věra Marušiaková
+    position: Asistent
+    mail: vera.marusiakova@pirati.cz
 mail:
   - ivan.bartos@pirati.cz
 mob:

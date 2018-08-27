@@ -1,7 +1,9 @@
 ---
-uid:      martin.kokes
-name:     Martin Kokeš  	# běžně používáné jméno
-fullname: Bc. Martin Kokeš  	# jméno s tituly etc.
+uid: martin.kokes
+name: Martin Kokeš
+titles:
+  before: Bc. 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: kandidát do Zastupitelstva města Kolína

@@ -4,7 +4,6 @@ residence: yes
 description: Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 ---
-
 ## Přidejte se
 
 Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.

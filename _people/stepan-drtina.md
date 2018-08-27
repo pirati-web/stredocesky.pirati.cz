@@ -1,7 +1,9 @@
 ---
 uid: stepan.drtina
-name:     Štěpán Drtina  	# běžně používáné jméno
-fullname: Štěpán Drtina  	# jméno s tituly etc.
+name: Štěpán Drtina
+titles:
+  before: 
+  after:
 category:
   - koordinator
   - kontaktni_osoba

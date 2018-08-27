@@ -1,7 +1,9 @@
 ---
 uid:      jan.lukasek
-name:     Jan Lukášek  	# běžně používáné jméno
-fullname: Bc. Jan Lukášek  	# jméno s tituly etc.
+name:     Jan Lukášek
+titles:
+  before: Bc. 
+  after:
 category:
   - pks
 description: 2. místopředseda kraje

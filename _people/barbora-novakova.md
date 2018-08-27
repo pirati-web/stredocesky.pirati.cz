@@ -1,7 +1,9 @@
 ---
-uid:      barbora.novakova
-name:     Barbora Nováková  	# běžně používáné jméno
-fullname: Barbora Nováková  	# jméno s tituly etc.
+uid: barbora.novakova
+name: Barbora Nováková
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 

@@ -25,7 +25,7 @@ sass:
   sass_dir: _sass
 
 organization:
-  name: Česká pirátská strana - KS Středočeský kraj
+  name: Piráti Středočeského kraje
   shortName: Piráti Středočeského kraje
   contactUid: filip.dite
   email: filip.dite@pirati.cz
@@ -120,13 +120,18 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: "people, foto, personContact"
+      rbar:
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar: "garant, program"
+      rbar:
+        - garant
+        - program
 
 emptyArray: []
 
@@ -146,7 +151,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.6.0/_sass
     - assets/css
     - assets/fonts
     - assets/video

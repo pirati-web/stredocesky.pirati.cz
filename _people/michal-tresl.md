@@ -1,7 +1,9 @@
 ---
-uid:      michal.tresl
-name:     Michal Trešl  	# běžně používáné jméno
-fullname: Michal Trešl  	# jméno s tituly etc.
+uid: michal.tresl
+name: Michal Trešl
+titles:
+  before: 
+  after:
 category:
   - kandidat-do-zastupitelstva
 description: 
