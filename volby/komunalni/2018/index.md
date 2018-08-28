@@ -14,7 +14,7 @@ Zde byl do čelního místa zvolen samotný předseda středočeského krajskéh
 
 Město na Labi potáhne do komunálních voleb Ing. arch. Vojtěch Ertl. Vojta se již nějakou dobu věnuje práci v městské komisi pro výstavbu a rozvoj města. Pro Kolín připravoval odbornou část výběrového řízení na městského architekta. Dále je spoluzakladatelem neformální platformy architektů KOarch, která pořádá kulturní akce a spolu se spolkem KRUH spoluorganizuje kolínskou část festivalu Den architektury. Pracuje jako architekt, odborný asistent a doktorand na Fakultě architektury ČVUT v Praze. Rád by se věnoval strategickému a územnímu plánování a chtěl by upevnit instituty architektonických soutěží.
 
-[<img src="pirat.jpg" width="40px"/> **kandidátka Kolín**](/volby/komunalni/2018/kolin)
+## [<img src="pirat.jpg" width="50px"/> Kandidátka a program](/volby/komunalni/2018/kolin)
 
 ## Kutná Hora
 
