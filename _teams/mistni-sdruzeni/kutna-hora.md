@@ -3,22 +3,21 @@ uid: kutna-hora
 cid: kutna-hora
 name: Kutná Hora
 fullname: Místní sdružení Kutná Hora
-img: posts/sbirani_odpadku.jpg
+img: posts/sbirani_odpadu.jpg
 leader: stepan.drtina
 deputy:
-- stepan.drtina
-- stepan.drtina
+- ivan.bartos
 contact:
-- stepan.drtina
+- antonin.schejbal
 region: Kutná Hora
 url: https://stredocesky.pirati.cz/mistni-sdruzeni/kutna-hora
 categories:
 - mistni-sdruzeni
 tags:
 - kutna hora
-facebook: https://www.facebook.com/.../
+facebook: https://www.facebook.com/nejakyfacebook
 redmine: 
-forum: https://forum.pirati.cz/.../
+forum: https://forum.pirati.cz/nejakeforum
 web: https://stredocesky.pirati.cz/mistni-sdruzeni/kutna-hora
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---

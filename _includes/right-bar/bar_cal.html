@@ -1,0 +1,26 @@
+<div class="o-section-block">
+ <ul class="c-widget-accordion c-widget-accordion--dark" data-accordion="" data-allow-all-closed="true">
+   <li class="c-widget-accordion-item is-active" data-accordion-item="">
+     <a href="#" class="c-widget-accordion-link">
+      {% if page.url contains 'picolo' %}
+        <span class="c-widget-accordion__title">Kalendář Picolo</span>
+      {% else %}
+        <span class="c-widget-accordion__title">Krajský kalendář</span>
+      {% endif %}
+       <span class="c-widget-accordion__icon c-widget-accordion__icon c-widget-accordion__icon--bottom" aria-hidden="true">
+         <i class="fa fa-calendar-o fa-lg u-rotate-15"></i>
+       </span>
+     </a>
+     <div class="c-widget-accordion-content" data-tab-content="">
+      {% if page.url contains 'picolo' %}
+      <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rtiqvplj1kaid0b444bvn0jvkk%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague" style="border-width:0; width: 100%; height: 410px; border: 0; overflow: hidden;"></iframe>
+      {% else %}
+      <iframe src="{{site.calendar}}" style="border-width:0; width: 100%; height: 410px; border: 0; overflow: hidden;"></iframe>
+      {% endif %}
+       <div class="c-widget-accordion-content__cta">
+         <a class="dark expanded button large" href="{{ 'kalendar/' | relative_url }}"> Zobrazit všechny akce </a>
+       </div>
+     </div>
+   </li>
+ </ul>
+</div>
