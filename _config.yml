@@ -114,10 +114,6 @@ collections:
   candidatelists:
     output: false
 
-  teams:
-    output: true
-    permalink: /mistni-sdruzeni/:title/
-
 defaults:   # defaults values for collection scope
   -
     scope:
@@ -136,12 +132,6 @@ defaults:   # defaults values for collection scope
       rbar:
         - garant
         - program
-  -
-     scope:
-       path: "_teams"
-     values:
-       layout: "team"
-       rbar: "team-summary, teams-toc"
 
 emptyArray: []
 
