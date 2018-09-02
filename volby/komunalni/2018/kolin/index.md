@@ -2,7 +2,7 @@
 layout: communal-elections
 title: Komunální volby v Kolíně
 campaignCategoryUid: 2018-komunalky-kolin
-candidateListUid: 2018-komunalky-kolin # uid z `_candidates/2018-komunalky-kolin.md`
+candidateListUid: 2018-komunalky-kolin
 ---
 
 Místní sdružení Kolín, patří mezi mladší sdružení v kraji, protože vzniklo až v roce 2018. Pirátská strana však má v našem okrese už dlouhou historii. Už v roce 2010 byla v Kolíně samostatná komunální kandidátka Pirátů! Jediná samostatná kandidátka v celém kraji v roce 2010.

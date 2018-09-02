@@ -2,28 +2,27 @@
 uid: stepan.drtina
 name: Štěpán Drtina
 titles:
-  before: 
-  after:
+  before: Bc.
+  after: 
 category:
   - koordinator
   - kontaktni_osoba
-description: krajský koordinátor 
+  - kandidat-do-zastupitelstva
+description: krajský koordinátor
 img: people/stepan-drtina.jpg
 ordKoordinator: 2
 mail:
   - stepan.drtina@pirati.cz
 mob:
-  - +420 770 113 649
+  - +420 775 221 705
 profiles:
   github:
-  facebook:
+  facebook: https://www.facebook.com/stepan.drtina
   twitter:
   linkedin:
 ---
 
-**Štěpán Drtina** (* 2. květen 1994) se narodil v Čáslavi, ale celý život žije nedaleko krásného města Kutné Hory. Po absolvování zdejšího Církevního gymnázia odešel studovat geografii do Ústí nad Labem. Studia ale po roce zanechal a vítr ho nakonec zavál na pedagogickou fakultu v Hradci Králové (historie - společenské vědy se zaměřením na vzdělávání), kde také v červnu 2017 získal bc. titul. V současnosti na stejné univerzitě studuje magisterský program Novodobé české a československé dějiny.
+**Štěpán Drtina** (* 2. květen 1994) po maturitě na zdejším Církevním gymnáziu odešel studovat Pedagogickou fakultu v Hradci Králové, kde získal bakalářský titul v oboru Historie – společenské vědy se zaměřením na vzdělávání. V současné době studuje magisterský obor Novodobé české a československé dějiny na Filozofické fakultě stejné univerzity. Ve své bakalářské práci se zabýval studiem pozdně středověkých kutnohorských městských knih a rekonstruoval životy několika zdejších neznámých měšťanů. V diplomové práci se věnuje opět nepopsané stránce místních dějin, kdy odkrývá činnost komunistické strany po roce 1945 a především události roku 1948 na Kutnohorsku. Kromě jiného rád pracuje s mládeží, několik sezón po sobě jezdil jako vychovatel na školy v přírodě. Při studiu pracuje jako koordinátor středočeského krajského sdružení České pirátské strany a od září rovněž dělá asistenta pirátské poslankyni Lence Kozlové. Piráti ho oslovili především jako strana nová, nezatížená stigmaty minulosti, prosazující ideály svobody a demokracie a především otevřeností vůči občanům a rovným a férovým jednáním.
 
-Od března 2018 je členem KS Středočeský kraj, ve kterém také s Filipem Dítětem vykonává pozici Krajského koordinátora. Piráti ho oslovili svým neotřelým a kritickým politickým přístupem a také tím, že jejich proklamované principy aplikují i sami na sebe (což je zářná výjimka).
-
-Mezi jeho zájmy patří, kromě studia historie od A do Z, aktuální společenské a politické dění. Kromě toho má rád všemožné druhy kolektivních sportů a posezení s přáteli. Taktéž se věnuje práci s mládeží, kdy několik sezón po sobě jezdí jako vychovatel na školy v přírodě. I díky zaměření jeho předcházejícího studia se nejvíce zajímá o oblast vzdělávání, které by se chtěl do budoucna aktivně věnovat.
+> „Při začátcích své činnosti v rámci České pirátské strany jsem si potvrdil její výjimečnost v dnešním politickém spektru. Proto jsem se rozhodl prosazovat pirátskou politiku vyznačující se otevřeností, férovým jednáním a schopností věcné a konstruktivní diskuse napříč politickým spektrem. V rámci města chci především přiblížit politiku občanům a zajistit přesun kvalitních a ověřitelných informací na ose město – občan, který vnímám jako základ otevřené politiky. V rámci zastupitelstva chci prosazovat koncepci otevřené radnice, která bude přívětivá a umožní občanovi kvalitní informovanost a všem, kteří o to budou mít zájem, sledovat a spoluutvářet pozitivní obraz našeho města, kde všichni společně žijeme.“
 
