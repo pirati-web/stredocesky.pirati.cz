@@ -3,10 +3,7 @@ PRACE PRO DOBROVOLNIKY
 * upravit logo - text zmenit na Středočští Piráti
   https://stredocesky.pirati.cz/assets/img/brand/logo_napis.svg
 * vyrobit banner na homepage
-* stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
-  nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
- - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
- - pro kazde MS je potreba dat dohromady:
+* dat dohromady info k MS
    * fotku hlavniho mesta
    * seznam obci, ktere sdruzuje nebo popis uzemi
    * odkaz na sekci piratskeho fora
@@ -29,7 +26,10 @@ PKS
 * zalozit stredocesi@pirati.cz a presmerovat na kontaktni osoby nebo PKS + upravit kontakty na webu
 
 RESI jcz1
-* mistni-sdruzeni az budou podklady (mula je v mistni-sdruzeni/new)
+* stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
+  nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
+ - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
+ - ceka na podklady, mula je v mistni-sdruzeni/new
 * senatni volby do menu - az bude profil Petra Chaluse
   https://stredocesky.pirati.cz/volby/senat/2018/
 
