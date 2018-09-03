@@ -2,11 +2,11 @@
 uid: vit.snajdr
 name: Vít Šnajdr
 titles:
-  before: Mgr. et. Bc.
+  before: Mgr. et Bc.
   after:
 category:
   - kandidat-do-zastupitelstva
-description: 
+description: kandidát - Kutná Hora 
 img: people/vit-snajdr.jpg
 mail:
   - snajdrv@seznam.cz
