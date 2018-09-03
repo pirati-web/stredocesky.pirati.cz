@@ -19,7 +19,7 @@ main:
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /volby/komunalni/2018/
+  - link: /volby/2018/komunalni/
     name: Komunální volby 2018
     match: komunalni-volby
   - link: /kontakt/
@@ -41,7 +41,7 @@ bottom:
         name: Aktuality
       - link: /lide/
         name: Lidé
-      - link: /volby/komunalni/2018/
+      - link: /volby/2018/komunalni/
         name: Komunální volby 2018
   - class: small-12 medium-4
     title: Otevřenost
