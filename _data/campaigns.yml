@@ -6,5 +6,7 @@
   campaigns:
     - title: Kolín
       categoryUid: 2018-komunalky-kolin
+    - title: Kutná Hora
+      categoryUid: 2018-komunalky-kutna_hora
 #    - title: Senát
 #     categoryUid: senat

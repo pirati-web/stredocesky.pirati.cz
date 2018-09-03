@@ -1,6 +1,6 @@
 ---
 title: Město pro život
-uid: mesto-pro-zivot
+uid: 2018-komunalky-kolin-mesto-pro-zivot
 campaignCategoryUid: 2018-komunalky-kolin
 campaignGroupUid: 2018-komunalky
 approved:
