@@ -7,7 +7,7 @@ titles:
 category:
   - koordinator
   - kontaktni_osoba
-  - kandidat-do-zastupitelstva
+  - kandidat-2018-komunalni-kutna_hora
 description: krajský koordinátor
 img: people/stepan-drtina.jpg
 ordKoordinator: 2

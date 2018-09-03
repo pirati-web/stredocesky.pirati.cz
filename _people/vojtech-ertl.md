@@ -5,7 +5,7 @@ titles:
   before: Ing. arch. 
   after:
 category:
-  - kandidat-do-zastupitelstva
+  - kandidat-2018-komunalni-kolin
 description: 1. místopředseda místního sdružení Kolín
 img: people/vojtech-ertl.jpg
 mail:

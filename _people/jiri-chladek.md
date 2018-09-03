@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - kandidat-do-zastupitelstva
+  - kandidat-2018-komunalni-kolin
 description: 2. místopředseda místního sdružení Kolín
 img: people/jiri-chladek.jpg
 mail:

@@ -5,8 +5,8 @@ titles:
   before: Bc. 
   after:
 category:
-  - kandidat-do-zastupitelstva
-description: kandidát do Zastupitelstva města Kolína
+  - kandidat-2018-komunalni-kolin
+description: kandidát - Kolín 2018
 img: people/martin-kokes.jpg
 mail:
   - info@martinkokes.cz

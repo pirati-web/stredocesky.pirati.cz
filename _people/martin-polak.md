@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - kandidat-do-zastupitelstva
+  - kandidat-2018-komunalni-kolin
 description: předseda MS Kolín
 img: people/martin-polak.jpg
 mail:

@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - kandidat-senator2018
+  - kandidat-2018-senat
 description: kandidátka na senátorku
 img: people/daniela-weissova.jpg
 mail:

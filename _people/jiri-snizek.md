@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - pks
+  - kandidat-2018-komunalni-kolin
 description: 4. místopředseda kraje
 img: people/jiri-snizek.jpg
 ordPKS: 5

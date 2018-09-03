@@ -5,8 +5,8 @@ titles:
   before: 
   after: 
 category:
-  - kandidat-do-zastupitelstva
-description: kandidát - Kutná Hora
+  - kandidat-2018-komunalni-kutna_hora
+description: kandidát - Kutná Hora 2018
 img: people/eliska-skalnikova.jpg
 mail:
  # - 
