@@ -100,3 +100,4 @@ To udělejte vždy, než něco začnete měnit.
 ```
 git fetch
 ```
+
