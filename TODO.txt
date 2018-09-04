@@ -26,6 +26,7 @@ PKS
 * zalozit stredocesi@pirati.cz a presmerovat na kontaktni osoby nebo PKS + upravit kontakty na webu
 
 RESI jcz1
+* implantovat novou verzi _config.yml
 * stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
   nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
  - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
