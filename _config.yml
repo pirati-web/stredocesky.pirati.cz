@@ -160,6 +160,7 @@ assets:
     - _sass
 
 # piwik
-piwik.siteId: 21
-piwik.loadSDK: true
+piwik:
+  siteId: 21
+  loadSDK: true
 
