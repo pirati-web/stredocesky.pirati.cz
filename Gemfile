@@ -49,6 +49,3 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 
-# jcz1 - piwik
-gem "jekyll-environment-variables"
-
