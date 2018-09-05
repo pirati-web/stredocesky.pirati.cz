@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Piráti Středočeského kraje
-email: stredocesi@pirati.cz
+email: ksstredoceskykraj@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 keywords: střední čechy, středočeši, piráti, pirátská strana, politická strana, politika, otevřenost, transparentnost 
 

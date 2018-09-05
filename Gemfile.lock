@@ -63,6 +63,8 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-environment-variables (1.0.0)
+      jekyll (~> 3.0)
     jekyll-feed (0.10.0)
       jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
@@ -133,6 +135,7 @@ DEPENDENCIES
   image_optim_pack
   jekyll (~> 3.7.3)
   jekyll-assets (= 3.0.11)
+  jekyll-environment-variables
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
