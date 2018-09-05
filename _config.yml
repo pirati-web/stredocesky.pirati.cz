@@ -18,6 +18,9 @@ email: ksstredoceskykraj@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 keywords: střední čechy, středočeši, piráti, pirátská strana, politická strana, politika, otevřenost, transparentnost 
 
+administrator:
+  email: jan.korbel@pirati.cz # mail kam pujdou chybove vystupy
+
 theme: jekyll-theme-pirati
 
 sass:
