@@ -18,7 +18,6 @@ RESI PKS / Jirka Snizek
 * presmerovat https://www.pirati.cz/pripoj-se/strednicechy/
 * rozhodnout co s obsahem na wiki (nejaky archiv/history)?
   https://wiki.pirati.cz/regiony/strednicechy/start
-* udelat poradek ve starych repository
 
 RESI Jan Korbel
 * distribuovat error mailu z buildovani
