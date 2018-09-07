@@ -1,7 +1,5 @@
 PRACE PRO DOBROVOLNIKY
 * sehnat obrazek pro prvni clanek / tiskovku - leaders
-* upravit logo - text zmenit na Středočští Piráti
-  https://stredocesky.pirati.cz/assets/img/brand/logo_napis.svg
 * vyrobit banner na homepage
 * dat dohromady info k MS
    * fotku hlavniho mesta
@@ -12,25 +10,32 @@ PRACE PRO DOBROVOLNIKY
  - ruzne (ne)aktualni informace jsou na https://wiki.pirati.cz/regiony/strednicechy/start
 * kontrola webu v jinych prohlizecich / OS (MSIE, Android, ...)
 
-PKS
+RESI PKS / Jirka Snizek
 * lepsi fotky mluvicich hlav do profilu
 * oprava osobnich profilu na centralnim webu, napr.: https://www.pirati.cz/lide/dominika-michailidu/
   - presmerovani na stredoceske profily?
-* vygenerovat google key a poslat Andrejovi (navod viz example github)
-* zpropagovat a dat ke stazeni piratske listy(?)
 * podklady pro komunalky
-* profil Petr Chalus - https://stredocesky.pirati.cz/lide/petr-chalus/
 * presmerovat https://www.pirati.cz/pripoj-se/strednicechy/
 * rozhodnout co s obsahem na wiki (nejaky archiv/history)?
   https://wiki.pirati.cz/regiony/strednicechy/start
+* udelat poradek ve starych repository
 
-RESI jcz1
+RESI Jan Korbel
+* profil Petr Chalus - https://stredocesky.pirati.cz/lide/petr-chalus/
+* senatni volby do menu - az bude profil Petra Chaluse
+  https://stredocesky.pirati.cz/volby/senat/2018/
+* distribuovat error mailu z buildovani
+* omezit socialni site v menu na stredoceske
 * piwik statistiky
+* spolecne se Stepanem vygenerovat google key a poslat Andrejovi (navod viz example github)
 * implantovat novou verzi _config.yml
 * stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
   nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
  - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
  - ceka na podklady, mula je v mistni-sdruzeni/new
-* senatni volby do menu - az bude profil Petra Chaluse
-  https://stredocesky.pirati.cz/volby/senat/2018/
+
+RESI Dalibor Zahora
+* upravit logo - text zmenit na Středočští Piráti
+  https://stredocesky.pirati.cz/assets/img/brand/logo_napis.svg
+* zalozit elektronicky archiv Piratskych listu
 
