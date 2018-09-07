@@ -22,7 +22,6 @@ RESI PKS / Jirka Snizek
 
 RESI Jan Korbel
 * distribuovat error mailu z buildovani
-* omezit socialni site v menu na stredoceske
 * piwik statistiky
 * spolecne se Stepanem vygenerovat google key a poslat Andrejovi (navod viz example github)
 * implantovat novou verzi _config.yml
