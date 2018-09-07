@@ -1,53 +1,51 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Piráti Středočeského kraje
+title: Piráti - Středočeský kraj # To co je napsané na tabu ve kterém je stránka.
 email: ksstredoceskykraj@pirati.cz
-description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-keywords: střední čechy, středočeši, piráti, pirátská strana, politická strana, politika, otevřenost, transparentnost 
+description: >-
+  Česká pirátská strana - Krajské sdružení Středočeský kraj
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: krajské sdružení, střední čechy, středočeši, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost 
 
 administrator:
   email: jan.korbel@pirati.cz # mail kam pujdou chybove vystupy
 
-theme: jekyll-theme-pirati
-
-sass:
-  style: compressed
-  sass_dir: _sass
-
 organization:
-  name: Piráti Středočeského kraje
-  shortName: Piráti Středočeského kraje
+  name: Piráti - Středočeský kraj
+  shortName: Piráti - Středočeský kraj
   contactUid: filip.dite
-  email: filip.dite@pirati.cz
+  email: ksstredoceskykraj@pirati.cz
   phone: +420 770 113 646
   address: |
     Řehořova 943/19
     130 00 Praha 3
   residenceImg: pice-mapa.jpg
-  mapLink: https://mapy.cz/zakladni?x=14.4422137&y=50.0863569&z=17&source=firm&id=2490703
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
 
-homepageBanner:
-  display: false
-  link: /volby/komunalni/2018/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-      default: header/komunal-banner-large.png
-      mobile: header/komunal-banner-small.png
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+#  - type: piratiRootWebsite
+#  - type: custom
+    #iconClass: fa fa-envelope
+    #label: Vlastní řádek tabulky
+    #body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -63,8 +61,10 @@ calendar:
 
 facebook:
   loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/pirati.stc
-  #  appId: 1526197851008996
+  profilePageName: Piráti - Středočeský kraj
+  #appId: 1526197851008996
 
 twitter:
   loadSDK: true
@@ -86,6 +86,22 @@ github:
   url: https://github.com/pirati-web/stredocesky.pirati.cz/
   branch: master
 
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
@@ -133,8 +149,8 @@ defaults:   # defaults values for collection scope
     values:
       layout: "program-post"
       rbar:
-        - garant
-        - program
+         - garant
+         - program
 
 emptyArray: []
 
