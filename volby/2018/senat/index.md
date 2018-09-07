@@ -12,7 +12,7 @@ groups:
 ---
 {% assign person = site.people | where: "uid", "daniela.weissova" | first %}
 {% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
-**Daniela Weissová** členka Pirátské strany od roku 2014, kandiduje v <span style="text-decoration: underline;">[senátním obvodu č. 38 Mladá Boleslav](https://www.czso.cz/documents/11240/17978470/senat_2012_38_mlada_boleslav.jpg)</span>, který zasahuje i do regionu Turnova v Libereckém kraji.
+**Daniela Weissová** je členkou Pirátské strany od roku 2014, kandiduje v <span style="text-decoration: underline;">[senátním obvodu č. 38 Mladá Boleslav](https://www.czso.cz/documents/11240/17978470/senat_2012_38_mlada_boleslav.jpg)</span>, který zasahuje i do regionu Turnova v Libereckém kraji.
 
 {% assign person = site.people | where: "uid", "petr.chalus" | first %}
 {% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
