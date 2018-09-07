@@ -10,7 +10,11 @@ groups:
     category: kandidat-senator2018
 #    sort: ordPoslanec
 ---
-**Daniela Weissová**, členka Pirátské strany od roku 2014, kandiduje v senátním obvodu č. 38 Mladá Boleslav, který zasahuje i do regionu Turnova v Libereckém kraji ([mapa volebního obvodu](https://www.czso.cz/documents/11240/17978470/senat_2012_38_mlada_boleslav.jpg)).
+{% assign person = site.people | where: "uid", "daniela.weissova" | first %}
+{% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
+**Daniela Weissová** členka Pirátské strany od roku 2014, kandiduje v <span style="text-decoration: underline;">[senátním obvodu č. 38 Mladá Boleslav](https://www.czso.cz/documents/11240/17978470/senat_2012_38_mlada_boleslav.jpg)</span>, který zasahuje i do regionu Turnova v Libereckém kraji.
 
-**Petr Chaluš**, nestraník nominovaný Pirátskou stranou a s podporou [Senátor 21](https://www.senator21.cz/kandidati/petr-chalus/), kandiduje ve Středočeském kraji, ve volebním obvodě 41 - Benešovsko, Praha - východ a Praha - západ ([mapa volebního obvodu](https://www.czso.cz/documents/11240/17978470/senat_2012_41_benesov.jpg)).
+{% assign person = site.people | where: "uid", "petr.chalus" | first %}
+{% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
+**Petr Chaluš** je nestraník nominovaný Pirátskou stranou a s podporou [Senátor 21](https://www.senator21.cz/kandidati/petr-chalus/), kandiduje ve Středočeském kraji, v <span style="text-decoration: underline;">[senátním obvodu 41 - Benešovsko](https://www.czso.cz/documents/11240/17978470/senat_2012_41_benesov.jpg)</span>, Praha - východ a Praha - západ.
 

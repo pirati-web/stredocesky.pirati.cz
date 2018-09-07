@@ -20,8 +20,11 @@ main:
     name: Místní sdružení
     match: mistni-sdruzeni
   - link: /volby/2018/komunalni/
-    name: Komunální volby 2018
+    name: Komunální volby
     match: komunalni-volby
+  - link: /volby/2018/senat/
+    name: Senátní volby
+    match: senatni-volby
   - link: /kontakt/
     name: Kontakty
     match: kontakt
@@ -43,6 +46,8 @@ bottom:
         name: Lidé
       - link: /volby/2018/komunalni/
         name: Komunální volby 2018
+      - link: /volby/2018/senat/
+        name: Senátní volby 2018
   - class: small-12 medium-4
     title: Otevřenost
     links:

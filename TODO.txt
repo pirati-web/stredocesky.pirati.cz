@@ -21,9 +21,6 @@ RESI PKS / Jirka Snizek
 * udelat poradek ve starych repository
 
 RESI Jan Korbel
-* profil Petr Chalus - https://stredocesky.pirati.cz/lide/petr-chalus/
-* senatni volby do menu - az bude profil Petra Chaluse
-  https://stredocesky.pirati.cz/volby/senat/2018/
 * distribuovat error mailu z buildovani
 * omezit socialni site v menu na stredoceske
 * piwik statistiky
