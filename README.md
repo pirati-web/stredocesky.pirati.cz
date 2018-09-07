@@ -101,3 +101,15 @@ To udělejte vždy, než něco začnete měnit.
 git fetch
 ```
 
+## CODE HOWTO - vložení upoutávky článku
+```
+{% assign article = site.posts | where: "url", "/url-k-clanku/" | first %}
+{% include articles/vertical-article.html article=article %}
+```
+
+## CODE HOWTO - vložení medailonku člověka
+```
+{% assign person = site.people | where: "uid", "uid daného člověka" | first %}
+{% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
+```
+
