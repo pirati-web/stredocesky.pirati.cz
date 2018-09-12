@@ -48,4 +48,6 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 # jcz1 - javascript runtime deps
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
+# jcz1 - calendar
+gem 'jekyll-environment-variables'
 
