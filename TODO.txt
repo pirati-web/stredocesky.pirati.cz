@@ -3,9 +3,7 @@ PRACE PRO DOBROVOLNIKY
 * vyrobit banner na homepage
 * dat dohromady info k MS
    * fotku hlavniho mesta
-   * seznam obci, ktere sdruzuje nebo popis uzemi
    * odkaz na sekci piratskeho fora
-   * facebook, ...?
    * predseda - jmeno, fotka, popis, kontakt (e-mail, pripadne telefon), info do profilu
  - ruzne (ne)aktualni informace jsou na https://wiki.pirati.cz/regiony/strednicechy/start
 * kontrola webu v jinych prohlizecich / OS (MSIE, Android, ...)
