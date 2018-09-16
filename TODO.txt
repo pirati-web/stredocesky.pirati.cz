@@ -23,10 +23,9 @@ RESI Jan Korbel
 * distribuovat error mailu z buildovani
 * piwik statistiky
 * spolecne se Stepanem vygenerovat google key a poslat Andrejovi (navod viz example github)
-* stranky pro MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
+* stranky pro jednotliva MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
   nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
- - pripadne podstranky /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
- - ceka na podklady, mula je v mistni-sdruzeni/new
+ - podstranky jako /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
 
 RESI Dalibor Zahora
 * upravit logo - text zmenit na Středočští Piráti
