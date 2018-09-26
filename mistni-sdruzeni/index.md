@@ -42,7 +42,7 @@ title: Místní sdružení ve Středočeském kraji
                     </h3>
                     <ul>
                       <li>Působnost: správní obvod města</li>
-                      <li>Předseda: Patrik Zandl</li>
+                      <li>Předseda: Patrick Zandl</li>
                     </ul>
                   </div>
                 </div>
