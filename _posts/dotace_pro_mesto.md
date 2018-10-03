@@ -18,60 +18,61 @@ Pojmem **dotace** se v ekonomii rozumí peněžitý dar nebo daru podobná peně
 *Příklad?* Pokud město bude realizovat projekt za 100 mil a maximální výše dotace bude 85 % způsobilých výdajů, bude městu proplacena částka 85 mil. a zbylých 15 mil. zaplatí město ze svého rozpočtu.
 ## Co je to ta udržitelnost?
 Často slýchám povzdechy typu „do dotací se nám nechce, protože je tam ta udržitelnost“ nebo „kvůli té udržitelnosti na nás teď chodí kontroly, kdybychom věděli, že s tím bude tolik práce, tak bychom do toho nešli“.
-**Co ta udržitelnost vlastně je?** *Udržitelnost projektu* je doba, po kterou musí příjemce udržet výstupy a výsledky projektu v nezměněné podobě. Jinými slovy udržitelnost projektu znamená, že po nějakou dobu musí projekt sloužit účelu, na který byla dotace poskytnuta, i po ukončení realizace (po vybudování školky musí objekt sloužit jako školka). Výstupy projektu musí být tedy udrženy v nezměněné podobě zpravidla po dobu 3 až 5 let ode dne ukončení fyzické realizace projektu.  Naplňování a udržení hodnot výstupů může být předmětem kontroly ze strany příslušných institucí. Při nedodržení podmínek může být žadatel požádán o vrácení celé dotace nebo její části.1
+### Co ta udržitelnost vlastně je?
+*Udržitelnost projektu* je doba, po kterou musí příjemce udržet výstupy a výsledky projektu v nezměněné podobě. Jinými slovy udržitelnost projektu znamená, že po nějakou dobu musí projekt sloužit účelu, na který byla dotace poskytnuta, i po ukončení realizace (po vybudování školky musí objekt sloužit jako školka). Výstupy projektu musí být tedy udrženy v nezměněné podobě zpravidla po dobu 3 až 5 let ode dne ukončení fyzické realizace projektu.  Naplňování a udržení hodnot výstupů může být předmětem kontroly ze strany příslušných institucí. Při nedodržení podmínek může být žadatel požádán o vrácení celé dotace nebo její části.1
 ## Příklady možností čerpání dotací pro Benešov
 Teď už k některým vybraným možnostem dotací, které by mohlo město využít.
-1.Zdroje pitné vody
+### 1.Zdroje pitné vody
 {% asset 'posts/2018/Benesov_kasna.jpg' alt='fontánka v Benešově' %}
 Program Zdroje pitné vody, který je součástí Národního programu Životní prostředí, je zaměřen na podporu aktivit, které vedou k zajištění průzkumů, navržení a realizaci technických prací (např. vrtů) pro rozšíření možnosti zásobování obyvatelstva pitnou vodou z podzemních zdrojů, a tím zajištění dodávek pitné vody v odpovídající jakosti a množství.
-**Možné aktivity města:**
-***Na výstavbu nových nebo regenerace stávajících zdrojů pitné vody (podzemních i povrchových) či na výstavbu a rekonstrukci přivaděčů pitné vody** (od zdroje vody, skupinového vodovodu, dálkového přivaděče, apod.), včetně instalace nezbytné technologie a napojení těchto zdrojů nebo přivaděčů na stávající vodovod pro veřejnou potřebu
-***Na zajištění průzkumných vrtů** za účelem vyhledání zdrojů pitné vody pro zásobování obyvatelstva 
+#### Možné aktivity města:
+* **Na výstavbu nových nebo regenerace stávajících zdrojů pitné vody (podzemních i povrchových) či na výstavbu a rekonstrukci přivaděčů pitné vody** (od zdroje vody, skupinového vodovodu, dálkového přivaděče, apod.), včetně instalace nezbytné technologie a napojení těchto zdrojů nebo přivaděčů na stávající vodovod pro veřejnou potřebu
+* **Na zajištění průzkumných vrtů** za účelem vyhledání zdrojů pitné vody pro zásobování obyvatelstva 
 Minimální výše podpory je stanovena na 100 tis. Kč, maximální na 3 mil. Kč. **Výše podpory je max. 80 %** způsobilých výdajů, v závislosti na akutnosti nedostatku pitné vody řešené v rámci projektu.
 **Termín výzvy**
 Spuštění výzvy: **květen**
 Ukončení příjmu žádostí: **18. 12. 2020**
-2. Snížení energetické náročnosti veřejných budov
+### 2.Snížení energetické náročnosti veřejných budov
 {% asset 'posts/2018/Benesov_radnice.jpg' alt='Benešovká radnice' %}
 V rámci Operačního programu Životní prostředí byla vyhlášena výzva, která má za cíl snížit konečnou spotřebu energie a snížit spotřebu neobnovitelné primární energie prostřednictvím využití lokálních obnovitelných zdrojů ve veřejných budovách.
-**Možné aktivity města:**
-*Zateplení obvodového pláště budovy
-*Výměna a renovace otvorových výplní
-*Realizace opatření majících prokazatelný vliv na energetickou náročnost budovy
-*Realizace systémů nuceného větrání s rekuperací odpadního tepla
-*Realizace systémů využívajících odpadní teplo
-*Instalace solárních panelů
-*Instalaci solárně-termických kolektorů pro přitápění nebo pouze přípravu teplé vody 3
+#### Možné aktivity města:
+* Zateplení obvodového pláště budovy
+* Výměna a renovace otvorových výplní
+* Realizace opatření majících prokazatelný vliv na energetickou náročnost budovy
+* Realizace systémů nuceného větrání s rekuperací odpadního tepla
+* Realizace systémů využívajících odpadní teplo
+* Instalace solárních panelů
+* Instalaci solárně-termických kolektorů pro přitápění nebo pouze přípravu teplé vody 3
 Maximální výše dotace je odstupňována 35 – 50 % ze způsobilých výdajů projektu v závislosti na dosažených úsporách. V případě aktivity realizace systémů využívajících odpadní teplo dosahuje max. výše podpory 70 %. Minimální dotace 100 tis. Kč (bez DPH), maximální výše dotace je do 50 mil. EUR (včetně DPH).
 **Termín výzvy**
 Spuštění výzvy: **březen**
 Ukončení příjmu žádostí: **31. 1. 2019**
-3.Zlepšení kvality prostředí v sídlech
+### 3.Zlepšení kvality prostředí v sídlech
 {% asset 'posts/2018/Benesov_sladovka.jpg' alt='Sladovka - Benešov' %}
 Jde o podporu zakládání a revitalizace funkčních ploch a prvků sídelní zeleně.
 **Možné aktivity města:**
-*zakládání parků, zahrad, sadů, alejí, lesoparků, zatravněných ploch apod.
-*ošetření stromů a doplnění stávající výsadby
-*obnova a zakládání doprovodných vodních prvků jako jezírek, mokřadů, drobných retenčních nádrží apod.
+* zakládání parků, zahrad, sadů, alejí, lesoparků, zatravněných ploch apod.
+* ošetření stromů a doplnění stávající výsadby
+* obnova a zakládání doprovodných vodních prvků jako jezírek, mokřadů, drobných retenčních nádrží apod.
 Maximálně 60 % celkových způsobilých výdajů. Míra spolufinancování je 40 %. Minimální dotace 250 tis. Kč (bez DPH), maximální výše dotace je 150 mil. Kč.
  **Termín výzvy** 
 Spuštění výzvy: **červen**
 Ukončení příjmu žádostí: **15. 11. 2018**
-4.Bezpečnost dopravy
+### 4.Bezpečnost dopravy
 {% asset 'posts/2018/Benesov_chodnik.jpg' alt='Zničené chodníky v Benešově' %}
 Podporu ze státního fondu dopravní infrastruktury (SFDI) lze využít na silnicích I., II. či III. třídy a podél místních komunikací (mimo místních komunikací IV. třídy, na kterých je umožněn smíšený provoz), ležících na trase, která musí být odsouhlasena v rámci Národního rozvojového programu mobility pro všechny s doloženou průměrnou intenzitou dopravy vyšší než 500 vozidel/24 hodin, a to prostřednictvím:
-*výstavby, rekonstrukce nebo úpravy chodníků
-*výstavby, rekonstrukce nebo bezbariérové úpravy nástupišť linkových spojů a veřejné hromadné dopravy (MHD, integrované dopravy, atd.) podél autobusových zastávek 
-*výstavby, rekonstrukce nebo stavební úpravy vlastních autobusových zálivů
-*výstavby nebo rekonstrukce přechodů pro chodce, které navazují na chodníky  
-*výstavby nebo rekonstrukce míst pro přecházení, lávek a podchodů pro chodce, které navazují na chodníky
-*světelného signalizačního zařízení řídícího provoz samostatného přechodu pro chodce, ale vždy ve vazbě na bezbariérově upravený přechod pro chodce 
-*nasvětlení přechodů pro chodce 
+* výstavby, rekonstrukce nebo úpravy chodníků
+* výstavby, rekonstrukce nebo bezbariérové úpravy nástupišť linkových spojů a veřejné hromadné dopravy (MHD, integrované dopravy, atd.) podél autobusových zastávek 
+* výstavby, rekonstrukce nebo stavební úpravy vlastních autobusových zálivů
+* výstavby nebo rekonstrukce přechodů pro chodce, které navazují na chodníky  
+* výstavby nebo rekonstrukce míst pro přecházení, lávek a podchodů pro chodce, které navazují na chodníky
+* světelného signalizačního zařízení řídícího provoz samostatného přechodu pro chodce, ale vždy ve vazbě na bezbariérově upravený přechod pro chodce 
+* nasvětlení přechodů pro chodce 
 Dále také prostřednictvím těchto aktivit na silnicích I., II. nebo III. třídy:
-*úpravy vjezdu do obce (směrové vychýlení jízdního pruhu pomocí dopravního ostrůvku nebo středového dělícího pásu (vstupní brány do obcí) s nasvětlením, fyzické zúžení komunikace, atd.)
-*měřiče rychlosti vozidel s informativními ukazateli okamžité rychlosti vozidel (pouze informativní měřiče)
+* úpravy vjezdu do obce (směrové vychýlení jízdního pruhu pomocí dopravního ostrůvku nebo středového dělícího pásu (vstupní brány do obcí) s nasvětlením, fyzické zúžení komunikace, atd.)
+* měřiče rychlosti vozidel s informativními ukazateli okamžité rychlosti vozidel (pouze informativní měřiče)
 **Dotace až 85 %** z celkových způsobilých výdajů. Minimální dotace 300 tis. Kč, maximální výše dotace je 20 mil. Kč.
-5.Dotace na cyklostezky
+### 5.Dotace na cyklostezky
 {% asset 'posts/2018-Benesov_cyklo.jpg' alt='Špatná realizace cyklostezky  Benešově' %}
 Státní fond dopravní infrastruktury zveřejnil každoroční dotační výzvu na financování výstavby nebo oprav cyklistických stezek pro obce a města. Dotace je ve výši 85 % celkových uznatelných nákladů akce, v případě cyklistické stezky budované na opuštěném drážním tělese a dosahující minimální délky 1 km až 90 % celkových uznatelných nákladů akce. Pro představu - v letech 2000-2014 bylo financováno 499 akcí v celkové výši 1,56 mld. Kč.
 **Termín výzvy**
