@@ -22,7 +22,7 @@ Pojmem **dotace** se v ekonomii rozumí peněžitý dar nebo daru podobná peně
 *Udržitelnost projektu* je doba, po kterou musí příjemce udržet výstupy a výsledky projektu v nezměněné podobě. Jinými slovy udržitelnost projektu znamená, že po nějakou dobu musí projekt sloužit účelu, na který byla dotace poskytnuta, i po ukončení realizace (po vybudování školky musí objekt sloužit jako školka). Výstupy projektu musí být tedy udrženy v nezměněné podobě zpravidla po dobu 3 až 5 let ode dne ukončení fyzické realizace projektu.  Naplňování a udržení hodnot výstupů může být předmětem kontroly ze strany příslušných institucí. Při nedodržení podmínek může být žadatel požádán o vrácení celé dotace nebo její části.1
 ## Příklady možností čerpání dotací pro Benešov
 Teď už k některým vybraným možnostem dotací, které by mohlo město využít.
-### 1.Zdroje pitné vody
+### 1. Zdroje pitné vody
 {% asset 'posts/2018/Benesov_kasna.jpg' alt='fontánka v Benešově' %}
 Program Zdroje pitné vody, který je součástí Národního programu Životní prostředí, je zaměřen na podporu aktivit, které vedou k zajištění průzkumů, navržení a realizaci technických prací (např. vrtů) pro rozšíření možnosti zásobování obyvatelstva pitnou vodou z podzemních zdrojů, a tím zajištění dodávek pitné vody v odpovídající jakosti a množství.
 #### Možné aktivity města:
@@ -32,7 +32,7 @@ Minimální výše podpory je stanovena na 100 tis. Kč, maximální na 3 mil. K
 **Termín výzvy**
 Spuštění výzvy: **květen**
 Ukončení příjmu žádostí: **18. 12. 2020**
-### 2.Snížení energetické náročnosti veřejných budov
+### 2. Snížení energetické náročnosti veřejných budov
 {% asset 'posts/2018/Benesov_radnice.jpg' alt='Benešovká radnice' %}
 V rámci Operačního programu Životní prostředí byla vyhlášena výzva, která má za cíl snížit konečnou spotřebu energie a snížit spotřebu neobnovitelné primární energie prostřednictvím využití lokálních obnovitelných zdrojů ve veřejných budovách.
 #### Možné aktivity města:
@@ -47,7 +47,7 @@ Maximální výše dotace je odstupňována 35 – 50 % ze způsobilých výdaj�
 **Termín výzvy**
 Spuštění výzvy: **březen**
 Ukončení příjmu žádostí: **31. 1. 2019**
-### 3.Zlepšení kvality prostředí v sídlech
+### 3. Zlepšení kvality prostředí v sídlech
 {% asset 'posts/2018/Benesov_sladovka.jpg' alt='Sladovka - Benešov' %}
 Jde o podporu zakládání a revitalizace funkčních ploch a prvků sídelní zeleně.
 **Možné aktivity města:**
@@ -58,7 +58,7 @@ Maximálně 60 % celkových způsobilých výdajů. Míra spolufinancování je 
  **Termín výzvy** 
 Spuštění výzvy: **červen**
 Ukončení příjmu žádostí: **15. 11. 2018**
-### 4.Bezpečnost dopravy
+### 4. Bezpečnost dopravy
 {% asset 'posts/2018/Benesov_chodnik.jpg' alt='Zničené chodníky v Benešově' %}
 Podporu ze státního fondu dopravní infrastruktury (SFDI) lze využít na silnicích I., II. či III. třídy a podél místních komunikací (mimo místních komunikací IV. třídy, na kterých je umožněn smíšený provoz), ležících na trase, která musí být odsouhlasena v rámci Národního rozvojového programu mobility pro všechny s doloženou průměrnou intenzitou dopravy vyšší než 500 vozidel/24 hodin, a to prostřednictvím:
 * výstavby, rekonstrukce nebo úpravy chodníků
@@ -73,14 +73,14 @@ Dále také prostřednictvím těchto aktivit na silnicích I., II. nebo III. t�
 * měřiče rychlosti vozidel s informativními ukazateli okamžité rychlosti vozidel (pouze informativní měřiče)
 **Dotace až 85 %** z celkových způsobilých výdajů. Minimální dotace 300 tis. Kč, maximální výše dotace je 20 mil. Kč.
 ### 5.Dotace na cyklostezky
-{% asset 'posts/2018-Benesov_cyklo.jpg' alt='Špatná realizace cyklostezky  Benešově' %}
+{% asset 'posts/2018/Benesov_cyklo.jpg' alt='Špatná realizace cyklostezky  Benešově' %}
 Státní fond dopravní infrastruktury zveřejnil každoroční dotační výzvu na financování výstavby nebo oprav cyklistických stezek pro obce a města. Dotace je ve výši 85 % celkových uznatelných nákladů akce, v případě cyklistické stezky budované na opuštěném drážním tělese a dosahující minimální délky 1 km až 90 % celkových uznatelných nákladů akce. Pro představu - v letech 2000-2014 bylo financováno 499 akcí v celkové výši 1,56 mld. Kč.
 **Termín výzvy**
 Spuštění výzvy: **červen 2018**
 Ukončení příjmu žádostí: **20. 11. 2018**
 Z dotačních možností jsou vybrané pouze ty, o které je k dnešnímu datu možné žádat. Jistě to nejsou veškeré varianty využitelných zdrojů dotací, z uvedených příkladů ale vidíte, že možností je dostatek.
-**Použité zdroje:**
-*DotaceEU [online]. Ministerstvo pro místní rozvoj ČR, 2018, 2018 [cit. 2018-09-28]. Dostupné z: http://www.dotaceeu.cz/cs/Ostatni/Dulezite/Slovnik-pojmu/U/Udrzitelnost-projektu
-*Národní program Životní prostředí [online]. 2018, 2. 5. 2018 [cit. 2018-09-28]. Dostupné z: https://www.narodniprogramzp.cz/dokumenty/detail/?id=518
-*Výzvy. Operační program Životní prostředí [online]. Státní fond životního prostředí ČR, 2018, 2018 [cit. 2018-09-28]. Dostupné z: https://www.opzp.cz/vyzvy/
-*Poskytování příspěvků. Státní fond dopravní infrastruktury [online]. Státní fond dopravní infrastruktury, 2018, 2018 [cit. 2018-09-28]. Dostupné z: https://www.sfdi.cz/poskytovani-prispevku/vyhlasene-vyzvy/
+### Použité zdroje:
+* DotaceEU [online]. Ministerstvo pro místní rozvoj ČR, 2018, 2018 [cit. 2018-09-28]. Dostupné z: http://www.dotaceeu.cz/cs/Ostatni/Dulezite/Slovnik-pojmu/U/Udrzitelnost-projektu
+* Národní program Životní prostředí [online]. 2018, 2. 5. 2018 [cit. 2018-09-28]. Dostupné z: https://www.narodniprogramzp.cz/dokumenty/detail/?id=518
+* Výzvy. Operační program Životní prostředí [online]. Státní fond životního prostředí ČR, 2018, 2018 [cit. 2018-09-28]. Dostupné z: https://www.opzp.cz/vyzvy/
+* Poskytování příspěvků. Státní fond dopravní infrastruktury [online]. Státní fond dopravní infrastruktury, 2018, 2018 [cit. 2018-09-28]. Dostupné z: https://www.sfdi.cz/poskytovani-prispevku/vyhlasene-vyzvy/
