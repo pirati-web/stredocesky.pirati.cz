@@ -50,6 +50,7 @@ Minimální výše podpory je stanovena na 100 tis. Kč, maximální na 3 mil. K
 **Termín výzvy**
 
 Spuštění výzvy: **květen**
+
 Ukončení příjmu žádostí: **18. 12. 2020**
 
 ### 2. Snížení energetické náročnosti veřejných budov
@@ -73,7 +74,9 @@ Maximální výše dotace je odstupňována 35 – 50 % ze způsobilých výdaj�
 **Termín výzvy**
 
 Spuštění výzvy: **březen**
+
 Ukončení příjmu žádostí: **31. 1. 2019**
+
 ### 3. Zlepšení kvality prostředí v sídlech
 
 {% asset 'posts/2018/Benesov_sladovka.jpg' alt='Sladovka - Benešov' %}
@@ -90,6 +93,7 @@ Maximálně 60 % celkových způsobilých výdajů. Míra spolufinancování je 
 **Termín výzvy** 
 
 Spuštění výzvy: **červen**
+
 Ukončení příjmu žádostí: **15. 11. 2018**
 
 ### 4. Bezpečnost dopravy
@@ -120,6 +124,7 @@ Státní fond dopravní infrastruktury zveřejnil každoroční dotační výzvu
 **Termín výzvy**
 
 Spuštění výzvy: **červen 2018**
+
 Ukončení příjmu žádostí: **20. 11. 2018**
 
 Z dotačních možností jsou vybrané pouze ty, o které je k dnešnímu datu možné žádat. Jistě to nejsou veškeré varianty využitelných zdrojů dotací, z uvedených příkladů ale vidíte, že možností je dostatek.
