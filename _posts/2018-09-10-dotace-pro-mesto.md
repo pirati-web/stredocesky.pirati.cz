@@ -7,8 +7,8 @@ tags:
 layout: post
 title: Dotace pro město - Základní přehled
 author: Daniel Netušil
-authorId:    # uid nekoho z _people (nepoviné)
-image: posts/2018/Benesov_radnice.jpg
+#authorId:    # uid nekoho z _people (nepoviné)
+image: posts/2018/benesov-radnice.jpg
 ---
 # Dotace pro město - Základní přehled
 
@@ -36,7 +36,7 @@ Teď už k některým vybraným možnostem dotací, které by mohlo město využ
 
 ### 1. Zdroje pitné vody
 
-{% asset 'posts/2018/Benesov_kasna.jpg' alt='fontánka v Benešově' %}
+{% asset 'posts/2018/benesov-kasna.jpg' alt='fontánka v Benešově' %}
 
 Program Zdroje pitné vody, který je součástí Národního programu Životní prostředí, je zaměřen na podporu aktivit, které vedou k zajištění průzkumů, navržení a realizaci technických prací (např. vrtů) pro rozšíření možnosti zásobování obyvatelstva pitnou vodou z podzemních zdrojů, a tím zajištění dodávek pitné vody v odpovídající jakosti a množství.
 
@@ -55,7 +55,7 @@ Ukončení příjmu žádostí: **18. 12. 2020**
 
 ### 2. Snížení energetické náročnosti veřejných budov
 
-{% asset 'posts/2018/Benesov_radnice.jpg' alt='Benešovká radnice' %}
+{% asset 'posts/2018/benesov-radnice.jpg' alt='Benešovká radnice' %}
 
 V rámci Operačního programu Životní prostředí byla vyhlášena výzva, která má za cíl snížit konečnou spotřebu energie a snížit spotřebu neobnovitelné primární energie prostřednictvím využití lokálních obnovitelných zdrojů ve veřejných budovách.
 
@@ -79,7 +79,7 @@ Ukončení příjmu žádostí: **31. 1. 2019**
 
 ### 3. Zlepšení kvality prostředí v sídlech
 
-{% asset 'posts/2018/Benesov_sladovka.jpg' alt='Sladovka - Benešov' %}
+{% asset 'posts/2018/benesov-sladovka.jpg' alt='Sladovka - Benešov' %}
 
 Jde o podporu zakládání a revitalizace funkčních ploch a prvků sídelní zeleně.
 
@@ -98,7 +98,7 @@ Ukončení příjmu žádostí: **15. 11. 2018**
 
 ### 4. Bezpečnost dopravy
 
-{% asset 'posts/2018/Benesov_chodnik.jpg' alt='Zničené chodníky v Benešově' %}
+{% asset 'posts/2018/benesov-chodnik.jpg' alt='Zničené chodníky v Benešově' %}
 
 Podporu ze státního fondu dopravní infrastruktury (SFDI) lze využít na silnicích I., II. či III. třídy a podél místních komunikací (mimo místních komunikací IV. třídy, na kterých je umožněn smíšený provoz), ležících na trase, která musí být odsouhlasena v rámci Národního rozvojového programu mobility pro všechny s doloženou průměrnou intenzitou dopravy vyšší než 500 vozidel/24 hodin, a to prostřednictvím:
 
@@ -117,7 +117,7 @@ Dále také prostřednictvím těchto aktivit na silnicích I., II. nebo III. t�
 
 ### 5.Dotace na cyklostezky
 
-{% asset 'posts/2018/Benesov_cyklo.jpg' alt='Špatná realizace cyklostezky  Benešově' %}
+{% asset 'posts/2018/benesov-cyklo.jpg' alt='Špatná realizace cyklostezky  Benešově' %}
 
 Státní fond dopravní infrastruktury zveřejnil každoroční dotační výzvu na financování výstavby nebo oprav cyklistických stezek pro obce a města. Dotace je ve výši 85 % celkových uznatelných nákladů akce, v případě cyklistické stezky budované na opuštěném drážním tělese a dosahující minimální délky 1 km až 90 % celkových uznatelných nákladů akce. Pro představu - v letech 2000-2014 bylo financováno 499 akcí v celkové výši 1,56 mld. Kč.
 
