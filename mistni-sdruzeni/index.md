@@ -20,7 +20,7 @@ title: Místní sdružení ve Středočeském kraji
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/piratskapalubaBN" target="_blank">Benešov</a>
+                      <a href="https://wiki.pirati.cz/regiony/strednicechy/benesov/start" target="_blank">Benešov</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Benešov</li>
