@@ -6,7 +6,7 @@ description: Jsme jediná strana nespojená se skandály, korupcí, byrokracií.
 
 Piráti se intenzivně připravují na komunální volby po celé České republice a Středočeši v žádném ohledu nezahálejí. Primární volby jsou v plném proudu a první místa pirátských kandidátek jsou již jasná. V hlasování dostal prostor k vyjádření každý člen krajského fóra (případně místního sdružení) k volbě toho nejpovolanějšího. Mezi zvolenými kapitány jednotlivých posádek se umístila řada zajímavých osobností. Pojďme si je v následujících řádcích stručně představit.
 
-## <img src="pirat.jpg" width="50px"/> Příbram
+## <img src="pirat.jpg" width="50px"/> Příbram (<span style="text-decoration: underline;"><a href="https://www.facebook.com/PiratiPB/">facebook</a></span>)
 
 Zde byl do čelního místa zvolen samotný předseda středočeského krajského sdružení Antonín Schejbal, který v současné době studuje na Univerzitě Karlově management sportu. Během svých středoškolských studií pobýval i tři měsíce na gymnáziu Kanti Baden ve Švýcarsku. Mimo jiné se věnuje práci dobrovolníka v lidskoprávní organizaci Amnesty International. Antonín je schopným organizátorem a v Příbrami uspořádal již celou řadu sportovních a kulturních akcí. V rámci města by chtěl zvyšovat kvalitu pořádaných kulturních a sportovních akcí, věnovat se racionální a zodpovědné modernizaci a zlepšit přístup k volnočasovým sportovním aktivitám pro širokou veřejnost.
 
@@ -18,11 +18,11 @@ Město na Labi potáhne do komunálních voleb Ing. arch. Vojtěch Ertl. Vojta s
 
 V historickém skvostu Středočeského kraje obsadil čelní pozici Bc. Štěpán Drtina. Krása jeho bydliště přímo koresponduje se zaměřením jeho studia. Štěpán studuje historii na Filozofické fakultě Univerzity Hradec Králové. Ve svých závěrečných prací se věnuje jak slavné středověké minulosti Kutné Hory, tak jejím moderním dějinám po roce 1945. Při studiu zároveň pracuje jako Koordinátor středočeského krajského sdružení Pirátů. Vzhledem k jeho předchozímu pedagogickému vzdělání se věnuje práci s mládeží a do budoucna by se chtěl hlouběji věnovat problematice vzdělávání na všech úrovních. Zároveň s tímto se zajímá o transparenci a otevřený přístup k informacím, které chce na úrovni města prosazovat.
 
-## <img src="pirat.jpg" width="50px"/> Benešov
+## <img src="pirat.jpg" width="50px"/> Benešov (<span style="text-decoration: underline;"><a href="https://wiki.pirati.cz/regiony/strednicechy/benesov/start">wiki</a></span>)
 
 Zde byl místním sdružením na přední místo zvolen Mgr. Daniel Netušil. Své studium absolvoval na ČVUT v oboru Řízení regionálních projektů. Momentálně pracuje jako metodik fondů EU a ekonomické spolupráce na Generálním ředitelství Národního památkového ústavu. Mimo zaměstnání je také divadelním hercem a písničkářem účinkujícím převážně na Benešovsku. O dění v Benešově se zajímá dlouhá léta a jako zastupitel by chtěl více otevřít radnici lidem, zasloužit se o větší transparentnost a více zapojit občany do dění ve městě. Stejně tak by chtěl dosáhnout soběstačnosti Benešova ve všech oblastech, které jsou zároveň uspokojovány mimo jeho hranice (kultura, volný čas, pracovní uplatnění, podnikání, vzdělávání aj.)
 
-## <img src="pirat.jpg" width="50px"/> Nymburk
+## <img src="pirat.jpg" width="50px"/> Nymburk (<span style="text-decoration: underline;"><a href="https://www.facebook.com/PiratiNymburk/">facebook</a></span>)
 
 Krajské fórum Středočeského kraje do pozice zdejšího leadera vyneslo bývalého předsedu krajského sdružení Petra Procházku. Na tuto pozici nedávno rezignoval, aby se mohl více věnovat práci na sestavení místní komunální kandidátky. Petr se zároveň velice těsným výsledkem nedostal v říjnových volbách do Poslanecké sněmovny, kdy kandidoval ze čtvrtého místa středočeské pirátské kandidátky. Rád cestuje, zajímá se o organizaci kulturních akcí, koncertů a malých festivalů. Jako moderátor také vystupuje v internetovém rádiu Patriot. V Nymburce chce ještě více otevřít radnici města a snažit se o vyřešení místních nejpalčivějších problémů.
 	
