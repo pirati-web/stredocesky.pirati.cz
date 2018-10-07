@@ -2,7 +2,7 @@
 date: 2018-10-07
 category: blog
 tags:
- - "komunální volby"
+ - komunální_volby
 layout: post
 title: Tisková zpráva - Piráti se ve Středočeském kraji prosadili
 author: Klára Kocmanová
