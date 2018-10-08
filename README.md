@@ -19,6 +19,8 @@
 * citace v samostatném odstavci s uvozovkama + uvozením autora (před nebo poté)
 * dlouhé URL odkazy v seznamu dalších zdrojů je třeba opatřit jednoznačným jménem/popisem (např. iDnes: K Jirkovi se vrátit nechci, říká Andrea Pomeje)
 
+Obrázky pro články by měly být zmenšené do 800px, s jpeg kvalitou 95% a velikostí souboru do 300KB.
+
 Všechny články jdou přes Jirku Snížka, který ve spolupráci s PKD a mediálním odborem kraje posuzuje, zda patří na krajský web.
 
 # Co má nebo musí mít osobní profilová stránka
