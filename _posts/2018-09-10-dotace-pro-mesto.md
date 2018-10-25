@@ -16,9 +16,9 @@ V tomto příspěvku se nebudu zabývat tím, zda jsou dotace dobré nebo špatn
 
 ## Vyplatí se obci dotace?
 
-Pojmem dotace se v ekonomii rozumí peněžitý dar nebo daru podobná peněžitá úhrada. Obdržet dar je vždycky skvělé nebo ne? Dotace se městu vyplatí vždy, pokud je použita účelně s ohledem na hospodárnost a efektivitu. Žádat o dotaci na projekt, který není v souladu se záměry města, je přinejmenším plýtváním prostředků, které mohly být využity smysluplněji. O dotaci je možné zažádat z evropských, státních i jiných zdrojů (např. Nadace ČEZ). Žadatel, v tomto případě město, předkládá projekty do tzv. výzev, do kterých se žadatelé mohou hlásit v určitém časovém horizontu a je na ně vždy alokována určitá část finančních prostředků. Při dotaci je vždy příslušným orgánem financována určitá procentuální část rozpočtu projektu, tzv. způsobilé výdaje (uznatelné náklady), tu zbývající musí zaplatit žadatel (město).
+Pojmem dotace se v ekonomii rozumí peněžitý dar nebo daru podobná peněžitá úhrada. Obdržet dar je vždycky skvělé nebo ne? Dotace se městu vyplatí vždy, pokud je použita účelně s ohledem na hospodárnost a efektivitu. Žádat o dotaci na projekt, který není v souladu se záměry města, je přinejmenším plýtváním prostředků, které mohly být využity smysluplněji. O dotaci je možné zažádat z evropských, státních i jiných zdrojů (např. Nadace ČEZ). Žadatel, v tomto případě město, předkládá projekty do tzv. výzev, do kterých se žadatelé mohou hlásit v určitém časovém horizontu, a je na ně vždy alokována určitá část finančních prostředků. Při dotaci je vždy příslušným orgánem financována určitá procentuální část rozpočtu projektu, tzv. způsobilé výdaje (uznatelné náklady), tu zbývající musí zaplatit žadatel (město).
 
-Příklad? Pokud město bude realizovat projekt za 100 mil a maximální výše dotace bude 85 % způsobilých výdajů, bude městu proplacena částka 85 mil. a zbylých 15 mil. zaplatí město ze svého rozpočtu.
+Příklad? Pokud město bude realizovat projekt za 100 mil. Kč a maximální výše dotace bude 85 % způsobilých výdajů, bude městu proplacena částka 85 mil. Kč a zbylých 15 mil. Kč zaplatí město ze svého rozpočtu.
 
 ## Co je to ta udržitelnost?
 
@@ -26,7 +26,7 @@ Příklad? Pokud město bude realizovat projekt za 100 mil a maximální výše 
 
 ### Co ta udržitelnost vlastně je?
 
-Udržitelnost projektu je doba, po kterou musí příjemce udržet výstupy a výsledky projektu v nezměněné podobě. Jinými slovy udržitelnost projektu znamená, že po nějakou dobu musí projekt sloužit účelu, na který byla dotace poskytnuta, i po ukončení realizace (po vybudování školky musí objekt sloužit jako školka). Výstupy projektu musí být tedy udrženy v nezměněné podobě zpravidla po dobu 3 až 5 let ode dne ukončení fyzické realizace projektu.  Naplňování a udržení hodnot výstupů může být předmětem kontroly ze strany příslušných institucí. Při nedodržení podmínek může být žadatel požádán o vrácení celé dotace nebo její části.
+Udržitelnost projektu je doba, po kterou musí příjemce udržet výstupy a výsledky projektu v nezměněné podobě. Jinými slovy udržitelnost projektu znamená, že po nějakou dobu musí projekt sloužit účelu, na který byla dotace poskytnuta, i po ukončení realizace (po vybudování školky musí objekt sloužit jako školka). Výstupy projektu musí být tedy udrženy v nezměněné podobě zpravidla po dobu 3 až 5 let ode dne ukončení fyzické realizace projektu.  Naplňování a udržení hodnot výstupů může být předmětem kontroly ze strany příslušných institucí. Při nedodržení podmínek může být žadatel požádán o vrácení celé dotace, nebo její části.
 
 ## Příklady možností čerpání dotací pro Benešov
 
@@ -40,9 +40,9 @@ Program Zdroje pitné vody, který je součástí Národního programu Životní
 
 #### Možné aktivity města:
 
-* **Na výstavbu nových nebo regenerace stávajících zdrojů pitné vody** (podzemních i povrchových) či na výstavbu a rekonstrukci přivaděčů pitné vody (od zdroje vody, skupinového vodovodu, dálkového přivaděče, apod.), včetně instalace nezbytné technologie a napojení těchto zdrojů nebo přivaděčů na stávající vodovod pro veřejnou potřebu
-* **Na zajištění průzkumných vrtů** za účelem vyhledání zdrojů pitné vody pro zásobování obyvatelstva 
-Minimální výše podpory je stanovena na 100 tis. Kč, maximální na 3 mil. Kč. Výše podpory je max. 80 % způsobilých výdajů, v závislosti na akutnosti nedostatku pitné vody řešené v rámci projektu.
+* **Na výstavbu nových nebo regenerace stávajících zdrojů pitné vody** (podzemních i povrchových) či na výstavbu a rekonstrukci přivaděčů pitné vody (od zdroje vody, skupinového vodovodu, dálkového přivaděče, apod.), včetně instalace nezbytné technologie a napojení těchto zdrojů nebo přivaděčů na stávající vodovod pro veřejnou potřebu.
+* **Na zajištění průzkumných vrtů** za účelem vyhledání zdrojů pitné vody pro zásobování obyvatelstva.
+Minimální výše podpory je stanovena na 100 tis. Kč, maximální na 3 mil. Kč. Výše podpory je max. 80 % způsobilých výdajů v závislosti na akutnosti nedostatku pitné vody řešené v rámci projektu.
 
 ##### Termíny výzvy
 
@@ -63,7 +63,7 @@ V rámci Operačního programu Životní prostředí byla vyhlášena výzva, kt
 * Realizace systémů nuceného větrání s rekuperací odpadního tepla
 * Realizace systémů využívajících odpadní teplo
 * Instalace solárních panelů
-* Instalaci solárně-termických kolektorů pro přitápění nebo pouze přípravu teplé vody 3
+* Instalaci solárně-termických kolektorů pro přitápění nebo pouze přípravu teplé vody
 
 Maximální výše dotace je odstupňována 35 – 50 % ze způsobilých výdajů projektu v závislosti na dosažených úsporách. V případě aktivity realizace systémů využívajících odpadní teplo dosahuje max. výše podpory 70 %. Minimální dotace 100 tis. Kč (bez DPH), maximální výše dotace je do 50 mil. EUR (včetně DPH).
 
@@ -94,7 +94,7 @@ Maximálně 60 % celkových způsobilých výdajů. Míra spolufinancování je 
 
 {% asset 'posts/2018/benesov-chodnik.jpg' alt='Zničené chodníky v Benešově' %}
 
-Podporu ze státního fondu dopravní infrastruktury (SFDI) lze využít na silnicích I., II. či III. třídy a podél místních komunikací (mimo místních komunikací IV. třídy, na kterých je umožněn smíšený provoz), ležících na trase, která musí být odsouhlasena v rámci Národního rozvojového programu mobility pro všechny s doloženou průměrnou intenzitou dopravy vyšší než 500 vozidel/24 hodin, a to prostřednictvím:
+Podporu ze Státního fondu dopravní infrastruktury (SFDI) lze využít na silnicích I., II. či III. třídy a podél místních komunikací (mimo místních komunikací IV. třídy, na kterých je umožněn smíšený provoz) ležících na trase, která musí být odsouhlasena v rámci Národního rozvojového programu mobility pro všechny s doloženou průměrnou intenzitou dopravy vyšší než 500 vozidel/24 hodin, a to prostřednictvím:
 
 * výstavby, rekonstrukce nebo úpravy chodníků
 * výstavby, rekonstrukce nebo bezbariérové úpravy nástupišť linkových spojů a veřejné hromadné dopravy (MHD, integrované dopravy, atd.) podél autobusových zastávek 
@@ -102,7 +102,8 @@ Podporu ze státního fondu dopravní infrastruktury (SFDI) lze využít na siln
 * výstavby nebo rekonstrukce přechodů pro chodce, které navazují na chodníky  
 * výstavby nebo rekonstrukce míst pro přecházení, lávek a podchodů pro chodce, které navazují na chodníky
 * světelného signalizačního zařízení řídícího provoz samostatného přechodu pro chodce, ale vždy ve vazbě na bezbariérově upravený přechod pro chodce 
-* nasvětlení přechodů pro chodce 
+* nasvětlení přechodů pro chodce
+
 Dále také prostřednictvím těchto aktivit na silnicích I., II. nebo III. třídy:
 * úpravy vjezdu do obce (směrové vychýlení jízdního pruhu pomocí dopravního ostrůvku nebo středového dělícího pásu (vstupní brány do obcí) s nasvětlením, fyzické zúžení komunikace, atd.)
 * měřiče rychlosti vozidel s informativními ukazateli okamžité rychlosti vozidel (pouze informativní měřiče)
