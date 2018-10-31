@@ -103,6 +103,14 @@ To udělejte vždy, než něco začnete měnit.
 git fetch
 ```
 
+## Upgrade témátka
+
+1. zjistit [poslední release](https://github.com/pirati-web/jekyll-theme-pirati/releases) a projít changelog
+2. nahradit verzi v Gemfile (jekyll-theme-pirati)
+3. nahradit verzi v _config.yml (vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-...)
+4. spustit *bundle install*
+5. otestovat lokální build
+
 ## CODE HOWTO - vložení upoutávky článku
 ```
 {% assign article = site.posts | where: "url", "/url-k-clanku/" | first %}
