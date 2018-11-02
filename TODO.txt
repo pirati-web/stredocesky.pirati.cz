@@ -17,9 +17,13 @@ RESI PKS / Jirka Snizek
   https://wiki.pirati.cz/regiony/strednicechy/start
 
 RESI Jan Korbel
+* profily zastupitelu (po dodani podkladu)
+* vymenit koordinatory
+* zmenit PiCe
 * stranky pro jednotliva MS podle vzoru https://olomoucky.pirati.cz/mistni-sdruzeni/
   nebo https://moravskoslezsky.pirati.cz/mistni-sdruzeni/
  - podstranky jako /benesov/ /brandys/ /kolin/ /kladno/ /mlada-boleslav/ /pribram/
+ - vcetne e-mailu jako benesov@pirati.cz
 
 RESI Dalibor Zahora
 * upravit logo - text zmenit na Středočští Piráti
