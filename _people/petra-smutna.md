@@ -6,9 +6,9 @@ titles:
   after:
 category:
   - pks
-description: 1. místopředsedkyně kraje
+description: 3. místopředsedkyně kraje
 img: people/petra-smutna.jpg
-ordPKS: 2
+ordPKS: 4
 mail:
   - petra.smutna@pirati.cz
 mob:

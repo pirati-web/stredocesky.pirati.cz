@@ -5,10 +5,8 @@ titles:
   before:
   after:
 category:
-  - pks
-description: předseda kraje
+description: člen
 img: people/antonin-schejbal.jpg
-ordPKS: 1
 mail:
   - antonin.schejbal@pirati.cz
 mob:

@@ -6,7 +6,10 @@ titles:
   after: 
 category:
   - kandidat-2018-komunalni-kutna_hora
-description: kandidát - Kutná Hora 2018
+  - koordinator
+  - kontaktni_osoba
+description: krajský koordinátor
+ordKoordinator: 1
 img: people/klara-kocmanova.jpg
 mail:
   - kocman.klara@seznam.cz
