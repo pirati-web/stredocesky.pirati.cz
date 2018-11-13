@@ -12,8 +12,8 @@ description: krajský koordinátor
 ordKoordinator: 1
 img: people/klara-kocmanova.jpg
 mail:
-  - kocman.klara@seznam.cz
-mob:
+  - klara.kocmanova@pirati.cz
+mob: +420 778 111 488
  # -
 profiles:
   github:

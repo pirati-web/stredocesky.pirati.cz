@@ -9,8 +9,6 @@ description: člen
 img: people/filip-dite.jpg
 mail:
   - filip.dite@pirati.cz
-mob:
-  - +420 770 113 646
 profiles:
 ---
 
