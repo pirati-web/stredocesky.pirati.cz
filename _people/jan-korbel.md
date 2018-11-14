@@ -26,7 +26,7 @@ Vystudoval slaboproudou elektroprůmyslovku, obor výpočetní technika, ale s p
 
 Další školu dostal při plnění civilní služby na ústavu informatiky Akademie věd. Nyní se živí správou Linuxových serverů, různých síťových zařízení a bezpečností. Používá a při každé vhodné příležitosti propaguje svobodný software. Sám se snaží komunitě něco vracet, ať už sdílením zkušeností z funkčních řešení, překlady, bugreporty nebo drobnými patchi.
 
-Českou pirátskou stranu sleduje od jejího vzniku na abclinuxu.cz a sdílí myšlenku svobodného přístupu k informacím. První pirátskou akcí, které se účastnil, byl protest proti ACTA.
+Českou pirátskou stranu sleduje od jejího vzniku na abclinuxu.cz a sdílí myšlenku svobodného přístupu k informacím. První pirátskou akcí, které se účastnil, byl protest proti ACTA v roce 2012.
 
 Od znovuobnovení skautské organizace v roce 1989 je členem píseckého střediska Stínadla, jehož byl v letech 2013-2016 také statutárním zástupcem. V Praze hraje nohejbalovou soutěž.
 
