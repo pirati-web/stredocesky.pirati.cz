@@ -4,7 +4,7 @@ title: Místní sdružení Benešov
 description: Místní sdružení Benešov
 keywords: piráti, místní sdružení, Benešov
 mail: neco@nekde.net
-facebook: facebooknemame
+facebook: piratskapalubaBN
 forum: https://forum.pirati.cz/viewforum.php?f=967
 predsednictvo:
  - funkce: předseda
