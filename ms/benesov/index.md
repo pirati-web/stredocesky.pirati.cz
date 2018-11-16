@@ -1,20 +1,43 @@
 ---
-layout: members
-title: Volby do Senátu 2018
-description: Kandidáti do Senátu ve Středočeském kraji
-keywords: lidé, členové, piráti, pirátky, příznivci, středočeši, středočeský kraj, senat, volby
-viewMode: grouped # or alltogether
-#viewMode: alltogether
-groups:
-  - name: Kandidáti do Senátu
-    category: kandidat-senator2018
-#    sort: ordPoslanec
+layout: default
+title: Místní sdružení Benešov
+description: Místní sdružení Benešov
+keywords: piráti, místní sdružení, Benešov
 ---
-{% assign person = site.people | where: "uid", "daniela.weissova" | first %}
-{% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
-**Daniela Weissová** je členkou Pirátské strany od roku 2014, kandiduje v <span style="text-decoration: underline;">[senátním obvodu č. 38 Mladá Boleslav](https://www.czso.cz/documents/11240/17978470/senat_2012_38_mlada_boleslav.jpg)</span>, který zasahuje i do regionu Turnova v Libereckém kraji.
+<div class="row o-section-block ">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" itemscope="">
+            <header class="c-page-header">
+              <h1 itemprop="headline" class="c-page-title">Místní sdružení Benešov</h1>
+	    </header>
+            <!--<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">-->
+            <div class="o-section-block o-section-block--fill">
+              <div class="u-cf">
+                <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-8{% endif %} columns o-section-mediumdown-divided-small">
+                  <div itemprop="description" class="c-content-block c-emphasized-text">
 
-{% assign person = site.people | where: "uid", "petr.chalus" | first %}
-{% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
-**Petr Chaluš** je nestraník nominovaný Pirátskou stranou a s podporou [Senátor 21](https://www.senator21.cz/kandidati/petr-chalus/), kandiduje ve Středočeském kraji, v <span style="text-decoration: underline;">[senátním obvodu 41 - Benešovsko](https://www.czso.cz/documents/11240/17978470/senat_2012_41_benesov.jpg)</span>, Praha - východ a Praha - západ.
+Základní informace...
+
+                  </div>
+                </div>
+                <div class="medium-12 {% if page.contentSize == 'even' %}large-6{% else %}large-4{% endif %} columns o-section-mediumdown-divided-small">
+                  <div class="o-section-header o-section-header--indented">
+                    <h5>Předsednictvo místního sdružení</h5>
+                  </div>
+
+* předsedkyně: *Jana Skopalíková*
+
+                </div>
+              </div>
+            </div>
+          </article>
+        </main>
+      </div>
+    </section>
+  </div>
+</div>
 
