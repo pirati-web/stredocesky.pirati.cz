@@ -2,7 +2,7 @@
 date: 2018-10-09
 category: blog
 tags:
- - komunální_volby
+ - komunální_politika
  - Kladno
 layout: post
 title: Jakub Václavovič k situaci na Kladně
