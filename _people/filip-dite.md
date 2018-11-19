@@ -14,7 +14,7 @@ profiles:
 
 **Filip Dítě** (* 6. červenec 1988) pochází z Mladé Boleslavi, kde i žije.
 
-Je vyučen. Ve svém profesním životě se nenudil, prošel několika firmami a podniky. Tři roky pracoval v logistice než přešel na dráhu barmana, ve které vydržel pět let. Poté se vrátil k profesi v logistice (řidič VZV), kterou vykonával až do nástupu na pozici krajského koordinátora v březnu 2018.
+Je vyučen. Ve svém profesním životě se nenudil, prošel několika firmami a podniky. Tři roky pracoval v logistice než přešel na dráhu barmana, ve které vydržel pět let. Poté se vrátil k profesi v logistice (řidič VZV). Během roku 2018 působil jako koordinátor Krajského sdružení Pirátů.
 
 Mezi jeho zájmy patří hudba, práce s PC, rád se podívá na dokumenty nebo posedí s přáteli. 
 
