@@ -32,6 +32,7 @@ layout: default
                   {% for item in page.predsednictvo %}
                   <li>{{item.funkce}}: <strong>{{item.jmeno}}</strong></li>
                   {% endfor %}
+                  <li>konec mandátu: <a href="{{page.volba}}" style="text-decoration:underline">{{page.mandat-do}}</a></li>
                 </ul>
                 <h3>Kontakty</h3>
                 <i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{page.mail}}">{{page.mail}}</a><br/>

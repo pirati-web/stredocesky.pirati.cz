@@ -11,6 +11,8 @@ predsednictvo:
    jmeno: Jana Skopalíková
  - funkce: 1. místopředseda
    jmeno: Perry Mason
+mandat-do: 25.10.2020
+volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 ---
 Lorem ipsum dolor sit amet consectetur adipiscing elit vehicula morbi, nam class per porta proin blandit volutpat pulvinar porttitor, lobortis mus sem ullamcorper ridiculus rutrum curae rhoncus. Justo turpis id class risus feugiat malesuada aliquam nullam vitae habitasse placerat, lacinia dui rhoncus mauris blandit venenatis condimentum et nunc quisque. Erat quisque commodo nostra phasellus ultricies montes tortor ornare, purus at et turpis egestas placerat posuere natoque, vehicula nullam orci lectus aenean eu quam.
 

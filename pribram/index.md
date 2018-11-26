@@ -13,6 +13,8 @@ predsednictvo:
    jmeno: Antonín Schejbal
  - funkce: 2. místopředseda
    jmeno: Josef Bouše
+mandat-do: 14.04.2020
+volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40825
 ---
 {% asset 'ms/pribram/pohlednice.jpg' alt='pohlednice' %}
 
