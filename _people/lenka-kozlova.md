@@ -10,15 +10,14 @@ description: poslankyně Parlamentu ČR
 img: people/lenka-kozlova.jpg
 #ordPoslanec: 1
 asistenti:
-  - name: Jaroslav Němec
-    position: Asistent
-    mail: jarnemec@psp.cz
   - name: David Wagner
     position: Asistent
     mail: wagnerd@psp.cz
-  - name: Antonín Schejbal
+  - name: Štěpán Drtina
     position: Asistent
-    mail: schejbala@psp.cz
+    mail: stepan.drtina@pirati.cz
+  - name: Tomáš Hába
+    position: Asistent
 mail:
   - lenka.kozlova@pirati.cz
 profiles:

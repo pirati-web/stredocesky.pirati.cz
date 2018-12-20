@@ -9,10 +9,12 @@ category:
 description: poslanec Parlamentu ČR
 img: people/frantisek-kopriva.jpg
 #ordPoslanec: 1
-#asistenti:
-#  - name: Jaroslav Němec
-#    position: Asistent
-#    mail: jarnemec@psp.cz
+asistenti:
+  - name: Alexandr Mansurov
+    position: Asistent
+    mail: alexandr.mansurov@pirati.cz
+  - name: Tomáš Guth Jarkovský
+    position: Asistent
 mail:
   - frantisek.kopriva@pirati.cz
 profiles:
