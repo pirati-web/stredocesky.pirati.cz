@@ -18,23 +18,46 @@ volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40825
 ---
 {% asset 'ms/pribram/pohlednice.jpg' alt='pohlednice' %}
 
-Tady by měly být nějaké stručné faktické informace o buňce (působnost, založení, úspěchy, ...).
+Jsme poměrně mladá skupina lidí, kteří chtějí nejen pro své okolí to nejlepší. Rádi bychom přinesli do našeho města nová, zajímavá a moderní řešení k řešení různých situací v našem městě nebo k zlepšení života v něm. V posledních komunálních volbách jsme se dostali do zastupitelstva. 
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit vehicula morbi, nam class per porta proin blandit volutpat pulvinar porttitor, lobortis mus sem ullamcorper ridiculus rutrum curae rhoncus. Justo turpis id class risus feugiat malesuada aliquam nullam vitae habitasse placerat, lacinia dui rhoncus mauris blandit venenatis condimentum et nunc quisque. Erat quisque commodo nostra phasellus ultricies montes tortor ornare, purus at et turpis egestas placerat posuere natoque, vehicula nullam orci lectus aenean eu quam.
-
-Quis facilisis porta vestibulum eros gravida praesent litora massa, parturient dictum cursus cum eu et sem scelerisque, metus mus ultricies malesuada mi nunc tristique. Nullam morbi potenti cum a cubilia vulputate, posuere conubia fringilla pulvinar luctus, proin aptent turpis venenatis tempor. Cras dapibus libero parturient sociosqu eget dictum, turpis tellus ante ullamcorper semper fames, magnis volutpat at curae commodo.
+Snažíme se být aktivní, pořádáme pravidelné veřejné schůze, různé veřejné akce a snažíme se komunikovat s veřejností a lidmi. Věříme, že by se spousta věcí dala dělat lépe a úsporněji, budeme se snažit prosadit tuto myšlenku, aby bylo naše město lepším místě k životu a nestálo nás to balík. 
 
 # Novinky
 
 Novinky tu být nemusí, je možné je smazat. Pokud budou, je potřeba pohlídat, aby se tu občas něco nového objevilo!
 
-## Quis facilisis porta vestibulum
+# Program k komunálním volbám 2018
 
-Lorem ipsum dolor sit amet consectetu radipiscing elit vehicula morbi, nam class per porta proin blandit volutpat pulvinar porttitor, lobortis mus sem ullamcorper ridiculus rutrum curae rhoncus. Justo turpis id class risus feugiat malesuada aliquam nullam vitae habitasse placerat, lacinia dui rhoncus mauris blandit venenatis condimentum et nunc quisque. Erat quisque commodo nostra phasellus ultricies montes tortor ornare, purus at et turpis egestas placerat posuere natoque, vehicula nullam orci lectus aenean eu quam.
+5 hlavních bodů + odkaz na plný program.
 
-Gelit vehicula morbi, nam class per porta proin blandit volutpat pulvinar porttitor, lobortis mus sem ullamcorper ridiculus rutrum curae rhoncus. Justo turpis id class risus feugiat malesuada aliquam nullam vitae habitasse placerat, lacinia dui rhoncus mauris blandit venenatis condimentum et nunc quisque. Erat quisque commodo nostra phasellus ultricies montes tortor ornare, purus at et turpis egestas placerat posuere natoque, vehicula nullam orci lectus aenean eu quam.
+1
+xxx
 
-## Aliquam nullam vitae habitasse
+2
+xxx
 
-Quis facilisis porta vestibulum eros gravida praesent litora massa, parturient dictum cursus cum eu et sem scelerisque, metus mus ultricies malesuada mi nunc tristique. Nullam morbi potenti cum a cubilia vulputate, posuere conubia fringilla pulvinar luctus, proin aptent turpis venenatis tempor. Cras dapibus libero parturient sociosqu eget dictum, turpis tellus ante ullamcorper semper fames, magnis volutpat at curae commodo.
+3
+xxx
 
+4
+xxx
+
+5
+xxx
+
+# Lidé
+
+### Tony Schejbal
+xxx Zde bude text použit v novinách nebo jiný text + fotka xxx
+
+### Tomáš Podlena
+xxx Zde bude text použit v novinách nebo jiný text + fotka xxx
+
+### Simona Luftová
+xxx Zde bude text použit v novinách nebo jiný text + fotka xxx
+
+### Jan Trnka
+xxx Zde bude text použit v novinách nebo jiný text + fotka xxx
+
+### Josef Bouše
+xxx Zde bude text použit v novinách nebo jiný text + fotka xxx
