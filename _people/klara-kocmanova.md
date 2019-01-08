@@ -5,11 +5,12 @@ titles:
   before: 
   after: 
 category:
+  - dalsi
   - kandidat-2018-komunalni-kutna_hora
   - koordinator
   - kontaktni_osoba
 description: krajský koordinátor
-ordKoordinator: 1
+ordDalsi: 1
 img: people/klara-kocmanova.jpg
 mail:
   - klara.kocmanova@pirati.cz

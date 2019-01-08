@@ -11,8 +11,8 @@ groups:
   - name: Předsednictvo Středočeského kraje
     category: pks
     sort: ordPKS
-  - name: Krajští koordinátoři
-    category: koordinator
-    sort: ordKoordinator
+  - name: Další
+    category: dalsi
+    sort: ordDalsi
 ---
 
