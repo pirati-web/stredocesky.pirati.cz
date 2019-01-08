@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Piráti Středočeského kraje zvolili nové vedení
 author: Dalibor Záhora
-#authorId: klara.kocmanova
+authorId: dalibor.zahora
 image: posts/2018/mapa_kontaktu.jpg
 ---
 

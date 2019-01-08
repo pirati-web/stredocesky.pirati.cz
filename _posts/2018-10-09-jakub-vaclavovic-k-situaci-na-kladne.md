@@ -7,7 +7,7 @@ tags:
 layout: post
 title: Jakub Václavovič k situaci na Kladně
 author: Dalibor Záhora
-#authorId: klara.kocmanova
+authorId: dalibor.zahora
 image: posts/2018/jakub-vaclavovic.jpg
 ---
 Vyjádření zastupitele Jakuba Václavoviče k důvodům složení mandátu:

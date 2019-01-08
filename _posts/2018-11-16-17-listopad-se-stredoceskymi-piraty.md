@@ -6,7 +6,7 @@ tags:
 layout: post
 title: 17. listopad se středočeskými Piráty
 author: Dalibor Záhora
-#authorId: dalibor.zaloha
+authorId: dalibor.zahora
 image: posts/2018/17_listopad.jpg
 ---
 
