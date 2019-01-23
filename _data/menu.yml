@@ -19,12 +19,9 @@ main:
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /volby/2018/komunalni/
-    name: Komunální volby
-    match: komunalni-volby
-  - link: /volby/2018/senat/
-    name: Senátní volby
-    match: senatni-volby
+  - link: /volby/
+    name: Volby
+    match: volby
   - link: /kontakt/
     name: Kontakty
     match: kontakt
