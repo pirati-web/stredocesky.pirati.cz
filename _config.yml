@@ -6,7 +6,7 @@
 #
 
 title: Piráti - Středočeský kraj # To co je napsané na tabu ve kterém je stránka.
-email: ksstredoceskykraj@pirati.cz
+email: stredocesky@pirati.cz
 description: >-
   Česká pirátská strana - Krajské sdružení Středočeský kraj
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -18,7 +18,7 @@ administrator:
 organization:
   name: Piráti - Středočeský kraj
   shortName: Piráti - Středočeský kraj
-  email: ksstredoceskykraj@pirati.cz
+  email: stredocesky@pirati.cz
   phone: +420 778 111 488
   address: |
     Na Moráni 360/3
