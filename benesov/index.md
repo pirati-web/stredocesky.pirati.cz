@@ -12,7 +12,7 @@ predsednictvo:
  - funkce: 1. místopředseda
    jmeno: David Řejha
  - funkce: 2. místopředseda
-    jmeno: Jan Lička
+   jmeno: Jan Lička
 mandat-do: 25.10.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 ---
