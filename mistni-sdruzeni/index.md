@@ -15,8 +15,8 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    <a href="https://www.facebook.com/piratskapalubaBN" target="_blank">
-                      {% asset 'city.png' alt='City' %} </a>
+                    <a href="https://wiki.pirati.cz/regiony/strednicechy/benesov/start" target="_blank">
+                      {% asset 'ms/benesov/benesovaci-small.jpg' alt='Benešov' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
@@ -24,7 +24,7 @@ title: Místní sdružení ve Středočeském kraji
                     </h3>
                     <ul>
                       <li>Působnost: okres Benešov</li>
-                      <li>Předseda: <a href="{{ 'lide/jana-skopalikova/' | relative_url }}">Jana Skopalíková</a></li>
+                      <li>Předseda: Jana Skopalíková</li>
                     </ul>
                   </div>
                 </div>
