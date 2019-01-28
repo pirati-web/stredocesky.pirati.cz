@@ -32,7 +32,7 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 ## Akce pořádané v roce 2018
 Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
 
-* **15. 9.** podzimní ternín akce **Ukliďme Česko** - tentorkrát hřiště a parky ve městě,
+* **15. 9.** podzimní ternín akce **Ukliďme Česko** - tentokrát hřiště a parky ve městě,
 * **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
 * **28. 6.** debata **Doprava v Benešově**, kde jste se mohli seznámit s územním plánem z pohledu navržených dopravních řešení,
 * **24. 5.** se do našeho hledáčku dostalo školství aneb **Dobrá škola základ života**, kde vystoupil i náš kandidát na senátora Petr Chaluš,
