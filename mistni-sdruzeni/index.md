@@ -15,12 +15,12 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    <a href="https://wiki.pirati.cz/regiony/strednicechy/benesov/start" target="_blank">
+                    <a href="/benesov/">
                       {% asset 'ms/benesov/benesovaci-small.jpg' alt='Benešov' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://wiki.pirati.cz/regiony/strednicechy/benesov/start" target="_blank">Benešov</a>
+                      <a href="/benesov/">Benešov</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Benešov</li>
