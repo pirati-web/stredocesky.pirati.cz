@@ -16,6 +16,8 @@ predsednictvo:
 mandat-do: 25.10.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 ---
+{% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
+
 
 Místní sdružení Benešov má na starosti prosazování pirátské politiky v původním okrese Benešov, organizuje akce pro veřejnost a kromě otevřených schůzí konaných přímo v Benešově pořádá i výjezdní zasedání - např. do Votic nebo Týnce nad Sázavou.
 
@@ -23,19 +25,29 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 
 # Novinky
 
-**22. 11.** 
+**9. 1. 2019** Bylo nominováno 18 členů a příznivců do 11 ze 13 komisích Rady města Benešova. Z našeho popudu vznikly dvě komise nově - Komise pro infrastrukturu a Komise pro infrastrukturu.
 
-**6. 10.** Ve volbách do Zastupitelstva města Benešov naše kandidátka Piráti s podporou Zelených získala 7,45 % hlasů a 2 mandáty, našimi novými zastupiteli jsou Daniel Netušil (Piráti) a Radek Klempera (Zelení).
+**29. 10. 2018** Podepsána koaliční smlouva mezi stranami Volba pro Benešov, STAN, ODS a Piráti s podporou Zelených. Naším novým radním se stal Daniel Netušil (gesce e-Governmnet).
+
+**6. 10. 2018** Ve volbách do Zastupitelstva města Benešov naše kandidátka Piráti s podporou Zelených získala 7,45 % hlasů a 2 mandáty, našimi novými zastupiteli jsou Daniel Netušil (Piráti) a Radek Klempera (Zelení).
 
 ## Pořádané akce v roce 2018
 Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
+
 **15. 9.** podzimní ternín akce **Ukliďme Česko** - tentorkrát hřiště a parky ve městě,
+
 **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
+
 **28. 6.** debata **Doprava v Benešově**, kde jste se mohli seznámit s územním plánem z pohledu navržených dopravních řešení,
+
 **24. 5.** se do našeho hledáčku dostalo školství aneb **Dobrá škola základ života**, kde vystoupil i náš kandidát na senátora Petr Chaluš,
+
 **28. 4.** proběhla **Pirátská grilovačka na Klášterce**, kde jste si mohli kromě Pirátů z MS Benešov popovídat také s pirátským poslancem za Středočeský kraj Františkem Kopřivou,
+
 **26. 4.** jsme se sešli nad tématem **Veřejná prostranství**, kde jsme se zabývali Táborskými kasárnami, Klášterkou, veřejnou zelení nebo Koupadly na Sladovce,
+
 **7. 4.** jsme se zúčastnili akce **Ukliďme Česko**, kdy jsme pomáhali zvelebit okolí koupadel na Sladovce,
+
 **8. 3.** jsme zahájili první besedu na téma místní architektury jménem **Krásné město Benešov**.
 
 # Lidé
@@ -62,3 +74,24 @@ Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešo
 
 ### Daniel Netušil
 Člen MS Benešov od září 2018, jako příznivec se angažoval už od jeho založení. Je neuvolněným radním a členem Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem.
+
+# Členové komisí Rady města Benešov nominovaní za Piráty a Zelené
+
+* Andrea Krchová    Komise pro národnostní menšiny
+* dr. Mohamad Wannous    Komise pro národnostní menšiny
+* Syuleyman Syuleymanov    Komise pro národnostní menšiny
+* Ing. Daniel Netušil    Komise pro kulturu
+* Mgr. Barbora Vilímovská    Komise pro sport
+* Petr Ballek    Komise sociální a zdravotní
+* Pavla Campodonicová    Komise sociální a zdravotní
+* Ondřej Hrdý    Bytová komise
+* Ing. Mgr. Radek Klempera    Komise pro architekturu a územní rozvoj
+* Mgr. Jana Skopalíková    Komise pro architekturu a územní rozvoj
+* David Řejha    Komise pro Konopiště
+* Eva Hrkalová    Komise zdravého města Benešov a MA21
+* Bc. Martin Michael Monz    Komise zdravého města Benešov a MA21
+* Ing. Jan Lička    Komise pro infrastrukturu
+* Mgr. Hana Dvořáková    Komise pro školství
+* Bc. Václav Kubaljak    Komise pro školství
+* Mgr. Petr Chaluš    Komise pro školství
+* Ing. Mgr. Radek Klempera    Hodnotící komise pro veřejné zakázky
