@@ -58,16 +58,16 @@ Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí j
 Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
 
 ### Hana Chalušová
-Členka MS Benešov od května 2018, jako příznivec pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami - Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
+Členka MS Benešov, pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami - Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
 
 ### Milan Krch
-Člen MS Benešov od května 2018, vedoucí krajského expertního týmu Finance.
+Člen MS Benešov, vedoucí krajského expertního týmu Finance.
 
 ### Václav Kubaljak
-Člen MS Benešov od srpna 2018, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
+Člen MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
 
 ### Daniel Netušil
-Člen MS Benešov od září 2018, jako příznivec se angažoval už od jeho založení. Je neuvolněným radním a členem Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem.
+Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem.
 
 # Členové komisí Rady města Benešov nominovaní za Piráty a Zelené
 
