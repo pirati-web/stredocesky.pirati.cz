@@ -30,21 +30,21 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /kontakt/
-        name: Dej nám vědět
+      - link: https://nalodeni.pirati.cz
+        name: Naloď se
       - link: /mistni-sdruzeni/
         name: Místní sdružení
+      - link: /kontakt/
+        name: Dej nám vědět
   - class: small-12 medium-4
-    title: Makáme
+    title: Piráti SčK
     links:
       - link: /aktuality/
         name: Aktuality
       - link: /lide/
         name: Lidé
-      - link: /volby/2018/komunalni/
-        name: Komunální volby 2018
-      - link: /volby/2018/senat/
-        name: Senátní volby 2018
+      - link: /volby/
+        name: Volby
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -52,5 +52,7 @@ bottom:
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
+      - link: https://evidence.pirati.cz
+        name: Evidence schůzek
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
