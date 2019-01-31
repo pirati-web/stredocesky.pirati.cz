@@ -26,7 +26,9 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 # Novinky
 
 * **9. 1. 2019**  
-Bylo nominováno 18 členů a příznivců do 11 ze 13 komisích Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě komise nově - Komise pro infrastrukturu a Komise pro národnostní menšiny.
+Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise - Komise pro infrastrukturu a Komise pro národnostní menšiny.
+* **17. 12. 2018**
+Druhé zasedání zastupitelstva města Benešov, kde byl obsazen za Piráty a Zelené Finanční výbor Ing. Danielem Netušilem a Kontrolní výbor Ing. Mgr. Radkem Klemperou. Bylo také schváleno pořizování audiovizuálního záznamu a online přenosu ze zasednání Zastupitelstva.
 * **29. 10. 2018**  
 Podepsána koaliční smlouva mezi stranami Volba pro Benešov, STAN, ODS a Piráti s&nbsp;podporou Zelených. Naším novým radním se stal Daniel Netušil (gesce e-Government).
 * **6. 10. 2018**  
