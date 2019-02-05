@@ -14,7 +14,7 @@ predsednictvo:
  - funkce: 2. místopředseda
    jmeno: Robert Šíp
 mandat-do: 28.05.2019
-volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
+volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238-ZMENIT
 ---
 {% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
 
