@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředseda kraje
-ordPKS: 5
+description: 3. místopředseda kraje
+ordPKS: 4
 img: people/michal-tresl.jpg
 mail:
   - michal.tresl@pirati.cz
@@ -19,7 +19,7 @@ profiles:
   twitter:
   linkedin:
 ---
-**Michal Trešl** (* 12. června 1993) je od listopadu 2018 čtvrtým místopředsedou krajského sdružení Středočeský kraj České pirátské strany. Žije v Černošicích, kde má jeho rodina hluboké kořeny. Ve volbách do zastupitelstva v roce 2018 vedl kandidátku jako lídr a stal se členem zastupitelstva ještě s kolegou Markem Jeřichou. 
+**Michal Trešl** (* 12. června 1993) je od listopadu 2018 čtvrtým a od února 2019 třetím místopředsedou krajského sdružení Středočeský kraj České pirátské strany. Žije v Černošicích, kde má jeho rodina hluboké kořeny. Ve volbách do zastupitelstva v roce 2018 vedl kandidátku jako lídr a stal se členem zastupitelstva ještě s kolegou Markem Jeřichou. 
 
 Na základní školu chodil do Černošic. Po absolvování udělal maturitu po vzoru dvou bratrů na hotelové škole v Klánovicích. Práce v gastronomii ho však nenaplňovala. Už v dětství inklinoval k umění i praktickému řemeslu. Studoval tedy ještě umělecké kovářství u mistra Voříška a mistra Havránka na uměleckořemeslné škole v Libni. Jako svobodomyslná duše se rozhodl zřídit vlastní podnik, na kterém nyní pracuje a brzy bude otevřen. Jeho cílem, který je už těsně před dokončením, je vytvoření kovářské dílny, kde bude spolupracovat ještě s dalšími kováři a umělci z oboru. 
 
