@@ -43,6 +43,8 @@ bottom:
         name: Aktuality
       - link: /lide/
         name: Lidé
+      - link: /kalendar/
+        name: Kalendář
       - link: /volby/
         name: Volby
   - class: small-12 medium-4
