@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 01.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-{% asset 'ms/kladno/top.jpg' alt='MS Kladno' %}
+{% asset 'ms/kladno/top.png' alt='MS Kladno' %}
 
 Místní sdružení Kladno
 
