@@ -3,49 +3,58 @@ layout: ms
 title: Místní sdružení Kladno
 description: Místní sdružení Kladno
 keywords: piráti, místní sdružení, Kladno
-mail: jan.jurik@pirati.cz
+mail: TBD
 facebook: PiratiKladno
 forum: https://forum.pirati.cz/viewforum.php?f=693
 predsednictvo:
  - funkce: předseda
-   jmeno: Jan Jurik
+   jmeno: Radek Černohous
  - funkce: 1. místopředseda
-   jmeno: Jakub Václavovič
+   jmeno: ...
  - funkce: 2. místopředseda
-   jmeno: Robert Šíp
-mandat-do: 28.05.2019
-volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238-ZMENIT
+   jmeno: ...
+mandat-do: 01.02.2021
+volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-{% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
+{% asset 'ms/kladno/top.jpg' alt='MS Kladno' %}
 
-Místní sdružení Kladno...
+Místní sdružení Kladno
 
 # Novinky
 
-* **9. 1. 2019**  
-Text
-* **17. 12. 2018**
-Text
+* **4. 2. 2019**  
+Novým předsedou MS Kladno byl zvolen <a href="{{ '/lide/radek_cernohous' | relative_url }}">Radek Černohous</a>.
 
-## Akce pořádané v roce 2018
-Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
+## Akce
+* **Každou 3. středu v měsíci** 
+pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O aktuálních setkání a místech kde se konají informujeme na naší facebookové stránce:
+https://www.facebook.com/PiratiKladno/
 
-* **15. 9.** podzimní ternín akce **Ukliďme Česko** - tentokrát hřiště a parky ve městě,
-* **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
+## O nás
+MS Pirátů v Kladně vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. V rámci kampaně se MS Kladno podílelo na sérii akcí v rámci Středočeského kraje pod názvem Freeride, kde vystoupila řada nezávislých umělců. V klubu Poldofka se pořádala kulturní akce VyOsení, která je součástí dlouhodobé kampaně proti politice OSA (Ochranný svaz autorský). 
+
+Kladenští piráti se také aktivně účastní místní komunální politiky. Aktivně se zapojili do iniciativy bránící změně územního plánu na Růžovém poli. Místopředseda Jakub Václavovič úspěšně kandidoval do zastupitelstva města. Následně se však mandátu vzdal kvůli tomu, že spolu s uskupením Kladeňáci, s kterým kandidoval, ve výsledné radniční koalici zasedla i strana SPD. Zástupci MS Kladno jsou v současné době přítomni v kontrolním výboru zastupitelstva a v komisi rady města pro výchovu, vzdělávání a osvětu. 
+V současné době pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
 
 # Lidé
-### Jana Skopalíková
-Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK - obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
+### Radek Černohous
+Předseda MS Kladno, ...TBD
 
-### Jan Lička
-Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí jako zástupce garanta v sekci Doprava a vedoucí krajského expertního týmu Doprava a infrastruktura. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
+### Michal Hažlinský
 
-# Členové komisí Rady města Benešov nominovaní za Piráty a Zelené
+Více <a href="{{ 'lide/michal_hazlinsky/' | relative_url }}">zde</a>.
 
-* **Komise pro národnostní menšiny**
-  * Andrea Krchová
-  * dr. Mohamad Wannous
-  * Syuleyman Syuleymanov
-* **Komise pro kulturu**
-  * Ing. Daniel Netušil
+### Jan Jurik
+... TBD
 
+### Jan Lukášek
+... TBD
+
+### Jakub Václavovič
+
+# Členové komisí Rady a výborů Zastupitelstva města Kladna 
+
+* **Kontrolní výbor**
+  * Michal Hažlinský
+* **Komise pro výchovu, vzdělávání a osvětu**
+  * Jakub Václavovič
