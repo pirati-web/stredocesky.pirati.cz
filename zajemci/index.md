@@ -20,8 +20,8 @@ Jestli Tě zajímají i lokální témata, připoj se v registraci ke Krajskému
 
 ### Postup pro registrované příznivce
 
-1. Zaregistruj se do [Pirátského fóra](https://forum.pirati.cz).
-2. Zaregistruj se do [Nalodění](https://nalodeni.pirati.cz).
+1. Zaregistruj se do [Pirátského fóra](https://forum.pirati.cz) a zapoj se do dění.
+2. Zaregistruj se do [Nalodění](https://nalodeni.pirati.cz) a sám si vyber, co Tě zajímá.
 3. Buď aktivní a neboj se zúčastnit se jakékoliv naší aktivity.
 
 # Členové

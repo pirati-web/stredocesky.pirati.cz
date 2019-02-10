@@ -30,14 +30,14 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: https://nalodeni.pirati.cz
+      - link: https://stredocesky.pirati.cz/zajemci
         name: Naloď se
       - link: /mistni-sdruzeni/
         name: Místní sdružení
       - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
-    title: Piráti SčK
+    title: Středočeši
     links:
       - link: /aktuality/
         name: Aktuality
