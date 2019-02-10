@@ -34,7 +34,7 @@ Každý pirátský kraj má své koordinátory, což je něco jako tajemník sdr
 
 ### Postup pro zájemce o členství
 
-Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivcem, seš zaregistrovaný v Pirátském fóru i Nalodění a asi už Tě známe i osobně. Přesto Tě prosíme:
+Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivcem, seš zaregistrovaný v [Pirátském fóru](https://forum.pirati.cz) i [Nalodění](https://nalodeni.pirati.cz) a asi už Tě známe i osobně. Přesto Tě prosíme:
 
 1. Založ si ve fóru vlákno se svým jménem v sekci [Zájemci o členství](https://forum.pirati.cz/viewforum.php?f=447) a napiš proč se chceš stát členem a co chceš u Pirátů dělat nebo už jsi dělal.
 2. Počkej na všetečné dotazy na fóru. Buď trpělivý. Odpovídej upřímně a neboj se vyjádřit vlastní názor.
