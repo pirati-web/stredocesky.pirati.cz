@@ -26,8 +26,7 @@ Proběhla volba předsednictva místního sdružení. Novým předsedou MS Kladn
 
 ## Akce
 * **Každou 3. středu v měsíci** 
-pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O aktuálních setkání a místech kde se konají informujeme na naší facebookové stránce:
-https://www.facebook.com/pg/PiratiKladno/events/
+pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O aktuálních setkání a místech kde se konají informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
 
 ## O nás
 MS Pirátů v Kladně vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. V rámci kampaně se MS Kladno podílelo na sérii akcí v rámci Středočeského kraje pod názvem Freeride, kde vystoupila řada nezávislých umělců. V klubu Poldofka se pořádala kulturní akce VyOsení, která je součástí dlouhodobé kampaně proti politice OSA (Ochranný svaz autorský). 
@@ -40,13 +39,13 @@ V současné době pořádáme pravidelná setkání s příznivci vždy každou
 Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/radek_cernohous">zde</a>.
 
 ### Michal Hažlinský
-Od podzimu 2017 se angažuji v občanské iniciativě, která se brání proti nevhodným změnám v územním plánu města Kladna týkajících se lokality tzv. “Růžového pole”. Ty prosadilo hodně na sílu tehdejší vedení města. (https://www.facebook.com/ruzovepolereferendum/)
+Od podzimu 2017 se angažuji v občanské iniciativě, která se brání proti nevhodným změnám v územním plánu města Kladna týkajících se lokality tzv. “Růžového pole”. Ty prosadilo hodně na sílu tehdejší vedení města. Více viz [Facebook - Růžové pole referendum](https://www.facebook.com/ruzovepolereferendum/).
 
 V návaznosti na předchozí jsem začal aktivně pomáhat místnímu sdružení stran “Kladeňáci” (STAN,TOP09,KDU ČSL) v komunálních volbách 2018. Původně sdružení jednalo i s Piráty, avšak nedávno před tím vzniklé MS se rozhodlo těchto voleb neúčastnit a soustředit se na vlastní růst. Do MS Kladno jsem vstoupil v létě 2018.
 
 Od listopadu 2018 jsem členem Kontrolního výboru zastupitelstva města Kladna, kam jsem byl nominován sdružením Kladeňáci.
 
-Podrobnější profil je pak k nalezení <a href="{{ 'lide/michal_hazlinsky/' | relative_url }}">zde</a>.
+Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
 
 ### Jan Jurik
 
