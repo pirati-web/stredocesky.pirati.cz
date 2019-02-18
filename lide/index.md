@@ -11,7 +11,10 @@ groups:
   - name: Předsednictvo Středočeského kraje
     category: pks
     sort: ordPKS
-  - name: Další
+  - name: Zastupitelé Středočeského kraje
+    category: zastupitel
+    sort: ordZastupitel
+  - name: Další členové
     category: dalsi
     sort: ordDalsi
 ---
