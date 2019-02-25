@@ -89,15 +89,16 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    {% asset 'city.png' alt='City' %}
+                    <a href="/kutna-hora/">
+                      {% asset 'city.png' alt='City' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/kutnahorapirati" target="_blank">Kutná Hora</a>
+                      <a href="/kutna-hora/">Kutná Hora</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Kutná Hora</li>
-                      <li>Předseda: <a href="{{ 'lide/stepan-drtina/' | relative_url }}">Štěpán Drtina</a></li>
+                      <li>Předseda: Milan Zelený</li>
                     </ul>
                   </div>
                 </div>
