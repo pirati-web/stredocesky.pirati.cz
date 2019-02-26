@@ -46,6 +46,12 @@ Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet 
 * **7. 4.** jsme se zúčastnili akce **Ukliďme Česko**, kdy jsme pomáhali zvelebit okolí koupadel na&nbsp;Sladovce,
 * **8. 3.** jsme zahájili první besedu na téma místní architektury jménem **Krásné město Benešov**.
 
+# Články
+{% assign posts = site.posts | sort: 'date' | reverse | where: "tags", "Benešov" %}
+{% for post in posts limit: 10 %}
+* [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 # Lidé
 ### Jana Skopalíková
 Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK - obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
