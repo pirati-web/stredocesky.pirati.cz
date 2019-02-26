@@ -16,6 +16,8 @@ predsednictvo:
 mandat-do: 21.1.2021
 volba: https://forum.pirati.cz/viewtopic.php?t=45520
 ---
+{% asset 'ms/kutna-hora/kutnohoraci-small.jpg' alt='clenove' %}
+
 Místní sdružení Kutná Hora patří mezi mladší ve Středočeském kraji. Bylo založeno v srpnu 2018. Nicméně již od ledna probíhala intenzivní příprava na říjnové komunální volby, ve kterých jsme získali 6,87 % a dva zastupitele. Zakládajícími členy byli Štěpán Drtina, Klára Kocmanová a Robin Jiráň. Po volbách se naše MS rozrostlo ještě o Milana Zeleného a Víta Šnajdra. V současné době je MS tedy pětičlenné. V prosinci na post předsedy MS rezignoval kvůli souběhu funkcí Štěpán Drtina a na uvolněné místo byl zvolen Milan Zelený. Tým místopředsedů mu doplňují Klára Kocmanová a Robin Jiráň. V současné době evidujeme několik zájemců o členství a aktivně se snažíme o podchycení pirátské komunity v dalších městech okresu (Zruč nad Sázavou, Čáslav, Uhlířské Janovice).
 
 # Lidé

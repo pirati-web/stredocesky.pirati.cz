@@ -90,7 +90,7 @@ title: Místní sdružení ve Středočeském kraji
                 <div class="c-content-card">
                   <div class="c-content-card-img">
                     <a href="/kutna-hora/">
-                      {% asset 'city.png' alt='City' %} </a>
+                      {% asset 'ms/kutna-hora/mesto-small.jpg' alt='Kutná Hora' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
@@ -117,6 +117,24 @@ title: Místní sdružení ve Středočeském kraji
                     <ul>
                       <li>Působnost: okres Mladá Boleslav</li>
                       <li>Předseda: Dominika Michailidu</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- zacatek MS -->
+              <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
+                <div class="c-content-card">
+                  <div class="c-content-card-img">
+                    {% asset 'city.png' alt='City' %}
+                  </div>
+                  <div class="c-content-card-content-box">
+                    <h3 class="c-content-card-title">
+                      <a href="https://www.facebook.com/PiratiNymburk" target="_blank">Nymburk</a>
+                    </h3>
+                    <ul>
+                      <li>Působnost: okres Nymburk</li>
+                      <li>Předseda: Petr Procházka</li>
                     </ul>
                   </div>
                 </div>
