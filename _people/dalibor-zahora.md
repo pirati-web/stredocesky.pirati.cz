@@ -5,9 +5,9 @@ titles:
   before: 
   after: 
 category:
-  - dalsi
-description: vedoucí krajského mediálního odboru
-ordDalsi: 2
+#  - dalsi
+description: člen
+#ordDalsi: 2
 img: people/dalibor-zahora.jpg
 mail:
   - dalibor.zahora@pirati.cz
@@ -24,7 +24,7 @@ profiles:
 
 Nyní žije převážně v Praze, pracovně se ale často vyskytuje ve středních Čechách. Je rozvedený, bezdětný.
 
-U Pirátů se podílel například na vzniku Pirátských novin (2010), kdy byl jedním ze čtyř „šéfredaktorů“ (jeho texty naleznete pod pseudonymem Emil Havran). V krajských volbách 2016 podporoval středočeské Piráty, se kterými dlouhodobě spolupracuje. Spouštěl profily Pirátů Vysočina a Královehradeckého kraje. Je jedním z iniciátorů vzniku Podpalubí - nemoderované části pirátského fóra. Nyní pracuje jako pověřený vedoucí krajského mediálního odboru Středočeského kraje.
+U Pirátů se podílel například na vzniku Pirátských novin (2010), kdy byl jedním ze čtyř „šéfredaktorů“ (jeho texty naleznete pod pseudonymem Emil Havran). V krajských volbách 2016 podporoval středočeské Piráty, se kterými dlouhodobě spolupracuje. Spouštěl profily Pirátů Vysočina a Královehradeckého kraje. Je jedním z iniciátorů vzniku Podpalubí - nemoderované části pirátského fóra.
 
 Oblíbený citát Vladimíra Kokolia:
 
