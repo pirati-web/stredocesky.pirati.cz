@@ -53,11 +53,12 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    {% asset 'city.png' alt='City' %}
+                    <a href="/kolin/">
+                      {% asset 'ms/kolin/kolinaci2-small.jpg' alt='Kolín' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/PiratiKolin" target="_blank">Kolín</a>
+                      <a href="/kolin/">Kolín</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Kolín</li>
