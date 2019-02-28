@@ -123,3 +123,12 @@ git fetch
 {% include people/profile-badge.html item=person imgSize='small' imgStyle='round' %}
 ```
 
+## CODE HOWTO - redirect
+
+Na stránce máme aktivní modul jekyll-redirect-from. Do hlavičky md stránky je tak možné např. přidat:
+
+```
+redirect_from:
+  - /zdrojovaURL
+```
+
