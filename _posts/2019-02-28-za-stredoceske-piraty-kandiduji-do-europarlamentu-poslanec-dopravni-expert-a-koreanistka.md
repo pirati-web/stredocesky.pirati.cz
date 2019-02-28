@@ -44,8 +44,8 @@ Piráti v květnových volbách do Evropského parlamentu cílí na vítězství
 
 ## Kontakt pro média:
 
-* Dalibor Záhora
-* vedoucí krajského mediálního odboru
-* dalibor.zahora@pirati.cz
-* +420 773 993 465
+* **Klára Kocmanová**
+* krajský koordinátor
+* klara.kocmanova@pirati.cz
+* +420 778 111 488
 
