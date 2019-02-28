@@ -50,4 +50,6 @@ gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 # jcz1 - calendar
 gem 'jekyll-environment-variables'
+# jcz1 - redirects
+gem 'jekyll-redirect-from'
 
