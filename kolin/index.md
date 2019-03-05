@@ -24,7 +24,7 @@ Zakládající členové: Martin Polák, Vojtěch Ertl, Jiří Chládek a Jiří
 
 # Faktografické údaje o Kolíně
 
-Kolín je město na východě Středočeského kraje na řece Labi a obec s rozšířenou působností. Žije zde přibližně 31 tisíc obyvatel a má rozlohu 35 km² s průměrnou nadmořskou výškou 220 metrů. Vlastní katastrální území Kolín má rozlohu 23,47 km2. Kolín je důležitým železničním uzlem. Je zde průmysl chemický, automobilový, strojírenský, potravinářský, polygrafický a v neposlední řadě hutnický.
+Kolín je město na východě Středočeského kraje na řece Labi a obec s rozšířenou působností. Žije zde přibližně 31 tisíc obyvatel a má rozlohu 35 km² s průměrnou nadmořskou výškou 220 metrů. Vlastní katastrální území Kolín má rozlohu 23,47 km². Kolín je důležitým železničním uzlem. Je zde průmysl chemický, automobilový, strojírenský, potravinářský, polygrafický a v neposlední řadě hutnický.
 
 ### Stručné dějiny města
 
@@ -40,36 +40,36 @@ Kolín je město na východě Středočeského kraje na řece Labi a obec s roz�
 
 # Lidé
 
-### Martin Polák - předseda MS Kolín
+### Martin Polák – předseda MS Kolín
 
-Narozen v Kolíně, kde dosud žije, pracuje a kde založil rodinu. Kolín má tedy opravdu v malíčku ;-) O emancipaci členů subkultury internetu se zajímal už před založením Pirátské strany v roce 2009. Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se něco takového děje i v ČR. Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010, v době, kdy v Kolíně byla jediná samostatná kandidátka Pirátů v celém Středočeském kraji. Více informací naleznete [zde](https://wiki.pirati.cz/lide/martin_polak).
+Narozen v Kolíně, kde dosud žije, pracuje a kde založil rodinu. Kolín má tedy opravdu v malíčku. ;-) O emancipaci členů subkultury internetu se zajímal už před založením Pirátské strany v roce 2009. Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se něco takového děje i v ČR. Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010, v době, kdy v Kolíně byla jediná samostatná kandidátka Pirátů v celém Středočeském kraji. Více informací naleznete [zde](https://wiki.pirati.cz/lide/martin_polak).
 
-### Vojtěch Ertl - 1. místopředseda MS Kolín
+### Vojtěch Ertl – 1. místopředseda MS Kolín
 
 Od roku 2014 působí v komisi Rady města Kolín pro výstavbu a rozvoj města. Pro město Kolín mimo jiné připravoval odbornou část VŘ na nového městského architekta v Kolíně. Pracuje jako architekt, odborný asistent na FA ČVUT. Ve volném čase chová včely. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/vojtech-ertl/).
 
-### Jiří Chládek - 2. místopředseda MS Kolín
+### Jiří Chládek – 2. místopředseda MS Kolín
 
-Narodil se v Opočně (okres Rychnov nad Kněžnou), ale celý život žije v Kolíně. V září 2018 nastoupil do prvního ročníku právnické fakulty Univerzity Olomouc. Ačkoliv je duší politický aktivista, který například v Praze blokoval vlastním tělem vstup do nepoctivých směnáren, najde si čas i na sport. Upřednostňuje kolektivní sporty, miluje plavání a můžete ho potkat i v posilovně. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/jiri-chladek/).
+Narodil se v Opočně (okres Rychnov nad Kněžnou), ale celý život žije v Kolíně. V září 2018 nastoupil do prvního ročníku na právnické fakultě Univerzity Palackého v Olomouci. Ačkoliv je duší politický aktivista, který například v Praze blokoval vlastním tělem vstup do nepoctivých směnáren, najde si čas i na sport. Upřednostňuje kolektivní sporty, miluje plavání a můžete ho potkat i v posilovně. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/jiri-chladek/).
 
 ### Jiří Snížek
 
-Vzděláním technik, jehož alma mater je ČVUT, kde získal titul Bc. a posléze Ing. Později začal studovat i filosofii v Brně. Studium filosofie zakončil bakalářskou práci - Redistribuce jako podmínka zajištění lidského práva na sociální zabezpečení. Jeho vášeň pro filosofii vychází z přesvědčení, že rozhodnutí o tom, co dělat, je důležitější než rozhodnutí o tom, jak to dělat. Ve filosofii je mu nejbližší etika a politická a sociální filosofie. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/jiri-snizek/).
+Vzděláním technik, jehož alma mater je ČVUT, kde získal titul Bc. a posléze Ing. Později začal studovat i filosofii v Brně. Studium filosofie zakončil bakalářskou prací – Redistribuce jako podmínka zajištění lidského práva na sociální zabezpečení. Jeho vášeň pro filosofii vychází z přesvědčení, že rozhodnutí o tom, co dělat, je důležitější než rozhodnutí o tom, jak to dělat. Ve filosofii je mu nejbližší etika a politická a sociální filosofie. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/jiri-snizek/).
 
 ### Kristýna Hlásková
 
-Je pracovitá, spolehlivá, plná elánu a má milé vystupování. V současné době přerušila studia na právnické fakultě v Praze, za účelem dlouhodobé pracovní stáže v Londýně. Je zástupkyní nejmladší generace členů strany, která se ještě nemůže chlubit bohatým životopisem, ale o to větším příslibem je pro rozvoj nejen demokracie v ČR. 
+Je pracovitá, spolehlivá, plná elánu a má milé vystupování. V současné době přerušila studia na právnické fakultě v Praze za účelem dlouhodobé pracovní stáže v Londýně. Je zástupkyní nejmladší generace členů strany, která se ještě nemůže chlubit bohatým životopisem, ale o to větším příslibem je pro rozvoj nejen demokracie v ČR. 
 
 ### Jaroslav Pros
 
-Střední školu studoval v České Třebové, obor provoz a ekonomika v dopravě. Od dokončení střední školy pracuje u ČD a.s. na různých pozicích (vlakvedoucí, supervizor, hlavní kontrolor přepravy). V rámci práce absolvoval kurz pedagogického minima - vzdělávání dospělých. Právě díky práci sleduje roli železnice v regionální dopravě a regionální mobilitě jako takové. Mezi jeho koníčky patří cestování vlakem po zahraničí a sledování způsobů fungování železnic na západ i na východ od nás. Poznávacím znamením je obsence bot, jelikož je příznivec bosé chůze. 
+Střední školu studoval v České Třebové, obor provoz a ekonomika v dopravě. Od dokončení střední školy pracuje u ČD a.s. na různých pozicích (vlakvedoucí, supervizor, hlavní kontrolor přepravy). V rámci práce absolvoval kurz pedagogického minima – vzdělávání dospělých. Právě díky práci sleduje roli železnice v regionální dopravě a regionální mobilitě jako takové. Mezi jeho koníčky patří cestování vlakem po zahraničí a sledování způsobů fungování železnic na západ i na východ od nás. Poznávacím znamením je obsence bot, jelikož je příznivec bosé chůze. 
 
 # Členové Komisí rady města
 
 * **Komise pro rozvoj sídlišť**
   * Martin Polák
 * **Komise pro Smart city**
-  * Jiří Snížek
+  * Ing. Jiří Snížek
 * **Kulturní komise**
   * Mgr. Matěj Forst
 * **Komise pro místopis, cestovní ruch a propagaci města**
