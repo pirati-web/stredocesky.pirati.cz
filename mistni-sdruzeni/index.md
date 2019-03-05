@@ -80,7 +80,7 @@ title: Místní sdružení ve Středočeském kraji
                     </h3>
                     <ul>
                       <li>Působnost: okres Kladno</li>
-                      <li>Předseda: Jan Jurik</li>
+                      <li>Předseda: Radek Černohous</li>
                     </ul>
                   </div>
                 </div>
@@ -117,7 +117,7 @@ title: Místní sdružení ve Středočeském kraji
                     </h3>
                     <ul>
                       <li>Působnost: okres Mladá Boleslav</li>
-                      <li>Předseda: Dominika Michailidu</li>
+                      <li>Předseda: Petra Smutná</li>
                     </ul>
                   </div>
                 </div>
