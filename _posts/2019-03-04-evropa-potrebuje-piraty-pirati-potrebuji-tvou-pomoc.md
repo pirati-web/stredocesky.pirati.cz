@@ -18,7 +18,7 @@ Volby do Evropského parlamentu mají bohužel tradičně v Česku nejmenší vo
 
 Pokud by se volební účast mírně zvedla, stačilo by nám k cílovému volebnímu výsledku – tedy 20% volebnímu zisku, aby asi **330 000** z našich voličů přišlo k volbám. To znamená, že pomoc každého z vás může změnit volební výsledek! 
 
-_(Pro srovnání: v roce 2017 dalo hlas Pirátům ve volbách do Poslanecké sněmovny více než 546 tisíc voličů a při volební účasti 60% to znamenalo zisk 10,79% a zisk 22 poslaneckých mandátů)_
+_(Pro srovnání: v roce 2017 dalo hlas Pirátům ve volbách do Poslanecké sněmovny více než 546 tisíc voličů a při volební účasti 60 % to znamenalo zisk celkových 10,79 % a 22 poslaneckých mandátů)_
 
 Dej nám svoji e-mailovou adresu a my ti napíšeme, jak se můžeš do kampaně zapojit i ty. Budeme tě průběžně informovat o tom, jak je možné pomoct. Děkujeme!
 
