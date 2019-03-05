@@ -25,6 +25,8 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 
 # Novinky
 
+* **5. 3. 2019**
+Naše reporty ze zastupitelstva je nyní možné sledovat i na našem [youtube kanálu](https://www.youtube.com/channel/UCAsgieqa9tSYwq2jHWXnkIQ).
 * **9. 1. 2019**  
 Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise - Komise pro infrastrukturu a Komise pro národnostní menšiny.
 * **17. 12. 2018**
