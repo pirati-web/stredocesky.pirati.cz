@@ -45,6 +45,8 @@ bottom:
         name: Lidé
       - link: /kalendar/
         name: Kalendář
+      - link: /piratske-listy/
+        name: Pirátské listy
       - link: /volby/
         name: Volby
   - class: small-12 medium-4
