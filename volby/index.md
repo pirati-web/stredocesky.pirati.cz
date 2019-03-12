@@ -5,7 +5,7 @@ title: Volby nejen ve Středočeském kraji
 
 ## 2019
 
-* Volby do Evropského parlamentu - připravujeme
+* [Volby do Evropského parlamentu](https://evropapotrebuje.cz/) - Evropa potřebuje Piráty!
 
 ## 2018
 
