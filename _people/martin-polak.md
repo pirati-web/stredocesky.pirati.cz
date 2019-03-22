@@ -25,5 +25,5 @@ Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se n
 Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010. 
 Což bylo tenkrát značně neobvyklé. Proč neobvyklé? 
 Protože to byla jediná samostatná kandidátka v celém Středočeském kraji. 
-Až do roku 2017 si vystačil jen s označením „registrovaný příznivce“, ale v souvislosti s kandidaturou do Poslanecké sněmovny Parlamentu ČR, se rozhodl stát právoplatným členem. Poslancem se roku 2017 nestal, ale to mu neubralo na aktivitě burcovat registrované příznivce aby se přerodili v členy strany. 
-Je milovníkem koček na odpočinku. Rád by se těšil s přítomnosti kočky v domácnosti, ale vzhledem k jeho vlastní alergii na kočky a pořízení dcery to není současné době možné. :-)
+Až do roku 2017 si vystačil jen s označením „registrovaný příznivec“, ale v souvislosti s kandidaturou do Poslanecké sněmovny Parlamentu ČR, se rozhodl stát právoplatným členem. Poslancem se roku 2017 nestal, ale to mu neubralo na aktivitě burcovat registrované příznivce, aby se přerodili v členy strany. 
+Je milovníkem koček na odpočinku. Rád by se těšil z přítomnosti kočky v domácnosti, ale vzhledem k jeho vlastní alergii na kočky a pořízení dcery to není v současné době možné. :-)
