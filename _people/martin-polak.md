@@ -18,5 +18,12 @@ profiles:
   twitter:
   linkedin: https://www.linkedin.com/in/martin-pol%C3%A1k-26b697120/
 ---
-
-Martin Polák (* 25. ledna 1985) je předsedou MS Kolín. Martin pochází z Kolína, kde dosud žije, kde má už svou vlastní rodinu a pracuje. Je vyučen. Studiu moc nedal, ale to neznamená, že ho nezajímá studovat svět kolem sebe a snad asi i proto už v roce 2010 poprvé kandidoval za Piráty v komunálních volbách v Kolíně. Bere to jako velkou zkušenost a možnost podívat se na politiku zevnitř. Až do roku 2017 byl jen „registrovaným příznivcem“, ale v souvislosti s kandidaturou do Poslanecké sněmovny Parlamentu ČR, se rozhodl stát právoplatným členem. Poslancem se roku 2017 nestal, ale to mu neubralo na aktivitě burcovat registrované příznivce aby se přerodili v členy strany. Jeho pracovní kariéra je poměrně monotonní, ačkoliv prošel více pracovišť, tak je od roku 2005 v HPP v Obchodních tiskárnách Kolín, kde prošel celou řádu pozic. Je milovníkem koček na odpočinku. Rád by se těšil s přítomnosti kočky v domácnosti, ale vzhledem k jeho vlastní alergii na kočky a pořízení dcery to není současné době možné. :-) Dcera mu samozřejmě dělá zatím jen radost, stejně jako jeho sbírka knih, která mu dělá zároveň i starost, protože se mu tvoří po domácnosti nestabilní komínky knih.
+**Martin Polák** (* 25. ledna 1985) je předsedou MS Kolín. 
+Martin pochází z Kolína, kde dosud žije, pracuje a kde založil rodinu. Takže má Kolín opravdu v malíčku. ;-) 
+O emancipaci členů subkultury internetu se zajímal už před založením Pirátské strany v roce 2009. 
+Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se něco takového děje i v ČR. 
+Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010. 
+Což bylo tenkrát značně neobvyklé. Proč neobvyklé? 
+Protože to byla jediná samostatná kandidátka v celém Středočeském kraji. 
+Až do roku 2017 si vystačil jen s označením „registrovaný příznivec“, ale v souvislosti s kandidaturou do Poslanecké sněmovny Parlamentu ČR, se rozhodl stát právoplatným členem. Poslancem se roku 2017 nestal, ale to mu neubralo na aktivitě burcovat registrované příznivce, aby se přerodili v členy strany. 
+Je milovníkem koček na odpočinku. Rád by se těšil z přítomnosti kočky v domácnosti, ale vzhledem k jeho vlastní alergii na kočky a pořízení dcery to není v současné době možné. :-)
