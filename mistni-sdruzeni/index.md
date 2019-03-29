@@ -153,7 +153,7 @@ title: Místní sdružení ve Středočeském kraji
                     </h3>
                     <ul>
                       <li>Působnost: okres Příbram</li>
-                      <li>Předseda: Tomáš Podlena</li>
+                      <li>Předseda: Jan Trnka</li>
                     </ul>
                   </div>
                 </div>
