@@ -109,11 +109,12 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    {% asset 'city.png' alt='City' %}
+                    <a href="/mlada-boleslav/">
+                      {% asset 'ms/mlada-boleslav/mesto-small.jpg' alt='Mladá Boleslav' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/PiratiMB" target="_blank">Mladá Boleslav</a>
+                      <a href="https://www.piratipromb.cz" target="_blank">Mladá Boleslav</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Mladá Boleslav</li>
