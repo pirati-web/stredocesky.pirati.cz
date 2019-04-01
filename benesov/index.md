@@ -19,18 +19,20 @@ volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 {% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
 
 
-Místní sdružení Benešov má na starosti prosazování pirátské politiky v původním okrese Benešov, organizuje akce pro veřejnost a kromě otevřených schůzí konaných přímo v Benešově pořádá i výjezdní zasedání - např. do Votic nebo Týnce nad Sázavou.
+Místní sdružení Benešov má na starosti prosazování pirátské politiky v původním okrese Benešov, organizuje akce pro veřejnost a kromě otevřených schůzí konaných přímo v Benešově pořádá i výjezdní zasedání – např. do Votic nebo Týnce nad Sázavou.
 
 Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve Vidlákově Lhotě za účasti tří zakládajících členů - Ondřeje Hrdého, Davida Řejhy a Jana Ličky, tří dalších Pirátů a sedmi příznivců. Od&nbsp;této doby se členská základna MS Benešov rozrostla o dalších 5 členů a počet příznivců stoupnul zhruba na 15. Detailnější informace o našich členech najdete níže.
 
 # Novinky
 
+* **25. 3. 2019**
+Proběhla akce Na dortík s poslancem Františkem Kopřivou, v rámci které proběhla prvně debata se studenty benešovského gymnázia a poté s veřejností nad kávou, kde jsme se zabývali tím, jak funguje legislativní proces Evropské unie nebo možnostmi a úskalími brexitu.
 * **5. 3. 2019**
 Naše reporty ze zastupitelstva je nyní možné sledovat i na našem [youtube kanálu](https://www.youtube.com/channel/UCAsgieqa9tSYwq2jHWXnkIQ).
 * **9. 1. 2019**  
-Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise - Komise pro infrastrukturu a Komise pro národnostní menšiny.
+Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise – Komise pro infrastrukturu a Komise pro národnostní menšiny.
 * **17. 12. 2018**
-Druhé zasedání zastupitelstva města Benešov, kde byl obsazen za Piráty a Zelené Finanční výbor Ing. Danielem Netušilem a Kontrolní výbor Ing. Mgr. Radkem Klemperou. Bylo také schváleno pořizování audiovizuálního záznamu a online přenosu ze zasednání Zastupitelstva.
+Druhé zasedání zastupitelstva města Benešov, kde byl obsazen za Piráty a Zelené Finanční výbor Ing. Danielem Netušilem a Kontrolní výbor Ing. Mgr. Radkem Klemperou. Bylo také schváleno pořizování audiovizuálního záznamu a online přenosu ze zasedání Zastupitelstva.
 * **29. 10. 2018**  
 Podepsána koaliční smlouva mezi stranami Volba pro Benešov, STAN, ODS a Piráti s&nbsp;podporou Zelených. Naším novým radním se stal Daniel Netušil (gesce e-Government).
 * **6. 10. 2018**  
@@ -39,7 +41,7 @@ Ve volbách do Zastupitelstva města Benešov naše kandidátka Piráti s podpor
 ## Akce pořádané v roce 2018
 Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
 
-* **15. 9.** podzimní ternín akce **Ukliďme Česko** - tentokrát hřiště a parky ve městě,
+* **15. 9.** podzimní ternín akce **Ukliďme Česko** – tentokrát hřiště a parky ve městě,
 * **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
 * **28. 6.** debata **Doprava v Benešově**, kde jste se mohli seznámit s územním plánem z pohledu navržených dopravních řešení,
 * **24. 5.** se do našeho hledáčku dostalo školství aneb **Dobrá škola základ života**, kde vystoupil i náš kandidát na senátora Petr Chaluš,
@@ -56,7 +58,7 @@ Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet 
 
 # Lidé
 ### Jana Skopalíková
-Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK - obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
+Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK – obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
 
 ### David Řejha
 První místopředseda MS Benešov a zakládající člen. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
@@ -68,7 +70,7 @@ Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí j
 Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
 
 ### Hana Chalušová
-Členka MS Benešov, pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami - Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
+Členka MS Benešov, pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami – Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
 
 ### Milan Krch
 Člen MS Benešov, vedoucí krajského expertního týmu Finance.
