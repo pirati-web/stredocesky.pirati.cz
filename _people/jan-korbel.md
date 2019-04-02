@@ -9,11 +9,11 @@ category:
 description: 2. místopředseda kraje
 ordPKS: 3
 img: people/jan-korbel.jpg
-mail:
-  - jan.korbel@pirati.cz
+mail: jan.korbel@pirati.cz
 mob:
 #  - 
 profiles:
+  web: https://jackc.teptin.net
   github:
   facebook:
   twitter:
