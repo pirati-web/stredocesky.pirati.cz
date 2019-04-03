@@ -16,13 +16,13 @@ predsednictvo:
 mandat-do: 14.04.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40826
 ---
-{% asset 'ms/pribram/uvodni.jpg' alt='úvodní banner' %}
+{% asset 'ms/pribram/uvodni-small.jpg' alt='úvodní banner' %}
 
-MS Příbram založili v roce 2014 Lenka Kozlová, Vašek Pecha a Milan Müller.
+MS Příbram založili v roce 2014 Lenka Kozlová, Vašek Pecha a Milan Müller,  kdy jsme se  účastnili prvních komunálních voleb a získali 1,15 %.
 
-Současně jsme se v tomtéž roce účastnili prvních komunálních voleb a získali 1,15 %. Zlomem byl ale rok 2018, kdy se do příbramského zastupitelstva dostal náš vyslanec Antonín Schejbal. V současné době máme taktéž zástupce ve většině městských komisích, kde se snažíme dohlížet na chod města a prosazovat náš program.
+Zlomový byl pro nás rok 2018, kdy se do příbramského zastupitelstva dostal náš člen Antonín Schejbal. V současné době máme také zástupce ve většině městských komisích, kde se snažíme dohlížet na chod města a prosazovat náš program.
 
-Mimo politiku se taktéž angažujeme v pořádání veřejných akci jako jsou přenášky, koncerty, promítání dokumentů, či uklízíme Česko 😊
+Mimo politiku se angažujeme v pořádání veřejných akcí jako jsou přednášky, koncerty, promítání dokumentů, či uklízíme Česko.
 
 Každý je taktéž vítán na našich veřejných schůzích.
 
@@ -49,7 +49,7 @@ Každý je taktéž vítán na našich veřejných schůzích.
 </div>
 
 <div markdown="1" class="c-profile-badge">
-{% asset 'ms/pribram/simona-luftova.jpg' alt='Simona Luftová' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Simona Luftová** e registrovaný příznivec od roku 2018 a ve stejném roce kandidovala za piráty do příbramského zastupitelstva jako #3. Jako dítě s rodiči utekla z ČSSR do Rakouska a následně do JAR, kde žila 10 let. Po maturitě na začátku 90 let se vrátila do CSFR a nastoupila na vysokou školu FSV-UK obor politologie. Část studia se věnovala americkým studiím v Bostonu. O několik let později si na PF-UK rozšířila pedagogické vzdělání a didaktitu anglického jazyka. V minulosti pracovala jako marketingová koordinátorka, osobní asistentka poslance, tlumočnice, překladatelka, či administrativní pracovnice. V současné době učí na střední škole a koordinuje mezinárodní vzdělávací projekty v rámci Evropy. Současně je od roku 2019 členem kontrolního výboru, komise pro výchovu a vzdělávání a komise zdravotnické a sociální v Příbrami. Nyní by se chtěla věnovat veřejným zakázkám a transparentnosti hospodaření města. Zároveň by se ráda angažovala v rozvoji vztahů se zahraničními partnerskými městy. Simona je vdaná a má tři děti.
+{% asset 'ms/pribram/simona-luftova.jpg' alt='Simona Luftová' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Simona Luftová** je registrovaný příznivec od roku 2018 a ve stejném roce kandidovala za piráty do příbramského zastupitelstva jako #3. Jako dítě s rodiči utekla z ČSSR do Rakouska a následně do JAR, kde žila 10 let. Po maturitě na začátku 90 let se vrátila do CSFR a nastoupila na vysokou školu FSV-UK obor politologie. Část studia se věnovala americkým studiím v Bostonu. O několik let později si na PF-UK rozšířila pedagogické vzdělání a didaktitu anglického jazyka. V minulosti pracovala jako marketingová koordinátorka, osobní asistentka poslance, tlumočnice, překladatelka, či administrativní pracovnice. V současné době učí na střední škole a koordinuje mezinárodní vzdělávací projekty v rámci Evropy. Současně je od roku 2019 členem kontrolního výboru, komise pro výchovu a vzdělávání a komise zdravotnické a sociální v Příbrami. Nyní by se chtěla věnovat veřejným zakázkám a transparentnosti hospodaření města. Zároveň by se ráda angažovala v rozvoji vztahů se zahraničními partnerskými městy. Simona je vdaná a má tři děti.
 </div>
 
 # Zastupitelé města Příbram zvolení za Piráty

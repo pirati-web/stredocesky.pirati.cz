@@ -146,11 +146,12 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
-                    {% asset 'city.png' alt='City' %}
+                    <a href="/pribram/">
+                      {% asset 'ms/pribram/vsichni-small.jpg' alt='Příbram' %} </a>
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/PiratiPB" target="_blank">Příbram</a>
+                      <a href="/pribram/">Příbram</a>
                     </h3>
                     <ul>
                       <li>Působnost: okres Příbram</li>
