@@ -1,0 +1,26 @@
+---
+uid: jan.prokop
+name: Jan Prokop
+titles:
+  before: 
+  after: 
+category:
+  - dalsi
+description: vedoucí krajského mediálního odboru
+ordDalsi: 2
+img: people/jan-prokop.jpg
+mail: jan.prokop@pirati.cz
+mob: +420 702 237 439
+#  - 
+profiles:
+  web: 
+  github:
+  facebook: honcka
+  twitter:
+  linkedin:
+---
+
+**Jan Prokop** (* 25. června 1981) je od dubna 2019 vedoucím mediálního odboru krajského sdružení Středočeský kraj. Narodil se v Českém Brodě, pochází z Prahy – Klánovice a od roku 2010 žije v Brandýse nad Labem – Staré Boleslavi.
+
+Vystudoval gymnázium u Libeňského zámku a pracuje jako Správce ICT ve státní správě. Je aktivním členem spolku Boleslavský Klíček a ve volném čase rád modelaří.
+
