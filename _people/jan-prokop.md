@@ -15,7 +15,7 @@ mob: +420 702 237 439
 profiles:
   web: 
   github:
-  facebook: honcka
+  facebook: https://www.facebook.com/honcka
   twitter:
   linkedin:
 ---
