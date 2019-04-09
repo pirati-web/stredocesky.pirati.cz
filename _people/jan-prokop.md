@@ -22,5 +22,5 @@ profiles:
 
 **Jan Prokop** (* 25. června 1981) je od dubna 2019 vedoucím mediálního odboru krajského sdružení Středočeský kraj. Narodil se v Českém Brodě, pochází z Prahy – Klánovice a od roku 2010 žije v Brandýse nad Labem – Staré Boleslavi.
 
-Vystudoval gymnázium u Libeňského zámku a pracuje jako Správce ICT ve státní správě. Je aktivním členem spolku Boleslavský Klíček a ve volném čase rád modelaří.
+Vystudoval Gymnázium U Libeňského zámku a pracuje jako správce ICT ve státní správě. Je aktivním členem spolku Boleslavský Klíček a ve volném čase rád modelaří.
 
