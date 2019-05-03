@@ -9,7 +9,9 @@ V tomto archivu můžete nalézt starší verze tištěných novin – Pirátsk
 
 ## Duben 2019
 
-Připravujeme pro Vás Pirátské listy tematicky laděné k volbám do Evropského parlamentu. Dostupné budou zhruba od půlky dubna – jak zde, tak v tištěné podobě na našich akcích v některých městech.
+V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Noviny distribuujeme na různých akcích po celém kraji a s pomocí dobrovolníků také do vašich poštovních schránek.
+
+[PDF ke stažení.](archiv/2019-04-stredoceske.pdf)
 
 ## Září 2018
 
