@@ -20,7 +20,8 @@ mail:
 profiles:
   facebook: https://www.facebook.com/frantisek.kopriva.5
   instagram: https://www.instagram.com/koprivafrantisek/
-  twitter: https://twitter.com/frantiekkopiva
+  #twitter: https://twitter.com/frantiekkopiva
+  twitter: https://twitter.com/FrantisekKopiva
   web: http://frantisekkopriva.cz
 office:
   - address: Malostranské náměstí 7/19, 118 26  Praha 1 – Malá Strana
