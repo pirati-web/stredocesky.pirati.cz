@@ -53,6 +53,24 @@ title: Místní sdružení ve Středočeském kraji
               <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
                 <div class="c-content-card">
                   <div class="c-content-card-img">
+                    {% asset 'city.png' alt='City' %}
+                  </div>
+                  <div class="c-content-card-content-box">
+                    <h3 class="c-content-card-title">
+                      <a href="https://www.facebook.com/PiratiKladno" target="_blank">Kladno</a>
+                    </h3>
+                    <ul>
+                      <li>Působnost: okres Kladno</li>
+                      <li>Předseda: Radek Černohous</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- zacatek MS -->
+              <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
+                <div class="c-content-card">
+                  <div class="c-content-card-img">
                     <a href="/kolin/">
                       {% asset 'ms/kolin/kolinaci2-small.jpg' alt='Kolín' %} </a>
                   </div>
@@ -63,24 +81,6 @@ title: Místní sdružení ve Středočeském kraji
                     <ul>
                       <li>Působnost: okres Kolín</li>
                       <li>Předseda: Martin Polák</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-
-              <!-- zacatek MS -->
-              <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
-                <div class="c-content-card">
-                  <div class="c-content-card-img">
-                    {% asset 'city.png' alt='City' %}
-                  </div>
-                  <div class="c-content-card-content-box">
-                    <h3 class="c-content-card-title">
-                      <a href="https://www.facebook.com/PiratiKladno" target="_blank">Kladno</a>
-                    </h3>
-                    <ul>
-                      <li>Působnost: okres Kladno</li>
-                      <li>Předseda: Radek Černohous</li>
                     </ul>
                   </div>
                 </div>
