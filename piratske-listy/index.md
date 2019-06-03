@@ -9,9 +9,35 @@ V tomto archivu můžete nalézt starší verze tištěných novin – Pirátsk
 
 ## Duben 2019
 
-V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Noviny distribuujeme na různých akcích po celém kraji a s pomocí dobrovolníků také do vašich poštovních schránek.
+V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Noviny distribuujeme na různých akcích po celém kraji a s pomocí dobrovolníků také do vašich poštovních schránek. Můžete se v nich dočíst, proč Evropa potřebuje Piráty od Ivana Bartoše, rozhovor Evropa nám garantuje svobodu, o kterou nesmíme přijít s Marcelem Kolajou, lídrem evropské kandidátky nebo polemiku na téma Řídí EU naše životy, nebo my řídíme život v EU od Mikuláše Peksy. Nechybí ani čtyři články tom, jak ovlivnila Evropská unie život ve Středočeském kraji.
 
 [PDF ke stažení.](archiv/2019-04-stredoceske.pdf)
+
+Také jsme pro vás připravili čtyři lokální přílohy Pirátských listů, a to konkrétně v Benešově, Kladně a Příbrami, ve kterých občany informujeme o dění na radnicích a lokálních tématech.
+
+#### Benešov
+
+Benešovsko vám nabídne celkem čtyři články. Přiblížit úřad lidem – rozhovor s pirátským radním Danielem Netušilem, Už to zase rozkopali od experta na mobilitu Jana Ličky, Prší málo nebo jen neumíme hospodařit s vodou od bioložky Jany Skopalíkové a krátké pojednání o Pirátech v Benešově – kdo jsme a co jsme zatím udělali.
+
+[PDF ke stažení.](archiv/2019-04-Benesov.pdf)
+
+#### Brandýs-Stará Boleslav
+
+Brandýs-Stará Boleslav vám nabídne článek s názvem Dycky most přes Labe od Patricka Zandla, zamýšlí se nad tématem Hluchov: Jaká má být role lužního lesa uprostřed města? s Markem Řebíčkem nebo informuje o pirátských aktivitách aneb Ukliďme Česko je sonda do naší duše.
+
+[PDF ke stažení.](archiv/2019-04-Brandys.pdf)
+
+#### Kladno
+
+Pirátské Kladno přináší např. článek s názvem Kladno nesmí být ghetto – jak na to? od Jakuba Václavoviče, rozhovor s pirátským poslancem Tomášem Vymazalem Konopí na zahrádce nikomu neškodí a nikoho neomezuje, informace Co se děje v kontrolním výboru Města? od Michala Hažlinského a také pozvánku na Sdílené středy s Piráty na pivo.
+
+[PDF ke stažení.](archiv/2019-04-Kladno.pdf)
+
+#### Příbram
+
+Příbramská příloha píše o otevření Poslanecké kanceláře Lenky Kozlové, dále přináší článek Aquapark. Místo, kde mě vomejou od Jana Trnky nebo K čemu nám ta EU je od příbramského zastupitele Antonína Schejbala. Nechybí ani pohádka Jak Honza na úřad jel, která doplňuje trojici článků o dopravě Parkování po Příbramsku a Drahé péčko od člena dopravní komise Josefa Boušeho.
+
+[PDF1 ke stažení.](archiv/2019-04-Pribram-strana1.pdf)[PDF2 ke stažení.](archiv/2019-04-Pribram-strana2.pdf)
 
 ## Září 2018
 
