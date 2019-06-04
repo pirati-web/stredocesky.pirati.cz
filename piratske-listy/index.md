@@ -9,35 +9,35 @@ V tomto archivu můžete nalézt starší verze tištěných novin – Pirátsk
 
 ## Duben 2019
 
-V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Noviny distribuujeme na různých akcích po celém kraji a s pomocí dobrovolníků také do vašich poštovních schránek. Můžete se v nich dočíst, proč Evropa potřebuje Piráty od Ivana Bartoše, rozhovor Evropa nám garantuje svobodu, o kterou nesmíme přijít s Marcelem Kolajou, lídrem evropské kandidátky nebo polemiku na téma Řídí EU naše životy, nebo my řídíme život v EU od Mikuláše Peksy. Nechybí ani čtyři články tom, jak ovlivnila Evropská unie život ve Středočeském kraji.
+V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Můžete se v nich dočíst, proč *Evropa potřebuje Piráty* od Ivana Bartoše, rozhovor *Evropa nám garantuje svobodu, o kterou nesmíme přijít* s Marcelem Kolajou, lídrem evropské kandidátky, nebo polemiku na téma *Řídí EU naše životy, nebo my řídíme život v EU* od Mikuláše Peksy. Nechybí ani čtyři články tom, jak ovlivnila Evropská unie život ve Středočeském kraji.
 
 [PDF ke stažení.](archiv/2019-04-stredoceske.pdf)
 
-Také jsme pro vás připravili čtyři lokální přílohy Pirátských listů, a to konkrétně v Benešově, Kladně a Příbrami, ve kterých občany informujeme o dění na radnicích a lokálních tématech.
+Také jsme pro vás připravili čtyři lokální přílohy Pirátských listů, a to konkrétně v Benešově, Brandýse-Staré Boleslavi, Kladně a Příbrami. V nich občany informujeme o dění na radnicích a lokálních tématech.
 
 #### Benešov
 
-Benešovsko vám nabídne celkem čtyři články. Přiblížit úřad lidem – rozhovor s pirátským radním Danielem Netušilem, Už to zase rozkopali od experta na mobilitu Jana Ličky, Prší málo nebo jen neumíme hospodařit s vodou od bioložky Jany Skopalíkové a krátké pojednání o Pirátech v Benešově – kdo jsme a co jsme zatím udělali.
+Benešovsko vám nabídne celkem čtyři články. *Přiblížit úřad lidem* – rozhovor s pirátským radním Danielem Netušilem, *Už to zase rozkopali* od experta na mobilitu Jana Ličky, *Prší málo nebo jen neumíme hospodařit s vodou* od Jany Skopalíkové a krátké pojednání o Pirátech v Benešově – kdo jsme a co jsme zatím udělali.
 
 [PDF ke stažení.](archiv/2019-04-Benesov.pdf)
 
 #### Brandýs-Stará Boleslav
 
-Brandýs-Stará Boleslav vám nabídne článek s názvem Dycky most přes Labe od Patricka Zandla, zamýšlí se nad tématem Hluchov: Jaká má být role lužního lesa uprostřed města? s Markem Řebíčkem nebo informuje o pirátských aktivitách aneb Ukliďme Česko je sonda do naší duše.
+Brandýs-Stará Boleslav vám nabídne článek s názvem *Dycky most přes Labe* od Patricka Zandla, zamýšlí se nad tématem *Hluchov: Jaká má být role lužního lesa uprostřed města?* s Markem Řebíčkem nebo informuje o pirátských aktivitách aneb *Ukliďme Česko je sonda do naší duše*.
 
 [PDF ke stažení.](archiv/2019-04-Brandys.pdf)
 
 #### Kladno
 
-Pirátské Kladno přináší např. článek s názvem Kladno nesmí být ghetto – jak na to? od Jakuba Václavoviče, rozhovor s pirátským poslancem Tomášem Vymazalem Konopí na zahrádce nikomu neškodí a nikoho neomezuje, informace Co se děje v kontrolním výboru Města? od Michala Hažlinského a také pozvánku na Sdílené středy s Piráty na pivo.
+Pirátské Kladno přináší např. článek s názvem *Kladno nesmí být ghetto – jak na to?* od Jakuba Václavoviče, rozhovor s pirátským poslancem Tomášem Vymazalem *Konopí na zahrádce nikomu neškodí a nikoho neomezuje*, informace *Co se děje v kontrolním výboru Města?* od Michala Hažlinského a také pozvánku na *Sdílené středy s Piráty na pivo*.
 
 [PDF ke stažení.](archiv/2019-04-Kladno.pdf)
 
 #### Příbram
 
-Příbramská příloha píše o otevření Poslanecké kanceláře Lenky Kozlové, dále přináší článek Aquapark. Místo, kde mě vomejou od Jana Trnky nebo K čemu nám ta EU je od příbramského zastupitele Antonína Schejbala. Nechybí ani pohádka Jak Honza na úřad jel, která doplňuje trojici článků o dopravě Parkování po Příbramsku a Drahé péčko od člena dopravní komise Josefa Boušeho.
+Příbramská příloha píše o otevření Poslanecké kanceláře Lenky Kozlové, dále přináší článek *Aquapark. Místo, kde mě vomejou* od Jana Trnky nebo *K čemu nám ta EU je* od příbramského zastupitele Antonína Schejbala. Nechybí ani pohádka *Jak Honza na úřad jel*, která doplňuje trojici článků o dopravě *Parkování po Příbramsku* a *Drahé péčko* od člena dopravní komise Josefa Boušeho.
 
-[PDF1 ke stažení.](archiv/2019-04-Pribram-strana1.pdf)[PDF2 ke stažení.](archiv/2019-04-Pribram-strana2.pdf)
+[PDF1 ke stažení.](archiv/2019-04-Pribram-strana1.pdf) [PDF2 ke stažení.](archiv/2019-04-Pribram-strana2.pdf)
 
 ## Září 2018
 
@@ -45,25 +45,25 @@ V rámci kampaně do obecních zastupitelstev jsme vytvořili několik lokáln�
 
 #### Benešov
 
-V benešovských novinách si můžete přečíst např. Na slovíčko s kapitánem – rozhovor s lídrem kandidátky Danielem Netušilem, Strasti hromadného cestujícího aneb proč nejezdím autobusem, když bydlím na venkově od zástupce garanta dopravy Jana Ličky nebo Zpátky ke hvězdám od environmentalisty Martina Michaela Monze.
+V benešovských novinách si můžete přečíst např. *Na slovíčko s kapitánem* – rozhovor s lídrem kandidátky Danielem Netušilem, *Strasti hromadného cestujícího aneb proč nejezdím autobusem, když bydlím na venkově* od zástupce garanta dopravy Jana Ličky nebo *Zpátky ke hvězdám* od environmentalisty Martina Michaela Monze.
 
 [PDF ke stažení.](archiv/2018-09-Benesov.pdf)
 
 #### Brandýs nad Labem-Stará Boleslav
 
-Brandýs-Stará Boleslav připravila článek s názvem Pumtrack do Central parku a skatepark do Boleslavi od Patricka Zandla, Velký třesk – jak opravit silnice a chodníky v Brandýse a Boleslavi od Marka Řebíčka nebo Voda začíná být vzácná a drahá, hospodařme s ní! od Marie Kubáčkové.
+Brandýs-Stará Boleslav připravila článek s názvem *Pumtrack do Central parku a skatepark do Boleslavi* od Patricka Zandla, *Velký třesk – jak opravit silnice a chodníky v Brandýse a Boleslavi* od Marka Řebíčka nebo *Voda začíná být vzácná a drahá, hospodařme s ní!* od Marie Kubáčkové.
 
 [PDF ke stažení.](archiv/2018-09-Brandys.pdf)
 
 #### Černošice
 
-Černošice ve svých novinách představili čelní kandidáty do komunální kampaně včetně lídra kandidátky Michala Trešla. Dále zde najdete články o participativním rozpočtu, dopravě v Černošicích nebo o odpadu s názvem Nejlepší odpad je ten, který vůbec nevznikne od Báry Novákové a Jana Biskupa.
+Černošice ve svých novinách představili čelní kandidáty do komunální kampaně včetně lídra kandidátky Michala Trešla. Dále zde najdete články o participativním rozpočtu, dopravě v Černošicích nebo o odpadu s názvem *Nejlepší odpad je ten, který vůbec nevznikne* od Báry Novákové a Jana Biskupa.
 
 [PDF ke stažení.](archiv/2018-09-Cernosice.pdf)
 
 #### Kolín
 
-V Kolínské mutaci najdete také rozhovor s lídrem kandidátky Vojtěchem Ertlem, článek Zelená páteř ve Vestci u Prahy od krajinné koordinátorky Kláry Salzmann nebo Společně pro lepší Kolín od Cyrila Koky, referenta pro oblast národnostních menšin.
+V Kolínské mutaci najdete také rozhovor s lídrem kandidátky Vojtěchem Ertlem, článek *Zelená páteř ve Vestci u Prahy* od krajinné koordinátorky Kláry Salzmann nebo *Společně pro lepší Kolín* od Cyrila Koky, referenta pro oblast národnostních menšin.
 
 [PDF ke stažení.](archiv/2018-09-Kolin.pdf)
 
@@ -75,19 +75,19 @@ Kutná Hora představuje v Pirátských listech především své kandidáty do
 
 #### Nymburk
 
-Nymburk přináší kromě Úvodního slova lídra Petra Procházky také článek Krátce, ale výstižně o veřejné zeleni v Nymburce od Miroslava Jisla nebo Seznam zvolených zastupitelů města Nymburka od roku 1994 do roku 2014 včetně jejich politické příslušnosti.
+Nymburk přináší kromě *Úvodního slova* lídra Petra Procházky také článek *Krátce, ale výstižně o veřejné zeleni v Nymburce* od Miroslava Jisla nebo *Seznam zvolených zastupitelů města Nymburka* od roku 1994 do roku 2014 včetně jejich politické příslušnosti.
 
 [PDF ke stažení.](archiv/2018-09-Nymburk.pdf)
 
 #### Příbram
 
-V příbramských novinách najdete 5 priorit pro Příbram, Lenka Kozlová: Nepleťme si politické školení a občanské vzdělávání nebo Nestačí, když vám tleská jen vaše sociální bublina. A to je síla Pirátů, mluvíme se všemi! od předsedy Pirátů Ivana Bartoše.
+V příbramských novinách najdete *5 priorit pro Příbram*, Lenka Kozlová: *Nepleťme si politické školení a občanské vzdělávání* nebo *Nestačí, když vám tleská jen vaše sociální bublina. A to je síla Pirátů, mluvíme se všemi!* od předsedy Pirátů Ivana Bartoše.
 
 [PDF ke stažení.](archiv/2018-09-Pribram.pdf)
 
 ## Květen 2018
 
-V květnovém vydání našich novin si můžete přečíst několik článků od našich poslanců – např. Držíme kurz od předsedy Pirátů Ivana Bartoše, Digitální stát na obzoru aneb život bez front na úřadech od Ondřeje Profanta nebo Chceme zprůhlednit největší penězovod od Jakuba Michálka. Dále pak článek Sněmovna otevřená pro všechny, Přes noc místopředsedou sněmovny – rozhovor s Vojtěchem Pikalem nebo Nejdůležitější pilíř volební kampaně: dobrovolníci.
+V květnovém vydání našich novin si můžete přečíst několik článků od našich poslanců – např. *Držíme kurz* od předsedy Pirátů Ivana Bartoše, *Digitální stát na obzoru aneb život bez front na úřadech* od Ondřeje Profanta nebo *Chceme zprůhlednit největší penězovod* od Jakuba Michálka. Dále pak článek *Sněmovna otevřená pro všechny*, *Přes noc místopředsedou sněmovny* – rozhovor s Vojtěchem Pikalem nebo *Nejdůležitější pilíř volební kampaně: dobrovolníci*.
 
 [PDF ke stažení.](archiv/2018-05-celostatni.pdf)
 
