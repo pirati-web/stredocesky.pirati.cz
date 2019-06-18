@@ -8,7 +8,7 @@ title: 'Prší málo nebo jen s vodou neumíme hospodařit?'
 description: 'sucho, Benešov'
 author: Jana Skopalíková
 #authorId: jana.skopalikova
-image: posts/2019/sucho.jpg
+image: posts/2019/reka.jpg
 ---
 V podstatě na celém světě, v posledních letech mnohem častěji než dříve, můžeme pozorovat extrémní výkyvy počasí. Někdy se jedná o krátkodobé události, jako například záplavy, jindy o dlouhodobější úkazy, typicky opak prvního příkladu – extrémně vysoké teploty a nedostatek srážek.
 
@@ -20,6 +20,9 @@ Jaké další faktory způsobují sucho a proč? Zbytečné chyby z dob minulýc
 
 Další zhruba 4 000 ha zemědělské půdy jsou každým rokem vyňaty z půdního fondu, z toho asi polovina je následně zastavěna rodinnými domy a čtvrtina silnicemi. Odtok je zajišťován kanalizací, která pomáhá odvádět vodu bez možnosti vsakování. Za posledních 150 let bylo také napřímeno a prohloubeno koryto přibližně 60 % našich řek a potoků, čímž byl narušen malý oběh vody a znemožněny pravidelné jarní záplavy niv a lužních lesů.
 
-Jak se suchem můžeme bojovat? Někdy není potřeba vymýšlet nová a složitá řešení, stačí zrevidovat stávající opatření a zamyslet se nad tím, zda stále plní svůj účel. Jako důležité se jeví například postupné rušení meliorací, navracení mezí nebo zmenšování velikosti lánů, ale také střídání nebo různorodost pěstovaných plodin a používání rostlin tvořící zapojené porosty. Dále pak zachování luk a mokřadů, které v parném létě vodu odpařují a v době povodní zmírňují jejich průběh. Nyní jsou na tvorbu a obnovu tůní, mokřadů a malých vodních nádrží vypsány také dotační tituly s výší podpory 80–100 % – více na webu [AOPK ČR] (http://www.dotace.nature.cz).
+{% asset 'posts/2019/aquapark.jpg' alt='Aquapark' %}
+
+Jak se suchem můžeme bojovat? Někdy není potřeba vymýšlet nová a složitá řešení, stačí zrevidovat stávající opatření a zamyslet se nad tím, zda stále plní svůj účel. Jako důležité se jeví například postupné rušení meliorací, navracení mezí nebo zmenšování velikosti lánů, ale také střídání nebo různorodost pěstovaných plodin a používání rostlin tvořící zapojené porosty. Dále pak zachování luk a mokřadů, které v parném létě vodu odpařují a v době povodní zmírňují jejich průběh. Nyní jsou na tvorbu a obnovu tůní, mokřadů a malých vodních nádrží vypsány také dotační tituly s výší podpory 80–100 % – více na webu [AOPK ČR](http://www.dotace.nature.cz).
 
 Podpořit udržování vody v krajině je možné také výsadbou stromů, nejlépe ovocných, tvorbou zelených střech nebo vertikálních zahrad, protože půda díky zeleni zadrží více vlhkosti. Stromy pomáhají bojovat i s dalším současným problémem, vysokými teplotami – 1 ha stromů má stejnou účinnost jako provoz klimatizačních jednotek v řádu 16 mil. Kč/rok.
+
