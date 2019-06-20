@@ -115,7 +115,7 @@ title: Místní sdružení ve Středočeském kraji
                   </div>
                   <div class="c-content-card-content-box">
                     <h3 class="c-content-card-title">
-                      <a href="https://www.piratipromb.cz" target="_blank">Mladá Boleslav</a>
+                      Mladá Boleslav
                     </h3>
                     <ul>
                       <li>Působnost: okres Mladá Boleslav</li>
