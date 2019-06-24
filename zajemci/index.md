@@ -61,7 +61,7 @@ Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivc
 
 Pokud máš zájem, můžeš si přečíst [návod pro nováčky](https://www.pirati.cz/po/vzdelavani/uvod_do_piratu), [obecné návody](https://www.pirati.cz/po/vzdelavani#vzdelavani_clenu) a návody [technického rázu](https://www.pirati.cz/to/navody/start).
 
-Sleduj nás a přispívej také na sociálních sítích [Facebook] (https://www.facebook.com/pirati.stc/), [Twitter](https://twitter.com/pirati_sck) a [Instagram] https://www.instagram.com/stredocestipirati/.
+Sleduj nás a přispívej také na sociálních sítích [Facebook](https://www.facebook.com/pirati.stc/), [Twitter](https://twitter.com/pirati_sck) a [Instagram](https://www.instagram.com/stredocestipirati/).
 
 **Vítej na palubě!** :-)
 
