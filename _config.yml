@@ -69,6 +69,9 @@ twitter:
   loadSDK: true
   profile: pirati_sck
 
+youtube:
+  url: "https://www.youtube.com/channel/UCID4m0gBoaG5sFmQ5l-iRBQ/videos"
+
 instagram:
   #profilePage: https://www.instagram.com/pirati.cz/
 
