@@ -69,9 +69,6 @@ twitter:
   loadSDK: true
   profile: pirati_sck
 
-youtube:
-  url: "https://www.youtube.com/channel/UCID4m0gBoaG5sFmQ5l-iRBQ/videos"
-
 instagram:
   #profilePage: https://www.instagram.com/pirati.cz/
 
@@ -87,6 +84,9 @@ forum:
 github:
   url: https://github.com/pirati-web/stredocesky.pirati.cz/
   branch: master
+
+youtube:
+  url: https://www.youtube.com/channel/UCID4m0gBoaG5sFmQ5l-iRBQ/videos
 
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -174,7 +174,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.2.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
