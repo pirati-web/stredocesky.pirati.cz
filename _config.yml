@@ -86,7 +86,7 @@ github:
   branch: master
 
 youtube:
-  url: https://www.youtube.com/channel/UCID4m0gBoaG5sFmQ5l-iRBQ/videos
+  channel: UCID4m0gBoaG5sFmQ5l-iRBQ
 
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -174,7 +174,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
