@@ -6,7 +6,8 @@ titles:
   after:
 category:
   - kandidat-2018-komunalni-kutna_hora
-description: kandidát - Kutná Hora 2018 
+  - zastupitel
+description: zastupitel - Kutná Hora
 img: people/vit-snajdr.jpg
 mail:
   - snajdrv@seznam.cz
@@ -19,7 +20,7 @@ profiles:
   linkedin:
 ---
 
-**Vít Šnajdr** (* 20. listopadu 1972) vystudoval učitelství biologie na Přírodovědecké fakultě Univerzity Karlovy a vychovatelství s etopedií na Univerzitě Hradec Králové. Pracoval jako učitel na základní škole, poté na gymnáziu a několik let jako vychovatel ve výchovném ústavu. Posledních šest let je ve funkci ředitele základní školy Kutná Hora, Kamenná stezka. Mimo jiné prošel i výcvikem supervize a mediace. Je aktivním sportovcem – házenkářem, dlouhodobě pracoval s mládeží a šest let je hlavním trenérem kutnohorského A-týmu a členem výboru házenkářského oddílu. Je kutnohorským rodákem a říká o sobě, že je kutnohorský patriot. Má čtrnáctiletou dceru a je šťastně podruhé ženatý.
+**Vít Šnajdr** (*1972) vystudoval PřF UK učitelství biologie a PF UHK vychovatelství s etopedií. Pracoval dlouhou dobu ve školství, naposledy šest let jako ředitel základní školy. V současné době zastává post prvního místostarosty pro školství v Kutné Hoře. V jeho gesci jsou oblasti školství, sportu, kultury, památkové péče, životní prostředí, dopravy a některé investiční akce. Na politice Pirátů je mu nejbližší transparentnost, „zlidštění“ státní správy pro občany, úcta k občanským svobodám a proevropské směřování politiky. Tyto principy chce prosazovat i v Kutné Hoře.
 
-> “V komunální politice se chci snažit o maximální otevřenost a přiblížení politiky všem lidem. Prioritou pro mě jsou demokratické principy, pevné zásady a upřednostnění konsensu před silovým řešením. Politika pro mě znamená především diskuzi. Chtěl bych do řízení města přinést více koncepčnosti a hlavně ducha spolupráce a vzájemnosti. Věřím, že se jedná o reálný cíl pro příští volební období a Kutná Hora se stane městem, kde společný zájem převáží nad osobními malichernými spory.”
-
+Vít je ženatý a má patnáctiletou dceru. Mezi jeho zájmy patří četba, cestování a zejména sport, stále působí jako aktivní hráč a trenér házenkářského oddílu.
+ 
