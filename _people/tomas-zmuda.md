@@ -5,7 +5,8 @@ titles:
   before: Ing. 
   after:
 category:
-description: 
+  - zastupitel
+description: zastupitel - Jinočany
 img: people/tomas-zmuda.jpg
 ordPKS:
 mail:
