@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - kandidat-2018-senat
-description: kandidát na senátora
+description: kandidát na senátora (2018)
 img: people/petr-chalus.jpg
 mail:
   - petrchalus@gmail.com

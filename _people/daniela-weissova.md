@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - kandidat-2018-senat
-description: kandidátka na senátorku
+description: kandidátka na senátorku (2018)
 img: people/daniela-weissova.jpg
 mail:
   - daniela.weissova@pirati.cz
