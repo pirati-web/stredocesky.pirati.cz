@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - pks
-description: 2. místopředseda kraje
+description: 2. místopředseda krajského sdružení
 ordPKS: 3
 img: people/jan-korbel.jpg
 mail: jan.korbel@pirati.cz

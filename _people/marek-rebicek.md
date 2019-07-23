@@ -6,9 +6,10 @@ titles:
   after:
 category:
   - pks
-description: 4. místopředseda kraje
+  - zastupitel
+description: 3. místopředseda krajského sdružení a zastupitel - Brandýs n.L. - St. Boleslav
 img: people/marek-rebicek.jpg
-ordPKS: 5
+ordPKS: 4
 mail:
   - marek.rebicek@pirati.cz
 profiles:

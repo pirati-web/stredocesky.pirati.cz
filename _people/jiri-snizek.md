@@ -7,7 +7,7 @@ titles:
 category:
   - pks
   - kandidat-2018-komunalni-kolin
-description: předseda kraje
+description: předseda krajského sdružení
 img: people/jiri-snizek.jpg
 ordPKS: 1
 mail:

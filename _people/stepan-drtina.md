@@ -7,7 +7,8 @@ titles:
 category:
   - kandidat-2018-komunalni-kutna_hora
   - pks
-description: 1. místopředseda kraje
+  - zastupitel
+description: 1. místopředseda krajského sdružení a zastupitel - Kutná Hora
 ordPKS: 2
 img: people/stepan-drtina.jpg
 mail:
