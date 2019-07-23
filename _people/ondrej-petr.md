@@ -6,7 +6,8 @@ titles:
   after: 
 category:
   - dalsi
-description: PR manager
+  - kontaktni_osoba
+description: PR manager a kontakt pro média
 ordDalsi: 2
 img: people/_man.png
 mail:
