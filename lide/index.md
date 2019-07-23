@@ -14,7 +14,7 @@ groups:
   - name: Komunální zastupitelé ve Středočeském kraji
     category: zastupitel
     sort: ordZastupitel
-  - name: Další členové
+  - name: Další členové či příznivci
     category: dalsi
     sort: ordDalsi
 ---
