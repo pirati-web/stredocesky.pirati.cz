@@ -11,6 +11,8 @@ description: >-
   Česká pirátská strana - Krajské sdružení Středočeský kraj
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: krajské sdružení, střední čechy, středočeši, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz # mail kam pujdou chybove vystupy
