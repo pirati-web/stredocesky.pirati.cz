@@ -7,7 +7,7 @@ mail: mskladno@pirati.cz
 facebook: PiratiMB
 forum: https://forum.pirati.cz/viewforum.php?f=737
 predsednictvo:
- - funkce: předseda
+předseda
    jmeno: Radek Černohous
  - funkce: 1. místopředseda
    jmeno: Michal Hažlinský
