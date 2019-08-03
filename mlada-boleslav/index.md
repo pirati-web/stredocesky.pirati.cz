@@ -1,114 +1,59 @@
 ---
 layout: ms
-title: Místní sdružení Benešov
-description: Místní sdružení Benešov
-keywords: piráti, místní sdružení, Benešov
-mail: piratibenesov@gmail.com
-facebook: piratskapalubaBN
-forum: https://forum.pirati.cz/viewforum.php?f=967
+title: Místní sdružení Mladá Boleslav
+description: Místní sdružení Mladá Boleslav
+keywords: piráti, místní sdružení, Mladá Boleslav
+mail: mskladno@pirati.cz
+facebook: PiratiMB
+forum: https://forum.pirati.cz/viewforum.php?f=737
 predsednictvo:
  - funkce: předseda
-   jmeno: Jana Skopalíková
+   jmeno: Radek Černohous
  - funkce: 1. místopředseda
-   jmeno: David Řejha
+   jmeno: Michal Hažlinský
  - funkce: 2. místopředseda
-   jmeno: Jan Lička
-mandat-do: 25.10.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
+   jmeno: Jakub Václavovič
+mandat-do: 01.02.2021
+volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-{% asset 'ms/benesov/clenove-small.jpg' alt='clenove' %}
+{% asset 'ms/kladno/top.png' alt='MS Kladno' %}
 
-Místní sdružení Benešov má na starosti prosazování pirátské politiky v původním okrese Benešov, organizuje akce pro veřejnost a kromě otevřených schůzí konaných přímo v Benešově pořádá i výjezdní zasedání – např. do Votic nebo Týnce nad Sázavou.
 
-Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve Vidlákově Lhotě za účasti tří zakládajících členů - Ondřeje Hrdého, Davida Řejhy a Jana Ličky, tří dalších Pirátů a sedmi příznivců. Od&nbsp;této doby se členská základna MS Benešov rozrostla o dalších 5 členů a počet příznivců stoupnul zhruba na 15. Detailnější informace o našich členech najdete níže.
+<!-- # Novinky
 
-# Novinky
+* **11. 2. 2019**  
+Proběhla volba předsednictva místního sdružení. Novým předsedou MS Kladno byl zvolen <a href="https://wiki.pirati.cz/lide/radek_cernohous">Radek Černohous</a>. Místopředsedy se stali <a href="https://wiki.pirati.cz/lide/michal_hazlinsky">Michal Hažlinský</a> a <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">Jakub Václavovič</a>.   -->
 
-* **25. 3. 2019**
-Proběhla akce Na dortík s poslancem Františkem Kopřivou, v rámci které proběhla prvně debata se studenty benešovského gymnázia a poté s veřejností nad kávou, kde jsme se zabývali tím, jak funguje legislativní proces Evropské unie nebo možnostmi a úskalími brexitu.
-* **5. 3. 2019**
-Naše reporty ze zastupitelstva je nyní možné sledovat i na našem [youtube kanálu](https://www.youtube.com/channel/UCAsgieqa9tSYwq2jHWXnkIQ).
-* **9. 1. 2019**  
-Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise – Komise pro infrastrukturu a Komise pro národnostní menšiny.
-* **17. 12. 2018**
-Druhé zasedání zastupitelstva města Benešov, kde byl obsazen za Piráty a Zelené Finanční výbor Ing. Danielem Netušilem a Kontrolní výbor Ing. Mgr. Radkem Klemperou. Bylo také schváleno pořizování audiovizuálního záznamu a online přenosu ze zasedání Zastupitelstva.
-* **29. 10. 2018**  
-Podepsána koaliční smlouva mezi stranami Volba pro Benešov, STAN, ODS a Piráti s&nbsp;podporou Zelených. Naším novým radním se stal Daniel Netušil (gesce e-Government).
-* **6. 10. 2018**  
-Ve volbách do Zastupitelstva města Benešov naše kandidátka Piráti s podporou Zelených získala 7,45 % hlasů a 2 mandáty, našimi novými zastupiteli jsou Daniel Netušil (Piráti) a&nbsp;Radek Klempera (Zelení).
+## Akce
+* **Každou 3. středu v měsíci** 
+pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O každém setkání a místě kde se koná informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
 
-## Akce pořádané v roce 2018
-Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
+## O nás
+MS Pirátů v Kladně vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. V rámci kampaně se MS Kladno podílelo na sérii akcí v rámci Středočeského kraje pod názvem Freeride, kde vystoupila řada nezávislých umělců. V klubu Poldofka se pořádala kulturní akce VyOsení, která je součástí dlouhodobé kampaně proti politice OSA (Ochranný svaz autorský). 
 
-* **15. 9.** podzimní ternín akce **Ukliďme Česko** – tentokrát hřiště a parky ve městě,
-* **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
-* **28. 6.** debata **Doprava v Benešově**, kde jste se mohli seznámit s územním plánem z pohledu navržených dopravních řešení,
-* **24. 5.** se do našeho hledáčku dostalo školství aneb **Dobrá škola základ života**, kde vystoupil i náš kandidát na senátora Petr Chaluš,
-* **28. 4.** proběhla **Pirátská grilovačka na Klášterce**, kde jste si mohli kromě Pirátů z MS Benešov popovídat také s pirátským poslancem za Středočeský kraj Františkem Kopřivou,
-* **26. 4.** jsme se sešli nad tématem **Veřejná prostranství**, kde jsme se zabývali Táborskými kasárnami, Klášterkou, veřejnou zelení nebo Koupadly na Sladovce,
-* **7. 4.** jsme se zúčastnili akce **Ukliďme Česko**, kdy jsme pomáhali zvelebit okolí koupadel na&nbsp;Sladovce,
-* **8. 3.** jsme zahájili první besedu na téma místní architektury jménem **Krásné město Benešov**.
+Kladenští piráti se také aktivně účastní místní komunální politiky. Aktivně se zapojili do iniciativy bránící změně územního plánu na Růžovém poli. Místopředseda Jakub Václavovič úspěšně kandidoval do zastupitelstva města. Následně se však mandátu vzdal kvůli tomu, že spolu s uskupením Kladeňáci, s kterým kandidoval, ve výsledné radniční koalici zasedla i strana SPD. Zástupci MS Kladno jsou v současné době přítomni v kontrolním výboru zastupitelstva a v komisi rady města pro výchovu, vzdělávání a osvětu.
 
-# Články
-{% assign posts = site.posts | sort: 'date' | reverse | where: "tags", "Benešov" %}
-{% for post in posts limit: 10 %}
-* [{{ post.title }}]({{ post.url }})
-{% endfor %}
+V posledních volbách do Evropského pralamentu jsme v Kladně dosáhli na druhé místo se ziskem 16 procentních bodů.
+
+{% asset 'ms/kladno/kladnoEU.jpg' alt='foto' %}
+
+Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
 
 # Lidé
-### Jana Skopalíková
-Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK – obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
+* **Radek Černohous**
+Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://wiki.pirati.cz/lide/radek_cernohous).
 
-### David Řejha
-První místopředseda MS Benešov a zakládající člen. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
+* **Michal Hažlinský**
+Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 je jeho místopředsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
 
-### Jan Lička
-Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí jako zástupce garanta v sekci Doprava a vedoucí krajského expertního týmu Doprava a infrastruktura. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
+* **Jakub Václavovič**
+Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">zde</a>.
 
-### Ondřej Hrdý
-Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
+* **Další členové:** Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
 
-### Hana Chalušová
-Členka MS Benešov, pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami – Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
+# Členové komisí Rady a výborů Zastupitelstva města Kladna 
 
-### Milan Krch
-Člen MS Benešov, vedoucí krajského expertního týmu Finance.
-
-### Václav Kubaljak
-Člen MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
-
-### Daniel Netušil
-Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem.
-
-# Členové komisí Rady města Benešov nominovaní za Piráty a Zelené
-
-* **Komise pro národnostní menšiny**
-  * Andrea Krchová
-  * dr. Mohamad Wannous
-  * Syuleyman Syuleymanov
-* **Komise pro kulturu**
-  * Ing. Daniel Netušil
-* **Komise pro sport**
-  * Mgr. Barbora Vilímovská
-* **Komise sociální a zdravotní**
-  * Petr Ballek
-  * Pavla Campodonicová
-* **Bytová komise**
-  * Ondřej Hrdý
-* **Komise pro architekturu a územní rozvoj**
-  * Ing. Mgr. Radek Klempera
-  * Mgr. Jana Skopalíková
-* **Komise pro Konopiště**
-  * David Řejha
-* **Komise zdravého města Benešov a MA21**
-  * Eva Hrkalová
-  * Bc. Martin Michael Monz
-* **Komise pro infrastrukturu**
-  * Ing. Jan Lička
-* **Komise pro školství**
-  * Mgr. Hana Dvořáková
-  * Bc. Václav Kubaljak
-  * Mgr. Petr Chaluš
-* **Hodnotící komise pro veřejné zakázky**
-  * Ing. Mgr. Radek Klempera
-
+* **Kontrolní výbor**
+  * Michal Hažlinský
+* **Komise pro výchovu, vzdělávání a osvětu**
+  * Jakub Václavovič
