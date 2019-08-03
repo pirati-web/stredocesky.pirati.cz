@@ -13,10 +13,10 @@ predsednictvo:
    jmeno: Michal Hažlinský
  - funkce: 2. místopředseda
    jmeno: Jakub Václavovič
-mandat-do: 01.02.2021
-volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
+mandat-do: 03.02.2021
+volba: https://forum.pirati.cz/viewtopic.php?p=603893#p603893
 ---
-{% asset 'ms/kladno/top.png' alt='MS Kladno' %}
+{% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}
 
 
 <!-- # Novinky
