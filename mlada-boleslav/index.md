@@ -3,57 +3,48 @@ layout: ms
 title: Místní sdružení Mladá Boleslav
 description: Místní sdružení Mladá Boleslav
 keywords: piráti, místní sdružení, Mladá Boleslav
-mail: mskladno@pirati.cz
+mail: petra.smutna@pirati.cz
 facebook: PiratiMB
 forum: https://forum.pirati.cz/viewforum.php?f=737
 predsednictvo:
- - funkce: předseda
-   jmeno: Radek Černohous
+ - funkce: předsedkyně
+   jmeno: Bc. Petra Smutná
  - funkce: 1. místopředseda
-   jmeno: Michal Hažlinský
+   jmeno: Filip Dítě
  - funkce: 2. místopředseda
-   jmeno: Jakub Václavovič
+   jmeno: František Kopřiva
 mandat-do: 03.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?p=603893#p603893
 ---
 {% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}
 
+## Aktuality
+* **Pirátská grilovačka** - bude, sleduj náš facebook
 
-<!-- # Novinky
-
-* **11. 2. 2019**  
-Proběhla volba předsednictva místního sdružení. Novým předsedou MS Kladno byl zvolen <a href="https://wiki.pirati.cz/lide/radek_cernohous">Radek Černohous</a>. Místopředsedy se stali <a href="https://wiki.pirati.cz/lide/michal_hazlinsky">Michal Hažlinský</a> a <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">Jakub Václavovič</a>.   -->
-
-## Akce
-* **Každou 3. středu v měsíci** 
-pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O každém setkání a místě kde se koná informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
-
-## O nás
-MS Pirátů v Kladně vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. V rámci kampaně se MS Kladno podílelo na sérii akcí v rámci Středočeského kraje pod názvem Freeride, kde vystoupila řada nezávislých umělců. V klubu Poldofka se pořádala kulturní akce VyOsení, která je součástí dlouhodobé kampaně proti politice OSA (Ochranný svaz autorský). 
-
-Kladenští piráti se také aktivně účastní místní komunální politiky. Aktivně se zapojili do iniciativy bránící změně územního plánu na Růžovém poli. Místopředseda Jakub Václavovič úspěšně kandidoval do zastupitelstva města. Následně se však mandátu vzdal kvůli tomu, že spolu s uskupením Kladeňáci, s kterým kandidoval, ve výsledné radniční koalici zasedla i strana SPD. Zástupci MS Kladno jsou v současné době přítomni v kontrolním výboru zastupitelstva a v komisi rady města pro výchovu, vzdělávání a osvětu.
-
-V posledních volbách do Evropského pralamentu jsme v Kladně dosáhli na druhé místo se ziskem 16 procentních bodů.
-
-{% asset 'ms/kladno/kladnoEU.jpg' alt='foto' %}
-
-Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
+## Kdo jsme
+MS Mladá Boleslav založili František Kopřiva s Dominikou Michailidu a s naším tehdejším členem Luborem Jenčkem v roce 2014, takže letos slavíme pětileté výročí.
+Od té doby uplynulo mnoho vody, František Kopřiva je dnes poslancem dolní komory Parlamentu ČR a Dominika Michailidu zastupitelkou obce Krnsko. Naše sdružení se rozrostlo na úctyhodné čtyři členy a několik aktivních příznivců. Za jeden z posledních úspěchů považujeme fakt, že v komunální volby 2018, do kterých jsme nekandidovali, nám vynesly jedno křeslo v komisi Magistrátu Mladá Boleslav. 
+Chceš s námi tvořit dějiny? Napiš nám na facebooku, zavolej nám, napiš e-mail, nebo nejlépe - přijď na naši akci.
 
 # Lidé
-* **Radek Černohous**
-Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://wiki.pirati.cz/lide/radek_cernohous).
+**Petra Smutná**
+je předsedkyní místního sdružení Mladá Boleslav a členkou Republikového výboru Pirátů.
+Narodila se v Mladé Boleslavi, kde trvale žije. Ač pochází z lékařské rodiny, zvolila si jinou profesní dráhu a v r. 2002 získala bakalářský titul v oboru Podniková ekonomika na Fakultě Sociálně Ekonomické Univerzity J. E. Purkyně v Ústí nad Labem.
+Již při studiích pracovala na hlavní zaměstnanecký poměr, a to v oblasti bankovnictví - pojišťovnictví, kde během čtrnácti let postupně získala a dále prohloubila znalosti z oboru financí se saměřením na investování do cenných papírů. Začínala jako asistentka Náměstka generálního ředitele v České pojišťovně, odkud odešla do eBanky a poté do Komerční banky sbírat obchodní a postupně i manažerské zkušenosti. Tyto zúročila zejména v ČP Invest na pozici Regionální ředitelky, kde měla na starosti tým více než 200 obchodníků a manažerů skupin, a následně v Oberbank jako Vedoucí filiálky, kterou personálně stabilizovala a vrátila ze ztrátovosti do kladných čísel. Podílela se také na rozvoji rodinné firmy spravující síť stomatologických klinik, která před svým prodejem v r. 2014 patřila v ČR ve svém oboru mezi největší.
+Nyní řeší přestupky v oblasti majetku, podnikání, občanského soužití, veřejného pořádku a proti pořádku ve státní správě, a svůj čas rozkládá mezi práci, rodinu a Piráty. Ráda čte knihy, navštěvuje divadelní představení a výstavy, lyžuje, cestuje po historicky zajímavých místech a vzhledem ke své profesi intenzívně studuje právo. 
 
-* **Michal Hažlinský**
-Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 je jeho místopředsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
+**František Kopřiva**
+Poslanec ČR, člen Republikového výboru Pirátů.
+Rodilý Boleslavák odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi a nyní vykonává poslanecký mandát ve Sněmovně České Republiky.
+Mezi jeho záliby patří rozšiřování si obzorů, hudba, filmy, knížky, hry, tvůrčí psaní, cestování, věda, sport a samozřejmě politické dění, světové i domácí.
+Do Pirátské strany vstoupil ve svých 18 letech, na jaře 2014. Již předtím pomáhal jako příznivec s kontaktními kampaněmi. Je aktivním členem Zahraničního odboru a pracovní skupiny Mezinárodní vztahy. Od května 2015 s přestávkou působí v předsednictvu Středočeského krajského sdružení, od srpna 2015 je členem Republikového výboru a v roce 2017 se stal poslancem ČR za Středočeský kraj.
 
-* **Jakub Václavovič**
-Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">zde</a>.
+**Dominika Michailud**
+Členka Pirátů od r. 2012 je bývalou místopředsedkyní strany, expředsedkyní Středočeského kraje a vedoucí krajského expertního týmu Zemědělství. Dnes působí v zastupitelstvu obce Krnsko.
+V r. 2007 vystudovala Textilní tvorbu na Univerzitě J. E. Purkyně v Ústí nad Labem a s manželem obhospodařuje rodinnou farmu. Ve volném čase maluje a angažuje se v místním spolku Krnsko.
 
-* **Další členové:** Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
+**Filip Dítě**
+Další rodilý Boleslavák, od r. 1988, je místopředseda mladoboleslavského sdružení a bývalý koordinátor dobrovolníků Středočeského kraje.
+V pracovním životě se nenudil. Po vyučení se pracoval 3 roky pracoval v logistice, poté 5 let sbíral zkušenosti jako barman, aby se vrátil k logistice. V březnu 2018 nastoupil na pozici Krajského koordinátora dobrovolníků.
+Mezi jeho zájmy patří hudba, práce s PC, rád se podívá na dokumenty nebo posedí s přáteli. 
 
-# Členové komisí Rady a výborů Zastupitelstva města Kladna 
-
-* **Kontrolní výbor**
-  * Michal Hažlinský
-* **Komise pro výchovu, vzdělávání a osvětu**
-  * Jakub Václavovič
