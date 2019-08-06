@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 01.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-{% asset 'ms/kladno/top.png' alt='MS Kladno' %}
+[{% asset 'ms/kladno/top.png' alt='MS Kladno' %}](https://nalodeni.pirati.cz/)
 
 
 <!-- # Novinky
@@ -40,16 +40,17 @@ V posledních volbách do Evropského pralamentu jsme v Kladně dosáhli na druh
 Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
 
 # Lidé
-* **Radek Černohous**
+### Radek Černohous
 Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://wiki.pirati.cz/lide/radek_cernohous).
 
-* **Michal Hažlinský**
+### Michal Hažlinský
 Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 je jeho místopředsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
 
-* **Jakub Václavovič**
+### Jakub Václavovič
 Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">zde</a>.
 
-* **Další členové:** Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
+### Další členové
+Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
 
 # Členové komisí Rady a výborů Zastupitelstva města Kladna 
 
