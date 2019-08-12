@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředsedkyně krajského sdružení a předsedkyně MS Benešov
+description: 4. místopředsedkyně krajského sdružení
 ordPKS: 5
 img: people/jana-skopalikova.jpg
 mail: jana.skopalikova@pirati.cz
@@ -24,10 +24,9 @@ profiles:
 
 Pochází z Olomouce, kde vystudovala Slovanské gymnázium. Ve studiu pokračovala na Přírodovědecké fakultě Univerzity Karlovy v Praze, kde dokončila bakalářský obor Molekulární biologie a biochemie organismů a magisterský obor Botanika se zaměřením na cévnaté rostliny. Nyní studuje doktorský program (v rámci své disertační práce se věnuje fylogenezi rodu kurkuma).
 
-Piráty volí už dlouho, ale více se o ně zajímat začala po úspěchu volbách do Poslanecké sněmovny v roce 2017. Prvně si jen četla články na webových stránkách, pak pomáhala vařit Pirátský guláš v Praze nebo se účastnila akce Ukliďme Česko. Nakonec se odvážila na podívat na schůzi, kam šla hlavně pro to, aby pomohla s korekturami. Velmi si cení toho, že Piráti nedělají jen politiku, ale také se věnují potřebným a přírodě a nedělají věci, které by přinesly politické body, ale které jim přijdou správné. V politické straně se ocitla tak nějak omylem a osobně politiku bere jako nástroj, jak posunout svět směrem k lepším zítřkům.
+Piráty volí už dlouho, ale více se o ně zajímat začala po úspěchu volbách do Poslanecké sněmovny v roce 2017. Prvně si jen četla články na webových stránkách, pak pomáhala vařit Pirátský guláš v Praze nebo se účastnila akce Ukliďme Česko. Nakonec se odvážila podívat se na schůzi, kam šla hlavně pro to, aby pomohla s korekturami. Velmi si cení toho, že Piráti nedělají jen politiku, ale také se věnují potřebným, přírodě a nedělají pouze věci, které by jim přinesly politické body. Politiku bere jako nástroj, jak posunout svět směrem k lepším zítřkům.
 
-Velmi silně ji to táhne směrem k zero-waste životu, protože se jí nelíbí, kolik odpadu, a zejména jednorázových plastů, každý člověk denně vyprodukuje. V rámci pirateconu k problematice zerowaste měla přednášku o swapování a upcyklingu, vedla workshop šití látkových pytlíčků na ovoce a zeleninu ze starých záclon. (Pokud byste také rádi začali využívat látkové sáčky místo jednorázových plastových, ale nemáte dost zkušeností nebo času si je ušít sami, tak dejte vědět, ráda nějaké daruji. :-) 
+Velmi silně ji to táhne směrem k zero-waste životu, protože se jí nelíbí, kolik odpadu, a zejména jednorázových plastů, každý člověk denně vyprodukuje. V rámci pirateconu k problematice zerowaste měla přednášku o swapování a upcyklingu, vedla workshop šití látkových pytlíčků na ovoce a zeleninu ze starých záclon. Ráda svými výrobky obdarovává ostatní.
 
 Miluje přírodu, pracuje s dětmi v přírodovědném oddílu Lid Medvědího potoka v DDM Olomouc a vede několik praktik na Katedře botaniky. Ráda hraje na kytaru a zpívá u táboráku, věnuje se americkému stepu (cloggingu), někdy fotí - nejlépe kytičky, zajímá se o rekonstrukci historie a po večerech šije dobové kostýmy.
 
- 
