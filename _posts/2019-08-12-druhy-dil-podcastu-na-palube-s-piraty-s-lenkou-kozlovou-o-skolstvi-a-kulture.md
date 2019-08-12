@@ -8,7 +8,7 @@ title: 'Druhý díl podcastu Na palubě s Piráty s Lenkou Kozlovou o školství
 description: 'video podcast, Příbram'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
-image: posts/2019/kozlova-podcast.jpg
+image: posts/2019/podcast-kozlova.jpg
 ---
 Přinášíme vám druhý díl našeho podcastu Na palubě s Piráty, tentokrát se středočeskou poslankyní Lenkou Kozlovou. 
 Lenka je Pirátkou již od roku 2012, má poslaneckou kancelář v Příbrami, kde také zakládala místní sdružení, a to už v roce 2014.
@@ -40,3 +40,4 @@ Více ve videu níže.
 Otázky pro další hosty pište na e-mail stredocesky@pirati.cz.
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/sSdpmgpIZcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
