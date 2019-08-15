@@ -9,7 +9,7 @@ category:
   - kandidat-2018-komunalni-kutna_hora
   - koordinator
   - kontaktni_osoba
-description: krajský koordinátor
+description: krajská koordinátorka
 ordDalsi: 1
 img: people/klara-kocmanova.jpg
 mail:
