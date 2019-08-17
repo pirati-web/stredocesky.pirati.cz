@@ -22,5 +22,5 @@ V ukazateli znečištění ovzduší či železniční dopravy je v poslední č
 
 Když se tedy rozhodnete někde žít pouze podle výsledků tohoto žebříčku, asi můžete mít hodně multikin a letiště pro dovolenou jednou ročně do 30 km. Ale také budete třeba rodiče, kteří zůstali do 5 let věku svého dítěte doma bez relevantního příjmu a zaměstnavatel vám místo tak dlouho nepodržel. A nebudete mít základní zdravotní péči ve městě, ale na konci dálnice…
 
-Doporučení na závěr: pokud by někdo plánoval data pro své město pořídit, požadujete i verzi očištěnou o vlivy okolí. Za zábavou dojedete, školu a lékaře potřebujete mít však co nejblíž.
+Doporučení na závěr: pokud by někdo plánoval data pro své město pořídit, požadujte i verzi očištěnou o vlivy okolí. Za zábavou dojedete, školu a lékaře potřebujete mít však co nejblíž.
 
