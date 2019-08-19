@@ -25,7 +25,7 @@ Vzhledem k tomu, že máme pravidelné porady, scházíme se co 14 dní a máme 
 
 Myslím si, že jako předseda finančního výboru jsem hrdý na to, a to děkuji hlavně předchozímu předsedovi, že naše obec je kompletně bez dluhu, nemáme žádné úvěry a máme dostatečný kapitál na účtech. Aktuálně je přes 40 milionů Kč k dispozici na investice, což si myslím, že je dostatečná částka na tak malou obec, jakou jsme. Takže co budu považovat za úspěch, pokud budou stále finance v takto dobré kondici, jako jsou nastaveny.
 
-Jak zlepšit informovanost občanů? A co je to vůbec ten šotouš? Dozvíte se ve videu!
+Jak zlepšit informovanost občanů? Proč by v Jinočanech chtěl žít každý? A co je to vůbec ten šotouš? Dozvíte se ve videu!
 
 Otázky pro další hosty pište na e-mail stredocesky@pirati.cz.
 
