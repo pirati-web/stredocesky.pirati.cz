@@ -7,10 +7,10 @@ titles:
 category:
   - kandidat-2018-komunalni-kutna_hora
   - zastupitel
-description: zastupitel - Kutná Hora
+description: zastupitel / místostarosta - Kutná Hora
 img: people/vit-snajdr.jpg
 mail:
-  - snajdrv@seznam.cz
+  - vit.snajdr@pirati.cz
 mob:
   - +420 728 270 457
 profiles:

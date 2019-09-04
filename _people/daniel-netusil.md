@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitel a radní - Benešov
+description: zastupitel / radní - Benešov
 img: people/daniel-netusil.jpg
 mail:
   - daniel.netusil@pirati.cz
