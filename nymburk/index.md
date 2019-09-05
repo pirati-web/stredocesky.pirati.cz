@@ -1,60 +1,53 @@
 ---
 layout: ms
-title: Místní sdružení Kladno
-description: Místní sdružení Kladno
-keywords: piráti, místní sdružení, Kladno
-mail: mskladno@pirati.cz
-facebook: PiratiKladno
-forum: https://forum.pirati.cz/viewforum.php?f=693
+title: Místní sdružení Nymburk
+description: Místní sdružení Nymburk
+keywords: piráti, místní sdružení, Nymburk, Poděbrady, Sadská
+mail: msXXX@pirati.cz
+facebook: https://www.facebook.com/PiratiNymburk/
+forum: https://forum.pirati.cz/viewforum.php?f=1363
 predsednictvo:
  - funkce: předseda
-   jmeno: Radek Černohous
+   jmeno: <a href="https://wiki.pirati.cz/lide/petr_prochazka">Petr Procházka</a>
  - funkce: 1. místopředseda
-   jmeno: Michal Hažlinský
+   jmeno: <a href="https://wiki.pirati.cz/lide/martin_martin">Martin Martin</a>
  - funkce: 2. místopředseda
-   jmeno: Jakub Václavovič
-mandat-do: 01.02.2021
+   jmeno: <a href="https://www.facebook.com/jirina.prikrylova.7">Jiřina Procházková</a>
+mandat-do: 01.12.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-[{% asset 'ms/kladno/top.png' alt='MS Kladno' %}](https://nalodeni.pirati.cz/)
+[{% asset 'ms/nymburk/top.png' alt='MS Nymburk' %}](https://nalodeni.pirati.cz/)
 
 
 <!-- # Novinky
 
-* **11. 2. 2019**  
-Proběhla volba předsednictva místního sdružení. Novým předsedou MS Kladno byl zvolen <a href="https://wiki.pirati.cz/lide/radek_cernohous">Radek Černohous</a>. Místopředsedy se stali <a href="https://wiki.pirati.cz/lide/michal_hazlinsky">Michal Hažlinský</a> a <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">Jakub Václavovič</a>.   -->
-
-## Akce
-* **Každou 3. středu v měsíci** 
-pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O každém setkání a místě kde se koná informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
+* **27. 8. 2019**
+Další veřejná schůze MS Nymburk se uskuteční 8.9.2019. Po schůzi se uskuteční první Nymburský Pirátský kvíz pro piráty i veřejnost. Zveme všechny Piráty i příznivce k rozhovoru a posléze procvičení mozkových buněk. Podrobnosti budou doplněny. ()
 
 ## O nás
-MS Pirátů v Kladně vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. V rámci kampaně se MS Kladno podílelo na sérii akcí v rámci Středočeského kraje pod názvem Freeride, kde vystoupila řada nezávislých umělců. V klubu Poldofka se pořádala kulturní akce VyOsení, která je součástí dlouhodobé kampaně proti politice OSA (Ochranný svaz autorský). 
+První místní sdružení Pirátů v Nymburském okrese bylo ustanoveno 1.11.2013, přičemž ve stávající sestavě oficiálně existuje od 3.12.2018. Od samého počátku sdružovalo členy z vícero obcí a to konkrétně ze Sadské, Poděbrad a Nymburka. 
 
-Kladenští piráti se také aktivně účastní místní komunální politiky. Aktivně se zapojili do iniciativy bránící změně územního plánu na Růžovém poli. Místopředseda Jakub Václavovič úspěšně kandidoval do zastupitelstva města. Následně se však mandátu vzdal kvůli tomu, že spolu s uskupením Kladeňáci, s kterým kandidoval, ve výsledné radniční koalici zasedla i strana SPD. Zástupci MS Kladno jsou v současné době přítomni v kontrolním výboru zastupitelstva a v komisi rady města pro výchovu, vzdělávání a osvětu.
+Piráti se v Nymburce prezentovali nejen v rámci celorepublikových akcí jako byla <a href="https://www.facebook.com/groups/PirateFreeRide2017/">Pirátská FREERIDE Tour 2017</a>, ale také například pořádáním hudebních akcí pod hlavičkou <a href="http://www.vyoseni.cz/">VyOsení</a>.
 
-V posledních volbách do Evropského pralamentu jsme v Kladně dosáhli na druhé místo se ziskem 16 procentních bodů.
+Do Nymburského zastupitelstva byla sestavena Pirátská kandidátka poprvé roku 2018. Obdrželi celých 4,34% hlasů, což není úplně málo, přihlédneme-li k tomu, že šlo první výraznou aktivitu lokálních členů a rozpočet kampaně činil 50000,- Kč. K tomuto výsledku přispěli velmi vysokou mírou nezávislí členové kandidátky svou obětavou prací.
 
-{% asset 'ms/kladno/kladnoEU.jpg' alt='foto' %}
+V posledních volbách do Poslanecké sněmovny Parlamentu České Republiky v roce 2017 dosáhli Piráti v Nymburce 3. místa - zisku 11,41% hlasů.
 
-Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
+V posledních volbách do Evropského parlamentu roku 2019 dosáhli Piráti v Nymburce také 3. místa - zisku 13,97% hlasů.
 
-# Lidé
-### Radek Černohous
-Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://wiki.pirati.cz/lide/radek_cernohous).
+{% asset 'ms/nymburk/xxx.jpg' alt='foto' %}
 
-### Michal Hažlinský
-Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 je jeho místopředsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
+Pořádáme nepravidelná setkání s příznivci v rámci schůzí MS a to dle aktuální potřeby v různých obcích okresu.
 
-### Jakub Václavovič
-Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">zde</a>.
+# Další členové
+### <a href="https://www.facebook.com/kwizaczech">Pavel Kvíz</a>
+Členem od roku 2017.
 
-### Další členové
-Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
+### <a href="https://www.facebook.com/vlukavec">Vojtěch Lukavec</a> 
+Členem od roku 2019. 
 
-# Členové komisí Rady a výborů Zastupitelstva města Kladna 
 
-* **Kontrolní výbor**
-  * Michal Hažlinský
-* **Komise pro výchovu, vzdělávání a osvětu**
-  * Jakub Václavovič
+# Členové komisí Rady a výborů Zastupitelstva města Nymburka v období 2018 - 2020
+
+* **Komise pro majetek a likvidační**
+  * Petr Procházka
