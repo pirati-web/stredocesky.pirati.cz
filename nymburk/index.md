@@ -35,7 +35,7 @@ V posledních volbách do Poslanecké sněmovny Parlamentu České Republiky v r
 
 V posledních volbách do Evropského parlamentu roku 2019 dosáhli Piráti v Nymburce také 3. místa - zisku 13,97% hlasů.
 
-{% asset 'ms/nymburk/xxx.jpg' alt='foto' %}
+
 
 Pořádáme nepravidelná setkání s příznivci v rámci schůzí MS a to dle aktuální potřeby v různých obcích okresu.
 
