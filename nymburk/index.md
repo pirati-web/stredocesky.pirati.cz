@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 01.12.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
-[{% asset 'ms/nymburk/top.png' alt='MS Nymburk' %}](https://nalodeni.pirati.cz/)
+[{% asset 'city.png' alt='MS Nymburk' %}](https://nalodeni.pirati.cz/)
 
 
 <!-- # Novinky
