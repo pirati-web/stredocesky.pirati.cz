@@ -18,9 +18,13 @@ profiles:
   linkedin:
 ---
 
-**Petra Smutná** (* 1977) je členkou Republikového výboru Pirátů, dříve byla také místopředsedkyní krajského sdružení Středočeský kraj.
+**Petra Smutná** (* 1977) je předsedkyní místního sdružení Mladá Boleslav, členkou a jednatelkou Republikového výboru Pirátů.
 
-Narodila se v Mladé Boleslavi, kde trvale žije. Ač pochází z lékařské rodiny, zvolila si jinou profesní dráhu a v r. 2002 získala bakalářský titul v oboru Podniková ekonomika na Fakultě sociálně ekonomické Univerzity J. E. Purkyně v Ústí nad Labem. Již při studiích pracovala na hlavní zaměstnanecký poměr, a to v oblasti bankovnictví – pojišťovnictví, kde během čtrnácti let postupně získala obchodní a manažerské zkušenosti. Začínala jako asistentka náměstka generálního ředitele v České pojišťovně, odkud odešla do tehdejší eBanky sbírat obchodní a postupně i manažerské zkušenosti, které zúročila zejména v ČP Invest na pozici regionální ředitelky a následně v Oberbank jako vedoucí filiálky. Nyní svoji energii věnuje především České pirátské straně.
+Narodila se v Mladé Boleslavi, kde trvale žije. Ač pochází z lékařské rodiny, zvolila si jinou profesní dráhu a v r. 2002 získala bakalářský titul na Fakultě Sociálně Ekonomické Univerzity J. E. Purkyně v Ústí nad Labem v oboru Podniková ekonomika .
 
-Ve volném čase ráda čte knihy, navštěvuje divadelní představení a cestuje po historicky zajímavých místech. 
+Od střední školy pracuje, nejprve na dohodu o práci, posléze již na hlavní zaměstnanecký poměr, a to v oblasti bankovnictví - pojišťovnictví, kde během čtrnácti let postupně získala a dále prohloubila znalosti z oboru financí se saměřením na investování do cenných papírů.
+
+Začínala jako asistentka Náměstka generálního ředitele v České pojišťovně, v Komerční bance pak získávala nejen obchodní, ale postupně i manažerské zkušenosti. Tyto zúročila zejména v ČP Invest na pozici Regionální ředitelky, kde měla na starosti tým více než 200 obchodníků a manažerů skupin, a následně v Oberbank jako Vedoucí filiálky, kterou personálně stabilizovala a vrátila ze ztrátovosti do ziskových čísel. Podílela se také na vybudování a rozvoji rodinné firmy spravující síť stomatologických klinik ve Středočeském kraji, která před svým prodejem v r. 2014 patřila mezi největší v ČR.
+
+Nyní řeší přestupky proti majetku, občanskému soužití, veřejnému pořádku a proti pořádku ve státní správě. Svůj čas rozkládá mezi práci, rodinu a Piráty. Ráda čte knihy, navštěvuje divadelní představení a výstavy, lyžuje, cestuje po historicky zajímavých místech a vzhledem ke své profesi intenzívně studuje právo.
 
