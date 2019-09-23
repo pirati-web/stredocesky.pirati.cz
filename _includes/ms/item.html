@@ -1,0 +1,22 @@
+<div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
+<div class="c-content-card">
+  <div class="c-content-card-img">
+    <a href="/benesov/">
+      {% asset {{include.img}} alt=include.name %} </a>
+  </div>
+  <div class="c-content-card-content-box">
+    <h3 class="c-content-card-title">
+        <a href="{{include.link}}"> {{ include.name}} </a>
+    </h3>
+    <ul>
+      <li>Působnost: {{ include.area }}</li>
+      {% assign person = site.people | where_exp:"item","item.uid contains include.president" | first %}
+      {% if person %}
+        <li>Předseda: <a href={{person.url}}> {{person.name}}</a> </li>
+      {% else %}
+        <li>Předseda: {{include.president}} </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+</div>
