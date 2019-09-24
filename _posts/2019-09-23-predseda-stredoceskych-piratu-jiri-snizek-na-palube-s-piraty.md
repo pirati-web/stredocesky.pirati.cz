@@ -17,7 +17,7 @@ Dnes Na palubě s Piráty vítám předsedu středočeských Pirátů Jiřího S
 
 Piráti v Kolíně už kandidovali v roce 2010, kdy v Kolíně vládla ODS a bylo to celé takové korupční prostředí, dokonce místostarosta byl odsouzen za korupci. Takže v té době to Piráti poprvé zkusili, do zastupitelstva jsme se nedostali, ale už to byla taková první vlaštovka. Jak asi víte, tak Piráti už jsou na politické scéně 10 let. Takže toto byla jedna z prvních pirátských komunálních kandidátek tehdy v roce 2010. Potom v roce 2014 Piráti v Kolíně kandidátku nepostavili a teď v roce 2018, se nám to podařilo. Podařilo se nám sehnat všech 27 lidí na tu kandidátku a podařilo se nám poradit i ČSSD a TOP09.
 
-Co myslíš, že jsou spojující prvky toho kraje, který by třeba Piráti mohli řešit v krajských volbách a pokud uspějí potom, tak z pozice těch krajských zastupitelů?**
+**Co myslíš, že jsou spojující prvky toho kraje, který by třeba Piráti mohli řešit v krajských volbách a pokud uspějí potom, tak z pozice těch krajských zastupitelů?**
  
 No já nevím, jestli to můžu prozrazovat, ale naším cílem a vizí je trošku nastartovat ta regionální centra, takže aby jako lidi cítili ten svůj střed nebo centrum toho svého okresu třeba na Kladně nebo v Rakovníku nebo v Příbrami, aby je to netáhlo prostě do Prahy, i když tam jako je ta lepší pracovní nabídka a tak, ale aby se nám podařilo nebo dařilo vytvářet v těch okresních městech pracovní příležitosti, aby tam byly ty školy nemocnice a všechno, aby se ten region jako takový sám o sobě rozvíjel bez ohledu na Prahu. 
 
