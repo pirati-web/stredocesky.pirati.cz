@@ -5,7 +5,7 @@ description: Místní sdružení Jesenice - Jílové
 keywords: piráti, místní sdružení, Jesenice, Jílové u Prahy
 mail: jan.caha@pirati.cz
 facebook: PiratiJeseniceJilove
-forum: ...
+forum: https://forum.pirati.cz/viewforum.php?f=276
 predsednictvo:
  - funkce: předseda
    jmeno: Jan Čáha
@@ -39,14 +39,14 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 # Lidé
 ### Jan Čáha
-Předseda MS Jesenice - Jílové. TODO
+Předseda MS Jesenice - Jílové.
 
 ### Roman Morávek
-První místopředseda MS Jesenice - Jílové. TODO
+První místopředseda MS Jesenice - Jílové.
 
 ### Jan Korbel
 Druhý místopředseda MS Jesenice - Jílové a zároveň druhý místopředseda krajského sdružení Středočeský kraj. Počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.
 
 ### Monika Keřková
-TODO
+Členka krajského sdružení Pirátů Středočeský kraj.
 
