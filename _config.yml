@@ -63,7 +63,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/pirati.stc
+  profilePage: https://www.facebook.com/PiratiStredniCechy
   profilePageName: Piráti - Středočeský kraj
   #appId: 1526197851008996
 
