@@ -45,8 +45,8 @@ Předseda MS Jesenice - Jílové.
 První místopředseda MS Jesenice - Jílové.
 
 ### Jan Korbel
-Druhý místopředseda MS Jesenice - Jílové a zároveň druhý místopředseda krajského sdružení Středočeský kraj. Počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.
+Jan Korbel (* 20. května 1979) je druhým místopředsedou MS Jesenice - Jílové a zároveň druhým místopředsedou krajského sdružení Středočeský kraj. Vesničan, počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.
 
 ### Monika Keřková
-Členka krajského sdružení Pirátů Středočeský kraj.
+Monika Keřková (* 29. srpna 1985) je od září 2019 členkou krajského sdružení Středočeský kraj České pirátské strany. Narodila se v Příbrami, ale většinu svého dětství prožila na Dobříši. Nyní žije v Ohrobci na Praze - západ, kde byla již podruhé zvolena do zastupitelstva obce a v minulém volebním období byla též členkou rady obce a finančního výboru.
 
