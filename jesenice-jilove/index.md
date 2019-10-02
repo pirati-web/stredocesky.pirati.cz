@@ -39,7 +39,7 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 # Lidé
 ### Jan Čáha
-Předseda MS Jesenice - Jílové.
+Jan Čáha (* 14. února 1989) je zakládajícím členem a předsedou MS Jesenice - Jílové. Vystudoval strojní průmyslovou školu Betlémskou o pár let později dálkově také VOŠ a VŠ v oboru zdravotnický záchranář. Od roku 2012 pracuje na Zdravotnické záchranné službě, nyní jako zdravotnický záchranář a lektor vzdělávacího a výcvikového střediska. Také školí kurzy první pomoci ve firmě LifeSupport.
 
 ### Roman Morávek
 První místopředseda MS Jesenice - Jílové.
