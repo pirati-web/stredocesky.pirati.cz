@@ -3,8 +3,8 @@ layout: ms
 title: Místní sdružení Nymburk
 description: Místní sdružení Nymburk
 keywords: piráti, místní sdružení, Nymburk, Poděbrady, Sadská
-mail: msXXX@pirati.cz
-facebook: https://www.facebook.com/PiratiNymburk/
+mail: petr.prochazka@pirati.cz
+facebook: PiratiNymburk
 forum: https://forum.pirati.cz/viewforum.php?f=1363
 predsednictvo:
  - funkce: předseda
@@ -13,16 +13,11 @@ predsednictvo:
    jmeno: <a href="https://wiki.pirati.cz/lide/martin_martin">Martin Martin</a>
  - funkce: 2. místopředseda
    jmeno: <a href="https://www.facebook.com/jirina.prikrylova.7">Jiřina Procházková</a>
-mandat-do: 01.12.2020
+mandat-do: 03.12.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---
 [{% asset 'city.png' alt='MS Nymburk' %}](https://nalodeni.pirati.cz/)
 
-
-<!-- # Novinky
-
-* **27. 8. 2019**
-Další veřejná schůze MS Nymburk se uskuteční 8.9.2019. Po schůzi se uskuteční první Nymburský Pirátský kvíz pro piráty i veřejnost. Zveme všechny Piráty i příznivce k rozhovoru a posléze procvičení mozkových buněk. Podrobnosti budou doplněny. ()
 
 ## O nás
 První místní sdružení Pirátů v Nymburském okrese bylo ustanoveno 1.11.2013, přičemž ve stávající sestavě oficiálně existuje od 3.12.2018. Od samého počátku sdružovalo členy z vícero obcí a to konkrétně ze Sadské, Poděbrad a Nymburka. 
