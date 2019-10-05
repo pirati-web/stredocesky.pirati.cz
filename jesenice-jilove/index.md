@@ -5,7 +5,7 @@ description: Místní sdružení Jesenice - Jílové
 keywords: piráti, místní sdružení, Jesenice, Jílové u Prahy
 mail: jan.caha@pirati.cz
 facebook: PiratiJeseniceJilove
-forum: https://forum.pirati.cz/viewforum.php?f=276
+forum: https://forum.pirati.cz/viewtopic.php?f=276&t=48168
 predsednictvo:
  - funkce: předseda
    jmeno: Jan Čáha
