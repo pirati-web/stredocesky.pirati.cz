@@ -9,7 +9,7 @@ category:
 description: zastupitel - Černošice
 img: people/marek-jericha.jpg
 mail:
-  - marek.jericha@pirati.cz
+  - mjerich@seznam.cz
 profiles:
   github:
   facebook:
