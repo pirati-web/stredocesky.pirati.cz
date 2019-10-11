@@ -17,4 +17,7 @@ Je ženatý, manželka pracuje v nemocnici jako zdravotní sestra. Má dvě dět
 
 Od roku 2003 působí jako odborný referent pro oblast národnostních menšin na Krajském úřadě Středočeského kraje. Jeho pracovní náplní je především problematika integrace romské menšiny. Byl také členem poradních orgánů na krajské i vládní úrovni.
 
-"Pokud bych byl zvolen v Senátu ČR, rád by zúročil své dlouholeté zkušenosti z oblasti státní správy, sociální problematiky, obrany a bezpečnosti," uvedl při svém představení na pirátské krajské schůzi.
+> "Pokud bych byl zvolen do Senátu ČR, rád bych zúročil své dlouholeté zkušenosti z oblasti státní správy, sociální problematiky, obrany a bezpečnosti,"
+
+uvedl při svém představení na pirátské krajské schůzi.
+
