@@ -10,7 +10,7 @@ keywords: piráti, pirátky, středočeši, středočeský kraj, KET, krajské e
 * <span style="font-size:200%;font-weight:bold;">Finance </span> (vedoucí Milan Krch, [fórum](https://forum.pirati.cz/viewforum.php?f=1278))
 * <span style="font-size:200%;font-weight:bold;">IT a smart city </span> (vedoucí Patrick Zandl, [fórum](https://forum.pirati.cz/viewforum.php?f=1279))
 * <span style="font-size:200%;font-weight:bold;">Kultura </span> (vedoucí Štěpán Drtina, [fórum](https://forum.pirati.cz/viewforum.php?f=1281))
-* <span style="font-size:200%;font-weight:bold;">Sociální politika </span> (vedoucí, Radek Černohous [fórum](https://forum.pirati.cz/viewforum.php?f=1283))
+* <span style="font-size:200%;font-weight:bold;">Sociální politika </span> (vedoucí Klára Kocmanová [fórum](https://forum.pirati.cz/viewforum.php?f=1283))
 * <span style="font-size:200%;font-weight:bold;">Sport </span> (vedoucí Antonín Schejbal, [fórum](https://forum.pirati.cz/viewforum.php?f=1284))
 * <span style="font-size:200%;font-weight:bold;">Školství </span> (vedoucí Václav Kubaljak, [fórum](https://forum.pirati.cz/viewforum.php?f=1285))
 * <span style="font-size:200%;font-weight:bold;">Územní rozvoj a plánování </span> (vedoucí Vojtěch Ertl, [fórum](https://forum.pirati.cz/viewforum.php?f=1286))
