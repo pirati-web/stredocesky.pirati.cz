@@ -17,7 +17,7 @@ profiles:
   github:
   facebook:
   twitter: https://twitter.com/TomasZmuda
-  linkedin:https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
+  linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
   web: https://zmuda.cz/
 ---
 
