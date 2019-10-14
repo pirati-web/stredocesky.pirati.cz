@@ -36,9 +36,9 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 * 21.8.2019 náš člen Roman Morávek promluvil na pietní akci v Dobřichovicích pořádané Milionem chvilek pro demokracii k výročí okupace 1968 ([facebook](https://www.facebook.com/events/418468138879367/)).
 * Na jaře 2019 jsme se aktivně zapojili v rámci kampaně k volbám do Evropského parlamentu. S pomocí příznivců jsme rozdali tisíce Pirátských listů a s občany jsme diskutovali u petičních stánků v Jílovém, Kamenici nebo Dolních Břežanech.
 
-Pokud chcete být o našich plánovaných akcích informováni e-mailem, napište nám (viz kontakty vpravo nahoře).
+Pokud chcete být o našich plánovaných akcích informováni e-mailem, napište! (viz kontakty vpravo nahoře)
 
-# Lidé
+# Členové MS
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'ms/jesenice-jilove/caha-400px.jpg' alt='Jan Čáha' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Jan Čáha** (* 14. února 1989) je zakládajícím členem a předsedou MS Jesenice - Jílové. Vystudoval strojní průmyslovou školu Betlémskou o pár let později dálkově také VOŠ a VŠ v oboru zdravotnický záchranář. Od roku 2012 pracuje na Zdravotnické záchranné službě, nyní jako zdravotnický záchranář a lektor vzdělávacího a výcvikového střediska. Také školí kurzy první pomoci ve firmě LifeSupport.
