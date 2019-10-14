@@ -16,8 +16,8 @@ mob:
 profiles:
   github:
   facebook:
-  twitter:
-  linkedin:
+  twitter: https://twitter.com/TomasZmuda
+  linkedin:https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
   web: https://zmuda.cz/
 ---
 
@@ -25,7 +25,7 @@ profiles:
 
 Pracovat začal jako steward a prodejce jízdenek ve Student Agency, následně při vysoké škole se vrátil k IT do Národní technické knihovny v Praze jako ICT administrátor. Po absolutoriu pracoval 3 roky jako IT projektový manažer ve společnosti Dantem s.r.o. a aktuálně pracuje na stejné pozici ve společnosti CS Soft a.s. zabývající se systémy pro řízení letového provozu.
 
-Je šťastně ženatý, zatím bezdětný. Členem České pirátské strany je od roku 2016 a ve volbách do Poslanecké sněmovny v roce 2017 kandidoval na 6. místě středočeské kandidátky. Je v registru dárců kostní dřeně a také pravidelný dárce A+ krve. Jeho hlavním zájmem je na lokální úrovni zprůhlednit samosprávu obcí, lépe poskytovat informace občanům a hlavně konečně učinit e-government obcí použitelným. Na celostátní úrovni podporovat a podílet se na pirátské filozofii a konat!
+Je šťastně ženatý a má jednu dceru. Členem České pirátské strany je od roku 2016 a ve volbách do Poslanecké sněmovny v roce 2017 kandidoval na 6. místě středočeské kandidátky. Je v registru dárců kostní dřeně a také pravidelný dárce A+ krve. Jeho hlavním zájmem je na lokální úrovni zprůhlednit samosprávu obcí, lépe poskytovat informace občanům a hlavně konečně učinit e-government obcí použitelným. Na celostátní úrovni podporovat a podílet se na pirátské filozofii a konat!
 
 Rád sportuje, často ho uvidíte běhat kolem letiště (i s foťákem), staví hračky založené na mikro počítači Raspberry Pi a rád vytváří webové stránky.
 
