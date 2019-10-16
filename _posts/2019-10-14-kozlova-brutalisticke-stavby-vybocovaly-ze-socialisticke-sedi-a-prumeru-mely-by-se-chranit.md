@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-10-14
 #published: false
-tags: celostátní kultura
+tags: akce kultura
 title: 'Kozlová: Brutalistické stavby vybočovaly ze socialistické šedi a průměru, měly by se chránit'
-description: 'celostátní, kultura'
+description: 'akce, kultura'
 author: Mediální odbor
 #authorId: jakub.vaclavovic
 image: posts/2019/lenka-kozlova-architektura.jpg
