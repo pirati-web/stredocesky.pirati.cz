@@ -8,7 +8,7 @@ title: 'Jiří Snížek se stal lídrem kandidátky do krajských voleb ve Stře
 description: 'krajské volby, Kolín'
 author: Ondřej Petr
 #authorId: jakub.vaclavovic
-image: posts/2019/snizek.jpg
+image: posts/2019/snizek_siroka.jpg
 ---
 
 Známe jméno kandidáta na středočeského hejtmana. Členská základna Pirátů Středočeského kraje zvolila jako svého lídra do krajských voleb Jiřího Snížka. Ten ve volbách na internetovém fóru porazil výraznou osobnost českého internetu, brandýského opozičního zastupitele Patricka Zandla.  
