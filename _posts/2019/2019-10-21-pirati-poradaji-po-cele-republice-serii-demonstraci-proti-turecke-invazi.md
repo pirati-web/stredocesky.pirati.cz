@@ -1,10 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
+layout: post
 title: Piráti pořádají po celé republice sérii demonstrací proti turecké invazi
-date: '2019-10-21 01:35pm'
+date: '2019-10-21'
 author: Ondřej Petr
-image: /assets/img/posts/2019/demo-syrie.jpg
+image: posts/2019/demo-syrie.jpg
 tags: tisková_zpráva
 ---
 Česká Pirátská strana pokračuje v sérii demonstrací proti turecké invazi v severovýchodní Sýrii. Dnešní demonstraci v Praze zahájí předseda Pirátské strany Ivan Bartoš, vystoupí i zástupci Kurdské menšiny v České republice. Kromě pražského happeningu pořádají Piráti akce v dalších pěti městech.
