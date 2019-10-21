@@ -13,7 +13,7 @@ tags: tisková_zpráva
 
 Kromě předsedy Bartoše vystoupí za Piráty i poslanec František Kopřiva či europoslanec Mikuláš Peksa. Mezi dalšími řečníky bude Martin Karim, právník a ekonom česko-kurdského původu, Rachid Khalil, předseda Kurdského občanského sdružení v ČR a humanitární pracovnice Natalia Šramková, která se čerstvě vrátila přímo z Iráckého Kurdistánu.
 
-Na Palackého náměstí v Praze bude probíhat rovněž výstava fotografií od reportérky Markéty Kutilové a sbírka předmětů zaslaných od Čechů Markéty Všelichové a Miroslava Farkase, kteří si v tureckém vězení odpykávají trest za pomoc Kurdům. 
+Na Palackého náměstí v Praze bude probíhat rovněž výstava fotografií od reportérky Markéty Kutilové a sbírka předmětů zaslaných z Kurdistánu Markéty Všelichové a Miroslava Farkase, kteří si v tureckém vězení odpykávají trest za pomoc Kurdům. 
 
 Plánované demonstrace a odborné diskuze pořádané Piráty:
 
