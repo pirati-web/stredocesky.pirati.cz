@@ -17,10 +17,11 @@ Na Palackého náměstí v Praze bude probíhat rovněž výstava fotografií od
 
 Plánované demonstrace a odborné diskuze pořádané Piráty:
 
-* 21. října od 17:00: Praha, Palackého náměstí (demonstrace)
-* 22. října od 17:30: Jihlava, Masarykovo náměstí (demonstrace)
-* 23. října od 16:00: Ústí nad Labem, Mírové náměstí (demonstrace)
-* 24. října od 17:00: České Budějovice, náměstí Přemysla Otakara (demonstrace) a klub Horká vana (odborná diskuse po skončení demonstrace)
-* 25. října od 18:00: Liberec, náměstí Dr. E. Beneše (demonstrace)
-* 26. října od 18:00: Písek, Starý most (demonstrace)
-* 27. října od 18:00: Praha, Pirátské centrum (odborná diskuze)
+* 21.11. od 17:00: Praha, Palackého náměstí (demonstrace)
+* 22.11. od 17:30: Jihlava, Masarykovo náměstí (demonstrace)
+* 23.11. od 16:00: Ústí nad Labem, Mírové náměstí (demonstrace)
+* 24.11. od 17:00: České Budějovice, náměstí Přemysla Otakara (demonstrace) a klub Horká vana (odborná diskuse po skončení demonstrace)
+* 25.11. od 18:00: Liberec, náměstí Dr. E. Beneše (demonstrace)
+* 26.11. od 18:00: Písek, Starý most (demonstrace)
+* 27.11. od 18:00: Praha, Pirátské centrum (odborná diskuze)
+
