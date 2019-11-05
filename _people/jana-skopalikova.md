@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředsedkyně krajského sdružení
-ordPKS: 5
+description: 3. místopředsedkyně krajského sdružení
+ordPKS: 4
 img: people/jana-skopalikova.jpg
 mail: jana.skopalikova@pirati.cz
 mob:

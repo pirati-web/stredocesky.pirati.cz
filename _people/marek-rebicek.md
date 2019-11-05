@@ -5,11 +5,9 @@ titles:
   before:
   after:
 category:
-  - pks
   - zastupitel
-description: 3. místopředseda krajského sdružení a zastupitel - Brandýs n.L. - St. Boleslav
+description: zastupitel - Brandýs n.L. - St. Boleslav
 img: people/marek-rebicek.jpg
-ordPKS: 4
 mail:
   - marek.rebicek@pirati.cz
 profiles:
@@ -19,7 +17,7 @@ profiles:
   linkedin:
 ---
 
-**Marek Řebíček** (* 30. června 1975) je od února 2019 místopředsedou oblastního sdružení Středočeský kraj České pirátské strany. Je městským zastupitelem za Piráty v Brandýse nad Labem-Staré Boleslavi. Pochází z Prahy a od roku 2008 žije v Brandýse.
+**Marek Řebíček** (* 30. června 1975) je městským zastupitelem za Piráty v Brandýse nad Labem - Staré Boleslavi. Pochází z Prahy a od roku 2008 žije v Brandýse. Od února do října 2019 byl 4. a později 3. místopředsedou krajského sdružení Středočeský kraj.
 
 Vystudoval gymnázium a nedostudoval právnickou fakultu. V průběhu studia začal pracovat ve státní správě v bezpečnostní oblasti. Pracoval na Národním bezpečnostním úřadu a od roku 2001 podniká. Od roku 2008 je pevně spojen s dřevařstvím a výrobou pelet ve společnosti Waldera, kde je jednatelem.
 
