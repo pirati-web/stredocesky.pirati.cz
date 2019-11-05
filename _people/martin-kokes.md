@@ -19,7 +19,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/martinkokescz/
 ---
 
-Bc. Martin Kokeš (* 1. ledna 1988) v roce 2018 kandidoval v komunálních volbách v Kolíně za Pirátskou stranu. V Kolíně žije a i se zde narodil.
+**Bc. Martin Kokeš** (* 1. ledna 1988) v roce 2018 kandidoval v komunálních volbách v Kolíně za Pirátskou stranu. V Kolíně žije a i se zde narodil.
 
 Vystudoval Střední odbornou školu spojů a informatiky v Kolíně, obor IT. V bakalářském oboru se stejným názvem zakončil na Fakultě informatiky Univerzity Pardubice studium s titulem bakalář. Během studia se mimo jiné zajímal i o bezpečnost počítačových sítí a v rámci Cisco akademie absolvoval certifikáty CCNA 1-4 a Security. Bakalářskou práci obhájil na výbornou, protože mohl použít jazyk PHP, který na škole ani nebyl probírán.
 
