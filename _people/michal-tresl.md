@@ -5,7 +5,8 @@ titles:
   before: 
   after: 
 category:
-description: člen
+  - zastupitel
+description: zastupitel - Černošice
 img: people/michal-tresl.jpg
 mail:
   - michal.tresl@pirati.cz
