@@ -7,7 +7,7 @@ author: Ondřej Petr
 image: posts/2019/demo-syrie.jpg
 tags: tisková_zpráva
 ---
-Česká Pirátská strana pokračuje v sérii demonstrací proti turecké invazi v severovýchodní Sýrii. Dnešní demonstraci v Praze zahájí předseda Pirátské strany Ivan Bartoš, vystoupí i zástupci Kurdské menšiny v České republice. Kromě pražského happeningu pořádají Piráti akce v dalších pěti městech.
+Česká pirátská strana pokračuje v sérii demonstrací proti turecké invazi v severovýchodní Sýrii. Dnešní demonstraci v Praze zahájí předseda Pirátské strany Ivan Bartoš, vystoupí i zástupci kurdské menšiny v České republice. Kromě pražského happeningu pořádají Piráti akce v dalších pěti městech.
 
 > „Jsem velmi rád, že Sněmovna schválila usnesení odsuzující tureckou agresi. Na něm jsme se podíleli s dalšími poslaneckými kluby a vyzvali jsme premiéra, aby prezentoval české postoje na zasedání Evropské rady a požadoval formulování sankcí, které by donutily Turecko k zastavení invaze. Zastavit export zbraní v této naléhavé situaci nestačí. Nezapomínejme, že Kurdové byli klíčovým spojencem Západu v boji proti takzvanému Islámskému státu,“ uvedl Bartoš.
 
