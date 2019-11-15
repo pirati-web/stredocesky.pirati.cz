@@ -8,7 +8,7 @@ title: 'Středočeský lídr na Pirátské vlně'
 description: 'krajské volby, Kolín'
 author: Mediální odbor
 #authorId: jakub.vaclavovic
-image: posts/2019/snizek_siroka.jpg
+image: posts/2019/snizek2.jpg
 ---
 
 Rozhlasový pořad Pirátská vlna s lídrem do krajských voleb Jirkou Snížkem.
