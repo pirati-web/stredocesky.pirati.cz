@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2019-11-12
 #published: false
-tags: video_podcast Kutná Hora
+tags: video_podcast Kutná_Hora
 title: 'Na palubě s Piráty s kutnohorským mistostarostou Vítkem Šnajdrem'
 description: 'video podcast, Kutná Hora'
 author: Piráti SčK
