@@ -3,16 +3,16 @@ layout: ms
 title: Místní sdružení Příbram
 description: Místní sdružení Příbram
 keywords: piráti, místní sdružení, Příbram
-mail: jan.trnka@pirati.cz
-facebook: PiratiPB
+mail: josef.bouse@pirati.cz
+facebook: PribramPirati
 forum: https://forum.pirati.cz/viewforum.php?f=692
 predsednictvo:
  - funkce: předseda
-   jmeno: Jan Trnka
+   jmeno: Josef Bouše
  - funkce: 1. místopředseda
    jmeno: Antonín Schejbal
  - funkce: 2. místopředseda
-   jmeno: Josef Bouše
+   jmeno: Simona Luftová
 mandat-do: 14.04.2020
 volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40826
 ---
@@ -26,12 +26,22 @@ Mimo politiku se angažujeme v pořádání veřejných akcí jako jsou předn�
 
 Každý je taktéž vítán na našich veřejných schůzích.
 
+# Novinky
+
+Náš zastupitel Anonín Schejbal inicioval tvorbu a zřízení grafitti stěny.
+[Link na článek zde](https://www.zpravypribram.cz/tony-schejbal-v-pribrami-vznikne-legalni-graffiti-stena-a-chystaji-se-dalsi-projekty/?fbclid=IwAR0OUAqmAoic4hj3oX-HKlGTvmcOUmCUhiavaPV7_1LThOvFQcwWRArfntU)
+
+Nestihli jste zasedání zastupitelstva ? Můžete jej shlédnout zpětně online.
+[Link na video zde](https://www.youtube.com/watch?v=TXD5ALyXKxU&feature=share&fbclid=IwAR1382-ShXNvgyA6I0cHIxCQ0pMx3znDNGVBIPt8LmNem77pEmxxxLAPLOg)
+
+
 # Lidé
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'ms/pribram/josef-bouse.jpg' alt='Josef Bouše' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Josef Bouše** je pirát a aktivní člen MS Příbram od roku 2017. Současně je členem dopravní komise města Příbram a pracuje jako IT specialista v korporátní potravinářské firmě. Zde má na starosti část IT, která spravuje výrobní prostory a administrativu, ale jeho práce je velice pestrá. 
-Ve volném čase se věnuje opět IT, programuje, opravuje a staví počítače a spoustu dalšího. Příležitostně fotí a zbytek času tráví s rodinou. 
-Aktuálně je předsedou MS Příbram a pracuje na zlepšení a prosazení Pirátů v Příbrami. Aktivně se účastní krajských a místních Pirátských schůzí a dalších akcí. 
+Ve volném čase se věnuje opět IT, programuje, opravuje a staví počítače a spoustu dalšího. Příležitostně fotí a zbytek času tráví s rodinou. Baví ho karetní a deskové hry, jako například Magic the Gathering a také DnD s přáteli.
+Aktuálně je předsedou MS Příbram. Snaží se o zlepšení a prosazení Pirátů v Příbrami. Aktivně se účastní krajských a místních Pirátských schůzí a dalších akcí. 
+Rád by aby lidé mohli o svém městě rozhodovat, proto se snaží podpořit co nejvíce lidí, aby byli slyšet. Dříve si myslel, že jedinec nemůže nic změnit, ale nechtěl si jen stěžovat a přihlížet a díky Pirátům se může zapojit a dnes ví, že na každém záleží. Dokonce i jediný hlas může měnit, ať už na komunální úrovni tak i jinde.
 </div>
 
 <div markdown="1" class="c-profile-badge">
@@ -76,7 +86,7 @@ V minulosti pracovala jako asistentka poslance, tlumočnice, lektorka, asistentk
 * **Zahraniční komise**
   * Mgr. Simona Luftová
 * **Zdravotní a sociální komise**
-  * Mgr. Simona Luftová
+  * ----------------------
 * **Komise pro mládež, tělovýchovu a sport**
   * Antonín Schejbal
 * **Komise pro výchovu a vzdělávání**
