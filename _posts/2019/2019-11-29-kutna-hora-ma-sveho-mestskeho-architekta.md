@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-11-29
 #published: false
-tags: Kutná_Hora architektura
+tags: tisková_zpráva Kutná_Hora architektura
 title: 'Kutná Hora má svého městského architekta'
-description: 'tisková zpráva' 
+description: 'tisková zpráva, Kutná Hora, architektura, městský architekt' 
 author: Piráti SčK
 #authorId: klara.kocmanova 
 image: posts/2019/kutna-hora.jpg
