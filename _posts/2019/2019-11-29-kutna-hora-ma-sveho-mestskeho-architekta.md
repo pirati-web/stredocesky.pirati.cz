@@ -15,7 +15,7 @@ Kutná Hora, 29. listopadu 2019 - Rada města Kutná Hora schválila výsledky v
 
 Komise výběrového řízení byla složená z větší části nezávislými architekty, do druhého kola postoupili celkem čtyři uchazeči. Ing. arch. Dott. Ing. Petr Janoš již působil jako městský architekt v Roudnici nad Labem, nyní je architektem ve společnosti ATAKARCHITEKT s.r.o.
 
-> "Je skvělé, že Kutná Hora získává svého městského architekta, bohužel ho měla mít již dvacet let. Věřme, že tento člověk vnese do plánování výstavby ve městě spadající pod UNESCO tolik potřebnou systematickou strategii a hlavně, že se mu podaří zlepšit kvalitu veřejného prostoru. Kutná Hora si to rozhodně zaslouží." uvedl Vít Šnajdr.
+> "Je skvělé, že Kutná Hora získává svého městského architekta, bohužel ho měla mít již dvacet let. Věřme, že tento člověk vnese do plánování výstavby ve městě spadající pod UNESCO tolik potřebnou systematickou strategii, a hlavně, že se mu podaří zlepšit kvalitu veřejného prostoru. Kutná Hora si to rozhodně zaslouží," uvedl Vít Šnajdr.
 
-Účinnost pozice městského architekta je platná od 1.1.2020. Bude mít na starosti tvorbu koncepčních materiálů v oblasti strategického a územního plánování, zastupovat město v územních řízeních či připravovat zadání projektů, jejich vedení a realizaci staveb města. Místo městského architekta bude přímo podřízeno starostovi města, bude mít za úkol propojovat jednotlivé odbory, provádět konzultace pro veřejnost a vyjadřovat se k veřejnému prostoru.
+Účinnost pozice městského architekta je platná od 1. 1. 2020. Bude mít na starosti tvorbu koncepčních materiálů v oblasti strategického a územního plánování, zastupovat město v územních řízeních či připravovat zadání projektů, jejich vedení a realizaci staveb města. Místo městského architekta bude přímo podřízeno starostovi města, bude mít za úkol propojovat jednotlivé odbory, provádět konzultace pro veřejnost a vyjadřovat se k veřejnému prostoru.
 
