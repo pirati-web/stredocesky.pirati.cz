@@ -46,7 +46,7 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 
 <div markdown="1" class="c-profile-badge">
-{% asset 'ms/jesenice-jilove/moravek-400px.jpg' alt='Roman Morávek' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Roman Morávek** je prvním místopředsedou MS Jesenice - Jílové.
+{% asset 'ms/jesenice-jilove/moravek-400px.jpg' alt='Roman Morávek' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Roman Morávek** (* 20. listopadu 1970) je zakládajícím členem a prvním místopředsedou MS Jesenice - Jílové. Pochází z Prahy 8, ale již přes 15 let bydlí v Dolních Břežanech. Vystudoval VŠFS obor: Řízení podniku a podnikové finance. Mnoho let jako OSVČ dělá poradenství pro zahraniční, hlavně italské společnosti v různých odvětvích. Rekreačně hraje tenis, nohejbal a lyžuje.
 </div>
 
 
