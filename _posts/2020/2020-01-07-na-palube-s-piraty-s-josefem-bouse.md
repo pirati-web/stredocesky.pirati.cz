@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-date: 2019-01-07
+date: 2020-01-07
 #published: false
 tags: video_podcast Příbram
 title: 'Na palubě s Piráty s Josefem Bouše'
 description: 'video podcast, Příbram'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
-image: posts/2019/podcast-bouse.jpg
+image: posts/2020/podcast-bouse.jpg
 ---
 První podcast v novém roce s Josefem Bouše, předsedou Místního sdružení Příbram a členem Předsednictva krajského sdružení.
 
