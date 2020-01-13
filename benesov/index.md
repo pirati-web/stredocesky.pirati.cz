@@ -8,7 +8,7 @@ facebook: piratskapalubaBN
 forum: https://forum.pirati.cz/viewforum.php?f=967
 predsednictvo:
  - funkce: předseda
-   jmeno: Jana Skopalíková
+   jmeno: Václav Kubaljak
  - funkce: 1. místopředseda
    jmeno: David Řejha
  - funkce: 2. místopředseda
@@ -57,14 +57,21 @@ Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet 
 {% endfor %}
 
 # Lidé
-### Jana Skopalíková
-Předsedkyně MS Benešov, vedoucí krajského expertního týmu v oblasti Životní prostředí. Vystudovala magisterské studium na Přírodovědecké fakultě UK – obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy.
+
+### Václav Kubaljak
+Předseda MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
 
 ### David Řejha
 První místopředseda MS Benešov a zakládající člen. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
 
 ### Jan Lička
 Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí jako zástupce garanta v sekci Doprava a vedoucí krajského expertního týmu Doprava a infrastruktura. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
+
+### Jana Skopalíková
+Třetí místopředsedkyně středočeských Pirátů a bývalá předsedkyně MS Benešov. Vystudovala magisterské studium na Přírodovědecké fakultě UK – obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy. Více <a href="{{ 'lide/jana-skopalikova/' | relative_url }}">zde</a>.
+
+### Daniel Netušil
+Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem. Více <a href="{{ 'lide/daniel-netusil/' | relative_url }}">zde</a>.
 
 ### Ondřej Hrdý
 Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
@@ -74,12 +81,6 @@ Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešo
 
 ### Milan Krch
 Člen MS Benešov, vedoucí krajského expertního týmu Finance.
-
-### Václav Kubaljak
-Člen MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
-
-### Daniel Netušil
-Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem.
 
 # Členové komisí Rady města Benešov nominovaní za Piráty a Zelené
 
