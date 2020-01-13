@@ -1,6 +1,7 @@
 ---
 layout: ms
 title: Místní sdružení Kladno
+published: false
 description: Místní sdružení Kladno
 keywords: piráti, místní sdružení, Kladno
 mail: mskladno@pirati.cz
