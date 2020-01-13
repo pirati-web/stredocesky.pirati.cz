@@ -8,13 +8,13 @@ facebook: PiratiKladno
 forum: https://forum.pirati.cz/viewforum.php?f=693
 predsednictvo:
  - funkce: předseda
-   jmeno: Radek Černohous
- - funkce: 1. místopředseda
    jmeno: Michal Hažlinský
- - funkce: 2. místopředseda
+ - funkce: 1. místopředseda
    jmeno: Jakub Václavovič
+ - funkce: 2. místopředseda
+   jmeno: Lucie Cirkva Chocholová
 mandat-do: 01.02.2021
-volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
+volba: https://forum.pirati.cz/viewtopic.php?f=697&t=50024
 ---
 [{% asset 'ms/kladno/top.png' alt='MS Kladno' %}](https://nalodeni.pirati.cz/)
 
@@ -41,17 +41,17 @@ Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v 
 
 # Lidé
 
-### Radek Černohous
-Předseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://wiki.pirati.cz/lide/radek_cernohous).
-
 ### Michal Hažlinský
-Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 je jeho místopředsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://wiki.pirati.cz/lide/michal_hazlinsky).
+Do MS Kladno vstoupil v létě 2018 od 1.2. 2019 byl jeho místopředsedou a po rezignaci předsedy byl v prosinci 2019 zvolen předsedou. Od listopadu 2018 je členem Kontrolního výboru zastupitelstva města Kladna, kam byl nominován uskupením Kladeňáci. Podrobnější profil je pak k nalezení [zde](https://kladno.pirati.cz/lide/michal-hazlinsky/).
 
 ### Jakub Václavovič
-Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku <a href="https://wiki.pirati.cz/lide/jakub_vaclavovic">zde</a>.
+Místopředseda místního sdružení Kladno, více informací se můžete dočíst v jeho medaionku [zde](https://kladno.pirati.cz/lide/jakub-vaclavovic/).
+
+### Lucie Cirkva Chocholová
+Místopředsedkyně místního sdružení Kladno, více informací se můžete dočíst v jejím medaionku [zde](https://kladno.pirati.cz/lide/lucie-chocholova/).
 
 ### Další členové
-Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek
+Jan Jurik, [Jan Lukášek](https://wiki.pirati.cz/lide/jan_lukasek), Jan Adámek, [Radek Černohous](https://wiki.pirati.cz/lide/radek_cernohous)
 
 # Členové komisí Rady a výborů Zastupitelstva města Kladna 
 
