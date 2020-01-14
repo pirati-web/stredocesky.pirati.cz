@@ -19,7 +19,7 @@ Odpoledne probíhalo představení lídrů kandidátek do krajských voleb. Výr
 
 > “Já nejdříve vysvětlím, proč jsem si přinesl donut. Středočeský kraj skutečně na mapě jako donut vypadá. Je to okruh kolem Prahy, nebo jinak řečeno, kraj s dírou uprostřed,” uvedl Jiří Snížek na úvod svého projevu.
 
-Při představování kandidátů do senátních voleb svým bezprostředním projevem zaujala kandidátka za obvod č. 30 Kladno, advokátka a matka pěti dětí, Adéla Šípová. Za obvod č. 42 Kolín se prezentoval známý romský aktivista Cyril Koky.
+Při představování kandidátů do senátních voleb svým bezprostředním projevem zaujala kandidátka za obvod č. 30 Kladno, advokátka a matka pěti dětí, Adéla Šípová. Za obvod č. 42 Kolín se prezentoval odborný referent krajského úřadu Středočeského kraje Cyril Koky.
 
 {% asset 'posts/2020/adela.jpg' alt='Adéla Šípová, kandidátka na senátora v ovbodu č. 30 Kladno' %}
 
