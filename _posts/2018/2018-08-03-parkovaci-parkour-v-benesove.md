@@ -3,7 +3,7 @@ date: 2018-08-03
 category: blog
 tags:
  - Benešov
- - hromadná_doprava
+ - doprava
 layout: post
 title: Parkovací parkour v Benešově
 author: Jan Lička
