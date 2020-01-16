@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-06-18
 #published: false
-tags: sucho Benešov
+tags: životní_prostředí Benešov
 title: 'Prší málo nebo jen s vodou neumíme hospodařit?'
-description: 'sucho, Benešov'
+description: 'životní prostředí, Benešov'
 author: Jana Skopalíková
 #authorId: jana.skopalikova
 image: posts/2019/reka.jpg
