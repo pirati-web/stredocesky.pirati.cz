@@ -3,7 +3,7 @@ date: 2018-08-06
 category: blog
 tags:
  - Stará_Boleslav
- - hromadná_doprava
+ - doprava
 layout: post
 title: V centru Staré Boleslavi zaparkovala pirátská tramvaj
 author: Jakub Dušánek
