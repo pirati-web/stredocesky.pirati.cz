@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2019-04-01
 #published: false
-tags: Krajská_politika
+tags: krajská_politika
 #title: Rozčtvrtit nebo rozpůlit? Středočeský kraj jako O’kraj s dírou uprostřed
 title: Středočeský kraj se rozdělí na čtyři menší kraje
 description: 'Středočeský kraj, Rozdělení kraje'
