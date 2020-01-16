@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2019-08-28
 #published: false
-tags: kultura Kladno divadlo
+tags: kultura Kladno
 title: 'Kladenskému divadlu škodí nejvíce netransparentní personální rošády a nekoncepční přístup ze strany města'
 description: 'Řízení divadla v Kladně'
 author: Lucie Chocholová
