@@ -14,6 +14,7 @@ image: posts/2020/medailonky_zastupitele.jpg
 Co se podařilo Pirátům za uplynulý rok ve Středočeském kraji a v Poslanecké sněmovně?
 Přinášíme vám stručný přehled.
 
+
 V **Benešově**, ve kterém máme neuvolněného radního Daniela Netušila: 
 
 🏴 Prosadili jsme živé vysílání a video záznamy ze zastupitelstva.
@@ -44,6 +45,7 @@ V **Benešově**, ve kterém máme neuvolněného radního Daniela Netušila:
 
 🏴 Podpořili jsme vznik pozice městského zahradníka.
 
+
 Co se nám podařilo v **Kutné Hoře**, kde je místostarostou Vít Šnajdr a radní Štěpán Drtina?
 
 🏴 Zavedli jsme pozici městského architekta.
@@ -60,6 +62,7 @@ Co se nám podařilo v **Kutné Hoře**, kde je místostarostou Vít Šnajdr a r
 
 🏴 Uspořádali jsme veřejné schůze nejen v Kutné Hoře, ale také v Čáslavi a ve Zruči nad Sázavou.
 
+
 Co se doposud povedlo v **Jinočanech**, kde je zastupitel Tomáš Zmuda?
 
 🏴 Zvyšujeme kapacitu čističky odpadních vod.
@@ -74,6 +77,7 @@ Co se doposud povedlo v **Jinočanech**, kde je zastupitel Tomáš Zmuda?
 
 🏴 Zavedli jsme Mobilní rozhlas.
 
+
 Co se podařilo v **Příbrami** se zastupitelem Antonínem Schejbalem?
 
 🏴 Zavedli jsme reuploadování streamu ze schůzí městského zastupitelstva.
@@ -84,7 +88,9 @@ Co se podařilo v **Příbrami** se zastupitelem Antonínem Schejbalem?
 
 🏴 Uklidili jsme Příbram v rámci akce Ukliďme Česko.
 
+
 Další pitátské komunální zastupitele máme v Brandýse nad Labem-Staré Boleslavi - Patricka Zandla a Marka Řebíčka, dále zastupitelku z Krnska Dominiku Michalidu, zastupitele Úval Jana Černého, zastupitele z Černošic Michala Trešla a Marka Jeřicha a v neposlední řadě také zastupitelku Moniku Keřkovou z Ohrobce, o jejichž práci vás budeme informovat průběžně.
+
 
 Co se podařilo Pirátům ve **Sněmovně**, kde středočeský kraj reprezentuje Ivan Bartoš, František Kopřiva a Lenka Kozlová?
 
@@ -152,6 +158,7 @@ Co se podařilo Pirátům ve **Sněmovně**, kde středočeský kraj reprezentuj
 
 🏴 Elektronický stavební deník u veřejných zakázek.
 
+
 Co nám vládnoucí většina zařízla?
 
 🏴 Zrušení povinného přimíchávání biopaliv.
@@ -178,6 +185,7 @@ U Ústavního soudu jsme neuspěli, ale bojujeme dál:
 
 🏴 Omezení šmírování telefonů a na internetu.
 
+
 A na čem dál pracujeme a co plánujeme?
 
 🏴 Valorizace platů učitelů na 130 procent průměrné mzdy.
@@ -191,6 +199,7 @@ A na čem dál pracujeme a co plánujeme?
 🏴 Vedle toho vládu kontrolujeme v bezpočtu kauz (např. obsazení ředitele Českých drah, kauza investic ČEZu v Bulharsku, příprava Národního investičního plánu, ovlivňování soudců, manipulace s příslušností úřadů šetřících střet zájmů Andreje Babiše, nelegální billboardy na D1).
 
 🏴 Ve Sněmovně i jinde spolupracujeme aktivně s jinými politickými stranami tam, kde se programově překrýváme nebo když to situace vyžaduje.
+
 
 O všech úspěších i výzvách pravidelně a otevřeně informujeme nejen v aktualitách na [hlavní stránce Pirátů](www.pirati.cz/aktuality), ale i [stránce Středočeských Pirátů](https://stredocesky.pirati.cz/) a na dvou speciálních webech [Piráti pracují](www.piratipracuji.cz) a [pirati.cz/vysledky](https://www.pirati.cz/vysledky/), které v blízké době čeká velký update.
 
