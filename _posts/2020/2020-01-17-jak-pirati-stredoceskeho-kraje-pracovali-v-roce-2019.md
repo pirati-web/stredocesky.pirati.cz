@@ -89,7 +89,7 @@ Co se podařilo v **Příbrami** se zastupitelem Antonínem Schejbalem?
 🏴 Uklidili jsme Příbram v rámci akce Ukliďme Česko.
 
 
-Další pitátské komunální zastupitele máme v Brandýse nad Labem-Staré Boleslavi - Patricka Zandla a Marka Řebíčka, dále zastupitelku z Krnska Dominiku Michalidu, zastupitele Úval Jana Černého, zastupitele z Černošic Michala Trešla a Marka Jeřicha a v neposlední řadě také zastupitelku Moniku Keřkovou z Ohrobce, o jejichž práci vás budeme informovat průběžně.
+Další pirátské komunální zastupitele máme v Brandýse nad Labem-Staré Boleslavi - Patricka Zandla a Marka Řebíčka, dále zastupitelku z Krnska Dominiku Michalidu, zastupitele Úval Jana Černého, zastupitele z Černošic Michala Trešla a Marka Jeřicha a v neposlední řadě také zastupitelku Moniku Keřkovou z Ohrobce, o jejichž práci vás budeme informovat průběžně.
 
 
 Co se podařilo Pirátům ve **Sněmovně**, kde středočeský kraj reprezentuje Ivan Bartoš, František Kopřiva a Lenka Kozlová?
