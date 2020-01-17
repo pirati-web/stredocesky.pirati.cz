@@ -29,12 +29,19 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 # Aktivity MS
 
-* 2.11.2019 výlet s Piráty Posázavskou stezkou
-* 3.10.2019 první regulérní schůze místního sdružení s focením členů a příznivců.
-* 23.9.2019 jsme se sešli na ustavující schůzi MS na geografickém středu Čech na kopci Ďábel u obce Petrov ([tiskovka](https://stredocesky.pirati.cz/aktuality/stredocesti-pirati-ovladli-geometricky-stred-cech.html), [zápis](https://forum.pirati.cz/viewtopic.php?p=638856#p638856), [facebook](https://www.facebook.com/PiratiJeseniceJilove/photos/a.106944940660467/132332434788384/?type=3&theater), [mastodon](https://kompost.cz/web/statuses/102847902045364049)).
-* 4.9.2019 setkání v Dolních Břežanech a seznámení s plány na založení místního sdružení ([link](https://forum.pirati.cz/viewtopic.php?p=634690#p634690), [facebook](https://www.facebook.com/PiratiJeseniceJilove/photos/a.106944940660467/124936418861319/?type=3&theater)).
-* 21.8.2019 náš člen Roman Morávek promluvil na pietní akci v Dobřichovicích pořádané Milionem chvilek pro demokracii k výročí okupace 1968 ([facebook](https://www.facebook.com/events/418468138879367/)).
+##### 2020
+
+* 16.1.2020 schůze MS ve Vestci
+
+##### 2019
+
 * Na jaře 2019 jsme se aktivně zapojili v rámci kampaně k volbám do Evropského parlamentu. S pomocí příznivců jsme rozdali tisíce Pirátských listů a s občany jsme diskutovali u petičních stánků v Jílovém, Kamenici nebo Dolních Břežanech.
+* 21.8.2019 náš člen Roman Morávek promluvil na pietní akci v Dobřichovicích pořádané Milionem chvilek pro demokracii k výročí okupace 1968 ([facebook](https://www.facebook.com/events/418468138879367/)).
+* 4.9.2019 setkání v Dolních Břežanech a seznámení s plány na založení místního sdružení ([link](https://forum.pirati.cz/viewtopic.php?p=634690#p634690), [facebook](https://www.facebook.com/PiratiJeseniceJilove/photos/a.106944940660467/124936418861319/?type=3&theater)).
+* 23.9.2019 jsme se sešli na ustavující schůzi MS na geografickém středu Čech na kopci Ďábel u obce Petrov ([tiskovka](https://stredocesky.pirati.cz/aktuality/stredocesti-pirati-ovladli-geometricky-stred-cech.html), [zápis](https://forum.pirati.cz/viewtopic.php?p=638856#p638856), [facebook](https://www.facebook.com/PiratiJeseniceJilove/photos/a.106944940660467/132332434788384/?type=3&theater), [mastodon](https://kompost.cz/web/statuses/102847902045364049)).
+* 3.10.2019 první regulérní schůze místního sdružení s focením členů a příznivců (Jílové)
+* 2.11.2019 výlet s Piráty Posázavskou stezkou
+* 6.12.2019 schůze MS v Jesenici
 
 Pokud chcete být o našich plánovaných akcích informováni e-mailem, napište! (viz kontakty vpravo nahoře)
 
