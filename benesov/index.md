@@ -3,7 +3,7 @@ layout: ms
 title: Místní sdružení Benešov
 description: Místní sdružení Benešov
 keywords: piráti, místní sdružení, Benešov
-mail: piratibenesov@gmail.com
+mail: benesov@pirati.cz
 facebook: piratskapalubaBN
 forum: https://forum.pirati.cz/viewforum.php?f=967
 predsednictvo:
