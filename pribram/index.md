@@ -28,6 +28,9 @@ Každý je taktéž vítán na našich veřejných schůzích.
 
 # Novinky
 
+Naše vyjádření k plánované rekonstrukci akvaparku a rozpočtu města Příbram.
+[Link na článek zde](https://stredocesky.pirati.cz/aktuality/pirati-pribram-proti-rozpoctu-a-zadluzeni.html)
+
 Náš zastupitel Anonín Schejbal inicioval tvorbu a zřízení grafitti stěny.
 [Link na článek zde](https://www.zpravypribram.cz/tony-schejbal-v-pribrami-vznikne-legalni-graffiti-stena-a-chystaji-se-dalsi-projekty/?fbclid=IwAR0OUAqmAoic4hj3oX-HKlGTvmcOUmCUhiavaPV7_1LThOvFQcwWRArfntU)
 
