@@ -8,7 +8,7 @@ title: 'Přinášíme vám videozáznam z akce Exekuce a chudoba v době prosper
 description: 'akce, Kladno, sociální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
-image: posts/2020/exekuce-plakat.jpg
+image: posts/2020/exekuce.jpg
 ---
 
 Dne 15. 1. 2020 proběhla na Kladně debata s názvem Exekuce a chudoba v době prosperity a populismu. Pozvání přijal předseda Pirátů Ivan Bartoš, reportérka Saša Uhlová, Daniel Hůle z instituce Člověk v tísni, advokátka Adéla Šípová a předseda Pirátů Kladno Michal Hažlinský.
