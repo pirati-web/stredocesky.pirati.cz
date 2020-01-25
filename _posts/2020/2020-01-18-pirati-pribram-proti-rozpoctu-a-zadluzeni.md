@@ -6,7 +6,7 @@ date: 2020-01-18
 tags: komunální_politika Příbram
 title: 'Piráti Příbram proti rozpočtu a zadlužení'
 description: 'komunální politika'
-author: Piráti SčK
+author: Piráti Příbram
 #authorId: jakub.vaclavovic
 image: ms/pribram/ms-pribram.jpg
 ---
