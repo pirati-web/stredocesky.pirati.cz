@@ -4,7 +4,7 @@ layout: post
 date: 2020-01-25
 #published: false
 tags: akce Kladno sociální_politika
-title: 'Přinášíme vám videozáznam z akce Exekuce a chudoba v době prosperity a populismu'
+title: 'Videozáznam z akce Exekuce a chudoba v době prosperity a populismu'
 description: 'akce, Kladno, sociální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
