@@ -4,11 +4,11 @@ layout: post
 date: 2020-01-28
 #published: false
 tags: tisková_zpráva Kutná_Hora školství
-title: 'Kutnohorsko čeká zvýšení kvality vzdělávání'
+title: 'Kutnohorsko získá 200 mil. Kč na zvýšení kvality vzdělávání!'
 description: 'tisková zpráva, Kutná Hora, školství'
 author: Klára Kocmanová
 authorId: klara.kocmanova
-image: posts/2020/XXX.jpg
+image: posts/2020/eduzmena_vitek.jpg
 ---
 
 **Praha, 28. ledna 2020** - Dnes bylo na tiskové konferenci v Praze oznámeno, že se Kutnohorsko stává vybranou lokalitou pro pilotní projekt Nadačního fondu Eduzměna. Místostarosta Kutné Hory Vít Šnajdr (Piráti) představil očekávání, s jakými do projektu vstupuje a jak vnímá dosavadní spolupráci. Byly představeny i konkrétní kroky, které region čekají.
