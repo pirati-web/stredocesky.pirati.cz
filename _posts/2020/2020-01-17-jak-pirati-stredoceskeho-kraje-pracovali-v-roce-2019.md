@@ -67,10 +67,6 @@ Co se doposud povedlo v **Jinočanech**, kde je zastupitel Tomáš Zmuda?
 
 🏴 Zvyšujeme kapacitu čističky odpadních vod.
 
-🏴 Proběhla výstavba nové sportovní haly.
-
-🏴 Zrekonstruovali jsme sokolovnu.
-
 🏴 Schválili jsme výstavbu hasičské zbrojnice přestavbou již nevyužívané vodárny.
 
 🏴 V soutěži Vesnice roku ve Středočeském kraji jsme vyhráli Bílou stuhu za činnost mládeže a 600 tisíc Kč k tomu.
