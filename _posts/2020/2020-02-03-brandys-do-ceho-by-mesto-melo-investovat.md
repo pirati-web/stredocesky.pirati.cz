@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2020-02-03
-published: false
+#published: false
 tags: Brandýs
 title: 'Brandýs: Do čeho by město mělo investovat, jaká je naše investiční strategie?'
 description: 'Brandýs, investiční strategie'
