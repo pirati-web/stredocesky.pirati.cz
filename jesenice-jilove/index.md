@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 24.9.2021
 volba: https://forum.pirati.cz/viewtopic.php?p=638856#p638856
 ---
-{% asset 'ms/jesenice-jilove/spolecna-1000px.jpg' alt='ustavující schůze' %}
+{% asset 'ms/jesenice-jilove/spolecna-1000px.jpg' alt='společná fotka' %}
 
 Místní sdružení Jesenice - Jílové působí na Praze - západ, v části ORP Černošice na východ od Vltavy. Přesné vymezení území je správní obvod obce s pověřeným obecním úřadem Jesenice a správní obvod obce s pověřeným obecním úřadem Jílové u Prahy. Jsme však otevření ostatním a rádi uvítáme i piráty a podporovatele z přilehlých území, především pak z hraničních oblastí ORP Říčany a ORP Benešov, ke kterým máme velmi blízko (např. Kamenice).
 
