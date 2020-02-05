@@ -14,7 +14,7 @@ predsednictvo:
  - funkce: 2. místopředseda
    jmeno: <a href="https://www.facebook.com/jirina.prikrylova.7">Jiřina Procházková</a>
 mandat-do: 03.12.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
+volba: https://forum.pirati.cz/viewtopic.php?f=799&t=29429&p=592959#p592959
 ---
 {% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
