@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2020-02-10
 #published: false
-tags: Brandýs-St.Boleslav, komunální_politika
+tags: Brandýs-St.Boleslav komunální_politika
 title: 'Pozvolná likvidace Hrušovských sadů v Brandýse n.L. - Staré Boleslavi'
 description: 'komunální politika, Brandýs n.L. - Stará Boleslav'
 author: Piráti SčK
