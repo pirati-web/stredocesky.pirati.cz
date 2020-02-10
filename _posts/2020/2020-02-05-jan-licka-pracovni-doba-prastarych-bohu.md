@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2020-02-05
 #published: false
-tags: Benešov
+tags: Benešov komentář
 title: 'Jan Lička: Pracovní doba prastarých bohů'
 description: 'Jan Lička, pracovní doba'
 author: Jan Lička
