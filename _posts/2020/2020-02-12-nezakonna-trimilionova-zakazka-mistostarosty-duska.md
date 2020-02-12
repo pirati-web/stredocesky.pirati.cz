@@ -18,7 +18,7 @@ Samotné kabely totiž musíte ukončit síťovými prvky, které umožní bezpe
 
 To se jeví jako logický krok, potřebujete vědět, jak má to řešení hardwaru a nastavení sítě fungovat. První problém ale nastal, když úřad tuto zakázku nezveřejnil v registru smluv a tedy nikdo z venku ani nemohl tušit, že se nějaká větší investice města chystá. 
 
-**Smlouva na analýzu sítě LAN nebyla dokonce zveřejněna v registru do 3 měsíců od jejího podpisu a podle zákona tedy ani nikdy nezačala platit **(dle § 7 odst. 1 zákona).  Máme tu první otázku: kdo odpovídá za vyplacení 72 tisíc korun bez právního titulu?
+**Smlouva na analýzu sítě LAN nebyla dokonce zveřejněna v registru do 3 měsíců od jejího podpisu a podle zákona tedy ani nikdy nezačala platit** (dle § 7 odst. 1 zákona).  Máme tu první otázku: kdo odpovídá za vyplacení 72 tisíc korun bez právního titulu?
 
 Následně odbor IT úřadu 20. listopadu 2019 vypsal tři zakázky malého rozsahu (**Síťové přepínače budov MěÚ, Síťová infrastruktura páteřní sítě LAN a Bezpečnost síťového provozu**), které jsou fakticky jedinou zakázkou dle technických specifikací zahrnující vybavení místního datového centra od kabeláže, přes firewally a switche až po licence a konfiguraci sítě. [Město Brandýs nad Labem-Stará Boleslav- výzvy k podání cenových nabídek](https://brandysko.cz/mesto-brandys-nad-labem-stara-boleslav/ds-2273/archiv=0).
 
