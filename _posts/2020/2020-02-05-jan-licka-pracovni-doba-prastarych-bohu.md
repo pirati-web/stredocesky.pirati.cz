@@ -7,7 +7,7 @@ tags: Benešov komentář
 title: 'Jan Lička: Pracovní doba prastarých bohů'
 description: 'Jan Lička, pracovní doba'
 author: Jan Lička
-#authorId: klara.kocmanova
+authorId: jan.licka
 image: posts/2020/jan-licka.jpg
 ---
 Čtyři dny? 40 hodin nebo 37,5 hodiny? V současné vleklé debatě o spravedlivé mzdě a optimální pracovní době v přestřelkách mezi odbory a zaměstnavateli zanikají některé detaily, které bych zde stručně připomenul.
