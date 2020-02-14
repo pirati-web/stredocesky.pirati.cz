@@ -7,7 +7,7 @@ tags: Brandýs-St.Boleslav komunální_politika
 title: 'Nezákonná třímiliónová zakázka místostarosty Duška'
 description: 'komunální politika, Brandýs n.L. - Stará Boleslav'
 author: Marek Řebíček
-#authorId: marek.rebicek
+authorId: marek.rebicek
 image: posts/2020/datacentrum.jpg
 ---
 Mrzelo vás rozkopané město na sklonku roku? Prý městská síť. Bohužel také problematická zakázka za hranou zákona, která nám ještě přinese mnoho problémů.
