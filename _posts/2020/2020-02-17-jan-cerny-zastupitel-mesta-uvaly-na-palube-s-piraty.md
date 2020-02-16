@@ -12,6 +12,8 @@ image: posts/2020/podcast-cerny.jpg
 ---
 Do dalšího dílu podcastu Na palubě s Piráty přijal pozvání Jan Černý, zastupitel města Úvaly.
 
+Se kterými tématy se Honza u Pirátů nejvíce ztotožňuje? Co se povedlo v Úvalech za dobu jeho půsoní v Úvalech? Kdy se Úvaly dočkají participativního rozpočtu? A jaké jsou jeho další politické ambice? 
+
 Otázky pro další hosty pište na e-mail stredocesky@pirati.cz.
 
 <iframe width="600" height="338" 
