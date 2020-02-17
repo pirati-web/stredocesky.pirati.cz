@@ -16,6 +16,5 @@ Se kterými tématy se Honza u Pirátů nejvíce ztotožňuje? Co se povedlo v �
 
 Otázky pro další hosty pište na e-mail stredocesky@pirati.cz.
 
-<iframe width="600" height="338" 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/ZVdgSmqFM4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://youtu.be/ZVdgSmqFM4c
