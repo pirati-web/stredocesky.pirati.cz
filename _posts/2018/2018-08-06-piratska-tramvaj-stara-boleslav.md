@@ -2,7 +2,7 @@
 date: 2018-08-06
 category: blog
 tags:
- - Stará_Boleslav
+ - Brandýs-St.Boleslav
  - doprava
 layout: post
 title: V centru Staré Boleslavi zaparkovala pirátská tramvaj
