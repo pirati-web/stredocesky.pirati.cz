@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-09-09
 #published: false
-tags: video_podcast Brandýs Stará_Boleslav
+tags: video_podcast Brandýs-St.Boleslav
 title: 'Marek Řebíček o Brandýse - Staré Boleslavi Na palubě s Piráty'
-description: 'video podcast, Brandýs, Stará Boleslav'
+description: 'video podcast, Brandýs-St.Boleslav'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-rebicek.jpg
