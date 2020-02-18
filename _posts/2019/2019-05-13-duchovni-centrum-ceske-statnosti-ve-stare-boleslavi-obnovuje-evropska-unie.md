@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-05-13
 #published: false
-tags: EU Brandýs
+tags: EU Brandýs-St.Boleslav
 title: Duchovní centrum české státnosti ve Staré Boleslavi obnovuje Evropská unie
-description: 'Středočeský kraj, Europská unie'
+description: 'Středočeský kraj, Europská unie, Brandýs-St.Boleslav'
 author: Piráti Brandýs n./L. - St. Boleslav
 #authorId: jana.skopalikova
 image: posts/2019/brandys-kostel.jpg
