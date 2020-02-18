@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-02-03
 #published: false
-tags: Brandýs
+tags: Brandýs-St.Boleslav komunální_politika
 title: 'Brandýs: Do čeho by město mělo investovat, jaká je naše investiční strategie?'
-description: 'Brandýs, investiční strategie'
+description: 'Brandýs-St.Boleslav, investiční strategie, komunální politika'
 author: Piráti SčK
 #authorId: klara.kocmanova
 image: posts/2020/brandys-investice.jpg
