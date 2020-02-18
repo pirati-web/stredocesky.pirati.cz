@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-08-16
 #published: false
-tags: komunální_politika Brandýs Stará_Boleslav
+tags: komunální_politika Brandýs-St.Boleslav
 title: 'Vzkvétá nebo nevzkvétá? Aneb Hra s čísly jménem Obce v datech'
-description: 'komunální politika, Brandýs, Stará Boleslav'
+description: 'komunální politika, Brandýs-St.Boleslav'
 author: Marek Řebíček
 authorId: marek.rebicek
 image: posts/2019/brandys-obce-v-datech.jpg
