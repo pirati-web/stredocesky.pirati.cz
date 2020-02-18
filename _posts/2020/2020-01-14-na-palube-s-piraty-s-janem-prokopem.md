@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-01-14
 #published: false
-tags: video_podcast Brandýs Stará_Boleslav
+tags: video_podcast Brandýs-St.Boleslav
 title: 'Na palubě s Piráty s Janem Prokopem'
-description: 'video podcast, Brandýs, Stará Boleslav'
+description: 'video podcast, Brandýs-St.Boleslav'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/podcast-prokop.jpg
