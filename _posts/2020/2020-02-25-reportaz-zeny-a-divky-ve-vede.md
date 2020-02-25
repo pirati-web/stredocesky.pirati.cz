@@ -46,6 +46,7 @@ Hana Macíčková Cahová se také podělila o své dojmy: „Pro me byla velká
 Nakonec velké překvapení zažil i jediný muž na panelu, Ondřej Kolek: „Čekal jsem přínosnou rozpravu, kvalitní debatérky a zajímavé informace. Tušil jsem, že panelistky budou obdarovány květinou. Ale že bude večer tak příjemný, diskuzně plodný, a že poprvé v životě dostanu květiny a navíc od ženy, z toho jsem byl skutečně dojat.“
 
 **Debatující:**
+
 Mgr. Adéla Šípová, advokátka (moderátorka debaty)
 Mgr. Jana Skopalíková, doktorandka, PřF UK (Piráti)
 Mgr. Marcela Linková, Ph.D., Sociologický ústav AV ČR
@@ -63,6 +64,7 @@ Událost uspořádaly Klára Kocmanová (Piráti Středočeský kraj) a Romana K
 Autor je předseda Pirátů v Libereckém kraji
 
 **Reference:**
+
 (1) [Fotoreportáž Jana Tichavského](https://www.flickr.com/photos/piratipraha3/albums/72157713110288536?fbclid=IwAR1Sqp4KIMwkRJGfP-aX6YLZbdRhyV7hpo2Dnl4ukPtsA83g6Ebk5GKxm-I)
 
 (2) [European Commission: She Figures 2015](https://ec.europa.eu/research/swafs/pdf/pub_gender_equality/she_figures_2015-final.pdf). Luxembourg: Publications Office of the European Union, 2016, Print ISBN 978-92-79-48372-1, PDF ISBN 978-92-79-48375-2
