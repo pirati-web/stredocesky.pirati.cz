@@ -8,7 +8,7 @@ title: 'Ošetřovné a infolinky ke koronaviru pro Středočeský kraj'
 description: 'koronavirus'
 author: Piráti SčK
 #authorId: marek.rebicek
-image: posts/2020/Osetrovne.jpg
+image: posts/2020/Osetrovne-2.jpg
 ---
 
 V souvislosti s rozhodnutím vlády o uzavření základních, středních i vysokých škol sdílíme informace pro rodiče dětí mladších než 10 let. Ti mohou čerpat ošetřovné, pokud v důsledku tohoto rozhodnutí musí zůstat doma s dětmi.
