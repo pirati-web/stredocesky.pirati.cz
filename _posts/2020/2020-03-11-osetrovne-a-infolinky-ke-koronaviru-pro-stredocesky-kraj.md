@@ -21,7 +21,7 @@ Jak v tomto případě postupovat?
 
 3) Doručit formulář zaměstnavateli. Ten už pak vyřídí vše potřebné.
 
-Více informací na stránkách České správy sociálního zabezpečení - [Karanténa a ošetřovné: Informace pro rodiče a školská (obdobná) zařízení](https://www.cssz.cz/web/cz/-/karantena-a-osetrovne-informace-pro-rodice-a-skolska-obdobna-zarizeni-)
+Více informací na stránkách České správy sociálního zabezpečení - [Karanténa a ošetřovné: Informace pro rodiče a školská (obdobná) zařízení](https://www.cssz.cz/web/cz/-/karantena-a-osetrovne-informace-pro-rodice-a-skolska-obdobna-zarizeni-).
 
 Pokud jste se vrátili z Itálie, zatelefonujte svému lékaři (případně dětskému lékaři), ten rozhodne o karanténě.
 
