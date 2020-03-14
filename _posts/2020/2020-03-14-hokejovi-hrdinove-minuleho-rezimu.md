@@ -6,8 +6,8 @@ date: 2020-03-14
 tags: komentář
 title: 'Hokejoví hrdinové minulého režimu'
 description: 'komentář'
-author: Mediální odbor
-#authorId: marek.rebicek
+author: Štěpán Drtina
+authorId: stepan.drtina
 image: posts/2020/bubnik.jpg
 ---
 
