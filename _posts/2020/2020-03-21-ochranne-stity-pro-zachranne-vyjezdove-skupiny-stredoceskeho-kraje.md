@@ -4,7 +4,7 @@ layout: post
 date: 2020-03-21
 #published: false
 tags: covid19 ochranné_pomůcky 3Dtisk Středoceská_záchranka
-title: 'Ochranné štíty pro záchranně výjezdové skupiny středočeské kraje'
+title: 'Ochranné štíty pro záchranné výjezdové skupiny Středočeského kraje'
 description: 'covid19, ochranné_pomůcky, 3Dtisk, Středoceská_záchranka'
 author: Piráti SčK
 #authorId: stepan.drtina
