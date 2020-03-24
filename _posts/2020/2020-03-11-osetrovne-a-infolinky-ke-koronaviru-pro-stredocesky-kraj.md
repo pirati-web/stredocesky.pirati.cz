@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-03-11
 #published: false
-tags: koronavirus
+tags: covid19
 title: 'Ošetřovné a infolinky ke koronaviru pro Středočeský kraj'
-description: 'koronavirus'
+description: 'covid19'
 author: Piráti SčK
 #authorId: marek.rebicek
 image: posts/2020/Osetrovne-2.jpg
