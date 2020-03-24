@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-03-19
 #published: false
-tags: tisková_zpráva zdravotnictví koronavirus poslanecká_sněmovna
+tags: tisková_zpráva zdravotnictví covid19 poslanecká_sněmovna
 title: 'Piráti na zdravotním výboru prosadili možnost střídání rodičů během domácího ošetřování'
-description: 'tisková zpráva, zdravotnictví, koronavirus, poslanecká sněmovna'
+description: 'tisková zpráva, zdravotnictví, covid19, poslanecká sněmovna'
 author: Mediální odbor
 #authorId: stepan.drtina
 image: posts/2020/ruce.jpg
