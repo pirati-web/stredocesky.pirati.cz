@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-12-22
 #published: false
-tags: video_podcast Benešov
+tags: video_podcast Benešov životní_prostředí
 title: 'Na palubě s Piráty s Janou Skopalíkovou'
-description: 'video podcast, Benešov'
+description: 'video podcast, Benešov, životní prostředí'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-skopalikova.jpg
