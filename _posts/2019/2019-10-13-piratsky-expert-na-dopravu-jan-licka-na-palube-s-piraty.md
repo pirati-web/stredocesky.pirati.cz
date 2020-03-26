@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-10-13
 #published: false
-tags: video_podcast Benešov
+tags: video_podcast Benešov doprava
 title: 'Pirátský expert na dopravu Jan Lička Na palubě s Piráty'
-description: 'video podcast, Benešov'
+description: 'video podcast, Benešov, doprava'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-licka.jpg
