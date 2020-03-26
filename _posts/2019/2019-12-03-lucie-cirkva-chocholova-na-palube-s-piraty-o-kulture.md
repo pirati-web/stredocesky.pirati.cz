@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-12-03
 #published: false
-tags: video_podcast Kladno
+tags: video_podcast Kladno kultura
 title: 'Lucie Cirkva Chocholová Na palubě s Piráty o kultuře'
-description: 'video podcast, Kladno'
+description: 'video podcast, Kladno, kultura'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-chocholova.jpg
