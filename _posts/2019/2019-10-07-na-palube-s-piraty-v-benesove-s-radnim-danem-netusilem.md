@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-10-07
 #published: false
-tags: video_podcast Benešov
+tags: video_podcast Benešov komunální_politika
 title: 'Na palubě s Piráty v Benešově s radním Danem Netušilem'
-description: 'video podcast, Benešov'
+description: 'video podcast, Benešov, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-netusil.jpg
