@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-12-30
 #published: false
-tags: video_podcast
+tags: video_podcast zdravotnictví
 title: 'Na palubě s Piráty s Petrem Tomášem o zdravotnictví'
-description: 'video podcast'
+description: 'video podcast zdravotnictví'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-tomas.jpg
