@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-08-26
 #published: false
-tags: video_podcast Kutná_Hora
+tags: video_podcast Kutná_Hora komunální_politika
 title: 'Štěpán Drtina, radní Kutné Hory, je hostem Na palubě s Piráty'
-description: 'video podcast, Kutná Hora'
+description: 'video podcast, Kutná Hora, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-drtina.jpg
