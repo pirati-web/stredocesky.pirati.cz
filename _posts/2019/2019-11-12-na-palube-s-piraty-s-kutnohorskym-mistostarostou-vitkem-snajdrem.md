@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-11-12
 #published: false
-tags: video_podcast Kutná_Hora
+tags: video_podcast Kutná_Hora komunální_politika
 title: 'Na palubě s Piráty s kutnohorským mistostarostou Vítkem Šnajdrem'
-description: 'video podcast, Kutná Hora'
+description: 'video podcast, Kutná Hora, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-snajdr.jpg
