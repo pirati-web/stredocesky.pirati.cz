@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-09-02
 #published: false
-tags: video_podcast Příbram
+tags: video_podcast Příbram školství
 title: 'Simona Luftová Na palubě s Piráty: Zajímá mě, jak fungují školy u nás ve městě a jak probíhají výběrová řízení'
-description: 'video podcast, Příbram'
+description: 'video podcast, Příbram, školství'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-luftova.jpg
