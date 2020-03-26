@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-09-17
 #published: false
-tags: video_podcast Příbram
+tags: video_podcast Příbram komunální_politika
 title: 'Na palubě s Piráty: Antonín Tony Schejbal'
-description: 'video podcast, Příbram'
+description: 'video podcast, Příbram, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-schejbal.jpg
