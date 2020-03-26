@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-02-17
 #published: false
-tags: video_podcast Úvaly
+tags: video_podcast Úvaly komunální_politika
 title: 'Jan Černý, zastupitel města Úvaly, Na palubě s Piráty'
-description: 'video podcast, Úvaly'
+description: 'video podcast, Úvaly, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/podcast-cerny.jpg
