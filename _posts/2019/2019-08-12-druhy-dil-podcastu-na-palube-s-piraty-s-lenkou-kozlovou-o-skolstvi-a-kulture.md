@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-08-12
 #published: false
-tags: video_podcast Příbram
+tags: video_podcast Příbram kultura
 title: 'Druhý díl podcastu Na palubě s Piráty s Lenkou Kozlovou o školství a kultuře'
-description: 'video podcast, Příbram'
+description: 'video podcast, Příbram, kultura'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-kozlova.jpg
