@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-01-24
 #published: false
-tags: video_podcast Krnsko
+tags: video_podcast Krnsko komunální_politika
 title: 'Na palubě s Piráty se zastupitelkou obce Krnsko Dominikou Michailidu'
-description: 'video podcast, Krnsko'
+description: 'video podcast, Krnsko, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/podcast-michailidu.jpg
