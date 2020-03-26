@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2019-08-19
 #published: false
-tags: video_podcast Jinočany
+tags: video_podcast Jinočany komunální_politika
 title: 'Na palubě s Piráty s Tomášem Zmudou o Jinočanech'
-description: 'video podcast, Jinočany'
+description: 'video podcast, Jinočany, komunální politika'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2019/podcast-zmuda.jpg
