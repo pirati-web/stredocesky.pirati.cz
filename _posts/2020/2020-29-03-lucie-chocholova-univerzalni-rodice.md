@@ -23,4 +23,4 @@ Někdy se nám podaří zvládnout učivo již za dopoledne, někdy se pokračuj
 
 Při sledování toho množství, které dvě prvostupňové děti spořádají, se uklidňuju tím, že kdo má chuť k jídlu, má chuť i k životu. Okolo půl deváté po půl litru Yerba maté doufám, že dneska bude ten den, kdy významně pohnu s diplomovou prací, kterou mám za měsíc odevzdat – Analýza kultury ve Středočeském kraji. Po třech hodinách a jednom odstavci se smiřuji s tím, že dneska to ten den nebude, tak třeba zítra…  
 
-Chci tímto článkem podpořit všechny rodiče, kteří se ze dne na den stali najednou pedagogy, kuchaři a vychovateli.  Vám nikdo neděkuje, nikdo se vám neklaní, ale ani bez vás by to nešlo¬. Díky! 
+Chci tímto článkem podpořit všechny rodiče, kteří se ze dne na den stali najednou pedagogy, kuchaři a vychovateli.  Vám nikdo neděkuje, nikdo se vám neklaní, ale ani bez vás by to nešlo. Díky! 
