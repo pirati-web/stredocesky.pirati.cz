@@ -17,9 +17,11 @@ Vzhledem k nedostatku jednorázových roušek a aktuální povinnosti nosit mimo
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/s-hsj4gTJPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **Péče o roušku**
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/dFCtLZNiYLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Jak správně nosit a odkládat roušku**
 
