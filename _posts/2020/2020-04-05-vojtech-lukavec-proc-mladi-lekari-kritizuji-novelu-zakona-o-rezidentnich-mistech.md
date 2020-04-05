@@ -14,6 +14,7 @@ image: posts/2020/vojtech-lukavec.jpg
 Novely zákonů znějí někdy ambiciózně, než si uvědomíme, jak extrémní dopad mohou mít na naše životy. Jak jste mohli zaznamenat, tak v meziresortním připomínkovém řízení je novela zákona ve věci financování rezidenčních míst, mezi lékaři vzbudila velký rozruch, a to především těmi mladými. O sepsání krátkého článku jsme požádali našeho spolupracovníka v resortním týmu zdravotnictví, Vojtu Lukavce.
 
 Po jeho přečtení si uvědomíte, že situace mladých lékařů by se touto novelou dost rapidně zhoršila, a tak ve sněmovně budeme tlačit na stažení této novely, nebo její zásadní změnu tak, aby neodrazovala od studia medicíny. Motivace k práci by měly být pokud možno pozitivní než-li restriktivní. Díky Vojto za tvůj komentář!
+
 *Ing. Petr Třešňák, místopředseda výboru pro zdravotnictví, gesční poslanec pro zdravotnictví*
 
 [Společná výzva všech uskupení mladých lékařů ministru zdravortnictví k zastavení novely zákona ve věci financování rezidenčních míst](https://www.mladilekari.cz/2020/spolecna-vyzva-vsech-uskupeni-mladych-lekaru-ministru-zdravotnictvi-k-zastaveni-novely-zakona-95-2004-sb-ve-veci-financovani-rezidencnich-mist/)
