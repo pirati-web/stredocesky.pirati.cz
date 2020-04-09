@@ -58,3 +58,4 @@ Tak jako PR pro vládu jsme už teď dobří. O našich projektech vláda běžn
 
 Když odmyslím od toho, jak jsme štíty zásobovali záchranku, tak se pár věcí najde. Za prvé je zřetelně vidět důležitost informovanosti veřejnosti: nejenom, mít jak  to udělat, ale také to udělat. Určitě mi leží v hlavě vzdělávání: bylo vidět, že některé školy najely na online výuku a třeba brandýskou Záškolu dával za příklad i Forbes či šéfka českého Google. 
 Co se mě dotklo, byla nedostupnost lékařské péče. Mnoho doktorů se bálo ordinovat. Stálo by za to zprovoznit městského online lékaře, jako je třeba ULékaře.cz. Hodně věcí se s lékařem dá vyřídit online, ačkoliv bradavici vám přes net nevyřízne. Zásadní zkušenost, kterou jsme v karanténně udělali: je dobré používat online služby, nezavrhovat je jen proto, že “dříve se to tak nedělalo”.
+
