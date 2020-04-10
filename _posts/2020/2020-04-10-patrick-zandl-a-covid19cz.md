@@ -10,7 +10,6 @@ author: Marek Řebíček
 authorId: marek.rebicek
 image: posts/2020/covid19cz.jpg
 ---
-
 Iniciativa COVID19CZ se rozhodla, že v době pandemie pomůže státu s věcmi, které zoufale postrádal. “Partička ajťáků” rozšířila mezi lidi návody na roušky, zprovoznila infolinku, vyvinula plicní ventilátor a stojí za Chytrou karanténou. Koordinátorem této iniciativy je brandýsko-boleslavský zastupitel Patrick Zandl.
 
 **Patricku, že se u holešovického výrobce 3D tiskáren Průša zabýváš koordinací spuštění nových produktů víme. Ale jak ses ocitl u party COVID19CZ sdružující aktivity od call centra, přes chytrou karanténu až po plicní ventilátory?**
