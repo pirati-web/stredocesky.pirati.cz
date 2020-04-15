@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-06
 #published: false
-tags: video_podcast covid19 roušky
+tags: video_podcast covid19 roušky piráti_pomáhají
 title: 'Jana Skopalíková Na palubě s Piráty nejen o šití roušek'
-description: 'video podcast, covid19, roušky'
+description: 'video podcast, covid19, roušky, piráti pomáhají'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/jana-sk-rousky.png
