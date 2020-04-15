@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-10
 #published: false
-tags: covid-19 rozhovor Brandýs-St.Boleslav piráti_pomáhají
+tags: covid19 rozhovor Brandýs-St.Boleslav piráti_pomáhají
 title: 'Patrick Zandl a COVID19CZ'
-description: 'covid-19, rozhovor, Brandýs-St.Boleslav, piráti pomáhají'
+description: 'covid19, rozhovor, Brandýs-St.Boleslav, piráti pomáhají'
 author: Marek Řebíček
 authorId: marek.rebicek
 image: posts/2020/covid19cz.jpg
