@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-15
 #published: false
-tags: covid-19 roušky piráti_pomáhají kauzy Kladno
+tags: Adéla_Šípová kauzy covid-19 roušky piráti_pomáhají Kladno
 title: 'Piráti vyhodnotili 350 podnětů týkajících se podezřelých e-shopů s rouškami a respirátory. Podávají trestní oznámení'
-description: 'covid-19, roušky, piráti pomáhají, kauzy, Kladno'
+description: 'Adéla Šípová, covid-19, roušky, piráti pomáhají, kauzy, Kladno'
 author: Mediální odbor
 #authorId: marek.rebicek
 image: posts/2020/adela-sipova-1.jpg
