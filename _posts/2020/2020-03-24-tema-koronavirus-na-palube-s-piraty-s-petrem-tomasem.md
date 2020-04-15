@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-03-24
 #published: false
-tags: video_podcast covid19 zdravotnictví
+tags: video_podcast covid19 zdravotnictví piráti_pomáhají
 title: 'Téma koronavirus Na palubě s Piráty s Petrem Tomášem'
-description: 'video podcast, covid19, zdravotnictví'
+description: 'video podcast, covid19, zdravotnictví, piráti pomáhají'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/3D-stity.jpg
