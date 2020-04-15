@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-08
 #published: false
-tags: covid-19 piráti_pomáhají roušky ochranné_pomůcky komunální_politika
+tags: covid19 piráti_pomáhají roušky ochranné_pomůcky komunální_politika
 title: 'Šití roušek i odpuštění nájemného - jak středočeští Piráti pomáhají v době pandemie?'
-description: 'covid-19, piráti pomáhají, roušky, ochranné pomůcky, komunální politika'
+description: 'covid19, piráti pomáhají, roušky, ochranné pomůcky, komunální politika'
 author: Jana Skopalíková
 authorId: jana.skopalikova
 image: posts/2020/covid-pomoc.jpg
