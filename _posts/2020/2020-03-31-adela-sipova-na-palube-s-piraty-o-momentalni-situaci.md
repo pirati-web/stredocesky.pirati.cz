@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-03-31
 #published: false
-tags: video_podcast Kladno covid19
+tags: video_podcast Kladno covid19 piráti_pomáhají
 title: 'Adéla Šípová Na palubě s Piráty o momentální situaci'
-description: 'video podcast, Kladno, covid19'
+description: 'video podcast, Kladno, covid19, piráti pomáhají'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/adela-sipova.jpg
