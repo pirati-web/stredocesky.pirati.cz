@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-13
 #published: false
-tags: video_podcast covid19
+tags: video_podcast covid19 piráti_pomáhají
 title: 'Martin Arden Na palubě s Piráty o Velikonocích, karanténě a charitě'
-description: 'video podcast, covid19'
+description: 'video podcast, covid19, piráti pomáhají'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/martin-arden.jpg
