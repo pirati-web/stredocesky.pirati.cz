@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-16
 #published: false
-tags: František_Kopřiva covid19 sociální_oblast poslanecká_sněmovna
+tags: František_Kopřiva covid19 rodina poslanecká_sněmovna
 title: 'Dovolte vstup cizincům, kteří mají v ČR rodinu, apeluje poslanec František Kopřiva'
-description: 'František Kopřiva, covid19, sociální oblast, poslanecká sněmovna'
+description: 'František Kopřiva, covid19, rodina, poslanecká sněmovna'
 author: Mediální odbor
 #authorId: marek.rebicek
 image: posts/2020/frantisek-kopriva-1.jpg
