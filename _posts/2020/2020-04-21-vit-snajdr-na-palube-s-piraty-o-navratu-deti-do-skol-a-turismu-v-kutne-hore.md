@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-04-21
 #published: false
-tags: video_podcast covid19 piráti_pomáhají
+tags: video_podcast covid19 piráti_pomáhají Kutná_Hora
 title: 'Vít Šnajdr Na palubě s Piráty o návratu dětí do škol a turismu v Kutné Hoře'
-description: 'video podcast, covid19, piráti pomáhají'
+description: 'video podcast, covid19, piráti pomáhají, Kutná Hora'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/vit-snajdr.jpg
