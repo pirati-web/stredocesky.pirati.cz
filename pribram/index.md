@@ -10,11 +10,11 @@ predsednictvo:
  - funkce: předseda
    jmeno: Josef Bouše
  - funkce: 1. místopředseda
-   jmeno: Antonín Schejbal
- - funkce: 2. místopředseda
    jmeno: Simona Luftová
-mandat-do: 14.04.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=696&t=40826
+ - funkce: 2. místopředseda
+   jmeno: Antonín Schejbal
+mandat-do: 18.04.2022
+volba: https://forum.pirati.cz/viewtopic.php?f=696&t=51984
 ---
 {% asset 'ms/pribram/uvodni-small.jpg' alt='úvodní banner' %}
 
