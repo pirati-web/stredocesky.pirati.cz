@@ -32,3 +32,5 @@ V tuto chvíli nikdo nezpracoval žádný předvolební průzkum, proto jakékol
 **Jste jako lídr kandidátky připravený ucházet se i o post hejtmana?**
 
 Jsem připravený dělat politiku založenou na výsledcích a datech, politiku, která hledí i do budoucna a nenechává po sobě doslova vyschlou poušť, politiku, která podpoří zvyšování životní úrovně Středočechů. Proto je pro mne logicky to, kdo bude středočeským hejtmanem důležité, ale na této funkci osobně nelpím.
+
+
