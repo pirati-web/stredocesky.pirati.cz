@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2020-04-24
 #published: false
-tags: komentář, poslanecká_sněmovna, autorská_práva, kultura
+tags: komentář poslanecká_sněmovna autorská_práva kultura
 title: 'Lenka Kozlová: Odmítáme kvóty za český repertoár v lokálních médiích'
 description: 'komentář, poslanecká sněmovna, autorská práva, kulutura'
 author: Lenka Kozlová
