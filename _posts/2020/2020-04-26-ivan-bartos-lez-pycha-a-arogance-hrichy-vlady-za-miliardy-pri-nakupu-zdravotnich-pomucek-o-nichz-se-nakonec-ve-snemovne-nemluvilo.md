@@ -88,3 +88,5 @@ Dle mého skromného názoru jsou v případě Ministerstva zdravotnictví ve h�
 * Tyto nákupy se děly s vědomím lidí, kteří za nákupy byli zodpovědní s vědomím ministra Adama Vojtěcha. Toto vysvětlení je dle mého názoru ještě horší.
 
 **S ohledem na to, že prezident Nejvyššího kontrolního úřadu Miloslav Kala avizoval zájem podrobně vyhodnotit tyto nákupy, připravuje Analytický tým Pirátů podnět pro NKÚ, který bude odeslán v nejbližší době. Děkuji za pozornost.**
+
+
