@@ -8,7 +8,7 @@ title: 'Piráti podpořili Zelenou dohodu pro Evropu, považují ji za jedinečn
 description: 'evropská unie, životní prostředí'
 author: Mediální odbor
 #authorId: ivan.bartos
-image: posts/2020/frantisek-kopriva.jpg.jpg
+image: posts/2020/frantisek-kopriva.jpg
 ---
 
 Praha, 29. dubna 2020 – Výbor pro evropské záležitosti dnes projednal první balík dokumentů souvisejících se Zelenou dohodou pro Evropu ([European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_cs)); vedle samotné Dohody, která má formu tzv. sdělení, projednal i dvě nařízení – Evropský právní rámec pro klima a Investiční plán Zelené dohody pro Evropu. Výbor nakonec i díky tlaku Pirátů nepřijal k návrhu Evropského právního rámce pro klima vyloženě zamítavé stanovisko navržené poslancem ODS Janem Zahradníkem, nepřijal však ani konstruktivní připomínky, které navrhoval poslanec Kopřiva. Výbor též projednával ilegální rozšíření těžby v hnědouhelném dole Turów, které představuje ohrožení pro občany a životní prostředí v Libereckém kraji. 
