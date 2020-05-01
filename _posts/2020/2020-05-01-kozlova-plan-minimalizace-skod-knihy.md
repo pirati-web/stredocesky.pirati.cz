@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-05-01
 #published: false
-tags: covid19 kultura finance
+tags: covid19 kultura finance komentář
 title: 'Komentář Lenky Kozlové: Máme plán, jak minimalizovat škody na trhu s knihami'
-description: 'covid19, kultura, finance'
+description: 'covid19, kultura, finance, komentář'
 author: Lenka Kozlová
 authorId: lenka.kozlova
 image: posts/2020/pirati_info_knizni_trh.png
