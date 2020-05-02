@@ -6,8 +6,8 @@ date: 2020-05-02
 tags: covid19 roušky
 title: 'Bavlněnou nebo chirurgickou? To je, oč tu běží'
 description: 'covid19, roušky'
-author: Lenka Kozlová
-authorId: lenka.kozlova
+author: Mediální odbor
+#authorId: lenka.kozlova
 image: posts/2020/rouska.jpg
 ---
 
