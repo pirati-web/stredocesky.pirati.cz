@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2020-04-30
 #published: false
-tags: evropská-unie životní-prostředí
+tags: evropská_unie životní_prostředí
 title: 'Piráti podpořili Zelenou dohodu pro Evropu, považují ji za jedinečnou příležitost pro českou ekonomiku'
 description: 'evropská unie, životní prostředí'
 author: Mediální odbor
