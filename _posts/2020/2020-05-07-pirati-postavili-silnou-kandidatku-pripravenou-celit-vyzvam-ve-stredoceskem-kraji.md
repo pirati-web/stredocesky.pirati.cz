@@ -109,7 +109,7 @@ Kompletní kandidátní listina:
 
 45. Radek Černohous, obchodní zástupce
 
-46. MUDr. Petr Čáp, zubní lékař
+46. MDDr. Petr Čáp, zubní lékař
 
 47. Ing. Naděžda Hamplová, podniková ekoložka
 
