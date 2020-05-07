@@ -61,7 +61,7 @@ Kompletní kandidátní listina:
 
 21. Bc. Štěpán Drtina, asistent poslance, radní města Kutná Hora
 
-22. Ing. Vojtěch Ertl, architekt
+22. Ing. arch. Vojtěch Ertl, architekt
 
 23. Ing. Michal Hažlinský, network architekt
 
