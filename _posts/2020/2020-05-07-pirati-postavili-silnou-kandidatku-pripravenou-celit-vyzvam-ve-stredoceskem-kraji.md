@@ -101,7 +101,7 @@ Kompletní kandidátní listina:
 
 41. Ing. Svatopluk Boček, manažer, chemik
 
-42. Jan Korbel, správce linuxových serverů
+42. Jan Korbel, síťový inženýr
 
 43. Ing. Martin Martin, inženýr akustiky
 
