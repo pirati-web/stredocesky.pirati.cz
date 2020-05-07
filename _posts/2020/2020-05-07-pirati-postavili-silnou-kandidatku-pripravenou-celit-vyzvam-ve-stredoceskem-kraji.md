@@ -33,7 +33,7 @@ Kompletní kandidátní listina:
 
 7. Mgr. Adéla Šípová, advokátka
 
-8. Bc. Lucie Chocholová, muzejní edukátorka a výstavářka
+8. Bc. Lucie Cirkva Chocholová, muzejní edukátorka a výstavářka
 
 9. Milan Zelený, student ergoterapie
 
@@ -67,7 +67,7 @@ Kompletní kandidátní listina:
 
 24. Mgr. Ing. Jiří Lehejček, Ph.D., polární ekolog
 
-25. Mgr. Václav Kubaljak, pedagog
+25. Bc. Václav Kubaljak, pedagog
 
 26. Jan Prokop, IT specialista
 
