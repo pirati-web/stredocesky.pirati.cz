@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitel - Úvaly
+description: zastupitel - Úvaly, zvolen za PRO Úvaly
 img: people/jan-cerny.jpg
 mail:
   - jan.cerny@pirati.cz
