@@ -83,7 +83,7 @@ Kompletní kandidátní listina:
 
 32. Marek Řebíček, ředitel dřevařské společnosti
 
-33. Mgr. Zdeněk Lajbner, RNDr., Ph.D., vědecký pracovník
+33. RNDr. Zdeněk Lajbner, Ph.D., vědecký pracovník
 
 34. David Hösl, správce e-shopů a prodejen se sportovním vybavením
 
