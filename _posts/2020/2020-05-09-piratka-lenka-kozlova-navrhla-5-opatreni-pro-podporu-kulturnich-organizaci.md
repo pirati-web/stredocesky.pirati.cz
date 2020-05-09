@@ -6,8 +6,8 @@ date: 2020-05-09
 tags: covid19 kultura poslanecká_sněmovna
 title: 'Pirátka Lenka Kozlová navrhla 5 opatření pro podporu kulturních organizací'
 description: 'covid19, kultura, poslanecká sněmovna'
-author: Mediální odbor
-#authorId: lenka.kozlova
+author: Lenka Kozlová
+authorId: lenka.kozlova
 image: posts/2020/lenka-kozlova.jpg
 ---
 
@@ -40,7 +40,7 @@ V současné době neexistuje pro “malé hráče” možnost, jak efektivně v
 * Většina oslovených institucí šetří na mzdách (převážně DPP a umělci na volné noze), tím se ale výrazně zhoršuje osobní situace právě těchto pro kulturu nepostradatelných pracovníků a umělců. 
 
 * Větší část oslovených se obává, že dojde k výraznému snížení návštěvnosti i po znovuotevření, menší část doufá, že vzhledem k nemožnosti vycestovat se návštěvnost zvedne, protože lidé budou vyhledávat jiné formy zábavy než cestování.
-* Dále je zřejmé, že krize se nejvíce se dotýká nezávislých subjektů bez vlastního zřizovatele. Až 70% institucí spoléhá na na pomoc státu, kraje či obce, cca 20% spoléhá sama na sebe a pouhých 6% si myslí, že jim z krize pomůže následná návštěvnost.
+* Dále je zřejmé, že krize se nejvíce se dotýká nezávislých subjektů bez vlastního zřizovatele. Až 70 % institucí spoléhá na na pomoc státu, kraje či obce, cca 20 % spoléhá sama na sebe a pouhých 6 % si myslí, že jim z krize pomůže následná návštěvnost.
 * Z odpovědí dotazovaných jednoznačně vyplývají velké obavy o budoucnost a další směřování jak konkrétních institucí, tak celého kulturní scény u nás.
 
 **Protože z většiny odpovědí jsou cítit existenční obavy i obavy z propouštění zaměstnanců, napsala jsem dopis ministru kultury Lubomíru Zaorálkovi, ve kterém navrhuji tato možná opatření na zmírnění dopadů koronavirové epidemie na kulturní sektor:**
