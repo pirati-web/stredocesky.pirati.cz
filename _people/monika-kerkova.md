@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - zastupitel
-description: zastupitelka - Ohrobec
+description: zastupitelka - Ohrobec, zvolena za OHROBEC LIDEM
 img: people/monika-kerkova.jpg
 mail:
   - monika.kerkova@pirati.cz
