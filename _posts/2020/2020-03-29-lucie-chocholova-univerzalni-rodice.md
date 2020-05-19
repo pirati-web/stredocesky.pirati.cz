@@ -4,9 +4,9 @@ layout: post
 date: 2020-03-29
 #published: false
 tags: covid19 komentář
-title: 'Lucie Chocholová: Univerzální rodiče'
+title: 'Lucie Cirkva Chocholová: Univerzální rodiče'
 description: 'covid19, komentář'
-author: Lucie Chocholová
+author: Lucie Cirkva Chocholová
 #authorId: stepan.drtina
 image: posts/2020/lucie.jpg
 ---
