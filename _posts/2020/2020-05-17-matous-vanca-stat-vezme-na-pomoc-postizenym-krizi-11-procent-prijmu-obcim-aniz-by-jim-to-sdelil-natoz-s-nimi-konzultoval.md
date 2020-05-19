@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-05-18
+date: 2020-05-17
 #published: false
 tags: komunální_politika komentář
 title: 'Matouš Vanča: Stát vezme na pomoc postiženým krizí 11 % příjmů obcím, aniž by jim to sdělil, natož s nimi konzultoval'
