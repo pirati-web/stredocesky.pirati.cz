@@ -25,3 +25,4 @@ Ve výsledku na tuto situaci a přetahování o vliv jen doplácejí občané St
 
 Integraci celého kraje je potřeba dokončit co nejdříve, ale současně kvalitně. I s perfektním a zkušeným týmem projektantů je to náročný úkol, a nedá se zcela uspěchat. V odlehlejších částech kraje je navíc velmi špatná nabídka dopravy, často neexistuje spojení o víkendech a spoje nejsou vzájemně provázány, také tarif je částečně nepřestupní a nezahrnuje vlaky. To vše má integrace kvalitně vyřešit. A kvalifikací není politický názor a působení u jednoho z dopravců, nýbrž vzdělání a zkušenost s řešením dopravy.
 
+*Foto: Rudolf Žák*
