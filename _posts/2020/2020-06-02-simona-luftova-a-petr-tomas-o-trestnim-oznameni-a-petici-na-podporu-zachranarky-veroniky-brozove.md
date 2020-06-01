@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-06-02
+date: 2020-06-01
 #published: false
 tags: video_podcast covid19 zdravotnictví
 title: 'Simona Luftová a Petr Tomáš Na palubě s Piráty o trestním oznámení a petici na podporu záchranářky Veroniky Brožové'
