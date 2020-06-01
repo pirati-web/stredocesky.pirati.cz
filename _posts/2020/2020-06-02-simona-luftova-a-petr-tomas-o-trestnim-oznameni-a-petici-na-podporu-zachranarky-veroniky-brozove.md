@@ -23,7 +23,7 @@ Piráti vyzvali hejtmanku, aby nezneužívala trestní řád k šikaně svých z
 
 K podpoře záchranářky se připojili i prezident Komory záchranářů ZZS ČR a prezident České lékařské komory.
 
-Hejtmanka se na včerejším tiskovém briefingu pokusila mistrnými manipulacemi zbavit zodpovědnosti za podání trestního oznámení, které korunovala projeveným zájem podepsat petici, která je namířena právě proti jejímu trestnímu oznámení. Smělý, přesto značně laciný pokus. 👎
+Hejtmanka se na dnešním ranním tiskovém briefingu pokusila mistrnými manipulacemi zbavit zodpovědnosti za podání trestního oznámení, které korunovala projeveným zájem podepsat petici, která je namířena právě proti jejímu trestnímu oznámení. Smělý, přesto značně laciný pokus. 👎
 
 [Podpořte i vy Veroniku Brožovou.](https://www.petice.com/nesouhlasime_s_trestnim_oznamenim_na_zdravotni_sestru_pani_veroniku_broovouokovou?)
 
