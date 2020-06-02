@@ -4,7 +4,7 @@ layout: post
 date: 2020-06-02
 #published: false
 tags: EU životní_prostředí
-title: 'Farm to Fork Strategy – blízké výzvy pro evropské zemědělce a krajinu'
+title: 'Z pole na vidličku – blízké výzvy pro evropské zemědělce a krajinu'
 description: 'EU, životní prostředí'
 author: Jiří Lehejček
 #authorId: antonin.schejbal
