@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-05-29
 #published: false
-tags: krajská_politika zdravotnictví tisková_zpráva
+tags: krajská_politika zdravotnictví tisková_zpráva kauzy
 title: 'Středočeští Piráti založili petici na podporu záchranářky Veroniky Brožové'
-description: 'krajská politika, zdravotnictví, tisková zpráva'
+description: 'krajská politika, zdravotnictví, tisková zpráva, kauzy'
 author: Mediální odbor
 #authorId: stepan.drtina
 image: posts/2020/ochranne-pomucky.jpg
