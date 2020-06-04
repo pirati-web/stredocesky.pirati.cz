@@ -8,7 +8,7 @@ category:
   - dalsi
   - kontaktni_osoba
 description: PR manager a kontakt pro média
-ordDalsi: 2
+ordDalsi: 4
 img: people/_man.png
 mail:
   - ondrej.petr@pirati.cz
