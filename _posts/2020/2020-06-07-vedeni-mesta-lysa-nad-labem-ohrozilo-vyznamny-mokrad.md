@@ -16,4 +16,3 @@ Odborníci se s ministerstvem životního prostředí shodli, že se jedná o mo
 
 Na místě se byla včera podívat předsedkyně pirátského krajského expertního týmu pro životní prostředí a zemědělství Dominika Michailidu, která pořídila i fotodokumentaci a video. Jsme také v kontaktu s místními obyvateli a problematikou se budeme i nadále zabývat. Sucho je pro nás důležité téma jak na kraji, tak celostátně, a proto Sucho řešíme teď!
 
-Co si myslíte o dané problematice vy? 
