@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-06-10
+date: 2020-06-09
 #published: false
 tags: krajská_politika zdraotnictví
 title: 'Hejtmanka Jermanová se ráda podepisuje'
