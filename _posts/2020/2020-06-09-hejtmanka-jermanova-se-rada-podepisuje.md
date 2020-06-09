@@ -8,7 +8,7 @@ title: 'Hejtmanka Jermanová se ráda podepisuje'
 description: 'krajská politika, zdravotnictví'
 author: Ondřej Klimeš
 #authorId: jana.skopalikova
-image: posts/2020/jermanova.jpg
+image: posts/2020/hejtmanka.jpg
 ---
 
 Když na začátku června středočeská hejtmanka Jaroslava Pokorná Jermanová (a také místopředsedkyně ANO – na to by se nemělo zapomínat) na tiskové konferenci prohlásila, že by klidně podepsala petici Pirátů na podporu záchranářky Brožové, vypadalo to jako špatný vtip. Nyní se ale ukazuje, že hejtmanka už Veronice Brožové něco podepsala. Konkrétně trestní oznámení, proti kterému naše petice směřovala. Zdá se vám to zamotané a neuvěřitelné? Gratulujeme, pochopili jste to správně.
