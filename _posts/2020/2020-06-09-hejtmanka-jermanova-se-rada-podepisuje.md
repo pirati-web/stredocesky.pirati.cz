@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2020-06-09
 #published: false
-tags: krajská_politika zdraotnictví
+tags: krajská_politika zdravotnictví
 title: 'Hejtmanka Jermanová se ráda podepisuje'
 description: 'krajská politika, zdravotnictví'
 author: Ondřej Klimeš
