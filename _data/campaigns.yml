@@ -8,5 +8,9 @@
       categoryUid: 2018-komunalky-kolin
     - title: Kutná Hora
       categoryUid: 2018-komunalky-kutna_hora
-#    - title: Senát
-#     categoryUid: senat
+- groupUid: 2020-krajske  # identifier of the group, to be used in program point
+  title: Krajské volby 2020     # title of the campaign group
+  campaigns:
+    - title: Program pro Středočeský kraj
+      categoryUid: 2020-krajske
+
