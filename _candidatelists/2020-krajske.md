@@ -124,17 +124,17 @@ tail: # zbytek kandidatky
     party: člen Pirátské strany
     description: description
 # 20.
-  - name: Petr Procházka
+  - name: Ing. Monika Keřková, MPA
     age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
-    party: člen Pirátské strany
-    description: description
+    profession: konzultantka
+    party: členka Pirátské strany
+    description: zastupitelka obce Ohrobec
 # 21.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Bc. Štěpán Drtina
+    age: 26
+    profession: asistent poslance
     party: člen Pirátské strany
-    description: description
+    description: radní města Kutná Hora
 # 22.
   - name: Ing. Jan Lička
     age: 40
