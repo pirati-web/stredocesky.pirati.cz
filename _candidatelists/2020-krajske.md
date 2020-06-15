@@ -40,6 +40,30 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: projektový manažer
     party: člen Pirátské strany
     description: zastupitel obce Jinočany
+# 7.
+  - uid: adela.sipova
+    age: 40
+    profession: advokátka
+    party: nezavislá kandidátka
+    description:
+# 8.
+  - uid: lucie.chocholova
+    age: 41
+    profession: muzejní edukátorka a výstavářka
+    party: člen Pirátské strany
+    description: description
+# 9.
+  - uid: milan.zeleny
+    age: 21
+    profession: student ergoterapie
+    party: člen Pirátské strany
+    description: description
+# 10.
+  - uid: petr.tomas
+    age: 45
+    profession: zdravotnický specialista, školitel
+    party: nezávislý kandidát
+    description: description
 
 
 tail: # zbytek kandidatky
