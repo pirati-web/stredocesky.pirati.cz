@@ -136,45 +136,45 @@ tail: # zbytek kandidatky
     party: člen Pirátské strany
     description: radní města Kutná Hora
 # 22.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Ing. arch. Vojtěch Ertl
+    age: 34
+    profession: architekt
     party: člen Pirátské strany
     description: description
 # 23.
-  - name: Petr Procházka
-    age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
+  - name: Ing. Michal Hažlinský
+    age: 32
+    profession: network architekt
     party: člen Pirátské strany
     description: description
 # 24.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Mgr. Ing. Jiří Lehejček, Ph.D.
+    age: 35
+    profession: polární ekolog
     party: člen Pirátské strany
     description: description
 # 25.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Bc. Václav Kubaljak
+    age: 25
+    profession: pedagog
     party: člen Pirátské strany
     description: description
 # 26.
-  - name: Petr Procházka
+  - name: Jan Prokop
     age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
+    profession: IT specialista
     party: člen Pirátské strany
     description: description
 # 27.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Bc. Jan Trnka
+    age: 34
+    profession: vedoucí letecké údržby
     party: člen Pirátské strany
     description: description
 # 28.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Bc. Jan Čáha, DiS
+    age: 33
+    profession: zdravotnický záchranář
     party: člen Pirátské strany
     description: description
 
