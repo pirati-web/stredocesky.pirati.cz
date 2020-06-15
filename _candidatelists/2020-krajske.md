@@ -112,15 +112,15 @@ tail: # zbytek kandidatky
     party: nezávislý kandidát
     description: předseda Fóra rodičů
 # 18.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Tomáš Lénárd
+    age: 35
+    profession: živnostník v oboru audiovizuální produkce
     party: člen Pirátské strany
     description: description
 # 19.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Magdaléna Vilímovská
+    age: 20
+    profession: studentka humanitní vzdělanosti
     party: člen Pirátské strany
     description: description
 # 20.
