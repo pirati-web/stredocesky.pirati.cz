@@ -179,7 +179,8 @@ tail: # zbytek kandidatky
     description: description
 
 
-note: # poznámka pod kanidátku
+note: 
+# poznámka pod kanidátku
 Náhradníci
 
 Ing. Mgr. Mirek Dvořák, manažer
