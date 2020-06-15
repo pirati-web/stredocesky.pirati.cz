@@ -94,23 +94,23 @@ tail: # zbytek kandidatky
     party: člen Pirátské strany
     description: description
 # 15.
-  - name: Ing. Jan Lička
+  - name: Ing. Martin Suchánek
     age: 40
-    profession: logistik skladového hospodářství
-    party: člen Pirátské strany
+    profession: tajemník městského úřadu Poděbrady
+    party: nezávislý kandidát
     description: description
 # 16.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Vojtěch Lukavec
+    age: 23
+    profession: student všeobecného lékařství na 1. LF UK
     party: člen Pirátské strany
     description: description
 # 17.
-  - name: Petr Procházka
+  - name: Mgr. Petr Chaluš
     age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
-    party: člen Pirátské strany
-    description: description
+    profession: pedagog
+    party: nezávislý kandidát
+    description: předseda Fóra rodičů
 # 18.
   - name: Ing. Jan Lička
     age: 40
