@@ -82,15 +82,15 @@ tail: # zbytek kandidatky
     party: člen Pirátské strany
     description: description
 # 13.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+  - name: Antonín Schejbal
+    age: 21
+    profession: student managementu sportu
     party: člen Pirátské strany
-    description: description
+    description: zastupitel města Příbram
 # 14.
-  - name: Petr Procházka
+  - name: Milan Krch
     age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
+    profession: IT specialista
     party: člen Pirátské strany
     description: description
 # 15.
