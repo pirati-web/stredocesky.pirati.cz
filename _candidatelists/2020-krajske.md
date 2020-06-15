@@ -81,8 +81,115 @@ tail: # zbytek kandidatky
     profession: logistik skladového hospodářství
     party: člen Pirátské strany
     description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
 
 
 note: # poznámka pod kanidátku
+Náhradníci
+
+Ing. Mgr. Mirek Dvořák, manažer
+
+Radek Hampl, personalista
+
+Bc. Darina Černá, sociální pracovnice, vychovatelka
+
+Mgr. Kristýna Holubová, referentka krajinotvorby a pozemkové správy
+
+Ing. Karolina Gyurovszka, doktorandka v oboru Evropské právo
 
 ---
