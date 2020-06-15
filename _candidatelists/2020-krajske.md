@@ -183,16 +183,16 @@ tail: # zbytek kandidatky
     profession: tajemník poslaneckého klubu Pirátů
     party: člen Pirátské strany
     description: zastupitel obce Čestlice
-# 11.
-  - name: Petr Procházka
-    age: 35
-    profession: vedoucí dispečer nákladní vlakové dopravy
+# 30.
+  - name: Jaroslav Pros
+    age: 33
+    profession: hlavní kontrolor přepravy ČD
     party: člen Pirátské strany
     description: description
-# 12.
-  - name: Ing. Jan Lička
-    age: 40
-    profession: logistik skladového hospodářství
+# 31.
+  - name: Josef Bouše
+    age: 21
+    profession: IT specialista
     party: člen Pirátské strany
     description: description
 # 13.
