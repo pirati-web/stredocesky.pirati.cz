@@ -177,7 +177,126 @@ tail: # zbytek kandidatky
     profession: zdravotnický záchranář
     party: člen Pirátské strany
     description: description
-
+# 29.
+  - name: Mgr. Bc. et Bc. Matouš Vanča
+    age: 33
+    profession: tajemník poslaneckého klubu Pirátů
+    party: člen Pirátské strany
+    description: zastupitel obce Čestlice
+# 11.
+  - name: Petr Procházka
+    age: 35
+    profession: vedoucí dispečer nákladní vlakové dopravy
+    party: člen Pirátské strany
+    description: description
+# 12.
+  - name: Ing. Jan Lička
+    age: 40
+    profession: logistik skladového hospodářství
+    party: člen Pirátské strany
+    description: description
+# 13.
+  - name: Antonín Schejbal
+    age: 21
+    profession: student managementu sportu
+    party: člen Pirátské strany
+    description: zastupitel města Příbram
+# 14.
+  - name: Milan Krch
+    age: 35
+    profession: IT specialista
+    party: člen Pirátské strany
+    description: description
+# 15.
+  - name: Ing. Martin Suchánek
+    age: 40
+    profession: tajemník městského úřadu Poděbrady
+    party: nezávislý kandidát
+    description: description
+# 16.
+  - name: Vojtěch Lukavec
+    age: 23
+    profession: student všeobecného lékařství na 1. LF UK
+    party: člen Pirátské strany
+    description: description
+# 17.
+  - name: Mgr. Petr Chaluš
+    age: 35
+    profession: pedagog
+    party: nezávislý kandidát
+    description: předseda Fóra rodičů
+# 18.
+  - name: Tomáš Lénárd
+    age: 35
+    profession: živnostník v oboru audiovizuální produkce
+    party: člen Pirátské strany
+    description: description
+# 19.
+  - name: Magdaléna Vilímovská
+    age: 20
+    profession: studentka humanitní vzdělanosti
+    party: člen Pirátské strany
+    description: description
+# 20.
+  - name: Ing. Monika Keřková, MPA
+    age: 35
+    profession: konzultantka
+    party: členka Pirátské strany
+    description: zastupitelka obce Ohrobec
+# 21.
+  - name: Bc. Štěpán Drtina
+    age: 26
+    profession: asistent poslance
+    party: člen Pirátské strany
+    description: radní města Kutná Hora
+# 22.
+  - name: Ing. arch. Vojtěch Ertl
+    age: 34
+    profession: architekt
+    party: člen Pirátské strany
+    description: description
+# 23.
+  - name: Ing. Michal Hažlinský
+    age: 32
+    profession: network architekt
+    party: člen Pirátské strany
+    description: description
+# 24.
+  - name: Mgr. Ing. Jiří Lehejček, Ph.D.
+    age: 35
+    profession: polární ekolog
+    party: člen Pirátské strany
+    description: description
+# 25.
+  - name: Bc. Václav Kubaljak
+    age: 25
+    profession: pedagog
+    party: člen Pirátské strany
+    description: description
+# 26.
+  - name: Jan Prokop
+    age: 35
+    profession: IT specialista
+    party: člen Pirátské strany
+    description: description
+# 27.
+  - name: Bc. Jan Trnka
+    age: 34
+    profession: vedoucí letecké údržby
+    party: člen Pirátské strany
+    description: description
+# 28.
+  - name: Bc. Jan Čáha, DiS
+    age: 33
+    profession: zdravotnický záchranář
+    party: člen Pirátské strany
+    description: description
+# 28.
+  - name: Bc. Jan Čáha, DiS
+    age: 33
+    profession: zdravotnický záchranář
+    party: člen Pirátské strany
+    description: description
 
 note: 
 # poznámka pod kanidátku
