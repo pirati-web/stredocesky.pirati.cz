@@ -4,7 +4,7 @@ uid: 2020-krajske
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jiri.snizek
-  age: 99
+  age: 31
   profession: školitel SW pro veřejnou správu
   party: člen Pirátské strany
   description: lídr krajské kandidátky
