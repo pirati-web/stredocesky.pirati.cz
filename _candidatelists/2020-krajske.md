@@ -34,6 +34,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: ekonomka
     party: člen Pirátské strany
     description: description
+# 6.
+  - uid: tomas.zmuda
+    age: 32
+    profession: projektový manažer
+    party: člen Pirátské strany
+    description: zastupitel obce Jinočany
 
 
 tail: # zbytek kandidatky
