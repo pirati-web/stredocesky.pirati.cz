@@ -213,18 +213,18 @@ tail: # zbytek kandidatky
     profession: správce e-shopů a prodejen se sportovním vybavením
     party: člen Pirátské strany
     description: description
-# 16.
-  - name: Vojtěch Lukavec
-    age: 23
-    profession: student všeobecného lékařství na 1. LF UK
-    party: člen Pirátské strany
-    description: description
-# 17.
-  - name: Mgr. Petr Chaluš
-    age: 35
-    profession: pedagog
+# 35.
+  - name: Bc. Pavel Šanda
+    age: 40
+    profession: soukromý učitel, radiační fyzik
     party: nezávislý kandidát
-    description: předseda Fóra rodičů
+    description: zastupitel města Neratovice
+# 36.
+  - name: Michal Trešl
+    age: 27
+    profession: umělecký kovář
+    party: člen Pirátské strany
+    description: zastupitel města Černošice
 # 18.
   - name: Tomáš Lénárd
     age: 35
