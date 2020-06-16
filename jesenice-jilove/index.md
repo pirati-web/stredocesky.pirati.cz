@@ -65,3 +65,7 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 {% asset 'ms/jesenice-jilove/kerkova-400px.jpg' alt='Monika Keřková' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Monika Keřková** (* 29. srpna 1985) je od září 2019 členkou krajského sdružení Středočeský kraj České pirátské strany. Narodila se v Příbrami, ale většinu svého dětství prožila na Dobříši. Nyní žije v Ohrobci na Praze - západ, kde byla již podruhé zvolena do zastupitelstva obce a v minulém volebním období byla též členkou rady obce a finančního výboru. Více <a href="{{ 'lide/monika-kerkova' | relative_url }}">zde</a>.
 </div>
 
+<div markdown="1" class="c-profile-badge">
+{% asset 'ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Mirek Dvořák** (* 24. března 1972) je členem Pirátů od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.
+</div>
+
