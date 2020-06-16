@@ -291,12 +291,12 @@ tail: # zbytek kandidatky
     profession: zdravotnický záchranář
     party: člen Pirátské strany
     description: description
-# 28.
-  - name: Bc. Jan Čáha, DiS
-    age: 33
-    profession: zdravotnický záchranář
+# 29.
+  - name: Mgr. Bc. et Bc. Matouš Vanča
+    age: 32
+    profession: tajemník poslaneckého klubu Pirátů
     party: člen Pirátské strany
-    description: description
+    description: zastupitel obce Čestlice
 
 note: 
 # poznámka pod kanidátku
