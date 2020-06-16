@@ -195,23 +195,23 @@ tail: # zbytek kandidatky
     profession: IT specialista
     party: člen Pirátské strany
     description: description
-# 13.
-  - name: Antonín Schejbal
-    age: 21
-    profession: student managementu sportu
+# 32.
+  - name: Marek Řebíček
+    age: 42
+    profession: ředitel dřevařské společnosti
     party: člen Pirátské strany
-    description: zastupitel města Příbram
-# 14.
-  - name: Milan Krch
-    age: 35
-    profession: IT specialista
+    description: zastupitel města Brandýs nad Labem-Stará Boleslav
+# 33.
+  - name: RNDr. Zdeněk Lajbner, Ph.D.
+    age: 45
+    profession: vědecký pracovník
     party: člen Pirátské strany
     description: description
-# 15.
-  - name: Ing. Martin Suchánek
-    age: 40
-    profession: tajemník městského úřadu Poděbrady
-    party: nezávislý kandidát
+# 34.
+  - name: David Hösl
+    age: 28
+    profession: správce e-shopů a prodejen se sportovním vybavením
+    party: člen Pirátské strany
     description: description
 # 16.
   - name: Vojtěch Lukavec
