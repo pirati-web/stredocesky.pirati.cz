@@ -237,66 +237,180 @@ tail: # zbytek kandidatky
     profession: politolog
     party: nezávislý kandidát
     description: description
-# 20.
-  - name: Ing. Monika Keřková, MPA
-    age: 35
-    profession: konzultantka
-    party: členka Pirátské strany
+# 39.
+  - name: Ing. Markéta Šedivá
+    age: 38
+    profession: projektantka pozemních staveb
+    party: nezávislá kandidátka
     description: zastupitelka obce Ohrobec
-# 21.
-  - name: Bc. Štěpán Drtina
+# 40.
+  - name: Bc. Sámir Shanaáh
     age: 26
-    profession: asistent poslance
-    party: člen Pirátské strany
-    description: radní města Kutná Hora
-# 22.
-  - name: Ing. arch. Vojtěch Ertl
-    age: 34
-    profession: architekt
+    profession: koordinátor individuálního fundraisingu, obchodní manažer
     party: člen Pirátské strany
     description: description
-# 23.
-  - name: Ing. Michal Hažlinský
-    age: 32
-    profession: network architekt
+# 41.
+  - name: Ing. Svatopluk Boček
+    age: 40
+    profession: manažer, chemik
     party: člen Pirátské strany
     description: description
-# 24.
-  - name: Mgr. Ing. Jiří Lehejček, Ph.D.
+# 42.
+  - name: Jan Korbel
+    age: 38
+    profession: síťový inženýr
+    party: člen Pirátské strany
+    description: description
+# 43.
+  - name: Ing. Martin Martin
     age: 35
-    profession: polární ekolog
+    profession: předseda České sekce Audio Engineering Society
     party: člen Pirátské strany
     description: description
-# 25.
-  - name: Bc. Václav Kubaljak
-    age: 25
-    profession: pedagog
+# 44.
+  - name: Jakub Václavovič
+    age: 27
+    profession: pedagog, propagátor sebeřízeného vzdělávání
     party: člen Pirátské strany
     description: description
-# 26.
-  - name: Jan Prokop
-    age: 35
-    profession: IT specialista
+# 45.
+  - name: Radek Černohous
+    age: 52
+    profession: obchodní zástupce
     party: člen Pirátské strany
     description: description
-# 27.
-  - name: Bc. Jan Trnka
+# 46.
+  - name: MDDr. Petr Čáp
     age: 34
-    profession: vedoucí letecké údržby
+    profession: zubní lékař
     party: člen Pirátské strany
     description: description
-# 28.
-  - name: Bc. Jan Čáha, DiS
-    age: 33
-    profession: zdravotnický záchranář
+# 47.
+  - name: Ing. Naděžda Hamplová
+    age: 44
+    profession: podniková ekoložka
+    party: nezávislá kandidátka
+    description: description
+# 48.
+  - name: Miroslava Petráňová
+    age: 42
+    profession: účetní
+    party: nezávislá kandidátka
+    description: description
+# 49.
+  - name: Roman Morávek
+    age: 44
+    profession: ekonom
     party: člen Pirátské strany
     description: description
-# 29.
-  - name: Mgr. Bc. et Bc. Matouš Vanča
-    age: 32
-    profession: tajemník poslaneckého klubu Pirátů
+# 50.
+  - name: RNDr. Petr Petřík, Ph.D.
+    age: 43
+    profession: vědecký pracovník, šéfredaktor odborného časopisu Botanika
+    party: nezávislý kandidát
+    description: description
+# 51.
+  - name: Patrick Zandl
+    age: 45
+    profession: IT specialista, publicista, spoluzakladatel iniciativy Covid19cz
     party: člen Pirátské strany
-    description: zastupitel obce Čestlice
+    description: zastupitel města Brandýs nad Labem-Stará Boleslav
+# 52.
+  - name: Jiří Adámek
+    age: 38
+    profession: OSVČ, realitní makléř
+    party: člen Pirátské strany
+    description: description
+# 53.
+  - name: Mgr. Jiřina Procházková
+    age: 35
+    profession: pedagožka
+    party: členka Pirátské strany
+    description: description
+# 35.
+  - name: Bc. Pavel Šanda
+    age: 40
+    profession: soukromý učitel, radiační fyzik
+    party: nezávislý kandidát
+    description: zastupitel města Neratovice
+# 36.
+  - name: Michal Trešl
+    age: 27
+    profession: umělecký kovář
+    party: člen Pirátské strany
+    description: zastupitel města Černošice
+# 37.
+  - name: Bc. Tereza Kvitová
+    age: 34
+    profession: výtvarnice, historička
+    party: členka Pirátské strany
+    description: description
+# 38.
+  - name: Mgr. Vladimír Kališ
+    age: 27
+    profession: politolog
+    party: nezávislý kandidát
+    description: description
+# 39.
+  - name: Ing. Markéta Šedivá
+    age: 38
+    profession: projektantka pozemních staveb
+    party: nezávislá kandidátka
+    description: zastupitelka obce Ohrobec
+# 40.
+  - name: Bc. Sámir Shanaáh
+    age: 26
+    profession: koordinátor individuálního fundraisingu, obchodní manažer
+    party: člen Pirátské strany
+    description: description
+# 41.
+  - name: Ing. Svatopluk Boček
+    age: 40
+    profession: manažer, chemik
+    party: člen Pirátské strany
+    description: description
+# 42.
+  - name: Jan Korbel
+    age: 38
+    profession: síťový inženýr
+    party: člen Pirátské strany
+    description: description
+# 43.
+  - name: Ing. Martin Martin
+    age: 35
+    profession: předseda České sekce Audio Engineering Society
+    party: člen Pirátské strany
+    description: description
+# 44.
+  - name: Jakub Václavovič
+    age: 27
+    profession: pedagog, propagátor sebeřízeného vzdělávání
+    party: člen Pirátské strany
+    description: description
+# 45.
+  - name: Radek Černohous
+    age: 52
+    profession: obchodní zástupce
+    party: člen Pirátské strany
+    description: description
+# 46.
+  - name: MDDr. Petr Čáp
+    age: 34
+    profession: zubní lékař
+    party: člen Pirátské strany
+    description: description
+# 47.
+  - name: Ing. Naděžda Hamplová
+    age: 44
+    profession: podniková ekoložka
+    party: nezávislá kandidátka
+    description: description
+# 48.
+  - name: Miroslava Petráňová
+    age: 42
+    profession: účetní
+    party: nezávislá kandidátka
+    description: description
 
 note: 
 # poznámka pod kanidátku
