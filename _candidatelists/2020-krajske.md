@@ -327,30 +327,30 @@ tail: # zbytek kandidatky
     profession: pedagožka
     party: členka Pirátské strany
     description: description
-# 35.
-  - name: Bc. Pavel Šanda
-    age: 40
-    profession: soukromý učitel, radiační fyzik
+# 54.
+  - name: MgA. Dominika Michailidu
+    age: 41
+    profession: výtvarnice
     party: nezávislý kandidát
-    description: zastupitel města Neratovice
-# 36.
-  - name: Michal Trešl
-    age: 27
-    profession: umělecký kovář
-    party: člen Pirátské strany
-    description: zastupitel města Černošice
-# 37.
-  - name: Bc. Tereza Kvitová
+    description: zastupitelka obce Krnsko
+# 55.
+  - name: Jan Jurik
     age: 34
-    profession: výtvarnice, historička
+    profession: elektrikář, DJ, provozovatel e-shopů
+    party: člen Pirátské strany
+    description: description
+# 56.
+  - name: Kristýna Hlásková
+    age: 21
+    profession: studentka
     party: členka Pirátské strany
     description: description
-# 38.
-  - name: Mgr. Vladimír Kališ
-    age: 27
-    profession: politolog
+# 57.
+  - name: Mgr. Marek Jeřicha
+    age: 31
+    profession: pedagog
     party: nezávislý kandidát
-    description: description
+    description: zastupitel města Černošice
 # 39.
   - name: Ing. Markéta Šedivá
     age: 38
