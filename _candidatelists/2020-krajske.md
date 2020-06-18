@@ -225,17 +225,17 @@ tail: # zbytek kandidatky
     profession: umělecký kovář
     party: člen Pirátské strany
     description: zastupitel města Černošice
-# 18.
-  - name: Tomáš Lénárd
-    age: 35
-    profession: živnostník v oboru audiovizuální produkce
-    party: člen Pirátské strany
+# 37.
+  - name: Bc. Tereza Kvitová
+    age: 34
+    profession: výtvarnice, historička
+    party: členka Pirátské strany
     description: description
-# 19.
-  - name: Magdaléna Vilímovská
-    age: 20
-    profession: studentka humanitní vzdělanosti
-    party: člen Pirátské strany
+# 38.
+  - name: Mgr. Vladimír Kališ
+    age: 27
+    profession: politolog
+    party: nezávislý kandidát
     description: description
 # 20.
   - name: Ing. Monika Keřková, MPA
