@@ -351,65 +351,53 @@ tail: # zbytek kandidatky
     profession: pedagog
     party: nezávislý kandidát
     description: zastupitel města Černošice
-# 39.
-  - name: Ing. Markéta Šedivá
-    age: 38
-    profession: projektantka pozemních staveb
+# 58.
+  - name: Jaroslava Pechová
+    age: 75
+    profession: důchodkyně
     party: nezávislá kandidátka
-    description: zastupitelka obce Ohrobec
-# 40.
-  - name: Bc. Sámir Shanaáh
-    age: 26
-    profession: koordinátor individuálního fundraisingu, obchodní manažer
+    description: description
+# 59.
+  - name: Bc. Vilém Nájemník, M.A.
+    age: 28
+    profession: specialista na nová média ve vzdělávání
     party: člen Pirátské strany
     description: description
-# 41.
-  - name: Ing. Svatopluk Boček
+# 60.
+  - name: Ondřej Klimeš
     age: 40
-    profession: manažer, chemik
+    profession: PR a marketingový specialista
     party: člen Pirátské strany
     description: description
-# 42.
-  - name: Jan Korbel
-    age: 38
-    profession: síťový inženýr
+# 61.
+  - name: Bc. Jan Lukášek
+    age: 33
+    profession: soukromý zemědělec
     party: člen Pirátské strany
     description: description
-# 43.
-  - name: Ing. Martin Martin
-    age: 35
-    profession: předseda České sekce Audio Engineering Society
-    party: člen Pirátské strany
-    description: description
-# 44.
-  - name: Jakub Václavovič
-    age: 27
-    profession: pedagog, propagátor sebeřízeného vzdělávání
-    party: člen Pirátské strany
-    description: description
-# 45.
-  - name: Radek Černohous
-    age: 52
-    profession: obchodní zástupce
-    party: člen Pirátské strany
-    description: description
-# 46.
-  - name: MDDr. Petr Čáp
-    age: 34
-    profession: zubní lékař
-    party: člen Pirátské strany
-    description: description
-# 47.
-  - name: Ing. Naděžda Hamplová
+# 62.
+  - name: Bc. Radek Hampl
     age: 44
-    profession: podniková ekoložka
-    party: nezávislá kandidátka
+    profession: vedoucí správy majetku a technických služeb
+    party: člen Pirátské strany
     description: description
-# 48.
-  - name: Miroslava Petráňová
-    age: 42
-    profession: účetní
-    party: nezávislá kandidátka
+# 63.
+  - name: Ing. Ivan Šedek
+    age: 70
+    profession: důchodce, student Univerzity třetího věku
+    party: člen Pirátské strany
+    description: description
+# 64.
+  - name: Bc. Tomáš Laňka
+    age: 27
+    profession: OSVČ v cestovním ruchu
+    party: člen Pirátské strany
+    description: description
+# 65.
+  - name: Mgr. Bc. Vít Šnajdr
+    age: 41
+    profession: pedagog, místostarosta města Kutná Hora
+    party: člen Pirátské strany
     description: description
 
 note: 
