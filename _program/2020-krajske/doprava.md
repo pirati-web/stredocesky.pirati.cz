@@ -11,7 +11,10 @@ order: 2
 ---
 
 **1. Zalepíme díry na silnicích i v rozpočtu**
+Zrychlíme výstavbu, opravy silnic i mostů a budeme je koordinovat s dalšími organizacemi. Zohledníme také požadavky na zachování krajinného rázu a přírodních lokalit daného regionu. Zamezíme rozkrádání rozpočtu na opravy silnic a další infrastrukturní stavby.
 
-**2. Zalepíme díry na silnicích i v rozpočtu**
+**2. Propojíme auta, autobusy, vlaky, cyklisty i chodce**
+Každý má právo si zvolit, jak chce cestovat. Všechny způsoby dopravy na sebe musí navazovat, proto podpoříme rozvoj hromadné dopravy, výstavbu parkovišť u nádraží a úschoven kol. Při plánování hromadné dopravy v kraji budeme prosazovat dostupnost a bezbariérovost.
 
-**3. Zalepíme díry na silnicích i v rozpočtu**
+**3. Zkontrolujeme skutečný stav silnic a mostů**
+Uděláme z kraje řádného hospodáře, který se rozhoduje na základě dat a nikoliv známostí. Data o stavu dopravní infrastruktury zveřejníme.
