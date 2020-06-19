@@ -1,8 +1,8 @@
 ---
 uid: jana.skopalikova
 name: Jana Skopalíková
-titles: Mgr.
-  before: 
+titles:
+  before: Mgr.
   after: 
 category:
   - pks
@@ -15,7 +15,7 @@ mob:
 profiles:
   web:
   github:
-  facebook: jana.skopalikova.50
+  facebook: https://www.facebook.com/jana.skopalikova.50
   twitter:
   linkedin:
 ---
