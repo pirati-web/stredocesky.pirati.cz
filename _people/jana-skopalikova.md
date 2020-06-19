@@ -4,8 +4,7 @@ name: Jana Skopalíková
 titles:
   before: Mgr.
   after: 
-category:
-  - pks
+category: pks
 description: 3. místopředsedkyně krajského sdružení
 ordPKS: 4
 img: people/jana-skopalikova.jpg
