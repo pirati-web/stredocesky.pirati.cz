@@ -7,7 +7,7 @@ approved:
 garant:
 perex: >
   
-order: ---8
+order: 8
 
 **1. Zřídíme výbor pro územní rozvoj**
 Budeme spolupracovat na plánování nové výstavby s obcemi i Prahou. Upřednostňujeme zastavování nevyužívaných průmyslových areálů a proluk místo zabírání hodnotné zemědělské půdy. Chceme živou, nikoliv zabetonovanou krajinu.
