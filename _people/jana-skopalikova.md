@@ -15,7 +15,7 @@ mob:
 profiles:
   web:
   github:
-  facebook:https://www.facebook.com/jana.skopalikova.50
+  facebook: https://www.facebook.com/jana.skopalikova.50
   twitter:
   linkedin:
 ---
