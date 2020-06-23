@@ -6,7 +6,7 @@ date: 2020-06-22
 tags: krajské_volby tisková_zpráva
 title: 'Piráti zahájili ostrou fázi kampaně do krajských a senátních voleb'
 description: 'krajské volby, tisková zpráva'
-author: Piráti SčK
+author: Mediální odbor
 #authorId: jakub.vaclavovic
 image: posts/2020/kampan.jpg
 ---
