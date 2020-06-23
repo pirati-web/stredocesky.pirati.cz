@@ -2,7 +2,7 @@
 uid: adela.sipova
 name: Adéla Šípová
 titles:
-  before: 
+  before: Mgr.
   after: 
 description: kandidátka do senátu
 img: people/adela-sipova.jpg
