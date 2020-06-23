@@ -29,3 +29,12 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 
 Živí ho spolupráce s firmou [Alis s r.o.](http://www.alis.cz), pro kterou instaluje a školí informační systém pro veřejnou správu a školy (účetnictví, majetek, mzdy, evidence obyvatel, legalizace a vidimace, matrika, spisová služba, evidence hřbitovů, poplatky, evidence smluv, napojení na základní registry, oceňování pozemků a propojení relevantních modulů).
 
+### Související články
+
+* [Předseda středočeských Pirátů Jiří Snížek Na palubě s Piráty](/aktuality/predseda-stredoceskych-piratu-jiri-snizek-na-palube-s-piraty.html)
+* [Jiří Snížek se stal lídrem kandidátky do krajských voleb ve Středočeském kraji](/aktuality/jiri-snizek-se-stal-lidrem-kandidatky-do-krajskych-voleb-ve-stredoceskem-kraji.html)
+* [Středočeský lídr na Pirátské vlně](/aktuality/stredocesky-lidr-na-piratske-vlne.html)
+* [Ivan Bartoš opět zvolen předsedou Pirátů. Jiří Snížek demonstroval Středočeský kraj jako donut](/aktuality/ivan-bartos-opet-zvolen-predsedou-piratu-jiri-snizek-demonstroval-stredocesky-kraj-jako-donut.html)
+* [Lídr Pirátů Jiří Snížek o nadcházejících krajských volbách](/aktuality/lidr-piratu-jiri-snizek-o-nadchazejicich-krajskych-volbach.html)
+* [Jiří Snížek, předseda a lídr středočeských Pirátů o pandemii](/aktuality/jiri-snizek-predseda-a-lidr-stredoceskych-piratu-o-pandemii.html)
+
