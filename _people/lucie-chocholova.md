@@ -4,7 +4,7 @@ name: Lucie Chocholová
 titles:
   before: 
   after: 
-description: 
+description: členka
 img: people/lucie-chocholova.jpg
 mail: lucie.cirkva.chocholova@pirati.cz
 mob:
