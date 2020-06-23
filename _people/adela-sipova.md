@@ -4,7 +4,7 @@ name: Adéla Šípová
 titles:
   before: Mgr.
   after: 
-description: kandidátka do senátu
+description: kandidátka do Senátu
 img: people/adela-sipova.jpg
 mail: adela.sipova@pirati.cz
 mob:

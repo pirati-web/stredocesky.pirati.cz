@@ -22,7 +22,7 @@ main:
   - link: /krajske-expertni-tymy/
     name: Experti
     match: experti
-  - link: /volby/
+  - link: /volby/2020/
     name: Volby
     match: volby
   - link: /kontakt/
