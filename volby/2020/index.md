@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volby v roce 2020 ve Středočeském kraji
+title: Volby ve Středočeském kraji v roce 2020
 ---
 
 ### [Krajské volby ve Středočeském kraji](/aktuality/pirati-postavili-silnou-kandidatku-pripravenou-celit-vyzvam-ve-stredoceskem-kraji.html)
