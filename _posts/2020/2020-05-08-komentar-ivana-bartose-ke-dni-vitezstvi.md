@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-05-08
 #published: false
-tags: komentář Den_vítězství
+tags: komentář významné_dny
 title: 'Komentář Ivana Bartoše ke Dni vítězství'
-description: 'komentář,  Den vítězství'
+description: 'komentář,  významné dny'
 author: Ivan Bartoš
 authorId: ivan.bartos
 image: posts/2020/video-den-vitezstvi.png
