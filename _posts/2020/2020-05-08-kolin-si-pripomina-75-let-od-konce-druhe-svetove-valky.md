@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-05-08
 #published: false
-tags: Kolín Den_vítězství
+tags: Kolín významné_dny
 title: 'Kolín si připomíná 75 let od konce druhé světové války'
-description: 'Kolín, Den vítězství'
+description: 'Kolín, významné dny'
 author: Cyril Koky
 #authorId: jakub.vaclavovic
 image: posts/2020/den-vitezstvi.jpg
