@@ -38,3 +38,100 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * [Lídr Pirátů Jiří Snížek o nadcházejících krajských volbách](/aktuality/lidr-piratu-jiri-snizek-o-nadchazejicich-krajskych-volbach.html)
 * [Jiří Snížek, předseda a lídr středočeských Pirátů o pandemii](/aktuality/jiri-snizek-predseda-a-lidr-stredoceskych-piratu-o-pandemii.html)
 
+
+### Cykloutour po Středočeském kraji
+14. týden před volbami - Rakovnicko (1. - 3. 7.)
+13. týden před volbami - Praha-východ (6. - 12. 7.)
+12. týden před volbami - Praha-západ (13. - 19. 7.)
+11. týden před volbami - Kutnohorsko (20. - 26. 7.)
+10. týden před volbami - Berounsko (27. 7. - 2. 8.)
+9. týden před volbami - Příbramsko (3. - 9. 8.)
+8. týden před volbami - Mělnicko (10. - 16. 8.)
+7. týden před volbami - Kolínsko (17. - 23. 8.)
+6. týden před volbami - Nymbursko (24. - 30. 8.)
+5. týden před volbami - Kladensko (31. 8. - 6. 9.)
+4. týden před volbami - Benešovsko (7. - 13. 9.)
+3. týden před volbami - Mladoboleslavsko (14. - 20. 9.)
+2. týden před volbami - Praha-západ (21. 9. - 27. 9.)
+1. týden před volbami - Praha-východ (28. 9. - 2. 10.)
+
+Rakovnicko
+středa 1. července:
+10:00 - 10:20 Jesenice
+11:00 - 11:20 Oráčov
+11:40 - 12:00 Švihov
+12:20 - 12:40 Pšovlky
+13:10 - 13:30 Šanov
+14:00 - 14:20 Senomaty
+
+čtvrtek 2. července:
+10:00 - 10:20 Stochov
+11:00 - 11:20 Nové Strašecí
+14:00 - 14:20 Řevničov
+15:30 - 15:50 Krušovice
+17:00 - 17:20 Lišany
+18:00 - 18:20 Lužná
+
+pátek 3. července:
+10:00 - 10:20 Křivoklát
+11:00 - 11:20 Městečko
+12:20 - 12:40 Pustověty
+16:00 - 18:00 Rakovník náměstí
+
+Praha-východ
+pondělí 6. července
+10:00 - 10:20 Kostelec nad Černými lesy
+12:00 - 12:20 Černé Voděrady
+13:00 - 13:20 Zvánovice
+15:00 - 15:20 Mnichovice
+17:00 - 17:20 Velké Popovice
+18:30 - 18:50 Kamenice
+
+úterý 7. července
+10:00 - 10:20 Křenice
+10:40 - 10:55 Sluštice
+11:15 - 11:30 Zlatá
+11:50 - 12:05 Škvorec
+12:30 - 12:45 Dobročovice
+16:00 - 16:20 Horušany
+17:00 - 17:20 Nehvizdy
+18:00 - 19:00 Čelákovice
+
+pátek 10. července
+10:00 - 10:20 Odolena Voda
+11:00 - 11:20 Panenské Břežany
+12:00 - 12:20 Bašť
+12:45 - 13:00 Líbeznice
+14:10 - 14:30 Hovorčovice
+14:50 - 15:10 Veleň
+15:45 - 16:00 Brázdim
+17:00 - 18:00 Stará Boleslav
+
+Praha-západ
+čtvrtek 16. července
+10:00 - 10:20 Roztoky
+11:15 - 11:30 Únětice
+12:00 - 12:15 Statenice
+12:45 - 13:00 Tuchoměřice
+13:30 - 13:45 Kněževes
+14:15 - 14:30 Dobrovíz
+15:00 - 15:15 Jeneč
+16:00 - 16:20 Hostivice
+
+pátek 17. července
+10:00 - 10:20 Jesenice
+11:00 - 11:15 Zlatníky-Hodkovice
+12:45 - 13:15 Dolní Břežany
+14:00 - 14:15 Ohrobec
+14:45 - 15:00 Zvole
+15:30 - 15:45 Okrouhlo
+18:00 - 19:00 Jílové
+
+sobota 18. července
+10:00 - 10:20 Mníšek pod Brdy
+11:40 - 12:00 Řevnice
+13:15 - 13:30 Lety
+13:45 - 14:00 Dobřichovice
+14:30 - 14:45 Všenory
+17:00 - 18:00 Černošice
+
