@@ -58,17 +58,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: student ergoterapie
     party: člen Pirátské strany
     description: 
-# 10.
-  - uid: petr.tomas
-    age: 45
-    profession: zdravotnický specialista, školitel
-    party: nezávislý kandidát
-    description: 
-
 
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+# 10.
+  - name: Petr Tomáš
+    age: 45
+    profession: zdravotnický specialista, školitel
+    party: nezávislý kandidát
+    description: 
 # 11.
   - name: Petr Procházka
     age: 35
