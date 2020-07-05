@@ -103,7 +103,7 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * 11:15 - 11:30 Zlatá
 * 11:50 - 12:05 Škvorec
 * 12:30 - 12:45 Dobročovice
-* 16:00 - 16:20 Horušany
+* 16:00 - 16:20 Horoušany
 * 17:00 - 17:20 Nehvizdy
 * 18:00 - 19:00 Čelákovice
 
