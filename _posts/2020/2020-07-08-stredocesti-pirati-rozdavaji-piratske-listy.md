@@ -18,4 +18,5 @@ Od pondělí 22. 6. 2020 mezi vás distribuujeme prví letošní vydání Pirát
 A o čem se tentokrát v Pirátských listech dočtete? V první řadě se vám představí naši kandidáti do krajských voleb, které nás čekají letos v říjnu. Kandidáti vám představí svoje vize, ze které by rádi prosadili ve Středočeském kraji a řeknou vám něco o sobě. Je zde také rozhovor s kandidáty do senátu, který vám přiblíží, kdo jsou a co konkrétně by v senátu chtěli prosadit.
 
 V případě, že jste nás nepotkali a máte zájem si noviny přečíst v online verzi, jsou ke stažení [zde](/assets/files/PL_stredocesky_2020.pdf).
+
 V Benešově také rozdáváme místní přílou Pirátský benešov, ke stažení [zde](/assets/files/PL_stredocesky_benesov_2020.pdf).
