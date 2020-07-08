@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-07-07
+date: 2020-07-08
 #published: false
 tags: krajské_volby pirátské_listy
 title: 'Středočeští Piráti rozdávají Pirátské listy'
