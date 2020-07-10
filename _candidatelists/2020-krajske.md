@@ -88,7 +88,7 @@ tail: # zbytek kandidatky
     description: zastupitel města Příbram
 # 14.
   - name: Milan Krch
-    age: XX
+    age: 40
     profession: IT specialista
     party: člen Pirátské strany
     description: 
@@ -142,7 +142,7 @@ tail: # zbytek kandidatky
     description: 
 # 23.
   - name: Ing. Michal Hažlinský
-    age: XX
+    age: 34
     profession: network architekt
     party: člen Pirátské strany
     description: 
@@ -340,7 +340,7 @@ tail: # zbytek kandidatky
     description: 
 # 56.
   - name: Kristýna Hlásková
-    age: XX
+    age: 21
     profession: studentka
     party: členka Pirátské strany
     description: 

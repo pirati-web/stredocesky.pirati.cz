@@ -3,7 +3,7 @@ layout: page
 title: Volby ve Středočeském kraji v roce 2020
 ---
 
-### [Krajské volby ve Středočeském kraji](/aktuality/pirati-postavili-silnou-kandidatku-pripravenou-celit-vyzvam-ve-stredoceskem-kraji.html)
+### [Krajské volby ve Středočeském kraji](/volby/2020/krajske/)
 
 ### [Kandidátka do Senátu v obvodu č. 18 - Příbram: Simona Luftová](/lide/simona-luftova/)
 ### [Kandidátka do Senátu v obvodu č. 30 - Kladno: Mgr. Adéla Šípová](https://www.adelasipova.cz/)
