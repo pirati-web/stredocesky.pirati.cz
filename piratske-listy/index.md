@@ -7,6 +7,18 @@ title: Archiv Pirátských listů
 
 V tomto archivu můžete nalézt starší verze tištěných novin – Pirátských listů, které vydáváme asi dvakrát do roka. Tyto noviny distribuujeme do schránek ve větších městech Středočeského kraje – předně v místech, kde již máme místní sdružení, nebo na našich předvolebních akcích. V případě, že se k vám žádné noviny nedostaly nebo Vás zajímá, co se děje v jiných městech Středočeského kraje, můžete si přečíst zde umístěné elektronické verze.
 
+## Červen 2020
+
+Vydali jsme první po-covidové Pirátské listy.  V první řadě se vám představí naši kandidáti do krajských voleb 2020. Kandidáti vám představí svoje vize, ze které by rádi prosadili ve Středočeském kraji a řeknou vám něco o sobě. Je zde také rozhovor s kandidáty do Senátu, který vám přiblíží, kdo jsou a co konkrétně by v Senátu chtěli prosadit.
+
+[PDF ke stažení.](archiv/2020-06-stredoceske.pdf)
+
+#### Benešov
+
+Piráti z Benešova si pro Vás připravili dvě strany navíc, ve kterých najdete informace např. od radního Daniela Netušila nebo předsedy dozorčí rady TS Benešov a současně vedoucího pirátského týmu dopravy Jana Ličky.
+
+[PDF ke stažení.](archiv/2020-06-Benesov.pdf)
+
 ## Duben 2019
 
 V rámci kampaně do Evropského parlamentu jsme vydali Středočeskou mutaci Pirátských listů. Můžete se v nich dočíst, proč *Evropa potřebuje Piráty* od Ivana Bartoše, rozhovor *Evropa nám garantuje svobodu, o kterou nesmíme přijít* s Marcelem Kolajou, lídrem evropské kandidátky, nebo polemiku na téma *Řídí EU naše životy, nebo my řídíme život v EU* od Mikuláše Peksy. Nechybí ani čtyři články tom, jak ovlivnila Evropská unie život ve Středočeském kraji.
