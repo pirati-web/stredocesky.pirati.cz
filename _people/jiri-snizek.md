@@ -150,3 +150,30 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * 14:30 - 14:45 Všenory
 * 17:00 - 18:00 Černošice
 
+#### Kutnohorsko
+
+##### středa 22. července
+* Zbraslavice 10:00 - 10:20
+* Slavošov 11:15 - 11:30
+* Dolní Pohleď 12:00 - 12:15
+* Zruč nad Sázavou 13:30 - 14:00
+* Chabeřice 14:40 - 14:55
+* Kácov 16:00 - 16:20
+
+##### čtvrtek 23. července
+* Uhlířské Janovice 10:00 - 10:30
+* Rašovice 11:00 - 11:15
+* Nepoměřice 11:45 - 12:00
+* Chlístovice 12:45 - 13:00
+* Malešov 15:00 - 15:20
+* Miskovice 16:30 - 16:45
+* Suchdol 17:30 - 17:45
+
+##### pátek 24. července
+* Nové Dvory 10:00 - 10:20
+* Chotusice 11:15 - 11:30
+* Čáslav 13:00 - 13:30
+* Močovice 14:00 - 14:15
+* Kluky 14:45 - 15:00
+* Křesetice 15:45 - 16:00
+* Kutná Hora 17:00 - 18:00
