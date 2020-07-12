@@ -177,3 +177,28 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * Kluky 14:45 - 15:00
 * Křesetice 15:45 - 16:00
 * Kutná Hora 17:00 - 18:00
+
+#### Berounsko
+##### čtvrtek 30. července
+* 10:00 - 10:20 Zadní Třebaň
+* 10:35 - 10:55 Hlásná Třebaň
+* 11:15 - 11:45 Karlštejn
+* 12:30 - 12:50 Srbsko
+* 13:30 - 14:00 Tetín
+* 15:15 - 15:35 Hýskov
+* 16:15 - 17:00 Nižbor
+
+##### pátek 31. července
+* 10:00 - 10:30 Hořovice
+* 11:00 - 11:15 Tlustice
+* 11:45 - 12:00 Žebrák
+* 12:15 - 12:30 Točník
+* 13:10 - 13:25 Hředle
+* 14:00 - 14:20 Zdice
+* 15:10 - 15:45 Králův Dvůr
+
+##### sobota 1. srpna
+* 10:00 - 10:30 Rudná
+* 11:30 - 11:50 Loděnice
+* 12:20 - 12:35 Vráž
+* 15:00 - 16:00 Beroun
