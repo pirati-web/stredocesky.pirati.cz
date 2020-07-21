@@ -27,7 +27,7 @@ Chodil na základní školy v Záboří nad Labem a v Týnci nad Labem, dále pa
 
 Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Ústavu filosofie a religionistiky Filosofické fakulty Univerzity Karlovy. V roce 2018 [absolvoval bakalářské kombinované studium (kombinace dálkového a prezenčního studia) filosofie na Katedře filosofie Masarykovy univerzity](https://is.muni.cz/osoba/450034). V rámci studia napsal a obhájil bakalářskou práci s názvem Lidské právo na sociální zabezpečení, ve které srovnal a zhodnotil přístupy Johna Rawlse, Amartyi Sena, Petera Singera a Philippa Van Parijse. Jeho vášeň pro filosofii vychází z přesvědčení, že rozhodnutí o tom, co dělat, je důležitější než rozhodnutí o tom, jak to dělat. Ve filosofii je mu nejbližší etika a politická a sociální filosofie.
 
-Živí ho spolupráce s firmou [Alis s r.o.](http://www.alis.cz), pro kterou instaluje a školí informační systém pro veřejnou správu a školy (účetnictví, majetek, mzdy, evidence obyvatel, legalizace a vidimace, matrika, spisová služba, evidence hřbitovů, poplatky, evidence smluv, napojení na základní registry, oceňování pozemků a propojení relevantních modulů).
+Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis.cz), pro kterou instaluje a školí informační systém pro veřejnou správu a školy (účetnictví, majetek, mzdy, evidence obyvatel, legalizace a vidimace, matrika, spisová služba, evidence hřbitovů, poplatky, evidence smluv, napojení na základní registry, oceňování pozemků a propojení relevantních modulů).
 
 ### Související články
 
