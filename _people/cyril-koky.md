@@ -6,7 +6,7 @@ titles:
   after: MPA
 description: kandidát do Senátu
 img: people/cyril-koky.jpg
-mail: cyril.koky@pirati.cz
+mail: cyril.koky.kolin@pirati.cz
 mob:
 #  - 
 profiles:
