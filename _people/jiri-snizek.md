@@ -202,3 +202,31 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 11:30 - 11:50 Loděnice
 * 12:20 - 12:35 Vráž
 * 15:00 - 16:00 Beroun
+
+#### Příbramsko
+##### středa 5. srpna
+10:00 - 10:30 Sedlčany
+11:00 - 11:15 Příčovy
+11:45 - 12:00 Dublovice
+13:00 - 13:15 Svatý Jan
+15:00 - 15:20 Kamýk nad Vltavou
+
+##### čtvrtek 6. srpna
+10:00 - 10:15 Podlesí
+10:45 - 11:15 Příbram
+12:45 - 13:00 Trhové Dušníky
+13:45 - 14:00 Občov
+14:15 - 14:30 Suchodol
+14:45 - 15:00 Kotenčice
+15:30 - 15:45 Rosovice
+16:30 - 17:00 Dobříš
+
+##### pátek 7. srpna
+10:00 - 10:20 Spálené Poříčí
+11:45 - 12:00 Borovno
+13:00 - 13:15 Míšov
+15:15 - 15:30 Věšín
+16:00 - 16:30 Rožmitál pod Třemšínem
+17:00 - 17:15 Bezděkov pod Třemšínem
+17:45 - 18:00 Hlubyně
+18:15 - 19:00 Březnice
