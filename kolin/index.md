@@ -3,18 +3,18 @@ layout: ms
 title: Místní sdružení Kolín
 description: Místní sdružení Kolín
 keywords: piráti, místní sdružení, Kolín
-mail: martin.polak@pirati.cz
+mail: tereza.kvitova@pirati.cz
 facebook: PiratiKolin
 forum: https://forum.pirati.cz/viewforum.php?f=991
 predsednictvo:
- - funkce: předseda
-   jmeno: Martin Polák
+ - funkce: předsedkyně
+   jmeno: Tereza Kvitová
  - funkce: 1. místopředseda
-   jmeno: Vojtěch Ertl
- - funkce: 2. místopředseda
-   jmeno: Jiří Chládek
-mandat-do: 12.5.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=406&t=41377
+   jmeno: Svatopluk Boček
+ - funkce: 2. místopředsedkyně
+   jmeno: Kristýna Hlásková
+mandat-do: 4.6.2022
+volba: https://forum.pirati.cz/viewtopic.php?f=993&t=51529
 ---
 {% asset 'ms/kolin/kolinaci-small.jpg' alt='clenove' %}
 
@@ -40,15 +40,15 @@ Kolín je město na východě Středočeského kraje na řece Labi a obec s roz�
 
 # Lidé
 
-### Martin Polák – předseda MS Kolín
+### Martin Polák
 
 Narozen v Kolíně, kde dosud žije, pracuje a kde založil rodinu. Kolín má tedy opravdu v malíčku. ;-) O emancipaci členů subkultury internetu se zajímal už před založením Pirátské strany v roce 2009. Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se něco takového děje i v ČR. Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010, v době, kdy v Kolíně byla jediná samostatná kandidátka Pirátů v celém Středočeském kraji. Více informací naleznete [zde](https://wiki.pirati.cz/lide/martin_polak).
 
-### Vojtěch Ertl – 1. místopředseda MS Kolín
+### Vojtěch Ertl
 
 Od roku 2014 působí v komisi Rady města Kolín pro výstavbu a rozvoj města. Pro město Kolín mimo jiné připravoval odbornou část VŘ na nového městského architekta v Kolíně. Pracuje jako architekt, odborný asistent na FA ČVUT. Ve volném čase chová včely. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/vojtech-ertl/).
 
-### Jiří Chládek – 2. místopředseda MS Kolín
+### Jiří Chládek
 
 Narodil se v Opočně (okres Rychnov nad Kněžnou), ale celý život žije v Kolíně. V září 2018 nastoupil do prvního ročníku na právnické fakultě Univerzity Palackého v Olomouci. Ačkoliv je duší politický aktivista, který například v Praze blokoval vlastním tělem vstup do nepoctivých směnáren, najde si čas i na sport. Upřednostňuje kolektivní sporty, miluje plavání a můžete ho potkat i v posilovně. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/jiri-chladek/).
 
