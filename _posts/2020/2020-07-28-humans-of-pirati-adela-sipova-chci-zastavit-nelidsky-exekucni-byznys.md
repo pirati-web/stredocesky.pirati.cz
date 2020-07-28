@@ -19,4 +19,4 @@ To je jeden z důvodů, proč jsem rozhodla kandidovat do Senátu. Chci přispě
 
 A rodina? Jsem vdaná a se svým manželem vychovám pět dětí, čtyři dcery a jednoho syna. Myslím, že zejména mé dcery mají po mně určitou vzdorovitost. Otevřené debaty a osobní politické angažmá jsou ostatně určitou genetickou výbavou celé mé širší rodiny. Na své děti jsem neskutečně pyšná, jsou to nejlepší, co se mi kdy povedlo. A i kvůli nim mi stojí za to zvednout prapor a vstoupit do veřejného života viditelnějším způsobem.
 
-Více o Adéle na jejím osobním [webu](https://www.adelasipova.cz/) nebo [Facebookové stránce](https://www.facebook.com/adeladosenatu2020).
+Více na osobním [webu](https://www.adelasipova.cz/) nebo [Facebookové stránce](https://www.facebook.com/adeladosenatu2020).
