@@ -7,7 +7,7 @@ tags: senátní_volby humans_of_Piráti
 title: 'Humans of Piráti Adéla Šípová: chci zastavit nelidský exekuční byznys'
 description: 'senátní volby, humans of Piráti'
 author: Adéla Šípová
-#authorId: adela.sipova
+authorId: adela.sipova
 image: posts/2020/adela-HOP.jpg
 ---
 
