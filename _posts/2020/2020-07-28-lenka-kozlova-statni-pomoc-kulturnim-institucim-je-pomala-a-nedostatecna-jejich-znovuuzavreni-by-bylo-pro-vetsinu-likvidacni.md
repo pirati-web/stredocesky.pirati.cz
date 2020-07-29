@@ -8,7 +8,7 @@ title: 'Lenka Kozlová: Státní pomoc kulturním institucím je pomalá a nedos
 description: 'komentář, kultura, poslanecká sněmovna'
 author: Lenka Kozlová
 authorId: lenka.kozlova
-image: posts/2020/lenka-kozlova.jpg
+image: posts/2020/lenka-kozlova3.jpg
 ---
 
 Na začátku července jsem se po více než dvou měsících, kdy většina kulturních institucí v republice byla uzavřena a čelila silným dopadům pandemie koronaviru, vrátila k respondentům [dubnového výzkumu](https://www.piratskelisty.cz/clanek-3172-piratka-kozlova-navrhla-5-opatreni-pro-podporu-kulturnich-organizaci). Opět jsem zjišťovala, jak se vyrovnávají s dopady pandemie. Stejně jako v dubnu jsme použili formu kvalitativního výzkumu na stejném vzorku kulturních institucí po celé České republice. Oslovili jsme 66 nestátních kulturních institucí z různých oblastí kulturního života a ze všech krajů. 
