@@ -8,7 +8,7 @@ title: 'Evropská rada dosáhla důležitého kompromisu ohledně Fondu obnovy. 
 description: 'EU, finance, covid19'
 author: Mediální odbor
 #authorId: marek.rebicek
-image: posts/2020/kopriva_eu.jpg
+image: posts/2020/kopriva-eu.jpg
 ---
 
 Summit Evropské rady skončil úspěšně dohodou na Plán na podporu oživení Evropy. Unijní lídři dosáhli kompromisu, díky kterému bude možné znovu nastartovat ekonomiky členských států a Evropský jednotný trh, na který míří většina českého exportu. K podpoře Fondu obnovy vyzvali Piráti předsedu vlády usnesením Sněmovny 10. července. Piráti však považují za nešťastné snížení investic do výzkumu, zdravotnictví a Fondu spravedlivé transformace. Právě tyto fondy mohou totiž zvýšit konkurenceschopnost EU a připravit ji lépe na další krize. Piráti budou nadále prosazovat, aby unijní peníze určené pro občany a menší firmy nebyly zneužívány oligarchy. 
