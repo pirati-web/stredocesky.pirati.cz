@@ -33,11 +33,14 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 * 16.1.2020 Schůze místního sdružení ve Vestci
 * 20.2.2020 Schůze místního sdružení v Jílovém u Prahy
-* 26.3.2020 Na pivo s Piráty (kvůli koroně přesunuto z Kozlovny ve Velkých Popovicích na internet)
+* 26.3.2020 Na PIVO s Piráty (kvůli koroně přesunuto z Kozlovny ve Velkých Popovicích na internet)
 * 16.4.2020 Na RUM s Piráty (online)
 * 1.-8.5.2020 Májový úklid s Piráty
 * 14.5.2020 Na RUM s Piráty (online)
 * 18.6.2020 Na RUM s Piráty (online)
+* 15.7.2020 Na PIVO s Piráty - Ohrobec
+* Červenec - zahájení kampaně do kraje a Senátu v našich obcích
+* 27.8.2020 Na PIVO s Piráty - Kozlovna Velké Popovice
 
 ##### 2019
 
