@@ -9,7 +9,7 @@ category:
   - kontaktni_osoba
 description: PR manager a kontakt pro média
 ordDalsi: 4
-img: people/_man.png
+img: people/ondrej-petr.jpg
 mail:
   - ondrej.petr@pirati.cz
 mob: +420 775 693 802
