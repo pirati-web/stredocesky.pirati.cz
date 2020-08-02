@@ -230,3 +230,30 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 17:00 - 17:15 Bezděkov pod Třemšínem
 * 17:45 - 18:00 Hlubyně
 * 18:15 - 19:00 Březnice
+
+#### Mělnicko
+##### středa 12. srpna
+* 10:00 - 10:30 Kralupy nad Vltavou
+* 11:00 - 11:20 Veltrusy
+* 12:40 - 12:55 Zlosyň
+* 13:15 - 13:30 Vojkovice
+* 13:50 - 14:05 Hostín u Vojkovic
+* 14:40 - 14:45 Chlumín
+* 15:00 - 15:15 Obříství
+* 15:45 - 16:00 Libiš
+* 16:20 - 17:00 Neratovice
+
+##### čtvrtek 13. srpna
+* 10:00 - 10:20 Byšice
+* 10:40 - 10:55 Čečelice
+* 11:15 - 11:35 Všetaty
+* 12:00 - 12:15 Ovčáry
+* 13:45 - 14:15 Kostelec nad Labem¨
+* 15:15 - 15:30 Tišice
+
+##### neděle 16. srpna
+* 10:00 - 10:20 Mšeno
+* 11:20 - 11:35 Nebužely
+* 11:55 - 12:10 Střemy
+* 12:45 - 13:00 Lhotka
+* 15:00 - 16:00 Mělník

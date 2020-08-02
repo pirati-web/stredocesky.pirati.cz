@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-07-28
+date: 2020-07-29
 #published: false
 tags: komentář kultura poslanecká_sněmovna
 title: 'Lenka Kozlová: Státní pomoc kulturním institucím je pomalá a nedostatečná, jejich znovuuzavření by bylo pro většinu likvidační'
