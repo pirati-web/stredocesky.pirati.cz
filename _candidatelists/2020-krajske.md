@@ -81,13 +81,13 @@ tail: # zbytek kandidatky
     party: člen Pirátské strany
     description: 
 # 13.
-  - name: Antonín Schejbal
+  - name: Bc. Antonín Schejbal
     age: 24
     profession: VŠ student, provozovatel hudebního klubu
     party: člen Pirátské strany
     description: zastupitel města Příbram
 # 14.
-  - name: Milan Krch
+  - name: Ing. Milan Krch
     age: 40
     profession: manažer a konzultant informačních technologií, místopředseda okrašlovacího spolku
     party: člen Pirátské strany
@@ -297,7 +297,7 @@ tail: # zbytek kandidatky
     party: nezávislá kandidátka
     description: 
 # 49.
-  - name: Roman Morávek
+  - name: Ing. Roman Morávek
     age: 49
     profession: ekonom, poradce pro zahraniční společnosti
     party: člen Pirátské strany

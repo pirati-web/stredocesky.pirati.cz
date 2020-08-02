@@ -2,7 +2,7 @@
 uid: lucie.chocholova
 name: Lucie Chocholová
 titles:
-  before: 
+  before: Mgr.
   after: 
 description: členka
 img: people/lucie-chocholova.jpg

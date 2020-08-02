@@ -2,7 +2,7 @@
 uid: jiri.snizek
 name: Jiří Snížek
 titles:
-  before: Ing. 
+  before: Ing. Bc.
   after:
 category:
   - pks

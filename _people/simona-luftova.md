@@ -2,7 +2,7 @@
 uid: simona.luftova
 name: Simona Luftová
 titles:
-  before: 
+  before: Mgr.
   after: 
 description: kandidátka do Senátu
 img: people/simona-luftova.jpg
