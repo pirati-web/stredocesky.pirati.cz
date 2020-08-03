@@ -248,7 +248,7 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 10:40 - 10:55 Čečelice
 * 11:15 - 11:35 Všetaty
 * 12:00 - 12:15 Ovčáry
-* 13:45 - 14:15 Kostelec nad Labem¨
+* 13:45 - 14:15 Kostelec nad Labem
 * 15:15 - 15:30 Tišice
 
 ##### neděle 16. srpna
