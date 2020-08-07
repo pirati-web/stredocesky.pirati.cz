@@ -19,4 +19,4 @@ A o čem se tentokrát v Pirátských listech dočtete? V první řadě se vám 
 
 V případě, že jste nás nepotkali a máte zájem si noviny přečíst v online verzi, jsou ke stažení [zde](/piratske-listy/archiv/2020-06-stredoceske.pdf).
 
-V Benešově také rozdáváme místní přílou Pirátský benešov, ke stažení [zde](/piratske-listy/archiv/2020-06-Benesov.pdf).
+V Benešově také rozdáváme místní přílou Pirátský Benešov, ke stažení [zde](/piratske-listy/archiv/2020-06-Benesov.pdf).
