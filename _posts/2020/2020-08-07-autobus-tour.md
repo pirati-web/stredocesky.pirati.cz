@@ -18,13 +18,13 @@ Autobus budoucnosti bude poprvé k vidění v sobotu 8. srpna od 17:00 na Palack
 Každý den až do dne konání krajských a senátních voleb mohou občané dorazit na zastávky autobusu a debatovat s představiteli Pirátské strany. Těchto setkání se zúčastní jak jednotliví poslanci, krajští či senátní kandidáti, tak předseda strany Ivan Bartoš. 
 
 **Středočeským krajem bude pirátský autobus brázdit celkem 8 dní:**
-*   23. 8.: Mladá Boleslav, Nymburk, Poděbrady
-*   24. 8.: Kolín, Uhlířské Janovice, Vlašim
-*   4. 9.: Kutná Hora
-*   13. 9.: Votice, Benešov, Sedlčany, Příbram
-*   18. 9.: Mělník, Bělá pod Bezdězem, Mnichovo Hradiště
-*   20. 9.: Kladno, Kralupy nad Vltavou, Neratovice, Brandýs
-*   30. 9.: Český Brod, Říčany, Jesenice, Černošice, Beroun
-*   1. 10.: Rakovník
+🏴 23. 8.: Mladá Boleslav, Nymburk, Poděbrady
+🏴 24. 8.: Kolín, Uhlířské Janovice, Vlašim
+🏴 4. 9.: Kutná Hora
+🏴 13. 9.: Votice, Benešov, Sedlčany, Příbram
+🏴 18. 9.: Mělník, Bělá pod Bezdězem, Mnichovo Hradiště
+🏴 20. 9.: Kladno, Kralupy nad Vltavou, Neratovice, Brandýs
+🏴 30. 9.: Český Brod, Říčany, Jesenice, Černošice, Beroun
+🏴 1. 10.: Rakovník
 
 [Program tour autobusu a jednotlivých zastávek autobusu](https://pirati.cz/assets/pdf/Roadplan-autobus.pdf)
