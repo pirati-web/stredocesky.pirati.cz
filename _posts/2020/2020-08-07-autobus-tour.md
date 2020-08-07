@@ -18,6 +18,7 @@ Autobus budoucnosti bude poprvé k vidění v sobotu 8. srpna od 17:00 na Palack
 Každý den až do dne konání krajských a senátních voleb mohou občané dorazit na zastávky autobusu a debatovat s představiteli Pirátské strany. Těchto setkání se zúčastní jak jednotliví poslanci, krajští či senátní kandidáti, tak předseda strany Ivan Bartoš. 
 
 **Středočeským krajem bude pirátský autobus brázdit celkem 8 dní:**
+
 🏴 23. 8.: Mladá Boleslav, Nymburk, Poděbrady
 
 🏴 24. 8.: Kolín, Uhlířské Janovice, Vlašim
