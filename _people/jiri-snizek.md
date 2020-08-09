@@ -257,3 +257,33 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 11:55 - 12:10 Střemy
 * 12:45 - 13:00 Lhotka
 * 15:00 - 16:00 Mělník
+
+#### Kolínsko
+##### středa 19. srpna
+* 10:00 - 10:20 Zásmuky
+* 11:15 - 11:45 Kouřim
+* 13:30 - 13:50 Svojšice
+* 14:30 - 14:45 Žabonosy
+* 15:00 - 15:15 Plaňany
+* 16:15 - 16:45 Velim
+
+##### čtvrtek 20. srpna
+* 10:00 - 10:30 Pečky
+* 10:45 - 11:00 Dobřichov
+* 11:20 - 11:40 Radim
+* 12:00 - 12:15 Chotutice
+* 12:45 - 13:00 Tatce
+* 13:45 - 14:15 Poříčany
+* 15:45 - 16:10 Klučov
+* 16:45 - 17:00 Chrášťany
+* 17:45 - 18:15 Český Brod
+
+##### pátek 21. srpna
+* 10:00 - 10:20 Velký Osek
+* 11:20 - 11:35 Ovčáry
+* 12:00 - 12:15 Býchory
+* 12:35 - 12:50 Němčice
+* 13:15 - 13:30 Bělušice
+* 14:00 - 14:15 Krakovany
+* 15:30 - 16:30 Týnec nad Labem
+
