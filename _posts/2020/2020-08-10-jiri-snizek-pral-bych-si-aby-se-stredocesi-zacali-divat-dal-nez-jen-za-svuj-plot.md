@@ -11,8 +11,6 @@ author: Piráti SčK
 image: posts/2020/jirka_ivan.jpg
 ---
 
-*Předseda Pirátů Ivan Bartoš se ptá lídra středočeské kandidátky Jiřího Snížka*
-
 **Jiří Snížek, šéf středočeských Pirátů a kandidát na hejtmana, je rozhodně všestranná osobnost a také 100% Středočech – narodil se v Kolíně, vyrůstal v Záboří nad Labem, nyní žije v Kolíně. Na gymnázium chodil v Kutné Hoře. Vystudoval ČVUT i filozofii. Je stejně vášnivý fotbalista jako houslista. V tomto rozhovoru vám ho chci alespoň krátce představit. O Jirkovi bude ještě hodně slyšet, tím jsem si jistý.**
 Ivan Bartoš, předseda Pirátské strany
 
