@@ -13,7 +13,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 # 2.
   - uid: jana.skopalikova
     age: 27
-    profession: botanička v Botanickém ústavu AV ČR v Průhonicích, VŠ pedagožka, oddílová vedoucí
+    profession: botanička, doktorandka na PřF UK, místopředsedkyně středočeských Pirátů, oddílová vedoucí
     party: člen Pirátské strany
     description: 
 # 3.
