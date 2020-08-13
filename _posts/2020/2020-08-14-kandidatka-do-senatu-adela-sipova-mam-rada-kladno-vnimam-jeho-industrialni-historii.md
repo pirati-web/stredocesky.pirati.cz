@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-08-14
+date: 2020-08-13
 #published: false
 tags: rozhovor Kladno senátní_volby
 title: 'Kandidátka do Senátu Adéla Šípová: Mám ráda Kladno, vnímám jeho industriální historii'
