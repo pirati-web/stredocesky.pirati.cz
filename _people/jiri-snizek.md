@@ -287,3 +287,24 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 14:00 - 14:15 Krakovany
 * 15:30 - 16:30 Týnec nad Labem
 
+
+
+#### Nymbursko
+##### středa 26. srpna
+* 10:00 - 10:30 Nymburk
+* 11:00 - 11:15 Písty
+* 12:00 - 12:20 Sadská
+* 14:00 - 14:15 Hradištko
+* 14:45 - 15:00 Semice
+* 15:20 - 15:40 Přerov nad Labem
+* 16:40 - 17:15 Lysá nad Labem
+* 18:00 - 18:30 Milovice
+
+##### sobota 29. srpna
+* 10:00 - 10:20 Městec Králové
+* 10:45 - 11:00 Podmoky
+* 11:15 - 11:30 Vrbice
+* 11:50 - 12:05 Opočnice
+* 12:35 - 12:50 Opolany
+* 13:15 - 13:30 Libice nd Cidlinou
+* 15:00 - 16:00 Poděbrady
