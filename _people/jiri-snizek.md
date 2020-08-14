@@ -308,3 +308,25 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 12:35 - 12:50 Opolany
 * 13:15 - 13:30 Libice nd Cidlinou
 * 15:00 - 16:00 Poděbrady
+
+
+
+#### Kladensko
+##### středa 2. září
+* 10:00 - 10:30 Slaný
+* 11:15 - 11:30 Knovíz
+* 11:45 - 12:00 Podlešín
+* 12:15 - 12:30 Zvoleněves
+* 12:45 - 13:00 Kamenný most
+* 13:10 - 13:25 Neuměřice
+* 14:30 - 15:30 Velvary
+
+##### sobota 5. září
+* 10:00 - 10:20 Unhošť
+* 10:35 - 10:50 Kyšice
+* 11:05 - 11:20 Braškov
+* 11:40 - 12:00 Velká Dobrá
+* 13:45 - 14:10 Doksy
+* 14:30 - 14:50 Kamenné Žehrovice
+* 15:00 - 16:00 Kladno
+
