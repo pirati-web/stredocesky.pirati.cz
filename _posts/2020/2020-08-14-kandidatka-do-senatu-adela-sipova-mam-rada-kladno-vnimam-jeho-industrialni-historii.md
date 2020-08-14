@@ -29,4 +29,4 @@ Vždycky mně především záleželo na tom, aby každý měl možnost uplatnit
 
 **Na čem teď hlavně pracuješ?**
 
-Otevřela jsem u nás na Kladně bezplatnou právní antikoroporadnu pro lidi zasažené aktuální situací. Spolupracuji na tom s naší radnicí. Řeším případy, které se týkají hlavně bydlení, jak jsem se obávala. Jsem ale ráda, že můžu lidem odborně poradit. V úzkostech totiž lidé často nejsou schopni se správně rozhodovat. Také v rámci Nadačního fondu humanitární pomoci distribuujeme potravinovou pomoc pro potřebné. Na tom teď pracujeme.
+Otevřela jsem u nás na Kladně bezplatnou právní antikoroporadnu pro lidi zasažené aktuální situací. Řeším případy, které se týkají hlavně bydlení, jak jsem se obávala. Jsem ale ráda, že můžu lidem odborně poradit. V úzkostech totiž lidé často nejsou schopni se správně rozhodovat. Také v rámci Nadačního fondu humanitární pomoci distribuujeme potravinovou pomoc pro potřebné v obcích na Kladensku. Na tom teď pracujeme.
