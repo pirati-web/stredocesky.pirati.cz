@@ -17,6 +17,8 @@ Mimo samotného závodu čekaly na všechny doprovodné soutěže, z nichž hned
 
 "Na „průlezky“ chodím s přáteli cvičit třikrát týdně již přes rok… Kromě toho, že mi cvičení na hrazdách zlepšuje fyzickou i psychickou kondici, spojuje také lidi z různých sociálních vrstev, bez ohledu na věk, pohlaví, rasu nebo vyznání, což je vlastně i samotnou filozofií tohoto sportu. Je to idea čistého sportu, bez jakýchkoli zakázaných anabolických látek, idea zásad zdravého životního stylu. A proto mě upřímně těší, že jsme jako Piráti dostali možnost stát se partnery Mistrovství České republiky ve StreetWorkoutu," uvedl Ivan Bartoš, který si na místě vyzkoušel jednu z disciplín.
 
+{% asset 'posts/2020/sw-benesov.jpg' alt='StreetWorkout Benešov' %}
+
 Vítězky a vítězové Mistrovství České republiky ve StreetWorkoutu 2020:
 
 **Ženy:** 1. Veronika Szabóová, 2. Ladislava Jeřábková, 3. Klára Čuříková
