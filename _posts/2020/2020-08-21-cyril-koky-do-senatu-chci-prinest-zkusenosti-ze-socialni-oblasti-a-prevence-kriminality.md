@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-08-20
+date: 2020-08-21
 #published: false
 tags: senátní_volby Kolín
 title: 'Cyril Koky: Do Senátu chci přinést zkušenosti ze sociální oblasti a prevence kriminality'
