@@ -30,3 +30,4 @@ Nikol je naše jediná dcera a jsme na ni pyšní. Úspěch jí moc přejeme. Je
 **Poslední otázka se také týká Nikol. Pomůže ti s kampaní?**
 
 To doufám, určitě podpoří svého otce!
+
