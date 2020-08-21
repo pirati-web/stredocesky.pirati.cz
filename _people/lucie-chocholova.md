@@ -1,6 +1,6 @@
 ---
 uid: lucie.chocholova
-name: Lucie Chocholová
+name: Lucie Cirkva Chocholová
 titles:
   before: Mgr.
   after: 
