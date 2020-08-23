@@ -330,3 +330,26 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 14:30 - 14:50 Kamenné Žehrovice
 * 15:00 - 16:00 Kladno
 
+#### Benešovsko
+##### středa 9.9.
+* 10:00 - 10:30 Benešov
+* 11:00 - 11:15 Chlístov
+* 11:45 - 12:00 Bukovany
+* 12:15 - 12:45 Týnec nad Sázavou
+
+##### čtvrtek 10.9.
+* 10:00 - 10:15 Teplýšovice
+* 11:00 - 11:15 Čakov
+* 11:35 - 11:55 Ostředek
+* 12:30 - 12:45 Choratice
+* 13:00 - 13:15 Xaverov
+* 14:45 - 15:45 Sázava
+
+##### pátek 11.9.
+* 10:00 - 10:30 Votice
+* 11:30 - 11:45 Jankov
+* 12:05 - 12:20 Ratměřice
+* 12:45 - 13:00 Zvěstov
+* 14:30 - 14:50 Louňovice pod Blaníkem
+* 15:30 - 16:45 Kondrac
+* 17:15 - 18:00 Vlašim
