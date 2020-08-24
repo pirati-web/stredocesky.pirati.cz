@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 4.6.2022
 volba: https://forum.pirati.cz/viewtopic.php?f=993&t=51529
 ---
-{% asset 'ms/kolin/kolinaci-small.jpg' alt='clenove' %}
+{% asset 'ms/kolin/ms-kolin-2020.jpg' alt='Členové MS Piráti Kolín' %}
 
 Místní sdružení Kolín, patří mezi mladší sdružení v kraji, protože vzniklo až v roce 2018. Avšak Pirátská strana má v našem okrese dlouhou historii, protože už v roce 2010 byla v Kolíně v kraji jediná samostatná komunální kandidátka Pirátů.
 
