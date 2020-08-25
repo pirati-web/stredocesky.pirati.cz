@@ -1,7 +1,7 @@
 ---
 title: Krajská kandidátka 2020
 uid: 2020-krajske
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 19 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jiri.snizek
   age: 31
