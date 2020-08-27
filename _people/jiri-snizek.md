@@ -353,3 +353,23 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 14:30 - 14:50 Louňovice pod Blaníkem
 * 15:30 - 16:45 Kondrac
 * 17:15 - 18:00 Vlašim
+
+#### Mladoboleslavsko
+##### pondělí 14.9.
+* 10:00 - 10:20 Bělá pod Bezdězem
+* 11:00 - 11:15 Plužná
+* 11:35 - 11:55 Čistá
+* 12:25 - 12:40 Bítouchov
+* 14:15 - 14:35 Bakov nad Jizerou
+* 14:50 - 15:05 Nová Ves u Bakova
+* 16:00 - 16:30 Mnichovo Hradiště
+
+##### úterý 15.9.
+* 10:00 - 10:20 Benátky nad Jizerou
+* 11:00 - 11:15 Brodce
+* 11:50 - 12:05 Luštěnice
+* 12:25 - 12:40 Němčice
+* 14:00 - 14:20 Dobrovice
+* 15:10 - 15:25 Kolomuty
+* 15:35 - 15:50 Řepov
+* 16:15 - 17:00 Mladá Boleslav
