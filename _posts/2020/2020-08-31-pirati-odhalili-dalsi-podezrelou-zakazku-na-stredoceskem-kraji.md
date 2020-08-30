@@ -33,4 +33,4 @@ s doporučenými postupy Evropské resuscitační rady GL 2015,
 
 5. vymáhání škody.
 
-Otevřený dopis [zde](assets/files/Stanovisko-crr-k-chemickemu-vyvijeci-kysliku.pdf) a stanovisko České resuscitační rady [zde](assets/files/Otevreny_dopis_Piratu_ScK.jpeg).
+Otevřený dopis [zde](/assets/files/Stanovisko-crr-k-chemickemu-vyvijeci-kysliku.pdf) a stanovisko České resuscitační rady [zde](/assets/files/Otevreny_dopis_Piratu_ScK.jpeg).
