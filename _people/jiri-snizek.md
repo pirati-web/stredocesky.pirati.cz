@@ -306,10 +306,8 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 11:15 - 11:30 Vrbice
 * 11:50 - 12:05 Opočnice
 * 12:35 - 12:50 Opolany
-* 13:15 - 13:30 Libice nd Cidlinou
+* 13:15 - 13:30 Libice nad Cidlinou
 * 15:00 - 16:00 Poděbrady
-
-
 
 #### Kladensko
 ##### středa 2. září
