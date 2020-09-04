@@ -3,16 +3,16 @@ category: blog
 layout: post
 date: 2020-09-04
 #published: false
-tags: krajské_volby doprava železniční_doprava
-title: 'Středočeská doprava není jen dojíždění do Prahy'
-description: 'krajské volby, doprava, železniční doprava' 
+tags: krajské_volby doprava rozhovor
+title: 'Petr Procházka: Středočeská doprava není jen dojíždění do Prahy'
+description: 'krajské volby, doprava, rozhovor' 
 author: Piráti SčK
 #authorId: petr.prochazka
-image: 
+image: posts/2020/petr-prochazka.jpg
 ---
 
 
-**Dopravu nezastavil ani koronavirus. Stejně tak se po celou dobu epidemie nezastavil ani Petr Procházka. Profesně se věnuje mezinárodní nákladní železniční dopravě. Denně dojíždí do práce, protože dispečer si prostě home office vzít nemůže. Kromě toho se věnuje přípravě středočeského pirátského programu v oblasti dopravy, kterou má na starost. Nezapomíná ani na dalšího koníčka – moderování polabského rádia Patriot.**
+**Dopravu nezastavil ani koronavirus. Stejně tak se po celou dobu epidemie nezastavil ani Petr Procházka. Profesně se věnuje mezinárodní nákladní železniční dopravě. Denně dojíždí do práce, protože dispečer si prostě home office vzít nemůže. Kromě toho připravoval středočeský pirátský program v oblasti dopravy, kterou má na starost. Nezapomíná ani na dalšího koníčka – moderování polabského rádia Patriot.**
 
 **Láska k železnici se obvykle rodí už v dětství, ale u tebe to tak nebylo.**
 
@@ -24,9 +24,7 @@ Především se mi líbí ten obrovsky propracovaný systém, kdy se na jednu ne
 
 **Středočeši ale nejezdí jen vlaky. Jak jsme na tom s celou dopravou ve Středočeském kraji?**
 
-Doprava je v našem kraji stěžejní a také velmi palčivé téma. Máme hodně neřešených problémů. Některé jsou takzvaně velké – celokrajské, ale jiné se dotýkají jen konkrétních oblastí, například okresů. Proto také už delší dobu komunikuji s obyvateli jednotlivých částí našeho kraje, abych se dozvěděl, co je v dopravě nejvíce trápí. Piráti jsou tradičně otevření podnětům obyvatel celého kraje, nejen k tématu dopravy. 
-
-Náš nejviditelnější, ale zdaleka ne jediný problém, je každodenní přesun lidí za prací do Prahy. K tomu se váže kapacita hromadné dopravy, integrace a návaznost dopravy, ale také stav silnic.
+Doprava je v našem kraji stěžejní a také velmi palčivé téma. Máme hodně neřešených problémů. Některé jsou takzvaně velké – celokrajské, ale jiné se dotýkají jen konkrétních oblastí, například okresů. Proto také už delší dobu komunikuji s obyvateli jednotlivých částí našeho kraje, abych se dozvěděl, co je v dopravě nejvíce trápí. Piráti jsou tradičně otevření podnětům obyvatel celého kraje, nejen k tématu dopravy. Náš nejviditelnější, ale zdaleka ne jediný problém, je každodenní přesun lidí za prací do Prahy. K tomu se váže kapacita hromadné dopravy, integrace a návaznost dopravy, ale také stav silnic.
 
 **Můžeš být konkrétnější? Jaké recepty mají Piráti pro středočeskou dopravu?**
 
