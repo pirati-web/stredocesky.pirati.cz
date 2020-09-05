@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-05
 #published: false
-tags: kulturní_památky Kutná_Hora
+tags: kultura Kutná_Hora komunální_politika
 title: 'Piráti pečují o kutnohorské památky'
-description: 'kulturní památky, Kutná hora' 
-author: Piráti SčK
-#authorId: 
-image: 
+description: 'kultura, Kutná hora, komunální politika' 
+author: Štěpán Drtina
+authorId: stepan.drtina
+image: posts/2020/stepan-drtina.jpg
 ---
 
 **Kutná Hora je z hlediska památkové péče jedno z nejvýznamnějších míst v Česku, ale věhlas města je bez nadsázky celosvětový. Toto kulturní dědictví bylo svěřeno na určitou dobu do správy mj. dvěma pirátským zastupitelům. Jak si vedou a jaké mají plány do budoucna?**
