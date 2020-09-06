@@ -23,7 +23,7 @@ Canisterapie je důležitou součástí léčby klientů, kteří díky terapii 
 
 Canisterapii může vykonávat jen přezkoušený a vyškolený psovod se psem, se kterým složí zkoušky. Psovod by měl být nejen empatický a pohodový, dokonale znát svého psa, jeho možnosti, ale být i dostatečně obeznámený s prací a komunikací s klientem. Canisterapie je životní styl, poslání. 
 
-Více informací o spolku můžete najít na jeho webových stránkách www.pessos.estranky.cz, kde se se také dozvíte, jak můžete spolek podpořit v jeho další činnosti.
+Více informací o spolku můžete najít na jeho webových stránkách www.pessos.cz nebo facebooku facebook.com/pessos kde se se také dozvíte, jak můžete spolek podpořit v jeho další činnosti.
 
 > "Spolek Pessos dělá úžasnou a záslužnou práci v našem regionu už mnoho let, navštěvují domovy důchodců, hendikepované, nemocné a děti ve školách a školkách. Moc jim děkuji za práci, kterou dělají," dodává Simona Luftová, učitelka a kandidátka do Senátu v obvodu č. 18 - Příbram.
 
