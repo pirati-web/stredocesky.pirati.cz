@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-08
 #published: false
-tags: Jiří_Snížek Zdeněk_Hřib doprava rozhovor
-title: 'Středočeský kraj a Praha jsou spojené nádoby'
-description: 'Jiří Snížek, Zdeněk Hřib, doprava, rozhovor' 
+tags: rozhovor doprava životní_prostředí zdravotnictví krajská_politika
+title: 'Jiří Snížek a Zdeněk Hřib: Středočeský kraj a Praha jsou spojené nádoby'
+description: 'doprava, rozhovor, životní prostředí, zdravotnictví, krajská politika' 
 author: Piráti SčK
 #authorId: 
-image:  
+image: posts/2020/snizek-hrib.jpg
 ---
 
 **Nezbytnost spolupráce Středočeského kraje s hlavním městem si uvědomuje i kandidát na hejtmana a šéf středočeských Pirátů Jiří Snížek. Ve společném rozhovoru s pražským primátorem Zdeňkem Hřibem otevírá důležitá témata programu, se kterým jdou středočeští Piráti do krajských voleb. Předvolebním dialogem to ale určitě neskončí. Oba plánují intenzivně spolupracovat i po volbách.**
