@@ -8,7 +8,7 @@ title: 'Pes, nejlepší přítel člověka - do Příbrami za spolkem Pessos'
 description: 'Příbram, canisterapie' 
 author: Piráti SčK
 #authorId: 
-image: 
+image:  posts/2020/pessos.jpg
 ---
 
 V Příbrami od roku 2004 existuje spolek Pessos, jehož hlavním posláním je canisterapie a prevence a výcvik psů. Jejich služby můžete využít nejen v Příbrami, ale v celém širokém okolí. Spolek se zaměřuje především na pomoc psychicky a fyzicky postiženým klientům.
