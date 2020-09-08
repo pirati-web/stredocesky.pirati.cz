@@ -378,7 +378,7 @@ tail: # zbytek kandidatky
   - name: Bc. Radek Hampl
     age: 47
     profession: vedoucí správy majetku a technických služeb
-    party: člen Pirátské strany
+    party: nezávislý kandidát
     description: 
 # 63.
   - name: Ing. Ivan Šedek
