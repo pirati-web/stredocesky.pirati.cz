@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-09
 #published: false
-tags: rozhovor Jana_Skopalíková životní_prostředí kauza_Žabák Lysá_nad_Labem 
+tags: životní_prostředí kauzy krajská_politika
 title: 'Jak dál se Žabákem aneb mokřad do každé obce!'
-description: 'rozhovor, Jana Skopalíková, životní prostředí, kauza Žabák, Lysá nad Labem' 
-author: Piráti SčK
+description: 'životní prostředí, kauzy, krajská politika' 
+author: Petr Petřík/Jana Skopalíková
 #authorId: 
-image: 
+image: posts/2020/mokrad.jpg
 ---
 
 **Pokud jste v uplynulých měsících sledovali kauzu boje za záchranu mokřadu Žabák u Lysé nad Labem, asi také víte, že tentokrát se podařilo cenné území zachránit. Co jsme se ale z této kauzy dozvěděli o ochraně přírody v našem kraji a o jak cennou lokalitu se jednalo?**
