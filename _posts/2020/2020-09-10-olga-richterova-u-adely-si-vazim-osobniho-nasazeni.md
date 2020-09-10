@@ -1,0 +1,34 @@
+---
+category: blog
+layout: post
+date: 2020-09-10
+#published: false
+tags: rozhovor Kladno sociální_politika exekuce hoaxy
+title: 'Olga Richterová: U Adély si vážím osobního nasazení. Pomáhá konkrétním lidem v nesnázích'
+description: 'rozhovor, Kladno, sociální politika, exekuce, hoaxy' 
+author: Piráti SčK
+#authorId: 
+image: posts/2020/adela-olga.jpg
+---
+
+**Sešly jsme se s Olgou Richterovou, pirátskou poslankyní, abychom si popovídaly. Máme spoustu společného. Kromě toho, že jsme obě matkami, zaměřujeme se v politice na podobná témata. A jelikož Olga jako politička působí ve Sněmovně již téměř tři roky, využila jsem příležitosti s ní některá z témat probrat při mé kampani.** 
+
+**Adéla:** Na jaře, ještě v průběhu nouzového stavu, kdy ulice zely prázdnotou, jsem ve spolupráci s Magistrátem města Kladna otevřela bezplatnou právní poradnu s názvem “Antikoro právní poradna”. Provozovala jsem ji asi tři měsíce v magistrátní budově Josífka vedle zámku. Vznikla vlastně na popud jedné kladenské zastupitelky, která se mě ptala, jaké jsou možnosti právní pomoci těm nejpotřebnějším, protože měla obavu o to, z čeho budou lidé platit nájemné v městských bytech. Do poradny mi za ty týdny přišlo zhruba 50 lidí, jejichž příběhy mě hodně zasáhly. Proto jsem se jako právnička rozhodla v provozování poradny pokračovat v Kladenském pirátském centru. Mám desítky otřesných případů, kdy vlastně obdivuji odvahu lidí své potíže řešit. 
+
+Doteď jsem se ale zabývala případy spíš individuálně a přitom jsem si začala uvědomovat i systémové problémy. A právě na ty bych se chtěla v případě mého zvolení do Senátu zaměřit.
+
+**Olga:** Já vidím v rámci republiky veliké rozdíly mezi regiony ze sociálního i lidského hlediska. Vidíme kraje, kde každý rok stovky dětí nedokončí vzdělání a opustí školu (Ústecký, Karlovarský), a jiné, kde třeba nejsou tak vysoké příjmy a není tam tolik pracovních příležitostí, ale lidé si v nich hodně cení svých sousedských vztahů a místních vazeb (třeba Vysočina, Zlínsko). U vás na Kladně máte specifickou situaci díky poměrně blízkému hlavnímu městu, je to tak?
+
+**Adéla:** Kladno je v tomto ohledu skutečně dost svérázné. Jde o velké město s industriální minulostí, které se dramaticky rozrostlo až v druhé polovině 19. století. Proslavilo se zejména hornictvím a hutnictvím. Tato dvě průmyslová odvětví nalákala do Kladna ohromné množství pracujících. Útlum těžby a ekonomický krach Poldi n.p. zapříčinil tíživou situaci mnoha skupin lidí, kteří přišli o svou práci a mnozí stěží hledali nové uplatnění. Blízkost Prahy pak pomohla určitému procentu lidí najít novou práci, ale nemálo zůstalo dál nezaměstnaných. Pro některé tedy Praha a okolní provozy zapůsobily pozitivně. Bohužel tím ale na Kladně trpí kulturní a společenský život, protože zde tito lidé čas netráví. Což je samozřejmě škoda. Navíc potíže těch, kteří zůstávají bez uplatnění, se začínají přenášet na další generace. Problém se tak neustále zvětšuje a těch lidí není málo.
+
+**Olga:** Ano, v celorepublikovém měřítku stovky tisíc lidí nemají budoucnost. Zhruba půl milionu lidí je v dluhové pasti. Stále jsou přitom regiony s malým zastoupením dluhových poraden a řada lidí ani neví o tom, že exekuce proti nim vedená může být neplatná (exekuce mohou být nezákonné z několika důvodů: 1. jde o netransparentní výběr rozhodce, 2. rozhodce rozhodoval v rozporu s dobrými mravy, 3. rozhodce byl ekonomicky podjatý (rozhodoval prakticky jen pro konkrétního věřitele)). Stejně tak byly za měsíc červenec 2020 provedeny exekuční srážky 71 982 důchodcům. Další věc je nedostupné bydlení. Mým cílem je povzbudit obce, aby rozšiřovaly svůj bytový fond. Důležité je mít také krizové byty pro akutní situace.
+
+**Adéla:** Tohle je na obecní úrovni v Kladně dlouhodobě neřešené téma. Moc mě mrzí, když sleduji, jak na chudých lidech profitují podnikavci, kteří využívají situace, kdy jsou jim ty nejchudší skupiny obyvatel vydány napospas, protože nemají jinou možnost, než jít na ubytovnu. Na Kladně je to výhodný byznys. Aniž bych osočovala lokální politiky, troufám si říct, že jednají v rozporu s dobrými mravy. Věřím, že se jednou podaří přenastavit systém dostupnosti bydlení tak, abychom dosáhli určité důstojnosti bydlení i pro skupiny obyvatel ohrožené chudobou. Vím, jak ti lidé žijí, zavážím do jejich bydlišť potravinovou pomoc. Spolupracuji i s kladenskými neziskovými organizacemi. Cítím ale určitou beznaděj, když počty potřebných, kteří se mi hlásí o pomoc, dynamicky rostou. A nejsou to jen lidé z vyloučených lokalit. Často jde o seniory nebo invalidní důchodce, kteří nevyjdou s penězi. Tyto skupiny lidí jsou pak nezřídka zatíženy i exekucemi, a přestože chodí do práce, tak jim nezbývají peníze na živobytí.
+
+**Olga:** Exekuce jsou velké téma. I proto jsem ráda, že na jaře kladenští Piráti pořádali konferenci o exekucích. A že se v širších souvislostech věnují tomu, jakou by měla radnice vyvíjet činnost, včetně podpory sociálních služeb.
+
+**Adéla:** Exekucím se již delší dobu věnuji. Mám zkušenosti coby advokátka, takže vím, jak to chodí. Bohužel musím konstatovat, že lidi exekuce zatěžují skutečně nad míru. Jedním z problémů jsou staré exekuce. Lidé za mnou přicházejí a v 80 % případů nemají vůbec přehled o tom, jaké exekuce jsou proti nim vedeny a kde by mohli získat informace. Je obtížné pak takové případy rozplétat. Mnoho exekucí jsou historické exekuce, u kterých ani nikdo nečeká, že budou uhrazeny. Kvůli nim však tito lidé nepracují, protože jakmile by někde vykázali nějaký příjem, okamžitě o něj přijdou. Nevyužijí tedy svůj pracovní potenciál, což má dopad na ekonomiku státu. Vyřešit staré exekuce vedené často na základě neplatných rozhodčích doložek je podle mě cesta, jak lidem a celé společnosti pomoci.
+
+Olgo, na závěr ještě jedna otázka z jiného soudku. Volební kampaň zatím neběží zas tak dlouho a už jsem si vyslechla pár nevybíravých komentářů. Nejednou se na mě i na ulici někdo zle podíval jen proto, že jsem stála pod pirátským stanem. Když jsem se pak s těmi lidmi dala do řeči, zjistila jsem, že o Pirátech kolují různé lži. Jedna z těch absurdních je třeba ta, že se Piráti snaží vzít důchodcům řidičské průkazy nebo že jim chtějí odebrat volební právo. Což je absolutní nesmysl. Vím, že i ty se s takovými věcmi často potýkáš. Jak to zvládáš?
+
+**Olga:** Samozřejmě, štve mě, že někteří lidé cíleně šíří i o mně osobně lži. Ale na druhou stranu, na internetu lze kromě lží a hoaxů snadno dohledat i to, co reálně děláme. Třeba na webu piratipracuji.cz je naše práce vidět. A stejně tak je i spousta práce za tebou, Adélo. Vážím si tvého osobního nasazení v pomáhání konkrétním lidem v potížích, kteří chtějí změnit svůj nepříznivý stav. Nezačínáme všichni na stejné startovní čáře, a je i pro veřejné finance dobře, když lidé dostanou druhou šanci. A s tím jim právě ty pomáháš.
