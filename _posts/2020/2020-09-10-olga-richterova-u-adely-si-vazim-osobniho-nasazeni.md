@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-10
 #published: false
-tags: rozhovor Adéla_Šípová Olga_Richterová Kladno regiony Praha sociální_politika exekuce hoaxy
+tags: rozhovor Kladno sociální_politika exekuce hoaxy
 title: 'Olga Richterová: U Adély si vážím osobního nasazení. Pomáhá konkrétním lidem v nesnázích'
-description: 'rozhovor, Adéla Šípová, Olga Richterová, Kladno, regiony, Praha, sociální politika, exekuce, hoaxy' 
+description: 'rozhovor, Kladno, sociální politika, exekuce, hoaxy' 
 author: Piráti SčK
 #authorId: 
-image: 
+image: posts/2020/adela-olga.jpg
 ---
 
 **Sešly jsme se s Olgou Richterovou, pirátskou poslankyní, abychom si popovídaly. Máme spoustu společného. Kromě toho, že jsme obě matkami, zaměřujeme se v politice na podobná témata. A jelikož Olga jako politička působí ve Sněmovně již téměř tři roky, využila jsem příležitosti s ní některá z témat probrat při mé kampani.** 
