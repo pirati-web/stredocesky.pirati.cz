@@ -3,13 +3,14 @@ category: blog
 layout: post
 date: 2020-09-11
 #published: false
-tags: krajské_volby budoucnost_krajů
+tags: krajské_volby komentář
 title: 'Šance změnit budoucnost leží v regionech. Piráti zlepší řízení krajů'
-description: 'krajské volby, budoucnost krajů' 
+description: 'krajské volby, komentář' 
 author: Ivan Bartoš
-#authorId: ivan.bartos
-image: 
+authorId: ivan.bartos
+image: posts/2020/bartos-zari.jpg 
 ---
+
 Krajské volby připomínají pohádkovou Popelku – ve srovnání s prezidentskými a sněmovními sestrami jsou přehlížené a hrají tak roli podceňovaného otloukánka. Ve skutečnosti ale skrývají potenciál, který je třeba pochopit a využít. V pohádce k tomu stačil střevíček, v realitě je třeba ukázat, o čem kraj rozhoduje a jak ovlivňuje každodenní život lidí. 
 Piráti mají v plánu otevřít vedení kraje občanům, zveřejnit dosud utajované smlouvy a informace a udržet úzký kontakt s lidmi a jejich problémy. V tom spočívá význam hesla “Šance změnit budoucnost”. Potřebujeme vědět, jakou budoucnost naši obyvatelé chtějí, a dáváme příležitost se na její podobě podílet.
 
