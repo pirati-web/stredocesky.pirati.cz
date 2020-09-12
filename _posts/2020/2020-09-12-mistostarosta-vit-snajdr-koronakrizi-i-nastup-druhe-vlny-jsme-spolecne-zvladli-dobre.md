@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-12
 #published: false
-tags: Kutná_Hora rozhovor Vít_Šnajdr  covid19
-title: 'Místostarosta Vít Šnajdr: Koronakrizi i nástup druhé vlny jsme společně zvládli dobře'
-description: 'Kutná Hora, rozhovor, Vít Šnajdr, covid19' 
+tags: Kutná_Hora rozhovor covid19
+title: 'Kutnohorský místostarosta Vít Šnajdr: Koronakrizi i nástup druhé vlny jsme společně zvládli dobře'
+description: 'Kutná Hora, rozhovor, covid19' 
 author: Mediální odbor
-authorId:
-image:
+#authorId:
+image: posts/2020/snajdr-zari.jpg
 ---
 
 Vítek Šnajdr (* 1972) vystudoval PřF UK, obor učitelství biologie, a PF UHK, obor vychovatelství s etopedií. Pracoval dlouhou dobu ve školství, naposledy šest let jako ředitel základní školy. V současné době zastává post prvního místostarosty pro školství v Kutné Hoře. V jeho gesci jsou oblasti školství, sportu, kultury, památkové péče, životního prostředí, dopravy a některé investiční akce.
