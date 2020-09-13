@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-13
 #published: false
-tags: Středočeský_kraj kultura
-title: 'Středočeši mají o kulturu v kraji zájem. Pojďme ji skutečně podpořit.'
-description: 'Středočeský kraj, kultura' 
-author: Mgr. Lucie Cirkva Chocholová 
-authorId: 
-image: 
+tags: krajská_politika kultura
+title: 'Středočeši mají o kulturu v kraji zájem. Pojďme ji skutečně podpořit'
+description: 'krajská politika, kultura' 
+author: Lucie Cirkva Chocholová 
+authorId: lucie.chocholova
+image: posts/2020/chocholova-zari.jpg
 ---
 
 Památky, památníky, galerie a muzea Středočeského kraje každoročně evidují více než 4,5 milionu návštěv. Tak vysoké číslo je dokladem toho, že lidé mají o kulturu v našem kraji velký zájem. Přesto je kultura na současném krajském úřadě Popelkou.
