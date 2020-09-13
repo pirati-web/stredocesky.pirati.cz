@@ -4,7 +4,7 @@ layout: post
 date: 2020-09-12
 #published: false
 tags: Kutná_Hora rozhovor covid19
-title: 'Kutnohorský místostarosta Vít Šnajdr: Koronakrizi i nástup druhé vlny jsme společně zvládli dobře'
+title: 'Kutnohorský místostarosta Vít Šnajdr: Politika je o hledání řešení'
 description: 'Kutná Hora, rozhovor, covid19' 
 author: Mediální odbor
 #authorId:
