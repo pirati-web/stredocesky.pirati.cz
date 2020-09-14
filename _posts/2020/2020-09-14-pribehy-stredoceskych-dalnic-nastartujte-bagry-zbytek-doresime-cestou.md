@@ -8,7 +8,7 @@ title: 'Příběhy středočeských dálnic: nastartujte bagry, zbytek dořeší
 description: 'dálnice D3, doprava' 
 author: Jan Lička
 authorId: jan.licka
-image: 
+image: posts/2020/dalnice.jpg
 ---
 
 **O dálnici D3 na Tábor a České Budějovice se uvažuje už osmdesát let, plánuje se přes třicet let a staví čtvrt století. Od počátku plány i stavba probíhají oblíbenou salámovou metodou, tedy cestou nejmenšího odporu. Co nám tento nekonečný příběh vypovídá o velkých dopravních projektech v našem kraji?**
