@@ -31,4 +31,4 @@ Pro mnoho rodin je domácí výuka značné břímě a znamená znevýhodnění 
 
 **Jak to bude s ošetřovným?** 
 
-Zhoršení epidemiologické situace znervózňuje řadu rodičů, kteří se ptají, co se bude dít, když budou muset být opět s dítětem doma a rodina bude mít zásadní výpadek příjmů nebo přijde o práci. Podmínky pro ošetřovné jsou opět podle původních zákonných pravidel, to znamená na dítě pouze do deseti let věku a nejvýše na devět kalendářních dnů. Samoživitelé ho mohou pobírat až šestnáct dnů. Dávka činí šedesát procent základu příjmu. Vláda musí mít konkrétnější plán podpory a pomoci v případě, že se zase školy usezavřou.
+Zhoršení epidemiologické situace znervózňuje řadu rodičů, kteří se ptají, co se bude dít, když budou muset být opět s dítětem doma a rodina bude mít zásadní výpadek příjmů nebo přijde o práci. Podmínky pro ošetřovné jsou opět podle původních zákonných pravidel, to znamená na dítě pouze do deseti let věku a nejvýše na devět kalendářních dnů. Samoživitelé ho mohou pobírat až šestnáct dnů. Dávka činí šedesát procent základu příjmu. Vláda musí mít konkrétnější plán podpory a pomoci v případě, že se zase školy uzavřou.
