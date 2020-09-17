@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-date: 2020-09-16
+date: 2020-09-17
 #published: false
-tags: veřejné_zakázky
-title: 'Veřejné zakázky lze zadávat i chytře '
-description: 'veřejné zakázky' 
+tags: veřejné_zakázky krajská_politika
+title: 'Kandidátka do senátu Adéla Šípová: Veřejné zakázky lze zadávat i chytře'
+description: 'veřejné zakázky, krajská politika' 
 author: Adéla Šípová
 authorId: adela.sipova
-image: 
+image: posts/2020/adela-HOP.jpg
 ---
 
 V rámci své odborné praxe se věnuji problematice veřejných zakázek. Je škoda, že se naše veřejné instituce, úřady, obce a jimi zřizované instituce příliš nesnaží inspirovat dobrými příklady a praxí v zahraničí. Ono totiž jde při nákupech nebo objednávání služeb postupovat chytře. Tím myslím situaci, kdy se objednatel snaží nejen ušetřit, ale současně podpořit takové dodavatele, kteří uvažují moderně. 
