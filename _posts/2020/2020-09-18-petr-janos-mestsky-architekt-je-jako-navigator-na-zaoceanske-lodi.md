@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-18
 #published: false
-tags: rozhovor Kutná_Hora městská_architektura
+tags: rozhovor Kutná_Hora architektura
 title: 'Petr Janoš: Městský architekt je jako navigátor na zaoceánské lodi'
-description: 'rozhovor, Kutná Hora, městská architektura' 
+description: 'rozhovor, Kutná Hora, architektura' 
 author: mediální odbor
-authorId: 
-image: 
+#authorId: 
+image: posts/2020/janos-architekt.jpg
 ---
 
 **Před půl rokem jste se stal prvním městským architektem Kutné Hory. S čím jste vstupoval do výběrového řízení?**
@@ -19,7 +19,6 @@ image:
 
 Bude to znít asi trochu zvláštně, ale půl roku je opravdu velmi krátká doba, především z pohledu vývoje města. Tudíž určitě jsem neočekával, že by se věci mohly ihned začít mou činností nebo mým vlivem někam hýbat. Všechny procesy v rámci města - rozhodovací, administrativní a na konci samotné fyzické proměny - mají velkou setrvačnost. Je to jako obrovská zaoceánská loď, na jejíž palubě jsem se ocitl v roli jakéhosi navigátora s mapou a kompasem, který kapitánovi a lodníkům napovídá, kam by ideálně měli plout. I když kapitán bude naslouchat a lodníci budou dělat, co mají, chvíli to trvá, než loď změní kurz. 
 Práci městského architekta vnímám jako dlouhodobou soustavnou činnost, která je viditelná a nese ovoce až po čase. Předpokladem je pochopit prostředí a různé kontexty města. Stále mám co nového poznávat, vidět a naučit se. A ten kurz s prstem ve větru pořád zpřesňuji. 
-
 
 **Kde vidíte v Kutné Hoře největší výzvy z hlediska své pozice?**
 
