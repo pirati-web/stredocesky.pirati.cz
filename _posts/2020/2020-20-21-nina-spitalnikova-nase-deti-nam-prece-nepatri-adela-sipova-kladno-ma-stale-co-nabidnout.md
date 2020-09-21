@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-21
 #published: false
-tags: rozhovor Kladno senátní_volby ženská_práva samoživitelé Evropský_parlament
+tags: rozhovor Kladno senátní_volby ženská_práva samoživitelé
 title: 'Nina Špitálníková: Naše děti nám přece nepatří. Adéla Šípová: Kladno má stále co nabídnout'
-description: 'rozhovor, Kladno, senátní volby, ženská práva, samoživitelé, Evropský parlament' 
+description: 'rozhovor, Kladno, senátní volby, ženská práva, samoživitelé' 
 author: mediální odbor
 #authorId: 
-image: 
+image: posts/2020/adela-nina.jpg
 ---
 
 **Adéla Šípová - advokátka, matka pěti dětí a nadšená cyklistka, a Nina Špitálníková - česká koreanistka, odbornice na Korejskou lidově demokratickou republiku, spisovatelka a aktivistka za ženská práva. Dvě političky, příznivkyně Pirátů, které spojuje nejen Kladensko. Nina kandidovala v roce 2019 do Evropského parlamentu, Adélu nyní čekají v roce 2020 volby do Senátu. V rozhovoru kromě osobního života obě popisují, jaké to je, když se stanete díky kampani veřejně známou osobou, nebo proč je pro ně významná problematika matek samoživitelek ve společnosti.**  
