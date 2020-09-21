@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-09-21
+date: 2020-09-20
 #published: false
 tags: rozhovor Kladno senátní_volby ženská_práva samoživitelé
 title: 'Nina Špitálníková: Naše děti nám přece nepatří. Adéla Šípová: Kladno má stále co nabídnout'
