@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-date: 2020-09-22
+date: 2020-09-21
 #published: false
-tags: Kutná_Hora školství nadační_fond_Eduzměna
+tags: Kutná_Hora školství
 title: 'Kutnohorsko má šanci stát se vlajkovou lodí vzdělávání v Česku'
-description: 'Kutná Hora, školství, nadační fond Eduzměna' 
-author: mediální odbor
-#authorId: 
-image: 
+description: 'Kutná Hora, školství' 
+author: Vít Šnajdr
+authorId: vit.snajdr
+image: posts/2020/snajdr-zari.jpg
 ---
 
 **V našem předvolebním programu jsme deklarovali, že by se Kutná Hora měla stát městem vzdělávání. Tento závazek  se nám zatím daří velmi dobře naplňovat. První výsledky již přináší spolupráce s Nadačním fondem Eduzměna.**
