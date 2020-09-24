@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-09-22
 #published: false
-tags: kultura poslanecká_sněmovna
+tags: kultura poslanecká_sněmovna covid19
 title: 'Státní pomoc kulturnímu průmyslu během pandemie je v nedohlednu. Piráti žádají nápravu'
-description: 'kultura, poslanecká sněmovna'
+description: 'kultura, poslanecká sněmovna, covid19'
 author: Lenka Kozlová
 authorId: lenka.kozlova
 image: posts/2020/kultura-zari.jpg
