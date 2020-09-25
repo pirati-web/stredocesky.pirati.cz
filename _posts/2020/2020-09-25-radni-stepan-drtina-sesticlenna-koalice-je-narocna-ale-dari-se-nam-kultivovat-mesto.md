@@ -7,8 +7,8 @@ tags: rozhovor Kutná_Hora krajské_volby
 title: 'Radní Štěpán Drtina: Šestičlenná koalice je náročná, ale daří se nám kultivovat město'
 description: 'rozhovor, Kutná Hora, krajské volby' 
 author: mediální odbor 
-authorId: 
-image: 
+#authorId: 
+image: posts/2020/stepan-drtina-KH.jpg
 ---
 
 Štěpán Drtina (* 1994) se narodil v Čáslavi, ale celý život žije v Kutné Hoře, kde také odmaturoval. Momentálně studuje na Filozofické fakultě v Hradci Králové obor Novodobé české a československé dějiny. Je kutnohorským radním s gescí kultura a památková péče, pracuje jako asistent poslankyně Lenky Kozlové a je místopředseda Pirátů ve Středočeském kraji.
