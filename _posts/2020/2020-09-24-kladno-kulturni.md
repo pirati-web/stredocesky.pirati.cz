@@ -7,7 +7,7 @@ tags: Kladno kultura
 title: 'Kladno kulturní'
 description: 'Kladno, kultura' 
 author: Lucie Cirkva Chocholová 
-#authorId: lucie.chocholova
+authorId: lucie.chocholova
 image: posts/2020/chocholova-zari.jpg
 ---
 
