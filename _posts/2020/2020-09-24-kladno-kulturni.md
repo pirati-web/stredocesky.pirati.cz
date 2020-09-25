@@ -7,8 +7,8 @@ tags: Kladno kultura
 title: 'Kladno kulturní'
 description: 'Kladno, kultura' 
 author: Lucie Cirkva Chocholová 
-#authorId: 
-image: 
+#authorId: lucie.chocholova
+image: posts/2020/chocholova-zari.jpg
 ---
 
 Kladno mělo v historii mnoho různých charakteristik, např. rudé nebo město sportu. Bylo však někdy vůbec Kladno kulturní? Odpovědí je jednoznačné ano. Jak moc ale umí město toto téma uchopit a vytvořit pro kulturu vyhovující podmínky? 
