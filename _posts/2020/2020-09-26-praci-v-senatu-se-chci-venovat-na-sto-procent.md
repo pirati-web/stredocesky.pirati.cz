@@ -4,11 +4,11 @@ layout: post
 date: 2020-09-26
 #published: false
 tags: rozhovor Příbram senátní_volby vzdělávání 
-title: 'Práci v senátu se chci věnovat na sto procent'
+title: 'Simona Luftová: Práci v senátu se chci věnovat na sto procent'
 description: 'rozhovor, Příbram, senátní volby, vzdělávání' 
 author: mediální odbor 
 #authorId: 
-image: 
+image: posts/2020/simona-luftova2.jpg
 ---
 
 Ve volbách do Senátu parlamentu České republiky 2020 kandiduje Simona Luftová ve volebním obvodě č. 18 – Příbram jako kandidátka České pirátské strany.
@@ -31,8 +31,8 @@ Například v Maďarsku Senát nemají, zde se podařilo využít ústavní vět
 
 **Jak chceš Senát přiblížit lidem?**
 
-Senátoři a senátorky jsou voleni přímo a to voliči z konkrétního senátního obvodu, který by Senátor měl dobře znát. Měl by chodit mezi lidi, naslouchat jim a vnímat problémy, které je pálí a pomoct jim hledat řešení. A to nejen před volbami, ale pod celou dobu trvání jejich mandátu. Proto mám v plánu zřídit mobilní senátorskou kancelář a postupně navštívit všechny obce a města ve volebním obvodě a pravidelně se scházet se s lidmi, kteří zde žijí, se starosty, podnikateli, či zástupci veřejných a neziskových organizací. Je důležité zůstat otevřený a přístupný. Senátor má mimo jiné ústavní právo interpelovat místní zastupitelstva a vyjadřovat se ke konkrétnímu problému, což hodlám v případech, kdy to bude nutné a žádoucí, využívat. 
+Senátoři a senátorky jsou voleni přímo a to voliči z konkrétního senátního obvodu, který by Senátor měl dobře znát. Měl by chodit mezi lidi, naslouchat jim a vnímat problémy, které je pálí a pomoct jim hledat řešení. A to nejen před volbami, ale pod celou dobu trvání jejich mandátu. Proto mám v plánu zřídit mobilní senátorskou kancelář a postupně navštívit všechny obce a města ve volebním obvodě a pravidelně se scházet se s lidmi, kteří zde žijí, se starosty, podnikateli či zástupci veřejných a neziskových organizací. Je důležité zůstat otevřený a přístupný. Senátor má mimo jiné ústavní právo interpelovat místní zastupitelstva a vyjadřovat se ke konkrétnímu problému, což hodlám v případech, kdy to bude nutné a žádoucí, využívat. 
 
 **Jak vnímáš svůj volební obvod 18?**
 
-Můj volební obvod je opravdu rozsáhlý a rozmanitý, je zde 148 měst a menších obcí. Snažím se v rámci kampaně jich co nejvíce navštívit a poznat co místní lidé řeší za problémy. Je toho celá řada, například nedostatek míst ve školkách, nedostupné bydlení pro mladé lidi, problémy se suchem, nedostatek kvalitních pracovních míst, atd. Mnoho lidí z regionu musí denně dojíždět za prací do Prahy a menší obce dál od Prahy se vylidňují. Volební obvod je ale také velmi krásný, je zde rozmanitá příroda, Brdské lesy, Vltava a řada krásných přírodních lokalit. Jsem ráda, že je to můj domov a budu pro lidi v něm ráda pracovat. 
+Můj volební obvod je opravdu rozsáhlý a rozmanitý, je zde 148 měst a menších obcí. Snažím se v rámci kampaně jich co nejvíce navštívit a poznat, co místní lidé řeší za problémy. Je toho celá řada, například nedostatek míst ve školkách, nedostupné bydlení pro mladé lidi, problémy se suchem, nedostatek kvalitních pracovních míst atd. Mnoho lidí z regionu musí denně dojíždět za prací do Prahy a menší obce dál od Prahy se vylidňují. Volební obvod je ale také velmi krásný, je zde rozmanitá příroda, Brdské lesy, Vltava a řada krásných přírodních lokalit. Jsem ráda, že je to můj domov a budu pro lidi v něm ráda pracovat. 
