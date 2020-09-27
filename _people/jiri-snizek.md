@@ -55,8 +55,6 @@ Již téměř 7 let ho živí spolupráce s firmou [Alis s r.o.](http://www.alis
 * 31.8.-6.9. Kladensko
 * 7.-13.9. Benešovsko
 * 14.-20.9. Mladoboleslavsko
-* 21.9.-27.9. Praha-západ
-* 28.9.-2.10. Praha-východ
 
 #### Rakovnicko
 
