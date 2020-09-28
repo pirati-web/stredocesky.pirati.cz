@@ -7,8 +7,8 @@ tags: Louny senátní_volby životní_prostředí zemědělství
 title: 'O krajině a zemědělství se sedlákem pod Milešovkou'
 description: 'Louny, senátní volby, životní prostředí, zemědělství' 
 author: Adéla Šípová
-authorId: 
-image: 
+authorId: adela.sipova
+image: posts/2020/pitek.jpg
 ---
 
 Příroda, životní prostředí, to je pro mě velké téma. Moc mě proto potěšilo, když mi vyjádřilo podporu hnutí SENÁTOR 21. Za ně totiž ve volebním obvodě Louny do Senátu kandiduje Daniel Pitek, který je také znám jako sedlák pod Milešovkou. 
