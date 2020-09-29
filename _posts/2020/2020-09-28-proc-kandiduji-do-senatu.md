@@ -4,14 +4,12 @@ layout: post
 date: 2020-09-28
 #published: false
 tags: Kolín senátní_volby sociální_oblat 
-title: 'Proč kandiduji do Senátu'
+title: 'Cyril Koky: Proč kandiduji do Senátu'
 description: 'Kolín, senátní volby, sociální oblast' 
 author: Cyril Koky
 authorId: cyril.koky
-image: 
+image: posts/2020/koky.jpg
 ---
-
-**Vážení spoluobčané, děkuji, že jste se rozhodli prolistovat moje senátorské noviny. Jejich prostřednictvím se vám chci představit a pozvat vás k volbám. V tomto úvodním článku chci vysvětlit, proč jsem se rozhodl kandidovat do senátu za Českou Pirátskou stranu ve volebním obvodu č. 42, Kolín.**
 
 Nejdříve se sluší představit se. V Kolíně bydlím od roku 1987. Sloužil jsem u zdejší Vojenské posádky coby voják z povolání. Jsem ženatý, manželka pracuje v kolínské nemocnici jako zdravotní sestra. Máme dvě děti. Starší syn vystudoval právnickou fakultu Masarykovy univerzity v Brně, dcera je studentkou Ekonomicko — správní fakulty Univerzity v Pardubicích. Od r. 1998 jsem působil na Odboru sociálních věcí při Okresním úřadu v Nymburce. Bakalářský titul jsem získal na Academia Rerum Civilium — Vysoká škola politických a společenských věd v Kolíně, magisterský na Vysoké škole ekonomie a managementu veřejné správy v Bratislavě. V roce 2017 jsem absolvoval Postgraduální studium - Master Of Public Administration MPA na ARC - Vysoká škola politických a společenských věd, s.r.o. Kutná Hora. Od roku 2003 působím jako odborný referent pro oblast národnostních menšin na Krajském úřadu Středočeského kraje.
 
