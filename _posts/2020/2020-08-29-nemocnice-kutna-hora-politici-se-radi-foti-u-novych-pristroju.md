@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-date: 2020-09-29
+date: 2020-09-28
 #published: false
 tags: Kutná_Hora zdravotnictví
 title: 'Nemocnice Kutná Hora: Politici se rádi fotí u nových přístrojů, ale na personál už peníze nezbývají'
 description: 'Kutná Hora, zdravotnictví' 
-author: mediální odbor
-authorId: 
-image: 
+author: Milan Zelený
+authorId: milan.zeleny
+image: posts/2020/zeleny-zari.jpg
 ---
 
 V historii se kutnohorská nemocnice potýkala s finančními ztrátami a tehdejší vedení města Kutná Hora bylo nuceno k převodu nemocnice Středočeskému kraji. V jeho vlastnictví je od roku 2010 a současným provozovatelem je Oblastní nemocnice Kolín, a.s., nemocnice Středočeského kraje. Středočeský kraj je zřizovatelem celkem pěti oblastních nemocnic na území našeho kraje, a sice v Kladně, Mladé Boleslavi, Příbrami, Benešově a již zmiňovaném Kolíně.
