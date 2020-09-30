@@ -3,12 +3,12 @@ category: blog
 layout: post
 date: 2020-09-30
 #published: false
-tags: Středočeský_kraj politické_kauzy
+tags: krajská_politika kauzy
 title: 'Nebyli to jen Rath a Jermanová. Kdo nám vládl posledních dvacet let?'
-description: 'Středočeský kraj, politické kauzy' 
-author: 
-authorId: 
-image: 
+description: 'krajská politika, kauzy' 
+author: Ondřej Klimeš
+#authorId:
+image: posts/2020/Radnice_Středočeského_kraje.jpg
 ---
 
 **Středočeský kraj drží řadu prvenství. Co do rozlohy i počtu obyvatel je největším krajem. Proslul ale také tím, že se v jeho čele objevila řada kontroverzních osobností. Před letošními říjnovými krajskými volbami určitě stojí za to si připomenout, kdo nám posledních dvacet let vládl.**
