@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-09-28
+date: 2020-09-29
 #published: false
 tags: Kolín senátní_volby sociální_oblat 
 title: 'Cyril Koky: Proč kandiduji do Senátu'
