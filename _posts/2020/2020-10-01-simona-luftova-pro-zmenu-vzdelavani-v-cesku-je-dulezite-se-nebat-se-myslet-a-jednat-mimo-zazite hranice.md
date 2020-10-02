@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-09-30
+date: 2020-10-01
 #published: false
 tags: rozhovor Příbram senátní_volby vzdělávání 
 title: 'Simona Luftobá: Pro změnu vzdělávání v Česku je důležité nebát se myslet a jednat mimo zažité hranice'
