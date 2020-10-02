@@ -8,7 +8,7 @@ title: 'Simona Luftová: Pro změnu vzdělávání v Česku je důležité nebá
 description: 'rozhovor, Příbram, senátní volby, vzdělávání' 
 author: Piráti SčK
 #authorId: 
-image: posts/2020/simona-luftova.jpg
+image: posts/2020/Simona_Luftova_Pirati.jpg
 ---
 
 Simona Luftová učí více než deset let na střední škole a vyšší odborné škole. Jedno z jejích hlavních témat do voleb je proto i oblast vzdělávání a školství. 
