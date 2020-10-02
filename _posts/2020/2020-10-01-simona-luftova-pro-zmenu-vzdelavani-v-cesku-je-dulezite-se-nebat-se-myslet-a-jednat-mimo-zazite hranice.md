@@ -4,11 +4,11 @@ layout: post
 date: 2020-10-01
 #published: false
 tags: rozhovor Příbram senátní_volby vzdělávání 
-title: 'Simona Luftobá: Pro změnu vzdělávání v Česku je důležité nebát se myslet a jednat mimo zažité hranice'
+title: 'Simona Luftová: Pro změnu vzdělávání v Česku je důležité nebát se myslet a jednat mimo zažité hranice'
 description: 'rozhovor, Příbram, senátní volby, vzdělávání' 
 author: Piráti SčK
 #authorId: 
-image: simona-luftova.jpg
+image: posts/2020/simona-luftova.jpg
 ---
 
 Simona Luftová učí více než deset let na střední škole a vyšší odborné škole. Jedno z jejích hlavních témat do voleb je proto i oblast vzdělávání a školství. 
