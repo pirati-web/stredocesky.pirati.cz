@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-10-02
 #published: false
-tags: vzdělávání piratecon
+tags: vzdělávání piratecon tisková_zpráva
 title: 'Piráti napříč kraji spolupracují na řešení distančního vzdělávání'
-description: 'vzdělávání, piratecon'
+description: 'vzdělávání, piratecon, tisková zpráva'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/rodice-reaguji-intro.jpg
