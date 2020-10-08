@@ -4,7 +4,7 @@ layout: post
 date: 2020-10-08
 #published: false
 tags: Kladno senátní_volby
-title: 'Adéla Šípová: Ještě nemáme vyhráno!'
+title: 'Adéla Šípová: Hraju fér, ale zametat se sebou nenechám'
 description: 'Kladno senátní_volby'
 author: Adéla Šípová
 #authorId: jakub.vaclavovic
