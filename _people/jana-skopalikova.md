@@ -23,7 +23,7 @@ profiles:
 
 Pochází z Olomouce, kde vystudovala Slovanské gymnázium. Ve studiu pokračovala na Přírodovědecké fakultě Univerzity Karlovy v Praze, kde dokončila bakalářský obor Molekulární biologie a biochemie organismů a magisterský obor Botanika se zaměřením na cévnaté rostliny. Nyní studuje doktorský program (v rámci své disertační práce se věnuje fylogenezi rodu kurkuma) a pracuje v Botanickém ústavu AV ČR v Průhonicích.
 
-Piráty volí už dlouho, ale více se o ně zajímat začala po úspěchu volbách do Poslanecké sněmovny v roce 2017. Přes Pirátský guláš pro potřebné a akci Ukliďme Česko se dostala k aktivní účasti ve straně. Velmi si cení toho, že Piráti nedělají jen politiku, ale také se věnují i potřebným a přírodě. Politiku bere jako nástroj, jak posunout svět směrem k lepším zítřkům.
+Piráty volí už dlouho, aktivvně se o ně začala zajímat po úspěchu volbách do Poslanecké sněmovny v roce 2017. Přes Pirátský guláš pro potřebné a akci Ukliďme Česko se dostala k osobnímu zapojení ve straně. Velmi si cení toho, že Piráti nedělají jen politiku, ale také se věnují i potřebným a přírodě. Politiku bere jako nástroj, jak posunout svět směrem k lepším zítřkům.
 
 Miluje přírodu, táhne ji to směrem k zero-waste, pracuje s dětmi v přírodovědném oddílu a vede praktika na Katedře botaniky PřF UK. Ráda hraje na kytaru a zpívá u táboráku, věnuje se americkému stepu (cloggingu), někdy fotí, zajímá se o rekonstrukci historie a po večerech šije dobové kostýmy.
 
