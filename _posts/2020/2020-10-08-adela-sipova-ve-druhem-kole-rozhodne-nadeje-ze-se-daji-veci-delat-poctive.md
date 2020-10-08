@@ -33,4 +33,4 @@ Před prvním kolem byla kampaň slušná a věcná. Nyní mě ale nemile překv
 
 Chci vyzvat všechny voliče: nenechte se otrávit a pojďte tento pátek nebo sobotu volit. Je vidět, že ještě nemáme vyhráno. Teď je to na nás. Věřím, že to společně dokážeme. Hlasovací lístky dostanete tentokrát až ve volebních místnostech. Vaše Adéla Šípová.
 
-*rozhovor vyšel na [vasekladno.cz](http://www.vasekladno.cz/predstavujeme/12714-adela-sipova-ve-druhem-kole-rozhodne-nadeje-ze-se-daji-veci-delat-poctive)
+*rozhovor vyšel na [vasekladno.cz](http://www.vasekladno.cz/predstavujeme/12714-adela-sipova-ve-druhem-kole-rozhodne-nadeje-ze-se-daji-veci-delat-poctive)*
