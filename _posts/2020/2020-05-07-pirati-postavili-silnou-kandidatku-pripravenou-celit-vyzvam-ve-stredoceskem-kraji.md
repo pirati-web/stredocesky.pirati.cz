@@ -8,7 +8,7 @@ title: 'Piráti postavili silnou kandidátku připravenou čelit výzvám ve St�
 description: 'krajské volby, tisková zpráva'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
-image: posts/2020/sck.jpg
+image: posts/2020/sck1.jpg
 ---
 
 **Středočeský kraj, 7. května 2020** – Do krajských voleb, které se uskuteční 2. a 3. října, Piráti Středočeského kraje vyšlou zkušené komunální politiky, pedagogy, ekonomy, advokáty, zdravotníky, IT specialisty či vědecké pracovníky.
