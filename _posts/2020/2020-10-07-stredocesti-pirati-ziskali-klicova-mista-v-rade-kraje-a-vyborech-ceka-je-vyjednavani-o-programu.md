@@ -3,9 +3,9 @@ category: blog
 layout: post
 date: 2020-10-07
 #published: false
-tags: kraj zastupitelstvo tisková_zpráva
+tags: krajská_politika zastupitelstvo tisková_zpráva
 title: 'Středočeští Piráti získali klíčová místa v Radě kraje a výborech. Čeká je vyjednávání o programu'
-description: 'kraj, zastupitelstvo, tisková zpráva'
+description: 'krajská politika, zastupitelstvo, tisková zpráva'
 author: Piráti SčK
 #authorId: jakub.vaclavovic
 image: posts/2020/Radnice_Středočeského_kraje.jpg
