@@ -8,7 +8,7 @@ title: 'Programové priority středočeské koalice: důraz na digitalizaci i sp
 description: 'krajská politika, zastupitelstvo'
 author: Lucie Cirkva Chocholová
 authorId: lucie.chocholova
-image: posts/2020/lenka-kozlova.jpg
+image: posts/2020/sck.jpg
 ---
 
 Celý týden od 12. října byl ve znamení vyjednávání o programových bodech s koaličními partnery. Obsazení rady a zástupců jednotlivých stran ve výborech a komisích má již konkrétní podobu. Mohli se tak sejít všichni zástupci jednotlivých oborových oblastí, aby diskutovali své programové priority. Pirátský lídr Jiří Snížek absolvoval většinu jednání online.  Každá zastoupená strana se snažila prosadit co nejvíce ze svého volebního programu. Navzdory tomu se jednání vedla v konstruktivní atmosféře se snahou o dosažení ideálního výsledku pro všechny zúčastněné zástupce.
