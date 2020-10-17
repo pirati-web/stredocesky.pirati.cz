@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2020-10-15
+date: 2020-10-16
 #published: false
 tags: Poslanecká_sněmovna komentář kultura Příbram
 title: 'Komentář Lenky Kozlové: Vláda vyslyšela apel Pirátů na rozšíření okruhu příjemců pomoci, chceme znát dlouhodobé podmínky podpory v kultuře'
