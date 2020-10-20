@@ -41,6 +41,7 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 * 15.7.2020 Na PIVO s Piráty - Ohrobec
 * Červenec - zahájení kampaně do kraje a Senátu v našich obcích
 * 27.8.2020 Na PIVO s Piráty - Kozlovna Velké Popovice
+* 22.10.2020 Online schůze
 
 ##### 2019
 
@@ -76,5 +77,9 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Mirek Dvořák** (* 24. března 1972) je členem Pirátů od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.
+</div>
+
+<div markdown="1" class="c-profile-badge">
+{% asset 'ms/jesenice-jilove/rubenstein-400px.jpg' alt='Ira Rubenstein' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Ira Rubenstein** - new Pirate with a lengthy career. He started in the mid-1970s working for New York government, then worked as a consultant, and moved into finance in the late 1980s. His longtime focus is alternative energy and clean technology of all kinds. He worked for two decades in finance in New York and came to Prague to pursue regional and global opportunities in 2005.  He moved permanently to the Czech Republic in 2009, becoming a citizen about 5 years ago. He still works in finance with both Prague and California-based firms. He loves the energy that founders and innovators bring to their businesses and he try to help them succeed. Ira works at Czech Technical University in Prague as the Mentor for Technology Transfer. He also initiated The Innovation SPOT at Pragovka, intended to be the largest co-creation facility for entrepreneurial companies in Central Europe. And Ira provides internal advise to a company focused on helping science-based startups to get to success.
 </div>
 
