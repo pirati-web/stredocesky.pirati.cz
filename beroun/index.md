@@ -18,27 +18,27 @@ volba: https://forum.pirati.cz/viewtopic.php?p=718340#p718340
 ---
 {% asset 'ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
 
-Místní sdružení Beroun bylo založeno v září 2020 po více jak ročních přípravách a postupném budování členské základny. Momentálně jsme parta čtyř lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
+Místní sdružení Beroun bylo založeno v září 2020 po více než ročních přípravách a postupném budování členské základny. Momentálně jsme parta čtyř lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
 
-Naším cílem je místní sdružení Beroun postupně rozvíjet. Pomáhat České pirátské straně při volebních kampaních tak, jako jsme to dělali do teď, budovat povědomí o Pirátech a Pirátkách v berounském okrese, pořádat nebo se podílet na přípravách některých akcí, aktivně se zajímat o problematiky Berouna a dalších obcí nebo dobrovolně pomáhat různým spolkům a neziskovým organizacím s veřejně prospěšnými činnostmi. Naše setkání se snažíme realizovat každý měsíc v Berouně a budeme rádi, když se při této příležitosti navzájem poznáme a pobavíme se o všem, co Vás zajímá. 
+Naším cílem je místní sdružení Beroun postupně rozvíjet. Pomáhat České pirátské straně při volebních kampaních tak, jako jsme to dělali do teď, budovat povědomí o Pirátech a Pirátkách v berounském okrese, pořádat nebo se podílet na přípravách některých akcí, aktivně se zajímat o problematiku Berouna a dalších obcí nebo dobrovolně pomáhat různým spolkům a neziskovým organizacím s veřejně prospěšnými činnostmi. Naše setkání se snažíme realizovat každý měsíc v Berouně a budeme rádi, když se při této příležitosti navzájem poznáme a pobavíme se o všem, co Vás zajímá. 
 
 Jedním z hlavních našich cílů na naší cestě je kandidovat v příštích Komunálních volbách 2022, uspět v nich a podílet se na rozvoji obcí pozitivním směrem v souladu s hodnotami a přesvědčením České pirátské strany a nás všech.
 
 # Členové MS
 
-**Sámir Shanaáh - předseda Místního sdružení**
+**Sámir Shanaáh - předseda Místního sdružení Beroun**
 
 Sámir se narodil v Praze a nyní již několik let žije v Berouně. Vystudoval Globální podnikání a management a pokračuje dál ve studiu MBA v oboru Psychologie managementu. Pracuje jako Koordinátor fundraisingu pro neziskovou organizaci a Českou pirátskou stranu, dále pracuje jako manažer v rodinné firmě. Celý život ho naplňuje pomáhat a dělat radost svému okolí a politiku vnímá jako další vhodný nástroj v práci pro společnost. Sámir je kavárenský povaleč, rád cestuje, miluje hudbu/tanec a nejraději tráví čas se svou ženou a psem.
 
 **Pavel Kešner - místopředseda Místního sdružení Beroun**
 
-Pavel se narodil v Berouně. Několik let žil v Králově Dvoře. Po studiu se rozhodl vrátit zpět do Berouna, kde dnes žije. Živí se jako podnikatel v několika oborech mezi něž ty patří největší patří autodoprava a gastro provoz. V život ho naplňuje pocit adrenalinu a objevování nových věcí. Politiku vnímá jako důležitý nástroj pro budování lepší budoucnosti. Pavel rád cestuje, objevuje nové technologie a trendy.
+Pavel se narodil v Berouně. Několik let žil v Králově Dvoře. Po studiu se rozhodl vrátit zpět do Berouna, kde dnes žije. Živí se jako podnikatel v několika oborech, mezi něž patří autodoprava a gastro provoz. V životě ho naplňuje pocit adrenalinu a objevování nových věcí. Politiku vnímá jako důležitý nástroj pro budování lepší budoucnosti. Pavel rád cestuje, objevuje nové technologie a trendy.
 
 **Vojtěch Vopařil - místopředseda Místního sdružení Beroun**
 
 Vojtěch se narodil v roce 1989  v Berouně, kde také, až na čtyřletý odskok do Poděbrad po přelomu tisíciletí, celý život žije. Vystudoval osmileté gymnázium a následně bakalářský i magisterský program Informatika se zaměřením na Softwarové inženýrství na Fakultě informačních technologií ČVUT. Pracuje jako softwarový vývojář pro zdravotnický holding AKESO, pod nějž spadá mimo jiné berounská nemocnice.
 
-S pirátskou stranou začal sympatizovat již krátce po jejím založení, a to zejména pro nespokojenost s byrokracií, korupcí a v neposlední řadě technickou zaostalostí ze strany státního aparátu. Jeho vizí je moderní stát, který bude občanovi dobrým pomocníkem, ale který se zároveň nebude pasovat do role občanova rodiče.
+S Pirátskou stranou začal sympatizovat již krátce po jejím založení, a to zejména pro nespokojenost s byrokracií, korupcí a v neposlední řadě technickou zaostalostí ze strany státního aparátu. Jeho vizí je moderní stát, který bude občanovi dobrým pomocníkem, ale který se zároveň nebude pasovat do role občanova rodiče.
 
 **David Hösl - člen místního sdružení Beroun**
 
