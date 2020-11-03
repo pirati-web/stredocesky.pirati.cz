@@ -9,7 +9,7 @@ description: 3. místopředsedkyně krajského sdružení
 ordPKS: 4
 img: people/jana-skopalikova.jpg
 mail: jana.skopalikova@pirati.cz
-mob:
+mob: +420 736 154 039
 #  - 
 profiles:
   web:
