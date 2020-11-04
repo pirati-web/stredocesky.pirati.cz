@@ -4,7 +4,7 @@ layout: post
 date: 2020-11-04
 #published: false
 tags: krajská_politika
-title: 'Středočeský Piráti dnes podepsali koaliční smlouvu'
+title: 'Středočeští Piráti dnes podepsali koaliční smlouvu'
 description: 'krajská politika'
 author: 
 #authorId: lucie.chocholova
