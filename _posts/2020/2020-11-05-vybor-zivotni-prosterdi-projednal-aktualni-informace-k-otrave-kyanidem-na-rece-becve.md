@@ -8,7 +8,7 @@ title: 'Výbor pro životní prostředí projednal aktuální informace k otrav�
 description: 'životní prostředí, poslanecká sněmovna'
 author: Mediální odbor
 #authorId: lucie.chocholova
-image: posts/2020/balcarova-vybor.jpg
+image: posts/2020/becva.jpg
 ---
 
 Sněmovní Výbor pro životní prostředí včera projednal kauzu úniku kyanidu do řeky Bečvy, při níž uhynulo v řece více než 40 tun ryb. Na jednání byli přizváni ředitel České inspekce životního prostředí Erik Geuss a ministr životního prostředí Richard Brabec, aby členy výboru informovali o průběhu vyšetřování a vyjasnili nesrovnalosti provázející kauzu. „Bohužel i po dnešním jednání otazníky kolem události zůstávají. Chtěl bych vyzvat původce úniku k převzetí zodpovědnosti,” uvedl po skončení výboru zpravodaj bodu, pirátský poslanec František Elfmark. „Během vyhrocené debaty okolo havárie na Bečvě nám ministr Brabec ani ředitel inspekce Geuss prakticky nic neřekli a ve své úvodní řeči se dokonce oba pokoušeli přenést odpovědnost za šetření havárie na vodoprávní úřad,” komentovala dění pirátka Dana Balcarová, předsedkyně Výboru pro životní prostředí. 
