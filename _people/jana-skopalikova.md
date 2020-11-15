@@ -25,5 +25,5 @@ Pochází z Olomouce, studovala na Přírodovědecké fakultě Univerzity Karlov
 
 Piráty volí už dlouho, aktivvně se o ně začala zajímat po úspěchu volbách do Poslanecké sněmovny v roce 2017. Přes Pirátský guláš pro potřebné a akci Ukliďme Česko se dostala k osobnímu zapojení ve straně. Velmi si cení toho, že Piráti nedělají jen politiku, ale také se věnují i potřebným a přírodě. Politiku bere jako nástroj, jak posunout svět směrem k lepším zítřkům.
 
-Miluje přírodu, táhne ji to směrem k zero-waste, pracuje s dětmi v přírodovědném oddílu a vede praktika na Katedře botaniky PřF UK. Ráda hraje na kytaru a zpívá u táboráku, věnuje se americkému stepu (cloggingu), někdy fotí, zajímá se o rekonstrukci historie a po večerech šije dobové kostýmy.
+Miluje přírodu, táhne ji to směrem k zero-waste, pracovala s dětmi v přírodovědném oddílu a vede cvičení na Katedře botaniky PřF UK. Ráda hraje na kytaru a zpívá u táboráku, věnuje se americkému stepu (cloggingu), někdy fotí, zajímá se o rekonstrukci historie a po večerech šije dobové kostýmy.
 
