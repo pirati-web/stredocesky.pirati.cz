@@ -8,7 +8,7 @@ title: 'Piráti usedli do krajských zastupitelských lavic'
 description: 'krajská_politika'
 author: Mediální odbor
 #authorId: frantisek.kopriva
-image: posts/2020/TZ_ustavko.png
+image: posts/2020/rada-stc.jpg
 ---
 V zasedacím sále Krajského úřadu Středočeského kraje v Praze se v pondělí 16. listopadu 2020 uskutečnilo ustavující jednání nového středočeského zastupitelstva. Za velkého zájmu veřejnosti a zástupců médií usedlo do lavic po ověření mandátů všech 65 zastupitelů zvolených v krajských volbách na začátku října. Následoval slib zastupitelů, který noví členové kolektivního orgánu zastupitelstva složili do rukou ředitele krajského úřadu. Prvním rozhodnutím nově ustaveného zastupitelstva byla volba nové hejtmanky Středočeského kraje. Stala se jí Petra Pecková z hnutí STAN, starostka města Mnichovice. 
 
