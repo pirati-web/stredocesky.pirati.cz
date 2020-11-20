@@ -4,11 +4,12 @@ name: Tomáš Zmuda
 titles:
   before: Ing. 
   after:
+description: krajský zastupitel, zastupitel - Jinočany
 category:
+  - kraj
   - zastupitel
-description: krajský zastupitel, 1. místopředseda výboru pro digitalizaci, zastupitel - Jinočany
 img: people/tomas-zmuda.jpg
-ordPKS:
+ordKraj: 5
 mail:
   - tomas.zmuda@pirati.cz
 mob:

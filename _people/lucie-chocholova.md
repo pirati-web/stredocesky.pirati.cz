@@ -4,7 +4,10 @@ name: Lucie Cirkva Chocholová
 titles:
   before: Mgr.
   after: 
-description: členka
+description: krajská zastupitelka
+category:
+  - kraj
+ordKraj: 7
 img: people/lucie-chocholova.jpg
 mail: lucie.cirkva.chocholova@pirati.cz
 mob:

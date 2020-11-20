@@ -5,8 +5,10 @@ titles:
   before: Ing. Bc.
   after:
 category:
+  - kraj
   - kandidat-2018-komunalni-kolin
-description: krajský zastupitel, krajský radní
+ordKraj: 1
+description: krajský radní
 img: people/jiri-snizek.jpg
 mail:
   - jiri.snizek@pirati.cz

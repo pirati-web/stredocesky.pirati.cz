@@ -4,7 +4,10 @@ name: Simona Luftová
 titles:
   before: Mgr.
   after: 
-description: kandidátka do Senátu
+description: krajská zastupitelka
+category:
+  - kraj
+ordKraj: 3
 img: people/simona-luftova.jpg
 mail: simona.luftova@pirati.cz
 mob:

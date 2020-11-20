@@ -5,12 +5,15 @@ description: Členové a příznivci jsou to dělá Českou pirátskou stranu si
 keywords: lidé, členové, piráti, pirátky, příznivci, středočeši, středočeský kraj
 viewMode: grouped # or alltogether
 groups:
-  - name: Poslanci za Středočeský kraj
-    category: poslanec
-    sort: ordPoslanec
   - name: Předsednictvo Středočeského kraje
     category: pks
     sort: ordPKS
+  - name: Poslanci za Středočeský kraj
+    category: poslanec
+    sort: ordPoslanec
+  - name: Krajští zastupitelé
+    category: kraj
+    sort: ordKraj
   - name: Komunální zastupitelé ve Středočeském kraji
     category: zastupitel
     sort: ordZastupitel

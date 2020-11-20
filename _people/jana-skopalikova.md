@@ -4,9 +4,12 @@ name: Jana Skopalíková
 titles:
   before: Mgr.
   after: 
-category: pks
-description: 3. místopředsedkyně krajského sdružení
+category:
+  - pks
+  - kraj
+description: 3. místopředsedkyně krajského sdružení, krajská radní
 ordPKS: 4
+ordKraj: 2
 img: people/jana-skopalikova.jpg
 mail: jana.skopalikova@pirati.cz
 mob: +420 736 154 039

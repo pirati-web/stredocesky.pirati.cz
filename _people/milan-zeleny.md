@@ -1,11 +1,13 @@
 ---
 uid: milan.zeleny
 name: Milan Zelený
+description: krajský zastupitel
 titles:
   before: 
   after:
 category:
-description: člen
+  - kraj
+ordKraj: 8
 img: people/milan-zeleny.jpg
 mail:
   - milan.zeleny@pirati.cz
