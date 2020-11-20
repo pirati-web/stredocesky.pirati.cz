@@ -5,11 +5,11 @@ titles:
   before: Bc.
   after: 
 category:
-  - kandidat-2018-komunalni-kutna_hora
   - pks
+  - kandidat-2018-komunalni-kutna_hora
   - zastupitel
-description: 1. místopředseda krajského sdružení a zastupitel / radní - Kutná Hora
-ordPKS: 2
+description: 2. místopředseda krajského sdružení a zastupitel / radní - Kutná Hora
+ordPKS: 3
 img: people/stepan-drtina.jpg
 mail:
   - stepan.drtina@pirati.cz

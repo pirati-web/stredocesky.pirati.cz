@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředseda krajského sdružení
-ordPKS: 5
+description: předseda krajského sdružení
+ordPKS: 1
 img: people/josef-bouse.jpg
 mail: josef.bouse@pirati.cz
 mob:

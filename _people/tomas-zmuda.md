@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-description: Zastupitel Středočeského kraje, 1. místopředseda výboru pro digitalizaci a chytrý kraj. Zastupitel obce Jinočany, předseda finančního výboru, člen sportovního výboru. 
+description: krajský zastupitel, 1. místopředseda výboru pro digitalizaci, zastupitel - Jinočany
 img: people/tomas-zmuda.jpg
 ordPKS:
 mail:

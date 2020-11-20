@@ -5,11 +5,9 @@ titles:
   before: Ing. Bc.
   after:
 category:
-  - pks
   - kandidat-2018-komunalni-kolin
-description: předseda krajského sdružení
+description: krajský zastupitel, krajský radní
 img: people/jiri-snizek.jpg
-ordPKS: 1
 mail:
   - jiri.snizek@pirati.cz
 mob:

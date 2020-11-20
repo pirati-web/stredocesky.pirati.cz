@@ -5,9 +5,7 @@ titles:
   before: 
   after: 
 category:
-  - pks
-description: 2. místopředseda krajského sdružení
-ordPKS: 3
+description: 2. místopředseda místního sdružení
 img: people/jan-korbel.jpg
 mail: jan.korbel@pirati.cz
 mob:
@@ -20,7 +18,7 @@ profiles:
   linkedin:
 ---
 
-**Jan Korbel** (* 20. května 1979) je od listopadu 2018 druhým místopředsedou krajského sdružení Středočeský kraj České pirátské strany. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.
+**Jan Korbel** (* 20. května 1979) je druhým místopředsedou místního sdružení Jesenice-Jílové České pirátské strany. Od listopadu 2018 byl také dva roky druhým místopředsedou krajského sdružení Středočeský kraj. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.
 
 Vystudoval slaboproudou elektroprůmyslovku, obor výpočetní technika, ale s počítači začal už v roce 1988 na kroužku programování. Na střední škole se pak věnoval programování síťových aplikací a pravěkému HTML. Po střední objevoval zákoutí globální sítě ze [Silicon Hillu](https://www.siliconhill.cz/) v dobách jeho největší undergroundové slávy. Díky tomu zažil éru opravdu svobodného internetu – dobu, kdy většina lidí o síť neměla zájem a ta byla omezená jen rychlostí modemu nebo koaxiálního kabelu.
 

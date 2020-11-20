@@ -5,11 +5,13 @@ titles:
   before: 
   after: 
 category:
+  - pks
   - dalsi
   - kandidat-2018-komunalni-kutna_hora
   - koordinator
   - kontaktni_osoba
-description: krajská koordinátorka
+description: 1. místopředsedkyně krajského sdružení
+ordPKS: 2
 ordDalsi: 1
 img: people/klara-kocmanova.jpg
 mail:
