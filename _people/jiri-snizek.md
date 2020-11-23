@@ -15,7 +15,7 @@ mail:
 mob:
   - +420 721 356 719
 profiles:
-  instagram: https://www.instagram.com/snizekj/
+  
   facebook: https://www.facebook.com/snizekjiri
   twitter: https://twitter.com/snizekjiri
   linkedin: https://www.linkedin.com/in/ji%C5%99%C3%AD-sn%C3%AD%C5%BEek-60078272/
