@@ -21,7 +21,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/ji%C5%99%C3%AD-sn%C3%AD%C5%BEek-60078272/
 ---
 
-**Jiří Snížek** (* 13. července 1989) je od listopadu 2020 náměstkem pro regionální rozvoj a územní plánování ve Středočeském kraji. Od listopadu 2018 do listopadu 2020 byl předsedou Krajského sdružení Středočeský kraj České pirátské strany, předtím zastával funkci čtvrtého místopředsedy. Pochází ze Záboří nad Labem. Od roku 2015 žije v Kolíně.
+**Jiří Snížek** (* 13. července 1989) je od listopadu 2020 náměstkem pro regionální rozvoj a územní plánování ve Středočeském kraji. Od listopadu 2018 do listopadu 2020 byl předsedou Krajského sdružení Středočeský kraj České pirátské strany. Pochází ze Záboří nad Labem. Od roku 2015 žije v Kolíně.
 
 Absolvoval Gymnázium Jiřího Ortena v Kutné Hoře. Vystudoval obor Elektronika a sdělovací technika v rámci studijního programu Elektronika a informatika na Elektrotechnické fakultě ČVUT v Praze (Bc.). Napsal bakalářskou práci na téma Digitální výhybky v akustickém pásmu (Digital crossovers in acoustic range). Dále vystudoval program Inteligentní budovy, který zajišťují fakulty elektrotechnická, stavební a strojní ČVUT (Ing. – magisterskou práci vypracoval na téma Návrh realizace a řízení klimatu v bytě – Design and Control of the Clima System in the Flat).
 
