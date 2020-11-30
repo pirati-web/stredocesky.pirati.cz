@@ -20,8 +20,7 @@ profiles:
   twitter: https://twitter.com/snizekjiri
   linkedin: https://www.linkedin.com/in/ji%C5%99%C3%AD-sn%C3%AD%C5%BEek-60078272/
   
-calendar: https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html
----
+--
 
 **Jiří Snížek** (* 13. července 1989) je od listopadu 2020 náměstkem pro regionální rozvoj a územní plánování ve Středočeském kraji. Od listopadu 2018 do listopadu 2020 byl předsedou Krajského sdružení Středočeský kraj České pirátské strany. Pochází ze Záboří nad Labem. Od roku 2015 žije v Kolíně.
 
@@ -39,4 +38,6 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * [Ivan Bartoš opět zvolen předsedou Pirátů. Jiří Snížek demonstroval Středočeský kraj jako donut](/aktuality/ivan-bartos-opet-zvolen-predsedou-piratu-jiri-snizek-demonstroval-stredocesky-kraj-jako-donut.html)
 * [Lídr Pirátů Jiří Snížek o nadcházejících krajských volbách](/aktuality/lidr-piratu-jiri-snizek-o-nadchazejicich-krajskych-volbach.html)
 * [Jiří Snížek, předseda a lídr středočeských Pirátů o pandemii](/aktuality/jiri-snizek-predseda-a-lidr-stredoceskych-piratu-o-pandemii.html)
+
+[Kalendář](https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html)
 
