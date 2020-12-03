@@ -6,7 +6,7 @@ date: 2020-11-24
 tags: poslanecká_sněmovna
 title: 'Piráti startují jednání o koalici se STAN. Pokud se podaří vyjednat spolupráci, můžeme být vítězi příštích voleb, říká Bartoš'
 description: 'poslanecká_sněmovna'
-author: Mediánlí odbor
+author: Mediální odbor
 #authorId: frantisek.kopriva
 image: posts/2020/bartos-rakusan.jpeg
 ---
