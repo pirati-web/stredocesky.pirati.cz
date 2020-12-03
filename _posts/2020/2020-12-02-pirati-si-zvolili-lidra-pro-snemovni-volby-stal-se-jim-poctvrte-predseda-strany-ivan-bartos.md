@@ -6,7 +6,7 @@ date: 2020-12-02
 tags: poslanecká_sněmovna volby
 title: 'Piráti si zvolili lídra pro sněmovní volby, stal se jím počtvrté předseda strany Ivan Bartoš'
 description: 'poslanecká sněmovna, volby'
-author: Mediánlí odbor
+author: Mediální odbor
 #authorId: frantisek.kopriva
 image: posts/2020/ivan-bartos-budoucnost.jpg
 ---
