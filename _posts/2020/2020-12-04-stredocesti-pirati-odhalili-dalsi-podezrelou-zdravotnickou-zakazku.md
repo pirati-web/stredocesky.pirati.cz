@@ -21,4 +21,4 @@ V rámci projektu „Modernizace a standardizace vybavení Zdravotnické záchra
 
 > "Tablety jsou v tuto chvíli pro svůj účel nepoužitelné, proto prověříme možnost převodu do majetku kraje a zvážíme jejich další využití. Fakticky jsou nepoužité a mohou ještě dobře posloužit např. potřebným dětem při online výuce. Mobilní inkoustové tiskárny budou od příštího týdne konečně instalovány do sanitních vozů spolu s nově pořízenými tablety," dodává Tomáš Zmuda, místopředseda výboru pro digitalizaci a chytrý kraj.
 
-Detaily projektu „Modernizace a standardizace vybavení Zdravotnické záchranné služby“ [zde](https://www.uszssk.cz/wp-content/uploads/2016/01/ZZS_S%C4%8DK-23-Publicita_nahrada.pdf].
+Detaily projektu „Modernizace a standardizace vybavení Zdravotnické záchranné služby“ [zde](https://www.uszssk.cz/wp-content/uploads/2016/01/ZZS_S%C4%8DK-23-Publicita_nahrada.pdf).
