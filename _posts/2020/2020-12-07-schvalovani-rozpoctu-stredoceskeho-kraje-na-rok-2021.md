@@ -4,11 +4,11 @@ layout: post
 date: 2020-12-07
 #published: false
 tags: krajská_politika rozpočet
-title: 'Pirátská premiéra ve vedení Středočeského kraje - schvalování rozpočtu na rok 2021'
+title: 'Schvalování rozpočtu Středočeského kraje na rok 2021'
 description: 'krajská politika, rozpočet'
 author: Lucie Cirkva Chocholova
 authorId: lucie.chocholova
-image: posts/2020/.jpg
+image: posts/2020/rozpocet-2021.png
 ---
 
 Premiéra České pirátské strany na krajském úřadě Středočeského kraje se odehrávala ve znamení jednání o rozpočtu. Tato jednání započala okamžitě po ustavujícím zastupitelstvu a je třeba zdůraznit, že se nesla ve znamení toho, že doba růstu už je za námi. Ačkoliv si toto období mohlo užívat předchozí vedení kraje, zůstalo zde několik akcí realizovaných krajem, které byly ukončeny v letošním roce a jsou splatné v roce nadcházejícím.
