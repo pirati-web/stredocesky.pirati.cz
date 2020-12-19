@@ -29,6 +29,11 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 # Aktivity MS
 
+##### 2021
+
+* od 21.1.2021 každý 3. čtvrtek v měsíci od 20:00 schůze místního sdružení
+  (až do odvolání vždy online na [pirátském jitsi serveru](https://jitsi.pirati.cz/msjj))
+
 ##### 2020
 
 * 16.1.2020 Schůze místního sdružení ve Vestci
@@ -42,6 +47,9 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 * Červenec - zahájení kampaně do kraje a Senátu v našich obcích
 * 27.8.2020 Na PIVO s Piráty - Kozlovna Velké Popovice
 * 22.10.2020 Online schůze
+* 12.11.2020 Online schůze
+* 26.11.2020 Online setkání s příznivci a zájemci o členství v našem MS
+* 17.12.2020 Online schůze
 
 ##### 2019
 
@@ -81,5 +89,9 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'ms/jesenice-jilove/rubenstein-400px.jpg' alt='Ira Rubenstein' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Ira Rubenstein** - new Pirate with a lengthy career. He started in the mid-1970s working for New York government, then worked as a consultant, and moved into finance in the late 1980s. His longtime focus is alternative energy and clean technology of all kinds. He worked for two decades in finance in New York and came to Prague to pursue regional and global opportunities in 2005.  He moved permanently to the Czech Republic in 2009, becoming a citizen about 5 years ago. He still works in finance with both Prague and California-based firms. He loves the energy that founders and innovators bring to their businesses and he try to help them succeed. Ira works at Czech Technical University in Prague as the Mentor for Technology Transfer. He also initiated The Innovation SPOT at Pragovka, intended to be the largest co-creation facility for entrepreneurial companies in Central Europe. And Ira provides internal advise to a company focused on helping science-based startups to get to success.
+</div>
+
+<div markdown="1" class="c-profile-badge">
+{% asset 'ms/jesenice-jilove/vovesova-400px.jpg' alt='Tereza Vovesová' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Tereza Vovesová** je od roku 2010 pravidelným a nikdy nezklamaným voličem Pirátské strany a od roku 2018 také členkou. Podílela se na záchraně Nemocnice na Františku, mediálním obraze strany a organizaci Fóra komunálních zastupitelů. Zatím poslední věc, na které se podílela bylo Policy paper Moderní veřejná správa. V současné době pracuje ve státní správě jako komunální rozpočtářka. Původně vystudovala potravinářskou fakultu na VŠCHT, obor Výživa a stravování. Po studiu se věnovala biopotravinám a ekologickému zemědělství a jako reportérka pomáhala rozjet stránky bio.cz. Následujících devět let pracovala jako monitor klinických hodnocení, kde řídila a dohlížela nad průběhem mezinárodních projektů (klinických hodnocení) v rámci ČR.
 </div>
 
