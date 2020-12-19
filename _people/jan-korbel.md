@@ -29,3 +29,4 @@ Další školu dostal při plnění civilní služby na Ústavu informatiky Akad
 Od znovuobnovení skautské organizace v roce 1989 je členem píseckého střediska Stínadla, jehož byl v letech 2013 – 2016 také statutárním zástupcem. V Praze hraje nohejbalovou soutěž.
 
 Nenajdete ho na Facebooku či Twitteru, ale na <a href="https://kompost.cz/@jackc">Mastodonu</a> nebo IRC.
+
