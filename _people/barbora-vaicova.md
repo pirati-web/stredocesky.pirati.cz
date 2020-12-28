@@ -4,7 +4,7 @@ name: Barbora Vaicová
 titles:
   before: 
   after:
-description: koordinátorka dobrovolníků pro Středočeský kraj
+description: Koordinátorka dobrovolníků pro Středočeský kraj
 category:
   - dalsi
   - koordinator
