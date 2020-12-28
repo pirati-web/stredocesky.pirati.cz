@@ -11,6 +11,8 @@ ordKraj: 8
 img: people/milan-zeleny.jpg
 mail:
   - milan.zeleny@pirati.cz
+mob:
+  - +420 723 929 899
 profiles:
 ---
 
