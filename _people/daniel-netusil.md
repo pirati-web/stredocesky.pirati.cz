@@ -4,7 +4,7 @@ name: Daniel Netušil
 titles:
   before: Ing.
   after:
-description: krajský zastupitel, zastupitel / radní - Benešov
+description: krajský zastupitel, radní - Benešov
 category:
   - kraj
   - zastupitel
@@ -13,7 +13,7 @@ img: people/daniel-netusil.jpg
 mail:
   - daniel.netusil@pirati.cz
 mob:
-#  - +420 728 270 457
+  - +420 778 757 697
 profiles:
   github:
 #  facebook: https://www.facebook.com/nekdo
