@@ -6,7 +6,9 @@ titles:
   after:
 description: koordinátorka dobrovolníků pro Středočeský kraj
 category:
+  - dalsi
   - koordinator
+  - kontaktni_osoba
 #img: people/barbora-vaicova.jpg
 mail:
   - barbora.vaicova@pirati.cz
