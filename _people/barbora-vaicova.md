@@ -23,3 +23,4 @@ profiles:
   web: 
 
 ---
+Barbora Vaicová je koordinátorkou Pirátů Středočeského kraje.
