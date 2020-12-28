@@ -6,8 +6,6 @@ titles:
   after: 
 category:
   - dalsi
-  - koordinator
-  - kontaktni_osoba
 description: krajská koordinátorka
 ordDalsi: 2
 img: people/monika-kuncova.jpg
