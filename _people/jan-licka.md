@@ -5,7 +5,8 @@ titles:
   before: 
   after:
 category:
-  - clen
+  - kraj
+  - zastupitel
 description: člen
 img: people/jan-licka.jpg
 mail:
