@@ -9,7 +9,7 @@ category:
   - dalsi
   - koordinator
   - kontaktni_osoba
-#img: people/barbora-vaicova.jpg
+img: people/barbora-vaicova.jpg
 mail:
   - barbora.vaicova@pirati.cz
 mob:
