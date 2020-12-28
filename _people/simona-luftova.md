@@ -11,7 +11,7 @@ ordKraj: 3
 img: people/simona-luftova.jpg
 mail: simona.luftova@pirati.cz
 mob:
-#  - 
+  - +420 720 209 173
 profiles:
   web:
   github:
