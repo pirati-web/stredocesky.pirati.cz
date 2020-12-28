@@ -6,8 +6,10 @@ titles:
   after: 
 category:
   - dalsi
-description: krajská koordinátorka
-#ordDalsi: 2
+  - koordinator
+  - kontaktni_osoba  
+description: Koordinátorka dobrovolníků pro Středočeský kraj
+ordDalsi: 3
 img: people/monika-kuncova.jpg
 mail:
   - monika.kuncova@pirati.cz
