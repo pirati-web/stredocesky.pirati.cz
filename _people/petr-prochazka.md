@@ -8,7 +8,7 @@ description: krajský zastupitel
 category:
   - kraj
   - zastupitel
-#img: people/petr-prochazka.jpg
+img: people/petr-prochazka.jpg
 ordKraj: 5
 mail:
   - petr.prochazka@pirati.cz
