@@ -8,7 +8,7 @@ description: krajský zastupitel
 category:
   - kraj
   - zastupitel
-#img: people/petr-tomas.jpg
+img: people/petr-tomas.jpg
 ordKraj: 5
 mail:
   - petr.tomas@pirati.cz
