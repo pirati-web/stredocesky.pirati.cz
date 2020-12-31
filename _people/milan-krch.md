@@ -8,7 +8,7 @@ description: krajský zastupitel
 category:
   - kraj
   - zastupitel
-#img: people/milan-krch.jpg
+img: people/milan-krch.jpg
 ordKraj: 5
 mail:
   - milan.krch@pirati.cz
