@@ -9,6 +9,7 @@ description: 'celostátní fórum, akce'
 author: Patrick Zandl
 authorId: patrick.zandl
 image: posts/2020/2021-01-06-CF.jpg
+---
 
 Piráti mají o víkendu Celostátní fórum (tzv. CFko), nejvyšší pirátský sraz, který určuje linii na další rok. 
 
