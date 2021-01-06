@@ -6,8 +6,8 @@ date: 2021-01-06
 tags: celostátní_fórum akce 
 title: 'Celostátní fórum poprvé plně on-line'
 description: 'celostátní fórum, akce'
-author: 
-#authorId: patrick.zandl
+author: Patrick Zandl
+authorId: patrick.zandl
 image: posts/2020/2021-01-06-CF.jpg
 
 Piráti mají o víkendu Celostátní fórum (tzv. CFko), nejvyšší pirátský sraz, který určuje linii na další rok. 
@@ -22,8 +22,5 @@ Tohle je jedna z letošních událostí, která spolurozhodne o tom, jaká budou
 
 Držte nám palce. Držte si palce.
 
-Patrick Zandl, předseda místního sdružení a zastupitel - Brandýs n.L. - St. Boleslav
-
-Sledujte Celostátní fórum Pirátů online 
-https://cf2021.pirati.cz/
-https://www.facebook.com/events/691783101507474
+Sledujte Celostátní fórum Pirátů online [zde](https://cf2021.pirati.cz/).
+Facebooková událost [zde](https://www.facebook.com/events/691783101507474).
