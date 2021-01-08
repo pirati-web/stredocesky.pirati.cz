@@ -4,7 +4,7 @@ layout: post
 date: 2021-01-08
 #published: false
 tags: krajská_politika rozpočet
-title: 'Středočeské fondy budou!'
+title: 'Středočeské fondy pravděpodobně budou!'
 description: 'krajská politika, rozpočet'
 author: Lucie Cirkva Chocholova
 authorId: lucie.chocholova
