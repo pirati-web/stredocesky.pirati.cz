@@ -15,16 +15,16 @@ Nestihli jste dnešní online tiskovou konferenci na celostátním pirátském f
 
 > „Dobrý den, jmenuji se Klára Kocmanová a dlouhodobě se věnuji pomoci lidem v sociální nouzi.
 
-Mojí největší prioritou bude ve Sněmovně prosazovat dostupné a udržitelné bydlení.
+> Mojí největší prioritou bude ve Sněmovně prosazovat dostupné a udržitelné bydlení.
 
-V loňském roce téměř polovina Čechů vyčerpala své finanční rezervy.
+> V loňském roce téměř polovina Čechů vyčerpala své finanční rezervy.
 
-Pokud chceme, aby lidé v České republice žili důstojně, musíme podpořit projekty, které pomohou rozšířit bytový fond a přinesou rozumná a férová pravidla pro výstavbu i pronajímání bytů.
+> Pokud chceme, aby lidé v České republice žili důstojně, musíme podpořit projekty, které pomohou rozšířit bytový fond a přinesou rozumná a férová pravidla pro výstavbu i pronajímání bytů.
 
-Druhým zásadním tématem je pro mne ochrana svobody, a to zejména na internetu.
+> Druhým zásadním tématem je pro mne ochrana svobody, a to zejména na internetu.
 
-Cena osobních dat už překročila cenu ropy a naše osobní údaje už nejsou naším soukromým majetkem, ale staly se předmětem prodeje a zájmu reklamních agentur, obchodníků a vlád.
+> Cena osobních dat už překročila cenu ropy a naše osobní údaje už nejsou naším soukromým majetkem, ale staly se předmětem prodeje a zájmu reklamních agentur, obchodníků a vlád.
 
-Chci ve spolupráci nejen s pirátskými europoslanci zabránit sběru a zneužívání našich citlivých údajů a informovat, proč je sběr dat pro nás všechny nebezpečný.
+> Chci ve spolupráci nejen s pirátskými europoslanci zabránit sběru a zneužívání našich citlivých údajů a informovat, proč je sběr dat pro nás všechny nebezpečný.
 
-Děkuji vám za pozornost.“
+> Děkuji vám za pozornost.“
