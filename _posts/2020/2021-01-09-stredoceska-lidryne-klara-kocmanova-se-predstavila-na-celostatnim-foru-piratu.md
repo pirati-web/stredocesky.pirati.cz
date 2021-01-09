@@ -4,14 +4,14 @@ layout: post
 date: 2021-01-09
 #published: false
 tags: volby poslanecká_sněmovna
-title: 'Klára Kocmanová se představila na celostátním fóru'
+title: 'Středočeská lídryně Klára Kocmanová se představila na celostátním fóru Pirátů'
 description: 'volby, poslanecká sněmovna'
 author: Mediální odbor
 #authorId: lucie.chocholova
 image: posts/2020/2021-01-09-klara.jpg
 ---
 
-Nestihli jste dnešní online tiskovou konferenci na celostátním pirátském fóru a představení naší lídryně Klára Kocmanová do parlamentních voleb? Nevadí, tady je:
+Nestihli jste dnešní online tiskovou konferenci na celostátním pirátském fóru a představení naší lídryně Kláry Kocmanové do parlamentních voleb? Nevadí, tady je:
 
 > „Dobrý den, jmenuji se Klára Kocmanová a dlouhodobě se věnuji pomoci lidem v sociální nouzi.
 
