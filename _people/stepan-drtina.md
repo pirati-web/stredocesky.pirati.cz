@@ -2,7 +2,7 @@
 uid: stepan.drtina
 name: Štěpán Drtina
 titles:
-  before: Bc.
+  before: Mgr.
   after: 
 category:
   - pks
