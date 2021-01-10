@@ -5,7 +5,7 @@ description: Místní sdružení Beroun
 keywords: piráti, místní sdružení, Beroun
 mail: beroun@pirati.cz
 facebook: PiratiBeroun
-forum: https://forum.pirati.cz/viewtopic.php?f=276&t=52999
+forum: https://forum.pirati.cz/viewforum.php?f=1491
 predsednictvo:
  - funkce: předseda
    jmeno: Sámir Shanaáh
