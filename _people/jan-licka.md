@@ -5,13 +5,14 @@ titles:
   before: 
   after:
 category:
-  - clen
-description: člen
+  - kraj
+  - zastupitel
+description: krajský zastupitel
 img: people/jan-licka.jpg
 mail:
   - jan.licka@pirati.cz
-#mob:
-#  - +420 770 113 649
+mob:
+  - +420 727 839 754
 profiles:
   github:
   facebook:

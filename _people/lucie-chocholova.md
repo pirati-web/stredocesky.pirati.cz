@@ -11,7 +11,7 @@ ordKraj: 7
 img: people/lucie-chocholova.jpg
 mail: lucie.cirkva.chocholova@pirati.cz
 mob:
-#  - 
+  - +420 776 007 300
 profiles:
   web:
   github:

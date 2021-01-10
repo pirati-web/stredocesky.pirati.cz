@@ -7,9 +7,9 @@ titles:
 category:
   - dalsi
   - koordinator
-  - kontaktni_osoba
-description: krajská koordinátorka
-ordDalsi: 2
+  - kontaktni_osoba  
+description: Koordinátorka dobrovolníků pro Středočeský kraj
+ordDalsi: 3
 img: people/monika-kuncova.jpg
 mail:
   - monika.kuncova@pirati.cz
@@ -21,6 +21,5 @@ profiles:
   twitter:
   linkedin:
 ---
-
 **Monika Kuncová** je koordinátorkou Pirátů Středočeského kraje.
 

@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz # mail kam pujdou chybove vystupy
+  email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz, jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
 
 organization:
   name: Piráti - Středočeský kraj

@@ -6,13 +6,14 @@ titles:
   after:
 category:
   - zastupitel
-description: zastupitel - Příbram
+  - kraj
+description: krajský zastupitel, zastupitel - Příbram
 ordZastupitel: 1
 img: people/antonin-schejbal.jpg
 mail:
   - antonin.schejbal@pirati.cz
 mob:
-#  - +420 
+  - +420 777 703 766
 profiles:
   github:
   facebook:
