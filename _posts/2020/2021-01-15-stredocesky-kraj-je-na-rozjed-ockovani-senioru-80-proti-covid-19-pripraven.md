@@ -13,7 +13,7 @@ image: posts/2020/2021-01-15-mapaOCM.jpg
 
 V Centrálním rezervačním systému, v němž se od pátku 15. ledna 2021 mohou evidovat senioři 80+ k očkování, má Středočeský kraj zaregistrováno celkem 15 očkovacích míst. Umístěna jsou v lůžkových zdravotnických zařízeních, a to jak v krajských, tak i v soukromých a městských nemocnicích.
 
-** Seznam očkovacích míst: **
+**Seznam očkovacích míst:**
 * Benešov - Nemocnice Rudolfa a Stefanie
 * Beroun - Nemocnice Beroun
 * Brandýs nad Labem - Nemocnice Brandýs n. L.
