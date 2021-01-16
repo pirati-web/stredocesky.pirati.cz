@@ -47,7 +47,7 @@ Narodil se v roce 1981 ve Dvoře Králové nad Labem a víceméně celý život 
 
 Vojtěch se narodil v roce 1997 v Nymburce, ale celý svůj dosavadní život strávil v "konkurenčním městě" Nymburka, lázeňských Poděbradech. V Poděbradech vystudoval základní školu a víceleté gymnázium. Od roku 2016 je studentem oboru Všeobecné lékařství na 1. Lékařské fakultě UK v Praze. 
 V roce 2018 začal jako příznivce spolupracovat s Piráty na úrovni komunální a na odborné úrovni v krajském expertním týmu, zabývajícím se otázkami zdravotnictví. V roce 2019 se stal členem Pirátů a pirátského Resortního týmu Zdravotnictví Poslanecké sněmovny. Po krajských volbách v roce 2020 se stal prvním náhradníkem do krajského zastupitelstva Středočeského kraje, na kraji aktuálně působí jako člen Výboru pro zdravotnictví. 
-Kromě práce pro Pirátskou stranu v roce 2020 během epidemie Covid-19 nasbíral mnoho praktických medicínských zkušeností jako sanitář a praktická zdravotní sestra na infekčních odděleních. Problematice českého zdravotnictví se věnuje i v publicistických článcích a na twitterovém účtu @gas_koniec.  
+Kromě práce pro Pirátskou stranu v roce 2020 během epidemie Covid-19 nasbíral mnoho praktických medicínských zkušeností jako sanitář a praktická zdravotní sestra na infekčních odděleních. Problematice českého zdravotnictví se věnuje i v publicistických článcích a na twitterovém účtu <a href="https://twitter.com/gas_koniec">@gas_koniec</a>.
 Ve volném čase sportuje, věnuje se vysokohorské turistice, četbě a příležitostně počítačovým hrám a jejich designu. 
 
 ### Petr Hladký
@@ -55,7 +55,7 @@ Ve volném čase sportuje, věnuje se vysokohorské turistice, četbě a příle
 Narodil se v březnu 1986 v Nymburce a téměř celý život s malou přestávkou žije v Lysé nad Labem. Je hrdým otcem tří malých dětí a proto mu není lhostejná budoucnost  města a naší země. Před nedávnem (2020) se proto přidal k Pirátům aby se mohl více zapojit, do utváření lepší budoucnosti naší země, našich dětí.
 Ve svém ne-Pirátském životě se živí jako živnostník ve stavebnictví a někdy i jako řidič z povolání. Ve volném čase se věnuje historii z pohledu amatérského hledače relikvií s detektorem kovů a Armwrestlingu.
 
-> Motto: "Být Pirátem není vůbec jednoduché, spousta práce, spousta kritiky od okolí, ale věřím že veškeré mé úsilí se pomalu ale jistě vyplácí."
+> **Motto:** "Být Pirátem není vůbec jednoduché, spousta práce, spousta kritiky od okolí, ale věřím že veškeré mé úsilí se pomalu ale jistě vyplácí."
 
 ### Martin Martin
 
