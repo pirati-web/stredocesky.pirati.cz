@@ -14,7 +14,7 @@ predsednictvo:
  - funkce: 2. místopředseda
    jmeno: <a href="https://lide.pirati.cz/personProfile/1321/">Petr Hladký</a>
 mandat-do: 06.12.2022
-volba: https://forum.pirati.cz/viewtopic.php?f=799&t=29429&p=592959#p592959
+volba: https://forum.pirati.cz/viewtopic.php?f=1365&t=54652
 ---
 {% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
