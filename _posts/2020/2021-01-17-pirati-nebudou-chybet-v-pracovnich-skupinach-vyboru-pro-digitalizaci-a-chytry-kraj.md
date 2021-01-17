@@ -21,7 +21,7 @@ Ve třetí skupině **Digitální infrastruktura** zasedne Tomáš Zmuda, místo
 
 > „Věřím, že pirátské zastoupení ve všech pracovních skupinách bude přínosné a odborníci využijí své znalosti k dalšímu rozvoji a digitalizaci kraj“ říká Tomáš Zmuda, místopředseda Výboru. 
 
-Výbor dále odsouhlasil plán práce pro rok 2021, který koresponduje s koaličním programovým prohlášením. Některé body z programu bude možné realizovat poměrně rychle, protože je jedná například o úpravu zveřejňovaných materiálů. Ale například na nových webových stránkách kraje se bude pracovat celý rok, jedná se o obsáhlý systém, který si vyžaduje důkladnou přípravu. 
+Výbor dále odsouhlasil plán práce pro rok 2021, který koresponduje s koaličním programovým prohlášením. Některé body z programu bude možné realizovat poměrně rychle, protože se jedná například o úpravu zveřejňovaných materiálů. Ale například na nových webových stránkách kraje se bude pracovat celý rok, jedná se o obsáhlý systém, který si vyžaduje důkladnou přípravu. 
 
 **Nové oddělení digitalizace na krajském úřadě.**
 
