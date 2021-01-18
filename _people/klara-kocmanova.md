@@ -7,7 +7,6 @@ titles:
 category:
   - pks
   - kandidat-2018-komunalni-kutna_hora
-  - kontaktni_osoba
 description: 1. místopředsedkyně krajského sdružení
 ordPKS: 2
 img: people/klara-kocmanova.jpg
