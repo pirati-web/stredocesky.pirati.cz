@@ -8,6 +8,7 @@ category:
   - kraj
   - zastupitel
 description: krajský zastupitel
+ordKraj: 10
 img: people/jan-licka.jpg
 mail:
   - jan.licka@pirati.cz
