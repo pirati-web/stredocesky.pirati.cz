@@ -9,7 +9,7 @@ category:
   - kraj
   - zastupitel
 img: people/milan-krch.jpg
-ordKraj: 5
+ordKraj: 12
 mail:
   - milan.krch@pirati.cz
 mob:
