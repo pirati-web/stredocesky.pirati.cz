@@ -5,9 +5,7 @@ titles:
   before: 
   after: 
 category:
-  - dalsi
-description: vedoucí krajského mediálního odboru
-ordDalsi: 3
+description:
 img: people/jan-prokop.jpg
 mail: jan.prokop@pirati.cz
 mob: +420 702 237 439
