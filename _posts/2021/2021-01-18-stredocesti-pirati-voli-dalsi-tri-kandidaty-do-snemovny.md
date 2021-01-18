@@ -19,4 +19,4 @@ Ve volbě o třetí pozici byl nakonec úspěšnější “otec českého intern
 
 Štěpán Drtina, pirátský radní pro kulturu a památkovou péči v Kutné Hoře, tak obsadil čtvrtou příčku pirátské kandidátky.
 
-Kdo další ze zajímavých nominantů doplní čelo krajské pirátské kandidátní listiny? Svou kandidaturu zatím potvrdili Matouš Vanča, Dominika Michailidu, Václav Kubaljak, Martin Karim, Petr Chaluš a Veronika Hažlinská.  
+Kdo další ze zajímavých nominantů doplní čelo krajské pirátské kandidátní listiny? Svou kandidaturu zatím potvrdili Matouš Vanča, Dominika Michailidu, Václav Kubaljak, Martin Karim, Petr Chaluš, Daniel Netušil, Petr Tomáš a Cyril Koky.  
