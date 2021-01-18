@@ -9,6 +9,7 @@ category:
   - kraj
 description: krajský zastupitel, zastupitel - Příbram
 ordZastupitel: 1
+ordKraj: 9
 img: people/antonin-schejbal.jpg
 mail:
   - antonin.schejbal@pirati.cz
