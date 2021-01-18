@@ -8,7 +8,7 @@ title: 'Středočeští Piráti zvolili další tři kandidáty do Sněmovny!'
 description: 'volby, poslanecká sněmovna'
 author: Ondřej Petr
 authorId: ondrej.petr
-image: posts/2020/2021-01-18-Kopriva.jpg
+image: posts/2021/2021-01-18-Kopriva.jpg
 ---
 
 Po zvolení lídryně středočeské pirátské kandidátky do Poslanecké Sněmovny Kláry Kocmanové zvolilo krajské fórum další tři kandidáty.
