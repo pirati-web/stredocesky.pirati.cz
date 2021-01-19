@@ -4,7 +4,7 @@ title: Místní sdružení Nymburk
 description: Místní sdružení Nymburk
 keywords: piráti, místní sdružení, Nymburk, Poděbrady, Sadská
 mail: petr.prochazka@pirati.cz
-facebook: PiratiNymburk
+facebook: PiratiNymbursko
 forum: https://forum.pirati.cz/viewforum.php?f=1363
 predsednictvo:
  - funkce: předseda
