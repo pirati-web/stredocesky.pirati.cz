@@ -1,9 +1,12 @@
 ---
-layout: ms
+layout: ms2
 title: Místní sdružení Nymburk
 description: Místní sdružení Nymburk
 keywords: piráti, místní sdružení, Nymburk, Poděbrady, Sadská
 mail: petr.prochazka@pirati.cz
+facebook: Piráti-Milovice-100116105291252
+facebook: LysaPirati
+facebook: PiratiPodebrady
 facebook: PiratiNymbursko
 forum: https://forum.pirati.cz/viewforum.php?f=1363
 predsednictvo:
