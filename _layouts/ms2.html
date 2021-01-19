@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <div class="row">
+    <div class="medium-12  large-8 columns">
+      <div class="c-emphasized-text c-person">
+        <div class="row o-section">
+          <div class="columns large-12">
+            <header class="c-page-header">
+              <h1 itemprop="headline" class="c-page-title">{{page.title}}</h1>
+            </header>
+          </div>
+          <div class="columns large-12">
+            <div itemprop="description" class="c-content-block c-emphasized-text">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- pravy sloupec -->
+    <div class="medium-12 large-4 columns">
+      <aside class="o-section">
+        <div class="o-section-inner o-section-inner--rightBlock">
+          <div class="o-section-block">
+            <div class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+              <div class="c-widget-accordion-content" data-tab-content="">
+                <h3>Předsednictvo</h3>
+                <ul>
+                  {% for item in page.predsednictvo %}
+                  <li>{{item.funkce}}: <strong>{{item.jmeno}}</strong></li>
+                  {% endfor %}
+                  <li>konec mandátu: <a href="{{page.volba}}" style="text-decoration:underline">{{page.mandat-do}}</a></li>
+                </ul>
+                <h3>Kontakty</h3>
+                <i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{page.mail}}">{{page.mail}}</a><br/>
+                <i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
+                <i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
+                <i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
+                <i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
+                <i class="fa fa-globe"></i> <a class="c-emphasized-anchor" href="{{page.forum}}">Fórum</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</div>
+© 2021 GitHub, Inc.
