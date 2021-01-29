@@ -8,7 +8,7 @@ title: 'František Kopřiva je Genderman roku!'
 description: 'sociální politika, poslanecká sněmovna, rovné šance'
 author: Ondřej Petr
 authorId: ondrej.petr
-image: posts/2021/2021-01-29-kopriva.jpg
+image: posts/2021/21-01-29-kopriva.jpg
 ---
 
 Středočeský pirátský poslanec František Kopřiva se stal nositelem ceny Genderman za rok 2020!
