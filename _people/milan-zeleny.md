@@ -1,7 +1,7 @@
 ---
 uid: milan.zeleny
 name: Milan Zelený
-description: krajský zastupitel
+description: krajský zastupitel, místopředseda Výboru pro sociální věci
 titles:
   before: 
   after:
