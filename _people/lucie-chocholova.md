@@ -4,7 +4,7 @@ name: Lucie Cirkva Chocholová
 titles:
   before: Mgr.
   after: 
-description: krajská zastupitelka
+description: uvolněná krajská zastupitelka, předsedkyně Výboru pro památkovou péči, kulturu a cestovní ruch
 category:
   - kraj
 ordKraj: 7
