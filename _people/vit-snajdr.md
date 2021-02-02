@@ -7,7 +7,7 @@ titles:
 category:
   - kandidat-2018-komunalni-kutna_hora
   - zastupitel
-description: zastupitel / místostarosta - Kutná Hora
+description: zastupitel / místostarosta - Kutná Hora, mistopředseda Komise pro rozvoj obcí a měst SčK
 img: people/vit-snajdr.jpg
 mail:
   - vit.snajdr@pirati.cz
