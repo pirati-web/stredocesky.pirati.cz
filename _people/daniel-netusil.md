@@ -4,7 +4,7 @@ name: Daniel Netušil
 titles:
   before: Ing.
   after:
-description: krajský zastupitel, radní - Benešov
+description: krajský zastupitel, místopředseda Výboru pro památkovou péči, kulturu a cestovní ruch, radní - Benešov
 category:
   - kraj
   - zastupitel
