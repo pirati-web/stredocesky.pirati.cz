@@ -7,7 +7,7 @@ titles:
 category:
   - kraj
   - zastupitel
-description: krajský zastupitel
+description: krajský zastupitel, místopředseda Výboru pro dopravu
 ordKraj: 10
 img: people/jan-licka.jpg
 mail:
