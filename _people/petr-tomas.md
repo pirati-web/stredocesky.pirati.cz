@@ -4,7 +4,7 @@ name: Petr Tomáš
 titles:
   before: 
   after:
-description: krajský zastupitel
+description: krajský zastupitel, předseda Výboru pro zdravotnictví
 category:
   - kraj
   - zastupitel
