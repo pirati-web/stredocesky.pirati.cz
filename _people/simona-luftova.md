@@ -4,7 +4,7 @@ name: Simona Luftová
 titles:
   before: Mgr.
   after: 
-description: krajská zastupitelka
+description: krajská zastupitelka, místopředsedkyně Výboru pro výchovu, vzdělávání a zaměstnanost
 category:
   - kraj
 ordKraj: 3
