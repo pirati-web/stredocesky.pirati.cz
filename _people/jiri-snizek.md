@@ -8,7 +8,7 @@ category:
   - kraj
   - kandidat-2018-komunalni-kolin
 ordKraj: 1
-description: krajský radní
+description: náměstek hejtmanky, krajský radní pro regionální rozvoj
 img: people/jiri-snizek.jpg
 mail:
   - jiri.snizek@pirati.cz
