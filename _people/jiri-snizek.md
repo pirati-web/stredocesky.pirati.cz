@@ -1,4 +1,3 @@
-
 ---
 uid: jiri.snizek
 name: Jiří Snížek
