@@ -8,7 +8,7 @@ title: 'Jana Skopalíková: Cirkulární ekonomika snižuje produkci odpadu!'
 description: 'krajská politika, životní prostředí, odpady'
 author: Mediální odbor
 #authorId: ondrej.petr
-image: posts/2021/2021-02-04-jana.jpg
+image: posts/2021/2021-02-04-jana-800.jpg
 ---
 
 Ve dnech 3. - 4. února 2021 uspořádalo Středočeské inovační centrum dvoudenní webinář s názvem **CoLoRe Circle**, který by angličtinář mohl přeložit jako barevný kruh, ale v názvu projektu se skrývá mnohem více ( acronym z angličtiny COnnecting LOcal government and the REsearch communityto address REsource efficiency) – tedy propojení veřejných institucí s výzkumnými kapacitami pro využití plného potenciálu cirkulární ekonomie.
