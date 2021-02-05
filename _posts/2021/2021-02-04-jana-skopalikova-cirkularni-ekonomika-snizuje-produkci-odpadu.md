@@ -11,7 +11,7 @@ author: Mediální odbor
 image: posts/2021/2021-02-04-jana-800.png
 ---
 
-Ve dnech 3. - 4. února 2021 uspořádalo Středočeské inovační centrum dvoudenní webinář s názvem **CoLoRe Circle**, který by angličtinář mohl přeložit jako barevný kruh, ale v názvu projektu se skrývá mnohem více ( acronym z angličtiny COnnecting LOcal government and the REsearch communityto address REsource efficiency) – tedy propojení veřejných institucí s výzkumnými kapacitami pro využití plného potenciálu cirkulární ekonomie.
+Ve dnech 3. – 4. února 2021 uspořádalo Středočeské inovační centrum dvoudenní webinář s názvem **CoLoRe Circle**, který by angličtinář mohl přeložit jako barevný kruh, ale v názvu projektu se skrývá mnohem více ( acronym z angličtiny COnnecting LOcal government and the REsearch communityto address REsource efficiency) – tedy propojení veřejných institucí s výzkumnými kapacitami pro využití plného potenciálu cirkulární ekonomie.
 
 Co si pod tímto projektem, na nějž Středočeský kraj ke spolupráci vyzval partnerský region Burgundsko Franche Comté již v roce 2018, představit?
 
