@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-01-29
+date: 2021-02-04
 #published: false
 tags: krajská_politika životní_prostředí odpady
 title: 'Jana Skopalíková: Cirkulární ekonomika snižuje produkci odpadu!'
