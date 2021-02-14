@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - zastupitel
+ordZastupitel: 10
 description: zastupitelka - Ohrobec, zvolena za OHROBEC LIDEM
 img: people/monika-kerkova.jpg
 mail:
