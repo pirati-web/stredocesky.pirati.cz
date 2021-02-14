@@ -7,7 +7,6 @@ titles:
 description: krajský zastupitel
 category:
   - kraj
-  - zastupitel
 img: people/milan-krch.jpg
 ordKraj: 12
 mail:
