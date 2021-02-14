@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 5
 description: zastupitel - Úvaly, zvolen za PRO Úvaly, místopředseda Výboru pro regionální rozvoj SčK
 img: people/jan-cerny.jpg
 mail:
