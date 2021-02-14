@@ -7,7 +7,6 @@ titles:
 description: krajský zastupitel, místopředseda Výboru pro dopravu
 category:
   - kraj
-  - zastupitel
 img: people/petr-prochazka.jpg
 ordKraj: 5
 mail:
