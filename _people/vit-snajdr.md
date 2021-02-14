@@ -7,6 +7,7 @@ titles:
 category:
   - kandidat-2018-komunalni-kutna_hora
   - zastupitel
+ordZastupitel: 1
 description: zastupitel / místostarosta - Kutná Hora, mistopředseda Komise pro rozvoj obcí a měst SčK
 img: people/vit-snajdr.jpg
 mail:
