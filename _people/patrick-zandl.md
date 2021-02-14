@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 7
 description: předseda místního sdružení a zastupitel - Brandýs n.L. - St. Boleslav
 img: people/patrick-zandl.jpg
 mail:
