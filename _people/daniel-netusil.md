@@ -9,6 +9,7 @@ category:
   - kraj
   - zastupitel
 ordKraj: 4
+ordZastupitel: 2
 img: people/daniel-netusil.jpg
 mail:
   - daniel.netusil@pirati.cz
