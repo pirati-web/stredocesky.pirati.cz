@@ -7,7 +7,6 @@ titles:
 description: krajský zastupitel, předseda Výboru pro zdravotnictví
 category:
   - kraj
-  - zastupitel
 img: people/petr-tomas.jpg
 ordKraj: 5
 mail:
