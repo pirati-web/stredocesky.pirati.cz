@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 6
 description: zastupitel - Černošice
 img: people/marek-jericha.jpg
 mail:
