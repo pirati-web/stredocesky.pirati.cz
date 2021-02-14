@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - zastupitel
+ordZastupitel: 9
 description: zastupitel - Černošice
 img: people/michal-tresl.jpg
 mail:
