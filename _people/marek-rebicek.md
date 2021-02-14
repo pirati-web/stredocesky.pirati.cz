@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 8
 description: zastupitel - Brandýs n.L. - St. Boleslav
 img: people/marek-rebicek.jpg
 mail:
