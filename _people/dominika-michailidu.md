@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - zastupitel
+ordZastupitel: 4
 description: zastupitelka - Krnsko
 img: people/dominika-michailidu.jpg
 mail:
