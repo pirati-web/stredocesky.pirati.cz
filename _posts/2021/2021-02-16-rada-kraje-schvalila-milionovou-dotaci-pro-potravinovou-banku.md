@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-02-16
+date: 2021-02-17
 #published: false
 tags: krajská_politika sociální_politika
 title: 'Rada kraje schválila milionovou dotaci pro potravinovou banku'
