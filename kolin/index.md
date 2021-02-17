@@ -59,7 +59,7 @@ Od roku 2014 do rokou 2018 působil v komisi Rady města Kolín pro výstavbu a 
 
 * **Komise pro rozvoj sídlišť**
   * Martin Polák
-* **Komise pro Smart city**
+* **Pracovní skupina pro Smart city**
   * Ing. Jiří Snížek
 * **Kulturní komise**
   * Mgr. Matěj Forst
@@ -72,7 +72,7 @@ Od roku 2014 do rokou 2018 působil v komisi Rady města Kolín pro výstavbu a 
 * **Komise dopravy**
   * Jaroslav Pros
 * **Komise pro hospodaření s byty a nebytovými prostory**
-  * Ing. Jiří Snížek
+  * Ing. arch. Vojtěch Ertl
 
 # Faktografické údaje o Kolíně
 
