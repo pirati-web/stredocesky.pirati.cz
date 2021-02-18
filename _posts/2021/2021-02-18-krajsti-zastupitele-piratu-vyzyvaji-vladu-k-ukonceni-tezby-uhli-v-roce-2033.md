@@ -11,7 +11,7 @@ author: Mediální odbor
 image: posts/2021/2021-02-18-uhli.jpg
 ---
 
-Praha, 17. února 2021 – Pirátští radní za životní prostředí a další zastupitelé vyzývají vládu k ukončení spalování uhlí do roku 2033, tedy o pět let dříve, než zní doporučení Uhelné komise. Deklaraci, požadující ukončení spalování v roce 2033 a adekvátní kompenzace pracovníkům v odvětví těžby, již schválilo hlavní město Praha, ale také Liberecký a Olomoucký kraj. Iniciativu krajů podporuje rovněž předsedkyně sněmovního Výboru pro životní prostředí Pirátka Dana Balcarová.
+Pirátští radní za životní prostředí a další zastupitelé vyzývají vládu k ukončení spalování uhlí do roku 2033, tedy o pět let dříve, než zní doporučení Uhelné komise. Deklaraci, požadující ukončení spalování v roce 2033 a adekvátní kompenzace pracovníkům v odvětví těžby, již schválilo hlavní město Praha, ale také Liberecký a Olomoucký kraj. Iniciativu krajů podporuje rovněž předsedkyně sněmovního Výboru pro životní prostředí Pirátka Dana Balcarová.
 
 Ze závěrů analýzy Akademie věd ČR vyplývá, že patříme k zemím s nejvyššími emisemi, jejichž hlavním zdrojem je právě spalování uhlí. Podle názoru expertů opustí vyspělé země spalování uhlí k roku 2031, rozvojové pak k roku 2037. Z tohoto důvodu se krajští zastupitelé Pirátů zasadili o přijetí výzvy vládě, která požaduje ukončení spalování uhlí právě k roku 2033. Jen tak lze udržet Česko konkurenceschopné a zároveň ochránit zdraví občanů a přírodu. Důležité jsou ovšem také kompenzace či podpora horníků i citlivá transformace uhelných regionů.
  
