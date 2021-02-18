@@ -28,4 +28,6 @@ informoval Tomáš Murňák, pirátský místopředseda Výboru pro infrastruktu
 
 Krajští zastupitelé Pirátů v ostatních krajích ukončení spalování uhlí k roku 2033 taktéž podporují. Někteří si ale stěžují na nedostatečné informace ze strany Uhelné komise či Rady kraje o tom, že lze termín těžby za zastupitelstva rozporovat. V některých krajích pak postoj Pirátů nesdílí jiné politické strany. Jako například ve Středočeském kraji. 
 > „I já podporuji brzký termín odchodu České republiky od spalování uhlí, proto jsem ve Středočeském kraji navrhla Radě k projednání návrh na podporu roku 2033 jako roku útlumu spalování uhlí. Bohužel toto usnesení nakonec přijato nebylo,“
-uvedla Jana Skopalíková, pirátská radní za životní prostředí a zemědělství.
+uvedla Jana Skopalíková, pirátská radní za životní prostředí a zemědělství. Dřívější odklon od uhelné energie řeší ve středních Čechách nejen naši krajští zastupitelé. V senátu se tomuto tématu věnuje Adéla Šípová senátorka za obvod Kladno a členka Stálé komise Senátu VODA - SUCHO. K této problematice se vyjádřila v minulých dnech na svém facebookovém profilu:
+> "Připojuji se k výzvám odborníků, vědců a zejména mnohých občanů a důrazně žádám, aby vláda naplánovala ukončení uhlí již na rok 2033. 
+Naše děti si zaslouží, abychom jim zemi předali ve slušném stavu a byla bych ráda, aby moje vnoučata nemusela čelit suchu, vlně veder a povodním, které jsou důsledkem našeho nešetrného zacházení s klimatem. Musíme se naučit lépe pracovat s obnovitelnými zdroji."
