@@ -4,7 +4,7 @@ layout: post
 date: 2021-03-08
 #published: false
 tags: krajská_politika doprava
-title: 'stredocesky-kraj-docasne-omezuje-spoje-verejne-hromadne-dopravy'
+title: 'Středočeský kraj dočasně omezuje spoje veřejné hromadné dopravy'
 description: 'krajská politika, doprava'
 author: Jan Lička
 authorId: jan.licka
