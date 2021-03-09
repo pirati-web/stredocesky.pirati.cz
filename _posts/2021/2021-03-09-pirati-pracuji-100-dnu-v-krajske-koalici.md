@@ -33,7 +33,7 @@ Celkový objem prostředků ve fondech v životním prostředí se zvýšil cca 
 
 Podporujeme ekologickou výchovu. Bylo uvolněno 7 mil. Kč na Program pro poskytování dotací z rozpočtu Středočeského kraje na Environmentální vzdělávání, výchovu a osvětu. Schválili jsme dlouhodobé financování 5 krajských středisek ekologické výchovy a jejich činnost byla podpořena celkem částkou 10 mil Kč
 
-{% asset 'people/people/lucie-chocholova.jpg' alt='Lucie Cirkva Chocholová'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
+{% asset 'people/lucie-chocholova.jpg' alt='Lucie Cirkva Chocholová'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Lucie Cirkva Chocholová**, předsedkyně Výboru pro památkovou péči, kulturu a cestovní ruch
 
 Podařilo se nám spolu se členy Výboru pro památkovou péči, kultury a cestovního ruchu nastavit parametry Středočeského Fondu kultury a obnovy památek tak, aby byl dotační systém přehlednější a byl zaměřen více na kulturu a podporu spolkové činnosti v regionu. O těchto fondech bude rozhodovat zastupitelstvo v měsíci březnu.
@@ -42,7 +42,7 @@ Ve spolupráci s radním pro oblast kultury a cestovního ruchu jsme navštívil
  
 Navázali jsme na dlouhodobou spolupráci kraje se spolkem Svatá Ludmila 1100 let a připojili se k završení významného jubilea, které nám připomene mučednickou smrt Matky českého národa. Svatá Ludmila se jako symbol národní identity významně zapsala nejen do historie Středních Čech. 
 
-
+{% asset 'people/tomas-zmuda.jpg' alt='Tomáš Zmuda'  align='right' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Tomáš Zmuda**, místopředseda Výboru pro digitalizaci a chytrý kraj
 
 Spolu s Petrem Tomášem jsme odhalili kauzu tabletů nakoupených pro Zdravotnickou záchrannou službu Středočeského kraje v roce 2015 z IOP, které ještě donedávna ležely nepoužité ve skladu. 70 tabletů a informační systém v pořizovací hodnotě necelých 5 mil. Kč jsou postupně přeinstalovávány, aktualizovány a konečně budou využívány pro potřeby záchranářů, byť jinému než původně plánovanému účelu.
@@ -55,14 +55,14 @@ Intenzivně se připravujeme na spuštění ostrého provozu Středočeského pl
  
 Čeká nás mnoho zajímavých projektů jako jsou například Digitálně technická mapa, rozvoz IOT či e-podatelna pro občany SčK. 
 
-
+{% asset 'people/daniel-netusil.jpg' alt='Daniel Netušil'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Daniel Netušil**, místopředseda Výboru pro tělovýchovu a sport
 
 Povedlo se navýšit Středočeský fond sportu a volného času na 26 mil. Kč z původních 24 mil. Kč a to i přes situaci spojenou s Covidem. Navýšení došlo v tematickém zadání směřovaném na investiční podporu.
 
 Nyní se budeme zabývat revizí a kontrolou Sportovních center mládeže a také revizí koncepce na podporu Sportovních center mládeže ve Středočeském kraji. 
 
-
+{% asset 'people/jan-licka.jpg' alt='Jan Lička'  align='right' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Jan Lička**, místopředseda Výboru pro dopravu
 
 Na přípravném setkání výboru jsem podpořil větší důraz v koaličním programu na zlepšení návazností spojů, ať už mezi kraji, nebo mezi autobusovými a železničními dopravci. Prosadil jsem mj. do programu mezioborové téma: "Budeme postupovat s respektem k zásadám kvalitního urbanismu a dobré péče o krajinu, mj. v otázkách péče o aleje, pohybu zvěře nebo zacházení s dešťovou vodou."
