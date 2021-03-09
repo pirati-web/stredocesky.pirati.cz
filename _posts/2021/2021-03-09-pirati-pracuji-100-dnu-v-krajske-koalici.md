@@ -8,7 +8,7 @@ title: 'Piráti pracují: 100 dnů v krajské koalici'
 description: 'krajská politika'
 author: Mediální odbor
 #authorId: jan.licka
-image: posts/2020/Radnice_Středočeského_kraje.jpg
+image: posts/2020/rada-stc.jpg
 ---
 
 Je nepsaným pravidlem, že první účty skládají nové vlády po 100 dnech jejich úřadování, ne jinak tomu je u těch krajských. Proto byla dnes svolána tisková konference, kde jednotliví členové Rady Středočeského kraje seznámili veřejnost s dosavadními výsledky své práce. Při této příležitosti vám přinášíme ohlédnutí za tímto obdobím nejen našich radních, ale i  dalších pirátských zastupitelů.
