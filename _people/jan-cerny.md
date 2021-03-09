@@ -7,7 +7,7 @@ titles:
 category:
   - zastupitel
 ordZastupitel: 5
-description: zastupitel - Úvaly, zvolen za PRO Úvaly, místopředseda Výboru pro regionální rozvoj SčK
+description: zastupitel - Úvaly, zvolen za PRO Úvaly, místopředseda Finančního výboru SčK
 img: people/jan-cerny.jpg
 mail:
   - jan.cerny@pirati.cz
