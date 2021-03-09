@@ -22,7 +22,7 @@ Povedlo se navázat úzkou spolupráci s Prahou. Společně jsme připomínkoval
 
 Dále jsme společně s Prahou připomínkovali zadání územní studie pražského metropolitního regionu, která se bude týkat dopravní a modrozelené infrastruktury. Panuje shoda na tom, že budeme společně usilovat o zadání další územní studie, která bude řešit sídelní strukturu. Je důležité znát definitivní podobu metropolitního regionu, který je rozvojovou oblastí republikového významu. Nelze pokračovat v dosavadní praxi nekoordinované výstavby.
 
-
+{% asset 'people/jana-skopalikova.jpg' alt='Jana Skopalíková'  align='right' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Jana Skopalíková**, radní pro oblast životního prostředí a zemědělství
 
 V rámci Středočeského Fondu životního prostředí a zemědělství jsme podpořili zadržování vody v krajině. Dotace 20 mil. Kč poskytnuté dle tohoto Programu přispívají k podpoře výstavby nových rybníků, obnovu zaniklých, rekonstrukcí a odbahnění rybníků, malých vodních nádrží, mokřadů a tůní, které zvyšují retenční schopnosti krajiny. Účelem je ochrana před suchem a povodněmi.
@@ -33,7 +33,7 @@ Celkový objem prostředků ve fondech v životním prostředí se zvýšil cca 
 
 Podporujeme ekologickou výchovu. Bylo uvolněno 7 mil. Kč na Program pro poskytování dotací z rozpočtu Středočeského kraje na Environmentální vzdělávání, výchovu a osvětu. Schválili jsme dlouhodobé financování 5 krajských středisek ekologické výchovy a jejich činnost byla podpořena celkem částkou 10 mil Kč
 
-
+{% asset 'people/people/lucie-chocholova.jpg' alt='Lucie Cirkva Chocholová'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 **Lucie Cirkva Chocholová**, předsedkyně Výboru pro památkovou péči, kulturu a cestovní ruch
 
 Podařilo se nám spolu se členy Výboru pro památkovou péči, kultury a cestovního ruchu nastavit parametry Středočeského Fondu kultury a obnovy památek tak, aby byl dotační systém přehlednější a byl zaměřen více na kulturu a podporu spolkové činnosti v regionu. O těchto fondech bude rozhodovat zastupitelstvo v měsíci březnu.
