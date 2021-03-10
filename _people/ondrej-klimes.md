@@ -7,6 +7,7 @@ titles:
 category:
   - dalsi
   - kontaktni_osoba
+ordDalsi: 3
 description: Vedoucí Mediálního odboru KS
 ordDalsi: 3
 img: people/ondrej-klimes.jpg
