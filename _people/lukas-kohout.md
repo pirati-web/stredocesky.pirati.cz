@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - dalsi
+ordDalsi: 5
 description: tajemník klubu zastupitelů SčK
 img: people/lukas-kohout.jpg
 mail: lukas.kohout@pirati.cz
