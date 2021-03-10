@@ -32,5 +32,5 @@ až zakotvil v oblasti IT. Tam působil na pozicích projektový manažer, analy
 Zde se aktivně zapojuje do veřejného života. Je členem redakce městkého zpravodaje Vletruské listy a kulturního výboru zastupitelstva města. 
 
 V roce 2017 se stal registrovaným příznivcem Pirátské strany a v září 2020 členem. V prosinci téhož roku uspěl ve výběrovém řízení a stal se tajemníkem klubu pirátských 
-zastuitelů Středočekého kraje. V krajském sdružení je aktivní v Mediálním odboru a členem KET - Kultura. V rámci nalodění se stará o zájemce z Mělnicka, kde by chtěl 
-vytvořit místní sdružení. Zajímá se také o sociální problematiku - zejména o otázku diskriminace Romské menšiny.
+zastuitelů Středočekého kraje. V krajském sdružení je aktivní v Mediálním odboru a je členem KET - Kultura. V rámci nalodění se stará o zájemce z Mělnicka, kde by chtěl 
+výhledově založit místní sdružení. Zajímá se také o sociální problematiku - zejména o otázku diskriminace Romské menšiny.
