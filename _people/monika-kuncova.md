@@ -8,6 +8,7 @@ category:
   - dalsi
   - koordinator
   - kontaktni_osoba  
+ordDalsi: 2
 description: Koordinátorka dobrovolníků pro Středočeský kraj
 ordDalsi: 3
 img: people/monika-kuncova.jpg
