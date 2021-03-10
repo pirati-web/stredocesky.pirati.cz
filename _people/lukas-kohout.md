@@ -6,6 +6,8 @@ titles:
   after: 
 category:
   - dalsi
+  - tajemnik
+  - kontaktni_osoba
 ordDalsi: 5
 description: tajemník klubu zastupitelů SčK
 img: people/lukas-kohout.jpg
