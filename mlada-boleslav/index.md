@@ -13,8 +13,8 @@ predsednictvo:
    jmeno: Dominika Michailidu
  - funkce: 2. místopředseda
    jmeno: Mgr. Jindřich Pechanda
-mandat-do: 03.02.2021
-volba: https://forum.pirati.cz/viewtopic.php?p=603893#p603893
+mandat-do: 02.02.2023
+volba: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
 ---
 [{% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
 
