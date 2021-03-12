@@ -3,7 +3,7 @@ layout: ms
 title: Místní sdružení Mladá Boleslav
 description: Místní sdružení Mladá Boleslav
 keywords: piráti, místní sdružení, Mladá Boleslav
-mail: petra.smutna@pirati.cz
+mail: matous.adamu@pirati.cz
 facebook: PiratiMB
 forum: https://forum.pirati.cz/viewforum.php?f=737
 predsednictvo:
