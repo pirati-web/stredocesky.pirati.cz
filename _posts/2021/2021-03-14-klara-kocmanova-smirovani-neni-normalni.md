@@ -6,8 +6,8 @@ date: 2021-03-14
 tags: EU lidská_práva bezpečnost
 title: 'Klára Kocmanová: Šmírování není normální'
 description: 'EU, lidská práva, bezpečnost'
-author: Ondřej Petr 
-authorId: ondrej.petr
+author: Mediální odbor 
+#authorId: ondrej.petr
 image: posts/2021/2021-03-14-tvare.png
 ---
 
