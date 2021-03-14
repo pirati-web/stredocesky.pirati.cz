@@ -15,7 +15,7 @@ image: posts/2021/2021-03-14-tvare.png
 [Markéta Gregorová](https://www.pirati.cz/lide/marketa-gregorova/) společně spouštějí kampaň [Vraťte nám naše tváře](https://zo.pirati.cz/tvare/), která má upozornit veřejnost 
 na nové sledovací technologie a nasbírat podpisy pod [evropskou petici](https://reclaimyourface.eu/) za zákaz biometrického šmírování.
 
-Cílem evropské iniciativy **Claim Your Face** je vybojovat novou legislativu, která zabrání masovému šmírování za použití tzv. biometrických technik pracujících s daty,
+Cílem evropské iniciativy **Reclaim Your Face** je vybojovat novou legislativu, která zabrání masovému šmírování za použití tzv. biometrických technik pracujících s daty,
 která jsou jedinečná pro naše těla a naše jednání – tedy pro to, kým jsme. Jsou to typicky průmyslové kamery či softwary na rozpoznávání obličejů. Petice má za cíl nasbírat
 1 milion podpisů. Pirátky Klára Kocmanová a Markéta Gregorová se nyní rozhodly podpořit petici i v České republice.
 
