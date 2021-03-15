@@ -11,7 +11,7 @@ author: Soňa Brunnerová
 image: posts/2021/2021-03-15-ResPirator.jpg
 ---
 
-Pro mnoho lidí může být koupě respirátorů zejména z finančních důvodů velkým problémem. Proto jsme na začátku března vypsali dobročinnou sbírku na koupi těchto ochranných prostředků pro ty, kterým taková investice navíc činí potíže. **Středočeští Piráti a veřejnost v této sbírce vybrali k 15. březnu už 56 761 Kč**. K potřebným se během dvou týdnů dostalo už přes 10 tisíc respirátorů.
+Pro mnoho lidí může být koupě respirátorů zejména z finančních důvodů velkým problémem. Proto jsme na začátku března vypsali dobročinnou sbírku na koupi těchto ochranných prostředků pro ty, kterým taková investice navíc činí potíže. **Středočeští Piráti a s významnou pomocí veřejnosti v této sbírce vybrali k 15. březnu už 56 761 Kč**. K potřebným se během dvou týdnů dostalo už přes 10 tisíc respirátorů.
 
 ## Komu pomáháme?
 
