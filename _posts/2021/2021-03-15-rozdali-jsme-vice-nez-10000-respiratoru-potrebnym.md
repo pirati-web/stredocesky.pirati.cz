@@ -18,7 +18,7 @@ Pro mnoho lidí může být koupě respirátorů zejména z finančních důvod�
 Nakoupené respirátory darujeme různým institucím (charity, neziskové organizace aj.), které pomáhají potřebným jako jsou samoživitelé, senioři, hendikepovaní a další.
 
 > „Všechny obdarované organizace měly z respirátorů upřímnou radost, nákup jednorázových pomůcek je totiž pro jejich klienty citelným nákladem. Společně s respirátory také předáváme letáček s návodem na správné používání respirátoru a s návodem na jeho nouzovou sterilizaci, pro případy, kdy si člověk nemůže dovolit používat respirátor dle pokynů výrobce,“ uvedl Roman Hájek na facebookové stánce kladenských Pirátů.
-> 
+
 Mezi obdarovanými je také nymburská nemocnice, která měla nedostatek těchto pomůcek. Respirátory dostaly i obce a města, např. Doksy, Knovíz, Říčany a řada dalších.
 
 Respirátory do těchto institucí osobně rozváží pověření lidé, kteří jsou v kontaktu s hlavní koordinátorkou Veronikou Hažlinskou.
