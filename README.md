@@ -4,7 +4,7 @@
 * pokud kód nemůžete otestovat na lokále (stažení celého repa, build a spuštění v jekyllu), dělejte jen drobné změny, kterým rozumíte
 * obecně k pirátským šablonám: https://github.com/pirati-web/jekyll-theme-pirati/blob/master/USAGE.md
 * další repository pro inspiraci: https://github.com/pirati-web
-* další informace k pirátským jekyllům: https://wiki.pirati.cz/to/navody/jekyll-weby
+* další informace a návody k pirátským jekyllům: https://wiki.pirati.cz/to/navody/jekyll-weby a https://github.com/pirati-web/zlinsky.pirati.cz/blob/master/readme.md
 * web je dostupný i přes hostname stc.pirati.cz včetně všech URL, např. stc.pirati.cz/volby
 
 # Co má nebo musí mít článek
