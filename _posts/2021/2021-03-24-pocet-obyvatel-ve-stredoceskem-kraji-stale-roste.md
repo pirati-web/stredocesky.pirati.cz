@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-03-15
+date: 2021-03-24
 #published: false
 tags: krajská_politika regionální_rozvoj
 title: 'Počet obyvatel ve Středočeském kraji stále roste'
