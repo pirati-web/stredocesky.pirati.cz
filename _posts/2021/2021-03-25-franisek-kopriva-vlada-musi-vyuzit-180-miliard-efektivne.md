@@ -30,4 +30,4 @@ k zalepení problémů minulosti. To se musí změnit. Cítíme odpovědnost za 
 sněmovně. Chceme, abychom i díky tomuto plánu posunuli naši zemi od levné ekonomiky k ekonomice s vysokou přidanou hodnotou. Nechceme tyto peníze utopit v minulosti, chceme 
 jimi vylepšit budoucnost,” 
 
-okomentoval 1. místopředseda STAN Jan Farský. Zobrazit míň
+okomentoval 1. místopředseda STAN Jan Farský.
