@@ -6,9 +6,9 @@ date: 2021-03-26
 tags: celostátní_politika poslanecká_sněmovna covid-19
 title: 'Ivan Bartoš: Vláda musí vyvodit odpovědnost za způsobené škody'
 description: 'celostátní politika, poslanecká sněmovna, covid-19'
-author: Ondřej Petr
-authorId: ondrej.petr
-image: posts/2021/21-03-26-bartos-team.jpg
+author: Mediální odbor
+#authorId: ondrej.petr
+image: posts/2021/2021-03-26-bartos-team.jpg
 ---
 
 V minulém roce podal předseda Pirátů Ivan Bartoš Nejvyššímu kontrolnímu úřadu dva obsáhlé podněty, které se týkaly státních nákupů ochranných pomůcek - zejména respirátorů. V nich analytický tým Pirátů podrobně zmapoval chaotické nákupy respirátorů s obrovskými cenovými výkyvy a často bez ověření jejich kvality. Dnes NKÚ zveřejnil své závěry, kde pochybení potvrzuje. Při šetření bylo nepochybně vycházeno rovněž z podkladů Pirátů. „Členové vlády by měli vyvodit odpovědnost za tato závažná selhání, způsobené škody a naprostou ignoraci českých výrobců ochranných pomůcek. Je absolutně nepřijatelné, aby způsobené škody platil běžný poctivý daňový poplatník,“ upozornil Bartoš.
