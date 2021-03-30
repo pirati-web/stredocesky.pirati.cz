@@ -44,3 +44,21 @@ S Pirátskou stranou začal sympatizovat již krátce po jejím založení, a to
 
 David se narodil v roce 1985 v Domažlicích. Vyrůstal ve Staňkově a dospíval v Plzni, kde studoval osmileté sportovní gymnázium, jehož studium narušilo zranění. Od svých 17 až do svých 24 pracoval v Plzni v gastronomii a následně v kasínu. Ve 25 letech se odstěhoval do Prahy a vrátil se ke sportu jak kariérně tak rekreačně. Od roku 2016 žije v Králově Dvoře se svou partnerkou a synem v rodinném domku v Popovicích. Velmi rád cestuje, běhá a zdolává překážky. Má rád výzvy a těžkou nebo složitou práci. O politiku se zajímá od puberty, pirátem se cítil tak nějak vždycky, oficiálním Pirátem je od roku 2018.
 
+**Klára Kadár - členka místního sdružení Beroun**
+
+Klára Kadár pochází z Krkonoš a nyní několik let žije v Hýskově. Vystudovala literární historii
+a kulturní dějiny se specializací na gender history na univerzitě v Pardubicích. V rámci
+programu Erasmus+ studovala v Budapešti na Pázmány Péter Katolikus Egyetem se
+zaměřením na dějiny mentalit, národní a etnické minority v kombinaci se sociální
+komunikací. Během vysokoškolského studia začala získávat pracovní zkušenosti, a to
+převážně ve státní správě. Působila jako stážistka na Úřadě vlády, kde během studií začala i
+pracovat na projektu "To je rovnost!" zaměřeného na slaďování pracovního a soukromého života a
+prevenci domácího násilí. Nyní pracuje jako projektová manažerka na Ministerstvu práce a
+sociálních věcí. Ve volném čase ráda cestuje, jezdí na motorce a na koni. Nyní jí však všechen
+čas zabírá potomek, proto svůj zájem přesměrovala na zahradu, kde zahájila své pěstitelské
+pokusy. S Piráty sympatizuje řadu let a má ráda čitelnost a stabilitu jejich politiky. Ve straně se chce
+zaměřit především na sociální témata.
+
+**Milan Svoboda - člen místního sdružení Beroun**
+
+je studentem Farmaceutické fakulty Univerzity Karlovy, kde ho letos čekají státní zkoušky. V rámci Pirátů se zaměřuje na témata registrace léčiv a zdraqvotnictví, ke kterým má vztah. V MS Beroun se zapoje především v organizačních a technických záležitostech, nyní čerstvě řeší dva projekty s účastí MS a Berounskou zelení. Mezi jeho záliby patří příroda, běh, blockchain a celá řada dalších koníčků, na které už mu kvůli jeho vytížení mnoho času nezbýává.
