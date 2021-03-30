@@ -33,6 +33,6 @@ nezaměstnanost z celého Středočeského kraje.
 7. Nemáme informace o tom, že by se Gymnázium pod Svatou Horou v Příbrami výrazně
 vychýlilo v kvantitativních a kvalitativních ukazatelích z krajského průměru.
 
-[Stanovisko Krajského expertního týmu - Školstvní](/assets/files/Optimalizace_KET_vyjadreni_public_FINAL.pdf) 
+[Stanovisko Krajského expertního týmu - Školství](/assets/files/Optimalizace_KET_vyjadreni_public_FINAL.pdf) 
 
-[Stanovisko republikového Resortního týmu - Školstvní](/assets/files/resortni_tym_optimalizace_FINAL.pdf)
+[Stanovisko republikového Resortního týmu - Školství](/assets/files/resortni_tym_optimalizace_FINAL.pdf)
