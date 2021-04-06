@@ -24,4 +24,3 @@ Pirátskou stranu vidí jako politickou stranu, která má ambice digitalizovat 
 
 Zajímá se o nové technologie v oblasti IT a jejich případné uplatnění v běžném životě. Volný čas rád vyplňuje sledováním aktuálních OVM, zpravodajství ČT24, novinek v IT, případně "vypouštěním" u deskových či PC her nebo poslechem hudby.
 
-Svůj volný čas tráví se svou rodinou a přáteli, nejlépe na kole a v přírodě. Je vášnivá cyklistka, protože kolo je pro ni součástí jejího životního stylu. A ráda poznává vše nové a inspirující.
