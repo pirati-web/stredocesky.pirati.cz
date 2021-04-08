@@ -12,13 +12,13 @@ image: posts/2019/kurz_Evropa.png
 ---
 V primárních volbách na kandidátku do Evropského parlamentu uspěli tři zástupci, které nominovalo středočeské krajské sdružení Pirátské strany. Sedmé místo kandidátky obsadila koreanistka Nina Špitálníková, na další pozice byli zvoleni poslanec František Kopřiva a dopravní expert Jan Lička. Jejich přesné místo na kandidátce určí hlasování během víkendu, rozhodovat se bude o pořadí na 17. až 28. místě kandidátky.
 
-{% asset 'posts/2019/nina_spitalnikova.jpg' alt='Nina Špitálníková' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/nina_spitalnikova.jpg' alt='Nina Špitálníková' %}
 
 > "Do poslední chvíle jsem netušila, jak hlasování dopadne, a velmi si cením projevené důvěry. Přední místo na kandidátce mě zavazuje k poměrně aktivní účasti v kampani. Do ní jsem se zapojila již od loňského podzimu, kdy jsem podpořila nová pirátská centra v krajských městech sérií přednášek o mém pobytu v Severní Koreji,"
 
 uvedla po zvolení spisovatelka a odbornice na Korejskou lidově demokratickou republiku **Nina Špitálníková**. V únoru přednášela i ve Středočeské knihovně v Kladně, kde vyrůstala a vystudovala gymnázium.
 
-{% asset 'posts/2019/frantisek_kopriva.jpg' alt='František Kopřiva' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/frantisek_kopriva.jpg' alt='František Kopřiva' %}
 
 Druhým pirátským poslancem (prvním je Mikuláš Peksa) na eurokandidátce je **František Kopřiva** z Mladé Boleslavi.
 
@@ -26,7 +26,7 @@ Druhým pirátským poslancem (prvním je Mikuláš Peksa) na eurokandidátce je
 
 vysvětlil František Kopřiva svou motivaci. 
 
-{% asset 'posts/2019/jan_licka.jpg' alt='Jan Lička' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/jan_licka.jpg' alt='Jan Lička' %}
 
 **Jan Lička** jako dopravní expert řeší aktuálně i problematiku dopravy ve Středočeském kraji. Se svými kolegy již dříve připravil celostátní mapu investic a nyní vede průzkum, který má za cíl analyzovat potřeby obyvatel kraje. Jeho výsledky přispějí k informovanosti firem a institucí o dostupnosti kvalifikovaných pracovních sil, tak aby své pobočky otevíraly nejen v hlavním městě, ale i v dalších obcích v regionu.
 

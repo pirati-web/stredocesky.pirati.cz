@@ -3,6 +3,7 @@ title: Moderní úřad
 uid: 2020-krajske-6
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
+img: program2020/finance.jpg
 approved:
 garant:
 perex: >

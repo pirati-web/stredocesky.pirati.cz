@@ -16,6 +16,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Petra Smutná** (* 1977) je předsedkyní místního sdružení Mladá Boleslav, členkou a jednatelkou Republikového výboru Pirátů.

@@ -18,6 +18,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 **Michal Trešl** (* 12. června 1993) žije v Černošicích, kde má jeho rodina hluboké kořeny. Ve volbách do zastupitelstva v roce 2018 vedl kandidátku jako lídr a stal se členem zastupitelstva ještě s kolegou Markem Jeřichou. Od listopadu 2018 do června 2019 byl místopředsedou krajského sdružení Středočeský kraj České pirátské strany.
 

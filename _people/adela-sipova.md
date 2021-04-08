@@ -17,6 +17,8 @@ profiles:
   facebook: https://www.facebook.com/adelasipovasenat
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Adéla Šípová** (* 1980) se narodila v roce 1980 ve Vlašimi. Dětství prožila v Praze, odkud pochází část její rodiny. Rok 1992 strávila u své tety a strýce v Sydney, kam chodila do veřejné školy. Byla to pro ní obrovská životní zkušenost, která ji naučila být vnímavá k odlišnostem různých jazyků, národů a kultur a umět je respektovat, dokonce se jimi nechat obohatit. Ve dvanácti letech se s rodiči a bratrem přestěhovali na statek v malé obci Dolany na Kladensku. Na Kladně vystudovala gymnázium. Po maturitě se vdala a přestěhovala za svým manželem o pár kilometrů dál, do Doks, kde s pěti dětmi bydlí dosud.

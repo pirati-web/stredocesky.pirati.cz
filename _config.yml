@@ -14,8 +14,10 @@ keywords: krajské sdružení, střední čechy, středočeši, piráti, česká
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your site
 
+mediaStorage: stredocesky
+
 administrator:
-  email: jan.korbel@pirati.cz,vaclav.kubaljak@pirati.cz, jan.suchanek@gmail.com # mail kam pujdou chybove vystupy
+  email: jan.suchanek@gmail.com, lukas.kohout@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Piráti - Středočeský kraj
@@ -25,7 +27,7 @@ organization:
   address: |
     Na Moráni 360/3
     120 00 Praha 2
-  residenceImg: pice-mapa.png
+  residenceImg: https://a.pirati.cz/stredocesky/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
   dataBoxId: b2i4r6j
@@ -37,7 +39,7 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
+  #- type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
@@ -52,13 +54,10 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  #title: Celostátní kalendář
-  #id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
-
-  title: Kalendář Středočeského kraje
+  title: Krajský kalendář
   id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
 
 facebook:
   loadSDK: true
@@ -146,8 +145,7 @@ defaults:   # defaults values for collection scope
     values:
       layout: "person"
       rbar:
-        - foto
-        - personContact
+        - profile
         - people
   -
     scope:
@@ -176,15 +174,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
 
-# piwik
-piwik:
-  siteId: 21
-  loadSDK: true
-
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

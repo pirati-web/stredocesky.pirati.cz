@@ -21,6 +21,8 @@ profiles:
   facebook: https://www.facebook.com/PiratStepanDrtina
   twitter: https://twitter.com/DrtinaStepan
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Mgr. Štěpán Drtina** (* 2. května 1994) je druhým místopředsedou krajského sdružení středočeských Pirátů. Narodil se v Čáslavi, ale celý život žije v Kutné Hoře, kde také navštěvoval Církevní gymnázium. Získal bakalářský titul v oboru Historie – společenské vědy se zaměřením na vzdělávání na Pedagogické fakultě v Hradci Králové. Následně na Filozofické fakultě stejné univerzity vystudoval magisterský obor Novodobé české a československé dějiny. Ve své bakalářské práci se věnoval studiu pozdně středověkých kutnohorských městských knih. V diplomové práci se zabýval opět nepoznanou stránkou místních dějin, kdy mapuje činnost KSČ po roce 1945 a především události roku 1948 na Kutnohorsku.

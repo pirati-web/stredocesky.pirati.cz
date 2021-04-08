@@ -17,6 +17,8 @@ profiles:
   facebook: https://www.facebook.com/marketa.sediva.7
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Markéta Šedivá** (* 11. ledna 1983) je autorizovanou projektantkou pozemních staveb. Vystudovala stavební fakultu ČVUT, po ukončení studia pracovala dva a půl roku na stavbě kulturního centra arabského světa v Tunisu na pozici přípravář a projektant koordinace scénografie. Po návratu do ČR působila na obchodním oddělení přední české stavební společnosti, kde měla v kompetenci přípravu a kompletaci nabídek společnosti do veřejných zakázek. V současnosti se věnuje projektování pozemních staveb. Má tři děti, v Kutné Hoře žije s rodinou čtvrtým rokem. Zajímá se o inovativní přístupy ve vzdělávání dětí, městské investiční projekty a zlepšování kvality veřejného prostoru.

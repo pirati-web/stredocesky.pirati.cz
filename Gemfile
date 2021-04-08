@@ -13,10 +13,10 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "~>7.6.2"
+gem "jekyll-theme-pirati", "8.4.1"
 
 # Uncomment this line for local development.
-# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
+# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "feat/styleguide"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -29,6 +29,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
+  gem 'jekyll-environment-variables'
+  gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -45,11 +47,6 @@ gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
-# jcz1 - javascript runtime deps
-gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
-# jcz1 - calendar
-gem 'jekyll-environment-variables'
-# jcz1 - redirects
-gem 'jekyll-redirect-from'
-
+group :development, :test do
+  gem "html-proofer"
+end

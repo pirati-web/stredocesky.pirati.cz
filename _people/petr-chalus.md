@@ -18,6 +18,8 @@ profiles:
   twitter:
   linkedin:
   web: https://petrchalus.cz/
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Petr Chaluš** (* 8. července 1973) vystudoval pedagogiku na Filozofické fakultě Univerzity Karlovy v Praze. Pracoval v letech 2001 - 2006 jako poradce pro děti, rodiče i učitele a jako koordinátor školního parlamentu v ZŠ Londýnská, Praha 2. Jako člen širšího vedení se podílel na rozvoji inovativních přístupů této školy. Je autorem metodiky školních parlamentů z roku 2006, PDP, VÚP.

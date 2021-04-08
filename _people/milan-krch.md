@@ -19,5 +19,6 @@ profiles:
   twitter: 
   linkedin: 
   web: 
-
+heroImg: banner-default.jpg
+published: true
 ---

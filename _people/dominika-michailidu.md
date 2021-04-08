@@ -19,6 +19,8 @@ profiles:
   twitter:
   linkedin:
   web: http://www.dominika.michailidu.cz
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Dominika Michailidu** (*1980) se o Piráty se začala zajímat v roce 2011, kdy se zaregistrovala na fóru. Občanské angažmá nastoupila v lednu 2012, kdy ji na rodičovské dovolené vyrušila událost kolem tajně pečené mezinárodní smlouvy ACTA. Po šokujícím zjištění, že se takto děje více důležitých věcí, došla k závěru, že možná toto bude příčinou některých absurdností a nelogičností člověčího světa, kterou pozoruje už dlouho. Členkou Pirátů je od roku 2012, kdy na podzim kandidovala v krajských volbách do Zastupitelstva Středočeského kraje, ale neuspěla. Stejně tak neúspěšně dopadla i její kandidatura za Piráty ve volbách do Poslanecké sněmovny PČR v roce 2013 ve Středočeském kraji.

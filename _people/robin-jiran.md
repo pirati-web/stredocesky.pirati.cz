@@ -17,6 +17,8 @@ profiles:
   facebook: https://www.facebook.com/robin.jiran
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Robin Jiráň** (* 27. května 1989) vystudoval Statistiku na Vysoké škole ekonomické v Praze. Během studií pracoval v Bioenergo-komplex s.r.o v Kolíně jako vedoucí směny. Nyní je zaměstnán jako pojistný matematik v ČSOB Pojišťovně v Pardubicích. Zajímají ho moderní technologie, optimalizace procesů, matematické programování, softwarové programování, modelování rozhodovacích procesů, řízení investičního portfolia a zejména možnosti využití umělé inteligence v praxi.

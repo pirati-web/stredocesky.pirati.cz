@@ -17,7 +17,7 @@ predsednictvo:
 mandat-do: 01.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=50024
 ---
-[{% asset 'ms/kladno/top.png' alt='MS Kladno' %}](https://nalodeni.pirati.cz/)
+[{% asset 'https://a.pirati.cz/stredocesky/img/ms/kladno/top.png' alt='MS Kladno' %}](https://nalodeni.pirati.cz/)
 
 
 <!-- # Novinky

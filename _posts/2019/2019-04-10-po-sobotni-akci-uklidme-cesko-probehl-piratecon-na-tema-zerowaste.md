@@ -24,7 +24,7 @@ V sobotu 6. 4. proběhla po celé ČR akce Ukliďme Česko, které se zúčastn
 
 Všichni můžeme pomoci udržovat své obce čisté, stačí jen přemýšlet nad tím, kam vyhazujeme odpad, který sami produkujeme. Děkujeme všem dobrovolníkům, kteří se k této pravidelné úklidové akci přidali!
 
-{% asset 'posts/2019/zerowaste.jpg' alt='zerowaste' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/zerowaste.jpg' alt='zerowaste' %}
 
 ## Piratecon – Praha
 

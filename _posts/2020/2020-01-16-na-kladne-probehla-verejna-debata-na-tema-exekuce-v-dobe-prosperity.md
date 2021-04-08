@@ -19,4 +19,4 @@ Debatující se kriticky bavili i o komiksu, vydaném advokátní komorou, kter�
 
 > “Novela exekučního řádu je prvním, nikoliv však posledním správným pirátským krokem na cestě k narovnání práv dlužníků a věřitelů,” uvedla Adéla Šípová, advokátka a kandidátka na senátorku.
 
-{% asset 'posts/2020/exekuce-plakat.jpg' alt='plakát na debatu o exekucích Kladno' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/exekuce-plakat.jpg' alt='plakát na debatu o exekucích Kladno' %}

@@ -3,6 +3,7 @@ title: Životní prostředí a zemědělství
 uid: 2020-krajske-3
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
+img: program2020/zivotni-prostredi.jpg
 approved:
 garant:
 perex: >

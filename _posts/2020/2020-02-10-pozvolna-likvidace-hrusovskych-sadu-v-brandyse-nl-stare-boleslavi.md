@@ -24,7 +24,7 @@ Na svých pozemcích bratři Drahošovi také na černo vybudovali kopané studn
 
 Bratři Drahošovi minulý rok současně požádali o zrušení ochrany - významného krajiného prvku na spodním pozemku, aby mohli začít řešit výstavbu rodinných domů. Místní OŽP to sice zamítl, ale proti tomu podali odvolání, které musí vyřešit Středočeský kraj. Bratři se netají tím, že pokud by na kraji uspěli, požádají o sejmutí ochrany i ze zbytku svých pozemků, a že stavět míní rozhodně na většině území.
 
-{% asset 'posts/2020/mapa-hrusovske-sady.jpg' alt='mapa Hrušovské sady' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/mapa-hrusovske-sady.jpg' alt='mapa Hrušovské sady' %}
 
 Asi by to mohl být banální příběh o střetu individuálního stavebníka a ochrany přírody. Jenže bratři Drahošovi mají ve městě i podnikatelské plány, koupili jako společníci DRACO BROS s.r.o. bývalou samoobsluhu v Jasanové ulici a přestavují ji na polyfunkční dům - fitness centrum.
 

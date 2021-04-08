@@ -23,7 +23,8 @@ profiles:
 office:
   - address: Zborovská 81, Praha 5, 150 00
     name: Zastupitelský klub Pirátů 
-
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Lukáš Kohout** (* 1. prosince 1977) se narodil v Praze, kde žil do svých 27 let. Po maturitě na obchodní akademii absolvoval náhradní vojenskou službu. 

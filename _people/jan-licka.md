@@ -18,6 +18,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Jan Lička** (* 24. červenec 1981) se v Pirátské straně podílí na sekci Dopravy, se specializací na automobilovou dopravu a nové technologie. Pochází z Frýdku, většinu života prožil v Kralupech nad Vltavou a od roku 2015 hospodaří na statku u Benešova.

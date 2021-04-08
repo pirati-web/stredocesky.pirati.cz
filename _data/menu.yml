@@ -1,13 +1,16 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
-    url:  "/piratske-listy/"
-    icon: "fa fa-newspaper-o"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+#  - link: "Uplynulé volby"
+    #url: "/volby-2018/"
+    #icon: "fa fa-bar-chart"
 
 main:
   - link: /aktuality/
@@ -22,7 +25,7 @@ main:
   - link: /krajske-expertni-tymy/
     name: Experti
     match: experti
-  - link: /volby/2020/
+  - link: /volby/2020/krajske/?pohled=program
     name: Volby
     match: volby
   - link: /kontakt/

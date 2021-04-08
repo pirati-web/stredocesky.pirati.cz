@@ -1,7 +1,14 @@
 ---
-layout: page
-title: Informace pro zájemce o členství
+layout: pirate-center
+heroHeadline: Zájemci o členství
+heroDescription: Informace a postup pro zájemce o členství
+img: https://a.pirati.cz/resize/900x500/stredocesky/img/banner-default.jpg
+addressNote: Piráti - Středočeský kraj, Na Moráni 360/3, 120 00 Praha 2
+contactPersons:
+  - id: klara.kocmanova
+    description: Krajská koordinátorka
 ---
+
 
 # Vítáme tě u Pirátů!
 

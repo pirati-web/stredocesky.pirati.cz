@@ -16,13 +16,13 @@ Piráti Středočeského kraje zahájili ostrou fázi kampaně pro volby do Evro
 
 Taktéž jste zde mohli najít stánek s propagačními předměty, odkud jste si mohli odnést plátěnou tašku „Evropa potřebuje méně plastu“, jojo nebo náramek a přečíst si naše zbrusu nové předvolební Pirátské listy, ve kterých jsme se soustředili na evropská témata. Malá ochutnávka: rozhovor s koreanistkou Ninou Špitálníkovou Europarlament přiblížíme veřejnosti; Řídí EU naše životy, nebo my řídíme život EU? od Mikuláše Peksy a samozřejmě také našich 20 programových priorit. Pokud byste si chtěli přečíst středočeské Pirátské listy a nepotkali nás přímo “v terénu”, máme pro Vás [PDF ke stažení](/piratske-listy/archiv/2019-04-stredoceske.pdf).
 
-{% asset 'posts/2019/kampan-podebrady2.jpg' alt='Poděbrady' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/kampan-podebrady2.jpg' alt='Poděbrady' %}
 
 Na úspěšnou akci v Poděbradech, kde se vystřídalo několik set diváků, navázalo početně menší, zato stejně povedené, nedělní grilování s Piráty v Čajovně Dobříš. Potkat jste se zde mohli s příbramským pirátským zastupitelem Antonínem Schejbalem nebo středočeskou poslankyní Lenkou Kozlovou. Počasí nám přálo, jídla a pití bylo dostatek a konverzace rozhodně nevázla.
 
-{% asset 'posts/2019/kampan-dobris.jpg' alt='Dobříš' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/kampan-dobris.jpg' alt='Dobříš' %}
 
 Pondělí 29. 4. bylo poměrně nabité. Jako první proběhlo otevírání lokální poslanecké kanceláře Františka Kopřivy v Mladé Boleslavi, kam zavítal i Ivan Bartoš. Posléze odtud vyjel volební autobus s několika kandidáty do Europarlamentu na palubě vstříc tour po Středočeském kraji - s Evou Tichou nebo Michalem Gillem jste se mohli potkat v Nymburku či Poděbradech, kde debatovali s místními a rozdávali Pirátské listy občanům. A nakonec od 19 hodin se v některých středočeských městech konaly demonstrace za zachování nezávislosti české justice, již se účastnili i Piráti, například v Příbrami, Benešově nebo Mladé Boleslavi. A ve stejnou dobu jste si mohli také poslechnout Františka Kopřivu na rádiu Patriot v rámci pořadu Piráti na vlnách.
 
-{% asset 'posts/2019/franta-kancelar.jpg' alt='Mladá Boleslav' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/franta-kancelar.jpg' alt='Mladá Boleslav' %}
 

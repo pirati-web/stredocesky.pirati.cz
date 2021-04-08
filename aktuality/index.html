@@ -1,23 +1,20 @@
 ---
 layout: default
 title: Aktuality
-description: Novinky ze Středočeského kraje.
+description: Novinky ze středních Čech, pirátské kauzy a vše o Středočeském kraji.
 keywords: aktuality, tiskové zprávy, press, blog
 ---
 
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuální témata</h1>
 
-<div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuální témata</h1>
-          </header>
-          {% assign posts = paginator.posts %}
-          {% include articles/list-responsive.html posts=posts %}
-          {% include articles/pagination.html paginator=paginator %}
-      </div>
-    </div>
-  </div>
+    {% assign posts = paginator.posts %}
+    <main>
+      {% include articles/list-responsive.html posts=posts %}
+    </main>
+
+    {% include articles/pagination.html paginator=paginator %}
+  </section>
 </div>
 

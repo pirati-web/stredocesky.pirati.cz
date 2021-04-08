@@ -25,7 +25,7 @@ V této neplánované, ale reálné vládní hře se bohužel rukojmími stali o
 
 V řadě případů i dnes po dvou měsících tento stav přetrvává. Pan premiér Babiš hulvátsky na tiskové konferenci 14. března vykřikoval, že všude všechno je a pokud někomu chybí zdravotní pomůcky, ať mu zavolá, že tam pomůcky osobně doveze. Pane premiére, můžete klidně po skončení této schůze sednout do svého vládního vozu a vyrazit. Lidé stále šijí roušky, dokonce i pro zaměstnance fakultních nemocnic, o domovech seniorů raději nehovořím.
 
- {% asset 'posts/2020/letadlo.jpg' alt='Letadlo s ochrannými pomůckami' %}
+ {% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/letadlo.jpg' alt='Letadlo s ochrannými pomůckami' %}
  
  Nemalou obětí sobeckého postupu některých členů současné vlády je pak i naše ekonomika a náš rozpočet, ze kterého pod záštitou nouzového stavu již odteklo nebo ještě odteče na nákup jednorázových pomůcek přes 10 miliard korun. Že tyto peníze nemíří i k českým firmám, které řadu pomůcek umí vyrábět, vnímám jako další závažnou chybu vlády s dlouhodobými následky v celém tomto procesu.
 
@@ -61,7 +61,7 @@ V tuto chvíli se nebudu zabývat tím, jakým způsobem zajišťuje nákupy Min
 
 Rivalitu členů vlády, politických stran a jednotlivých resortů jsme jasně viděli na slavné twitterové hádce ministra Vojtěcha s ministrem Hamáčkem. Kdo co objednal, čí to bylo a kdo může za to, že to není tam, kde to má být. 
 
- {% asset 'posts/2020/hadka.jpg' alt='Hádka ministrů na Twitteru' %}
+ {% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/hadka.jpg' alt='Hádka ministrů na Twitteru' %}
 
 Následně si přisadila i ministryně Maláčová poté, co začali umírat v domovech pro seniory lidé a zjistila, že ani v těchto zařízeních nejsou elementární pomůcky. Tolik potřebné terénní služby zakázala ze stejného důvodu již dříve.
 

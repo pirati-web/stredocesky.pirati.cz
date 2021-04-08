@@ -22,7 +22,7 @@ Panelová diskuze se odvíjela v uvolněném duchu přátelsky naladěného pros
 
 Přínosem bylo jak věkové rozložení panelistů, tak i rozdílné obory. Setkaly se tak pohledy doktorandky, nositelky ceny nadace Neuron, i východiska zkušených dam (a jednoho muže). Spektrum zaměření účastnic zahrnovalo právo, sociologii, botaniku, zoologii zaměřenou na etologii pěvců, chemii a astronomii. Četní posluchači se aktivně zapojovali svými otázkami, vlastními postřehy a zážitky z vědecké komunity.
 
-{% asset 'posts/2020/zeny-ve-vede-2.jpg' alt='ženy a dívky ve vědě' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/zeny-ve-vede-2.jpg' alt='ženy a dívky ve vědě' %}
 
 Důležitější než samotné odborné zaměření panelistek byly jejich zkušenosti se zapojením, působením a prosazením se žen ve vědeckém prostředí. Může se zdát, že dnes ženám nestojí nic v cestě, aby se na poli výzkumu prosadily. Mohou studovat a vstupovat na akademickou půdu. V České republice skutečně roste podíl studujících ženského pohlaví a v mnoha oborech již ženy předběhly muže. Smutným faktem ale zůstává, že jejich podíl ve vědě v našem státě klesá. Překvapením pak už není zastoupení žen ve vedoucích funkcích. Počty vedoucích týmů, děkanek, rektorek apod. za muži silně pokulhávají. Příčin malého zastoupení žen, zmiňovaných také v debatě, je několik. Mezi hlavní patří tyto:
 
@@ -37,7 +37,7 @@ Opatřením, které by bylo snadné plošně zavést a jehož pozitivní dopady 
 
 Celou problematiku lze prostudovat v publikacích laskavě poskytnutých v tištěné formě Marcelou Linkovou, které jsou k zapůjčení v PICE (viz také odkazy v referencích níže).
 
-{% asset 'posts/2020/zeny-ve-vede-3.jpg' alt='ženy a dívky ve vědě' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/zeny-ve-vede-3.jpg' alt='ženy a dívky ve vědě' %}
 
 Atmosféra setkání byla veskrze příjemná, nakolik bylo toto u nás podceňované téma vážné. Jana Skopalíková k tomu s odstupem sdělila: "Jsem ráda, že se Pirátům podařilo uspořádat debatu i na relativně okrajové téma, jako jsou ženy a dívky ve vědě, se skvělým zastoupením diskutujících, stejně jako s početným publikem. Jsem proti genderovým kvótám, nicméně ženy ve vědecké oblasti mohou mít odlišné potřeby a problémy než jejich mužské protějšky. Dle mého názoru je potřeba ženy ve vědě podporovat, protože jak jsme se při debatě dozvěděli, žen i mužů na univerzitách studuje zhruba ekvivalentní množství, nicméně posléze se poměr vědkyň snižuje na necelých 30 % a za poslední roky má toto zastoupení navíc klesající tendenci."
 

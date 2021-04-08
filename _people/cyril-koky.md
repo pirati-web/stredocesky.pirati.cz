@@ -15,6 +15,8 @@ profiles:
   facebook: 
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Mgr. Koky Cyril, MPA** (* 1968) se narodil v Levoči, okres Spišská Nová Ves. Maturoval na Vojenské střední škole v Liptovském Mikuláši. V roce 1987 se přistěhoval do Kolína, zde sloužil přes deset let u Vojenské posádky. V roce 1997 se rozhodl z armády odejít a poté působil na Odboru sociálních věcí při Okresním úřadu v Nymburce. Bakalářský titul získal na Vysoké škole politických a společenských věd v Kolíně, magisterský na Vysoké škole ekonomie a managementu veřejné správy v Bratislavě.

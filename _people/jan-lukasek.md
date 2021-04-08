@@ -16,6 +16,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Jan Lukášek** (* 30. června 1979) do České pirátské strany vstoupil v březnu 2017. Je to pro něj strana, která reprezentuje liberální myšlenkový proud jak ve volebním programu, tak v procedurách jeho naplňování. Účastnil se předvolební kampaně do Poslanecké sněmovny 2017 v pozici třetího místopředsedy Středočeského kraje, na páté pozici kandidátky.

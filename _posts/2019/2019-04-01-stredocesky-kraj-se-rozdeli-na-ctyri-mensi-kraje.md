@@ -21,7 +21,7 @@ V případě „pouhého“ půlení kraje by jako přirozená hranice byla vybr
 
 “Však jasný,” dodává řidič kamionu, kterého jsme oslovili v tradiční ranní koloně u sjezdu na Říčany. Nepřál si uvést své jméno, ale za sklem měl kromě šesti mýtných krabiček ceduli KAREL: “Tenhle kus země je jako donut. Ať už ho načneš z kterýhokoli konce, skončíš v díře uprostřed.”
 
-{% asset 'posts/2019/sck_2.png' alt='Středočeské kraje' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2019/sck_2.png' alt='Středočeské kraje' %}
 
 Jedním ze sporných území je obec Živohošť na březích vodní nádrže Slapy, která je řekou rozdělená na dvě části. Stará část obce s kostelem se nachází na levém břehu, větší část zástavby naopak na břehu pravém, proto při hlasování na jednání místního zastupitelstva došlo k patové situaci – 2 zastupitelé hlasovali pro to, aby se Živohošť připojila ke kraji na levém břehu, 2 zastupitelé jsou pro břeh pravý a starosta se raději při hlasování zdržel; s tím, že tohle vyřeší jen zázrak. Nakonec proto bude uspořádán boží soud místním referendem, souběžně konaným s volbami do Evropského parlamentu, což nově umožňuje zákon z pera pirátského poslance Vojtěcha Pikala.
 

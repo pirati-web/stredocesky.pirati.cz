@@ -1,0 +1,190 @@
+---
+layout: default
+---
+
+{% assign group = site.data.campaigns | where: "groupUid", page.campaignGroupUid | first %}
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+{% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
+
+{% if page.img %}
+  {% if site.mediaStorage %}
+      {% capture imgPath %}https://a.pirati.cz/{{ site.mediaStorage }}/img/{{ page.img }}{% endcapture %}
+  {% else %}
+    {% capture imgPath %}{% asset '{{ page.img }}' @path %}{% endcapture %}
+    {% assign imgPath = imgPath | absolute_url %}
+  {% endif %}
+{% endif %}
+
+
+<div class="__js-root">
+  <ui-view-provider inline-template :initial="{kandidati: true, program: false}" :sync-location="true" location-param="pohled" v-slot="{ isCurrentView, showView }">
+    <main>
+      {% comment %} Support for customized elections header content. {% endcomment %}
+      {% if page.customizeHeader %}
+        {{ content }}
+      {% else %}
+        {% include elections-header.html img=page.img bgImg=page.heroBgImg subContent=content candidateListNumber=candidates.number %}
+      {% endif %}
+
+      <div class="container container--default pt-8 {% unless group.subLinks %}pb-8{% endunless %} lg:py-24">
+        {% if programCategories.size > 0 %}
+          <div class="text-center">
+            <div class="switch">
+              <a @click="showView('kandidati')" class="switch__item" :class="{'switch__item--active': isCurrentView('kandidati')}">Krajská kandidátka</a>
+              <a @click="showView('senat')" class="switch__item" :class="{'switch__item--active': isCurrentView('senat')}">Senátní kandidátka</a>
+              <a @click="showView('program')" class="switch__item" :class="{'switch__item--active': isCurrentView('program')}">Program</a>
+            </div>
+          </div>
+
+          <template v-if="isCurrentView('program')">
+            <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">Volební program</h1>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {% for category in programCategories %}
+                <article class="card card--hoveractive">
+                  {% if category.img %}
+                    {% if site.mediaStorage %}
+                      {% capture img_path %}https://a.pirati.cz/resize/400x225/{{ site.mediaStorage }}/img/{{ category.img }}{% endcapture %}
+                    {% else %}
+                      {% if category.img contains ".svg" %}
+                        {% capture img_path %}{{ category.img | prepend: "/assets/img/" | absolute_url }}{% endcapture %}
+                      {% else %}
+                        {% capture img_path %}{% asset '{{ category.img }}' magick:resize="400x225^" magick:gravity='center' magick:crop='400x225+0+0' @path %}{% endcapture %}
+                      {% endif %}
+                    {% endif %}
+                    <a href="{{ category.url | relative_url }}">
+                      <img class="w-full h-48 object-cover" src="{{ img_path }}" alt="{{ category.title }}" />
+                    </a>
+                  {% endif %}
+                  <div class="card__body p-4">
+                    <h1 class="card-headline mb-2">
+                      <a href="{{ category.url | relative_url }}">{{ category.title }}</a>
+                    </h1>
+                    <p class="card-body-text">{{ category.perex }}</p>
+                  </div>
+                </article>
+              {% endfor %}
+            </div>
+          </template>
+        {% endif %}
+
+        <template v-if="isCurrentView('senat')">
+          <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">Kandidáti do senátu za Středočeský kraj</h1>
+
+          
+
+          <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+            {% assign candidatePage = site.people | where: "uid", "adela.sipova" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=1 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% assign candidatePage = site.people | where: "uid", "simona.luftova" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=2 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% assign candidatePage = site.people | where: "uid", "cyril.koky" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=3 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+
+
+          </div>
+
+        </template>
+
+        <template v-if="isCurrentView('kandidati')">
+          <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">{{ candidates.title }}</h1>
+
+          {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
+
+          <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+            {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate rank=1 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+
+            {% if candidates.head.size %}
+                {% for candidate in candidates.head %}
+                  {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
+                  {% assign candidateRank = forloop.index | plus: 1 %}
+                  {% assign remainder = forloop.index | modulo: 4 %}
+
+                  {% if remainder == 0 %}
+                    {% capture classes %}candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border{% endcapture %}
+                  {% elsif remainder == 1 %}
+                    {% capture classes %}candidate-card__wrapper sm:candidate-card-list__item-wrapper sm:candidate-card-list__item-wrapper--noborder md:candidate-card-list__item-wrapper--border{% endcapture %}
+                  {% elsif remainder == 2 %}
+                    {% capture classes %}candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--noborder lg:candidate-card-list__item-wrapper--border{% endcapture %}
+                  {% else %}
+                    {% capture classes %}candidate-card__wrapper sm:candidate-card-list__item-wrapper sm:candidate-card-list__item-wrapper--noborder md:candidate-card-list__item-wrapper--border lg:candidate-card-list__item-wrapper--noborder{% endcapture %}
+                  {% endif %}
+
+                  {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank wrapperClass=classes hideSocialProfiles=page.hideCandidateSocialProfiles %}
+                {% endfor %}
+            {% endif %}
+          </div>
+
+          <ui-view-provider :initial="{fullCandidateTable: false}" v-slot="{ isCurrentView, setView }">
+            {% if candidates.tail.size > 0 %}
+              <div class="candidate-table pt-8 container-padding--zero lg:container-padding--auto" :class="{'candidate-table--fadeout': !isCurrentView('fullCandidateTable')}">
+                {% for candidate in candidates.tail %}
+
+                  {% comment %}Just a part of candidate table will be displayed intially{% endcomment %}
+                  {% if forloop.index == 10 %}
+                    {% assign partialTable = true %}
+                    <template v-if="isCurrentView('fullCandidateTable')">
+                  {% endif %}
+
+                  {% assign candidateRank = forloop.index | plus: 1 | plus: candidates.head.size %}
+
+                  {% if candidate.uid %}
+                    {% assign candidatePage = site.people | where: "uid", candidate.uid | first %}
+                    {% if candidatePage.img %}
+                      {% if site.mediaStorage %}
+                          {% capture img %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ candidatePage.img }}{% endcapture %}
+                      {%- else -%}
+                          {% capture img %}{% asset '{{ candidatePage.img }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' @path %}{% endcapture %}
+                      {%- endif -%}
+                    {% endif %}
+                  {% else %}
+                    {% assign candidatePage = false %}
+                    {% capture img %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
+                  {% endif %}
+
+                  {% capture img_alt %}{% include people/fullname.html person=candidatePage plain=true %}{% endcapture %}
+
+                  <{% if candidatePage %}a href="{{ candidatePage.url }}"{% else %}div{% endif %} class="candidate-table-row">
+                    <div class="candidate-table-row__position head-allcaps-heavy-2xs text-right">{{ candidateRank }}</div>
+                    {% include avatar.html class="avatar--sm candidate-table-row__avatar" src=img alt=candidate.name %}
+                    <div class="candidate-table-row__name head-heavy-2xs font-bold">{% if candidatePage %}{% include people/fullname.html person=candidatePage plain=true %}{% else %}{{ candidate.name }}{% endif %}</div>
+                    <div class="candidate-table-row__bio font-condensed">{% if candidate.age %}{{ candidate.age }} let{% endif %}{% if candidate.profession %}{% if candidate.age %}, {% endif %}{{ candidate.profession }}{% endif %}{% if candidate.city %}{% if candidate.profession or candidate.age %}, {% endif %}{{ candidate.city }}{% endif %}</div>
+                    {% if candidate.partyUid %}
+                      <div class="candidate-table-row__affiliation">
+                        {% include party.html uid=candidate.partyUid %}
+                      </div>
+                    {% endif %}
+                  </{% if candidatePage %}a{% else %}div{% endif %}>
+
+                  {% if forloop.last and partialTable %}</template>{% endif %}
+
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if partialTable %}
+              <div class="text-center pt-8" v-if="!isCurrentView('fullCandidateTable')">
+                <button class="btn btn--icon text-xl btn--black btn--hoveractive" @click="setView('fullCandidateTable', true)">
+                  <div class="btn__body-wrap">
+                    <div class="btn__body ">Zobrazit vše</div>
+                    <div class="btn__icon "><i class="ico--chevron-right"></i></div>
+                  </div>
+                </button>
+              </div>
+            {% endif %}
+
+          </ui-view-provider>
+        </template>
+
+        {% if group.subLinks %}
+          <div class="flex flex-col pt-8 lg:pt-24 lg:flex-row lg:space-x-8">
+            {% for subLink in group.subLinks %}
+              {% capture classes %}{{ subLink.classes }} lg:w-full container-padding--zero lg:container-padding--auto{% endcapture %}
+              {% include buttons/super.html href=subLink.href class=classes cta=subLink.title icon=subLink.icon %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    </main>
+  </ui-view-provider>
+</div>

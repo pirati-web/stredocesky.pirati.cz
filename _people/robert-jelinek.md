@@ -17,6 +17,8 @@ profiles:
   facebook: 
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Robert Jelínek** (* 3. června 1977) je živnostníkem v oboru pohostinství. Již řadu let vede známý Bar Pod Schodama u Vlašského Dvora. Je aktivním sportovcem, hraje hokej, golf, tenis a florbal. Jako kutnohorský patriot považuje za velmi důležitou kvalitní prezentaci Kutné Hory a vyrovnané městské hospodaření bez zadlužování. Tvrdí, že komunální politika by měla být založena na spolupráci všech zúčastněných subjektů.

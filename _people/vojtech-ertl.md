@@ -17,6 +17,8 @@ profiles:
   facebook: https://www.facebook.com/vojtech.ertl.9
   twitter:
   linkedin: 
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Vojtěch Ertl** (* 28. července 1987, Kolín) je členem České pirátské strany. Po maturitě na Církevním gymnáziu v Kutné Hoře vystudoval obor Architektura a urbanismus na Fakultě architektury ČVUT v Praze, kde v současné době působí jako odborný asistent a doktorand.

@@ -20,6 +20,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Antonín Schejbal** (* 28. června 1996) vystudoval osmileté gymnázium v Příbrami. Během studia na střední škole studoval 3 měsíce na švýcarském gymnáziu Kanti Baden. V současné době studuje třetí ročník managementu sportu na UK FTVS.

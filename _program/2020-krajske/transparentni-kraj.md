@@ -3,6 +3,7 @@ title: Transparentní kraj
 uid: 2020-krajske-7
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
+img: program2020/informacni-technologie.jpg
 approved:
 garant:
 perex: >

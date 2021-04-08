@@ -15,6 +15,8 @@ profiles:
   facebook: https://www.facebook.com/matous.adamu
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 

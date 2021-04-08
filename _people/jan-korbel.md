@@ -16,6 +16,8 @@ profiles:
   facebook:
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Jan Korbel** (* 20. května 1979) je druhým místopředsedou místního sdružení Jesenice-Jílové České pirátské strany. Od listopadu 2018 byl také dva roky druhým místopředsedou krajského sdružení Středočeský kraj. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.

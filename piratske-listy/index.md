@@ -3,40 +3,9 @@ layout: page
 title: Archiv Pirátských listů
 ---
 
-{% asset 'piratske-listy.jpg' alt='Ivan Bartoš roznášející Pirátské listy' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/piratske-listy.jpg' alt='Ivan Bartoš roznášející Pirátské listy' %}
 
 V tomto archivu můžete nalézt starší verze tištěných novin – Pirátských listů, které vydáváme asi dvakrát do roka. Tyto noviny distribuujeme do schránek ve větších městech Středočeského kraje – předně v místech, kde již máme místní sdružení, nebo na našich předvolebních akcích. V případě, že se k vám žádné noviny nedostaly nebo Vás zajímá, co se děje v jiných městech Středočeského kraje, můžete si přečíst zde umístěné elektronické verze.
-
-## Září 2020
-V druhém letošním vydání Pirátksých listů najdete například dvojrozhovor Jiřího Snížka, středočeského kandidáta na hejtmana, a Zdeňka Hřiba, pražského primátora za Piráty o tom, že Praha a střední Čechy jsou spojené nádoby. Dále si pak můžete přečíst o nebezpečných generátorech kyslíku, které Středočeský kraj dodal do škol, jak to dopadlo s mokřadem Žabák u Lysé nad Labem, jak se u nás staví dálnice nebo jaké hoaxy (nepravdy) o Pirátech kolují. Součástí je také představení čelních kandidátů do středočeského zastupitelstva, krajský program pro volby 2020 nebo představení kandidátů do senátu.
-Noviny vyšly ve dvou mírně odlišných verzích, tzv. přípražská verze (delší varianta rozhovoru Snížek-Hřib) pro regiony blízko Praze a Středočeská verze (doplněna o článek kdo nám vládl na kraji za posledních 20 let).
-
-Středočeská verze: [PDF ke stažení.](archiv/2020-09-stredocesky-kraj.pdf)
-
-Přípražská verze: [PDF ke stažení.](archiv/2020-09-sck-praha.pdf)
-
-#### Kutná Hora
-Piráti z Kutné Hory přidali dvě strany informací o dění ve svém okresu. Můžete zde najít pár slov o tom, jak Piráti pomáhají pečovat o místní panátky, o zapojení Kutnohorska do pilotního vzdělávacího projektu Eduzměna nebo sérii rozhovorů - s pirátským místostarostou Vítem Šnajdrem, radním Štěpánem Drtinou a městským architektem Petrem Janošem.
-
-[PDF ke stažení.](archiv/2020-09-kutna-hora.pdf)
-
-#### Adéla Šípová - Kladno
-
-Adéla Šípová, advokátka a kandidátka do Senátu v obvodu č. 30 - Kladno, si pro Vás připravila články o chytrém zadávání veřejných zakázek, o krajině a zemědělství se sedlákem pod Milešovkou nebo dvojrozhovor s pirátksou poslankyní Olgou Richterovou o sociální oblasti a Kladně. Noviny jsou doplněny např. článkem o kladenské kultuře, problémech samoživitelů v době pandemie koromaviru nebo o tom, že bychom měli seniorům hlavně naslouchat.
-
-[PDF ke stažení.](archiv/2020-09-adela-sipova.pdf)
-
-#### Simona Luftová - Příbram
-
-Simona Luftová, středoškolská učitelka a kandidátka do Senátu v obvodu č. 18 - Příbram, si pro Vás připravila článek o tom, co čeká školy v novém školním roce, o canisterapii nebo o tom, co je potřeba udělat pro změnu vzdělávání v Česku. V novinách najdete také k čemu je vlastně Senát, článek o hospodaření s vodou nebo o vlivu novely zákona na dětské skupiny.
-
-[PDF ke stažení.](archiv/2020-09-simona-luftova.pdf)
-
-#### Cyril Koky - Kolín
-
-Cyril Koky, odborný referent pro oblast národnostních menšin na Krajsk ém úřadě Středočeského kraje a kandidát do Senátu v obvodu č. 42 - Kolín, vám nabídne ve svých novinách odpověď, proč kandiduje do Senátu a jaké má na programu priotity. Naleznete zde také článek inspiraci ze zahraničí v oblasti sociálního bydlení nebo se dozvíte, jak vypadá pirátská kampaň na Kolínsku.
-
-[PDF ke stažení.](archiv/2020-09-cyril-koky.pdf)
 
 ## Červen 2020
 

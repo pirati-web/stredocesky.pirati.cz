@@ -15,7 +15,7 @@ image: posts/2020/jirka-pole.jpg
 
 Jirka vyrazil na cestu po kraji už letos v březnu, tedy ještě v době karantény, kdy pohyb na kole byl jednou z mála možností, jak bezpečně cestovat. Spolu s pirátskou kandidátkou do Senátu Adélou Šípovou projeli Kladensko, kde Adéla žije a kandiduje. Od prvního července už ale Jirkova cyklotour probíhá naplno jako součást pirátské oficiální volební kampaně. První navštívenou obcí byla Jesenice u Rakovníka. Celá akce skončí v září na Mladoboleslavsku.
 
-{% asset 'posts/2020/jirka-tour.jpg' alt='cyklo tour' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/jirka-tour.jpg' alt='cyklo tour' %}
 
 **Tisíc kilometrů a přes dvě stě obcí**
 
@@ -48,6 +48,6 @@ I když na jaře vyrazil Jirka na cestu sám, dnes už ho na cestě doprovází 
 
 14.–20. 9. Mladoboleslavsko
 
-{% asset 'posts/2020/jirka-tour-skupina.jpg' alt='cyklo tour - skupinová' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/jirka-tour-skupina.jpg' alt='cyklo tour - skupinová' %}
 
 

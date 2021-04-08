@@ -6,7 +6,7 @@ tags:
 layout: post
 title: O budoucnosti náměstí v Benešově
 author: Jan Lička
-authorId: jan.licka    # uid nekoho z _people (nepoviné)
+authorId: jan.licka
 image: posts/2018/benesov-namesti1.jpg
 ---
 
@@ -18,7 +18,7 @@ Před samotným rozborem situace uvádím shrnutí stávajícího stavu věcí s
 >
 > Soutěž na úpravy Masarykova a Malého náměstí byla vyhlášena letos v únoru. Zapojilo se do ní 14 týmů z ČR, Slovenska, ale například i z Německa. Celkem 56 architektů, urbanistů, inženýrů a dalších profesionálů odvedlo více než 21 000 hodin práce. Městský architekt Michal Schwarz připomněl, že současná podoba náměstí je z poloviny 90. let minulého století, kdy byla oblíbená betonová zámková dlažba. Tento materiál ale není z hlediska kvality i trvanlivosti vyhovující."
 
-{% asset 'posts/2018/benesov-namesti2.jpg' alt='Návrh nového náměstí' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2018/benesov-namesti2.jpg' alt='Návrh nového náměstí' %}
 Nové náměstí; Marcela Steinbachová a Vít Holý, ateliér Skupina
 
 Co tedy stručně v článku zaznělo: Jedná se o kompletní reorganizaci prostoru náměstí navrženou prestižními architekty. Ve vítězném návrhu byl respektován dobový charakter náměstí a mělo by sloužit tradičnímu účelu: jako místo pro setkávání, obchod a kulturní aktivity. Rozmýšlení nové podoby zabralo hodně času a ano, bude to relativně drahá investice srovnatelná s náklady na nové autobusové nádraží. Otázku, kdo to všechno zaplatí ale nyní nechme stranou. 
@@ -29,7 +29,7 @@ To, jestli občané Benešova novou podobu náměstí přijmou, lze předem tě�
 
 Běžci se sem sjíždějí na závody, farmáři na trhy a hudebníci na koncerty. Někteří z uvedených nepochybně uvítají rozšíření otevřeného prostoru, aby posluchači nešlapali v záhoncích a nezakopávali přes dekorativní prvky. Věřím, že i návštěvníci úřadů si zaslouží reprezentativní čekárnu na čerstvém vzduchu, když už se prostoru uvnitř nedostává. Ale co ostatní? Živnostníci, restauratéři, stánkaři a obyvatelé v přilehlých sídlištích? Budou trpělivě vyčkávat, až náměstí získá novou podobu, nebo se raději přesunou do nové obchodní zóny vznikající na Červených vršcích, kde bude stání zdarma po ruce, zábava, obchody i restaurace na dosah ruky?
 
-{% asset 'posts/2018/benesov-namesti3.jpg' alt='Zákaz parkování veřejnosti' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2018/benesov-namesti3.jpg' alt='Zákaz parkování veřejnosti' %}
 
 Město balancuje na hraně schizofrenie, pokud na jedné straně vytlačuje auta z Masarykova náměstí do placených zón, načež se podivuje, že lidé proměňují “buzerplac” Pražských kasáren na “tankodrom”. Tuto plochu následně (ač je veřejným prostranstvím v majetku města!) označí jako neveřejnou a opět se diví, že lidé raději volí nohama (respektive koly) a Greenpark zeje prázdnotou, zatímco o sto metrů dále se zákazníci střídají ve stání načerno u Billy v tichém konsenzu korporátu s městskou policií. Jsou potřeba další důkazy toho, že plánování shora nefunguje? 
 
@@ -37,7 +37,7 @@ Není to samozřejmě jen vina stávajícího vedení; například využití Pra
 
 Co tedy závěrem navrhuji udělat s Masarykovým náměstím? To, co bylo navrženo – ale ne dnes, ani zítra. V jeden čas vršíme na hromadu rozpracované plány rekonstrukce ulic, autobusového nádraží, stavbu sportoviště, městského okruhu, Červených vršků, spojení na Konopiště a k tomu ještě nad hlavou visí nedořečené otázky Táborských kasáren, Pražských kasáren nebo Kavčína; radikální proměna Masarykova náměstí je něco, co by mělo být až reakcí na potřeby obyvatel nové podoby města. Zatím máme čas zamyslet se nad tím, jestli by pro začátek nestačily jednoduché úpravy prostoru: například dětem bezpečnější fontána s brouzdalištěm a dřevěná konstrukce či zastřešení jako prostor pro odpočinek, tak jak je tomu například v Novém Jičíně. Méně je někdy více.
 
-{% asset 'posts/2018/benesov-namesti4.jpg' alt='Tržnice a parkoviště v Novém Jičíně' %}
+{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2018/benesov-namesti4.jpg' alt='Tržnice a parkoviště v Novém Jičíně' %}
 
 Tržnice a parkoviště v Novém Jičíně.
 Zdroj: Archiweb/Autor stavby: P.P. Architects s.r.o./Autor fotografie: Ota Nepilý.

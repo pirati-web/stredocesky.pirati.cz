@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 29.9.2022
 volba: https://forum.pirati.cz/viewtopic.php?p=718340#p718340
 ---
-{% asset 'ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
+{% asset 'https://a.pirati.cz/stredocesky/ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
 
 Místní sdružení Beroun bylo založeno v září 2020 po více než ročních přípravách a postupném budování členské základny. Momentálně jsme parta čtyř lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
 

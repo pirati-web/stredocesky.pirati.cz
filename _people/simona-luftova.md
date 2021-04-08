@@ -18,6 +18,8 @@ profiles:
   facebook: https://www.facebook.com/simona.luftova
   twitter:
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Simona Luftová** (* 1973) je členkou a druhou místopředsedkyní místního sdružení Příbram. Zastupuje Piráty v místním kontrolním výboru a ve vzdělávací a zahraniční komisi. V roce 2018 kandidovala do příbramského zastupitelstva.

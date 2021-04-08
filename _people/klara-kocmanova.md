@@ -20,6 +20,8 @@ profiles:
   twitter: https://twitter.com/KlaraKocmanova
   linkedin: https://www.linkedin.com/in/klára-kocmanová-197b751a1
   instagram: https://www.instagram.com/klara_kocman/
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Klára Kocmanová** (* 5. listopadu 1992) pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Dlouhodobě se věnuje sociálním tématům a životnímu prostředí. Momentálně je v Kutné Hoře předsedkyní místního sdružení Pirátů, v komunální politice pak členkou komise pro sociální záležitosti a komise pro životní prostředí. Dříve pracovala na Krajském úřadě Středočeského kraje jako referentka, poté jako provozní pražské čokoládovny, koordinátorka středočeských Pirátů a pravá ruka senátorky Adély Šípové. Ráda čte, vaří, fotografuje, hraje na baskytaru a jezdí na koni.

@@ -18,6 +18,8 @@ profiles:
   facebook: https://www.facebook.com/dlbrz
   twitter: https://twitter.com/daliborzz
   linkedin:
+heroImg: banner-default.jpg
+published: true
 ---
 
 **Dalibor Záhora** (* 19. října 1967) je zakládající člen strany (účastník přípravného výboru PPCZ) narozený v Ústí nad Labem. Odmaturoval na zahradnické škole v Kopidlně, později dosáhl titulu bakalář při studiu managementu na Open Univerzitě. V roce 1989 se jako mnoho jiných zapojil do „sametové revoluce“. V dalších letech se angažoval v Unijazzu (nástupnické organizaci Jazzové sekce) a pracoval v nakladatelství Inverze, hudební agentuře Rachot, nakladatelství Pragma. Působil jako propagační pracovník MF DNES. V roce 1998 spoluzakládal world music festival Respect. Angažoval se v iniciativách za vyšetření zásahu policie proti Czechteku, publikoval na Britských listech, v Novém Prostoru a dalších alternativních platformách. Od roku 2007 aktivní na české anarchistické scéně. Spolupracuje s nevládní organizací [Iuridicum Remedium](http://www.iure.org/), spolupořádá pravidelná diskuzní fóra v klubu [Cross](https://twitter.com/ufosscross/) a je aktivním členem [Svazu nezávislých autorů](http://http//www.svazautoru.org/).

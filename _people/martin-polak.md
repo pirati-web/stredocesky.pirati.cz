@@ -17,6 +17,8 @@ profiles:
   facebook: https://www.facebook.com/mart1n.p0lak
   twitter:
   linkedin: https://www.linkedin.com/in/martin-pol%C3%A1k-26b697120/
+heroImg: banner-default.jpg
+published: true
 ---
 **Martin Polák** (* 25. ledna 1985) je předsedou MS Kolín. 
 Martin pochází z Kolína, kde dosud žije, pracuje a kde založil rodinu. Takže má Kolín opravdu v malíčku. ;-) 

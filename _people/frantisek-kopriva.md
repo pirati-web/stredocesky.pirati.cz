@@ -27,6 +27,8 @@ office:
   - address: Malostranské náměstí 7/19, 118 26  Praha 1 – Malá Strana
     name: Poslanecký klub České pirátské strany
 #    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+heroImg: banner-default.jpg
+published: true
 ---
 **František Kopřiva** (* 30. listopadu 1995, Mladá Boleslav) odmaturoval v roce 2015 na Gymnáziu Dr. Josefa Pekaře v Mladé Boleslavi, kde vyrůstal a v roce 2014 zde spoluzaložil místní sdružení Pirátů. Roli živnostníka si František vyzkoušel, když pracoval jako copywriter, později pracoval v Laboratořích pro vývoj a realizaci na ČVUT, poté pro švýcarskou bezpečnostní firmu DSwiss. Od října 2017 se naplno věnuje práci v Poslanecké sněmovně. Mezi jeho záliby patří obecně rozšiřování obzorů, naučná literatura, věda, filmy, živá kultura, tvůrčí psaní, cestování a rekreační sport. Momentálně se učí hrát na bicí a dochází na astronomický kurz pražského Planetária.
 
