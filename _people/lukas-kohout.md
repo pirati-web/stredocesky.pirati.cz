@@ -23,7 +23,7 @@ profiles:
 office:
   - address: Zborovská 81, Praha 5, 150 00
     name: Zastupitelský klub Pirátů 
-heroImg: banner-default.jpg
+heroImg: banner_veltrusy.jpg
 published: true
 ---
 
