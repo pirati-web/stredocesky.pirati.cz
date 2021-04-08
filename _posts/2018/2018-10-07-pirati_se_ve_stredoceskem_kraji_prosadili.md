@@ -2,8 +2,8 @@
 date: 2018-10-07
 category: blog
 tags:
- - komunální_politika
- - tisková_zpráva
+ - komunální politika
+ - tisková zpráva
 layout: post
 title: Tisková zpráva - Piráti se ve Středočeském kraji prosadili
 author: Klára Kocmanová

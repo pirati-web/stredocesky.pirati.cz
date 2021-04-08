@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2020-11-05
 #published: false
-tags: životní_prostředí poslanecká_sněmovna
+tags: 
+ - životní prostředí
+ - poslanecká sněmovna
 title: 'Výbor pro životní prostředí projednal aktuální informace k otravě kyanidem na řece Bečvě'
 description: 'životní prostředí, poslanecká sněmovna'
 author: Mediální odbor

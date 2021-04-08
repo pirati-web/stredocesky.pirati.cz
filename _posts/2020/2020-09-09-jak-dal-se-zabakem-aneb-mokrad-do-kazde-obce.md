@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2020-09-09
 #published: false
-tags: životní_prostředí kauzy krajská_politika
+tags: 
+ - životní prostředí
+ - kauzy
+ - krajská politika
 title: 'Jak dál se Žabákem aneb mokřad do každé obce!'
 description: 'životní prostředí, kauzy, krajská politika' 
 author: Petr Petřík/Jana Skopalíková

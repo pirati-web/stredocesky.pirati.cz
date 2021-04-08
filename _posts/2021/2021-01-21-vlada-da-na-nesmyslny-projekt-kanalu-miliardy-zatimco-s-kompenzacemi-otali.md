@@ -3,7 +3,11 @@ category: blog
 layout: post
 date: 2021-01-21
 #published: false
-tags: životní_prostředí krajská_politika doprava covid-19
+tags: 
+ - životní prostředí
+ - krajská politika
+ - doprava
+ - covid-19
 title: 'Vláda dá na nesmyslný projekt kanálu miliardy, zatímco s kompenzacemi otálí'
 description: 'životní prostředí, krajská politika, doprava, covid-19'
 author: Dana Balcarová, Mediální odbor

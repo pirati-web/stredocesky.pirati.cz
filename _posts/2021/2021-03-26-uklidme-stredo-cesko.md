@@ -3,7 +3,8 @@ category: blog
 layout: post
 date: 2021-03-26
 #published: false
-tags: životní_prostředí
+tags: 
+ - životní prostředí
 title: 'Ukliďme (Středo)Česko!'
 description: 'životní prostředí'
 author: Mediální odbor

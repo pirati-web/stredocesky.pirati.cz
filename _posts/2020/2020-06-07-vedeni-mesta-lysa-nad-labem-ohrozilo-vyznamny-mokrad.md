@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2020-06-07
 #published: false
-tags: krajská_politika životní_prostředí
+tags: 
+ - krajská politika
+ - životní prostředí
 title: 'Vedení města Lysá nad Labem ohrozilo významný mokřad'
 description: 'krajská politika, životní prostředí'
 author: Jana Skopalíková

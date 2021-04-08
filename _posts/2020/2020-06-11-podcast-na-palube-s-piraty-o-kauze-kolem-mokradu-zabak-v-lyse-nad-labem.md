@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2020-06-11
 #published: false
-tags: video_podcast životní_prostředí
+tags: 
+ - video podcast
+ - životní prostředí
 title: 'Podcast Na palubě s Piráty o kauze kolem mokřadu Žabák v Lysé nad Labem'
 description: 'video podcast, životní prostředí'
 author: Piráti SčK

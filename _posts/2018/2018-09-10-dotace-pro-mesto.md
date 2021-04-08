@@ -3,7 +3,7 @@ date: 2018-09-10
 category: blog
 tags:
  - Benešov 
- - komunální_politika
+ - komunální politika
 layout: post
 title: Dotace pro město - Základní přehled
 author: Daniel Netušil

@@ -3,7 +3,12 @@ category: blog
 layout: post
 date: 2020-09-08
 #published: false
-tags: rozhovor doprava životní_prostředí zdravotnictví krajská_politika
+tags: 
+ - rozhovor 
+ - doprava 
+ - životní prostředí 
+ - zdravotnictví 
+ - krajská politika
 title: 'Jiří Snížek a Zdeněk Hřib: Středočeský kraj a Praha jsou spojené nádoby'
 description: 'doprava, rozhovor, životní prostředí, zdravotnictví, krajská politika' 
 author: Piráti SčK

@@ -2,8 +2,8 @@
 date: 2018-07-04
 category: blog
 tags:
- - komunální_politika
- - tisková_zpráva
+ - komunální politika
+ - tisková zpráva
 layout: post
 title: Pirátské kandidátky měst Středočeského kraje znají své leadery!
 author: Štěpán Drtina

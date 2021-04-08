@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2019-07-15
 #published: false
-tags: životní_prostředí Kladno
+tags: 
+ - životní prostředí 
+ - Kladno
 title: 'Poslanec Holomčík: Přicházíme o půdu, betonuje se rychlostí blesku'
 description: 'Kladno, rozhovor'
 author: Jan Lukášek

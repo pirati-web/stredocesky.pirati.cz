@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2019-11-14
 #published: false
-tags: krajská_politika životní_prostředí kauzy
+tags: 
+ - krajská politika 
+ - životní prostředí 
+ - kauzy
 title: 'Jak se ztrácí miliony ve Středočeském kraji? Zakázky na údržbu silnic vyhrává šéfkuchař!'
 description: 'krajská politika, životní prostředí, kauzy'
 author: Mediální odbor

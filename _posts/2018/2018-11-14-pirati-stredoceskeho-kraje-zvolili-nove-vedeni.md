@@ -3,7 +3,7 @@ date: 2018-11-14
 category: blog
 tags:
  - krajské_sdružení
- - tisková_zpráva
+ - tisková zpráva
 layout: post
 title: Piráti Středočeského kraje zvolili nové vedení
 author: Dalibor Záhora

@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2019-04-10
 #published: false
-tags: akce životní_prostředí
+tags: 
+ - akce 
+ - životní prostředí
 title: Po sobotní akci Ukliďme Česko proběhl piratecon na téma zerowaste
 description: 'životní prostředí, zerowaste, akce'
 author: Piráti SčK

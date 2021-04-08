@@ -2,7 +2,7 @@
 date: 2019-02-28
 category: blog
 tags:
- - tisková_zpráva
+ - tisková zpráva
  - EU
 layout: post
 title: Za středočeské Piráty kandidují do Europarlamentu poslanec, dopravní expert a koreanistka

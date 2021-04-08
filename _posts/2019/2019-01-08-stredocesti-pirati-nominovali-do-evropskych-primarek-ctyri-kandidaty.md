@@ -2,7 +2,7 @@
 date: 2019-01-08
 category: blog
 tags:
- - tisková_zpráva
+ - tisková zpráva
  - EU
 layout: post
 title: Středočeští piráti nominovali do evropských primárek čtyři kandidáty

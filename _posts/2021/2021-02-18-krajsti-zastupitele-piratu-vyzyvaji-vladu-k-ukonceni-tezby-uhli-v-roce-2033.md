@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-02-18
 #published: false
-tags: krajská_politika životní_prostředí
+tags: 
+ - krajská politika 
+ - životní prostředí
 title: 'Krajští zastupitelé Pirátů vyzývají vládu k ukončení těžby uhlí v roce 2033'
 description: 'krajská politika, životní prostředí'
 author: Mediální odbor

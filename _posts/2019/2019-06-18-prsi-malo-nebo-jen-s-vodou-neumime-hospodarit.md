@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2019-06-18
 #published: false
-tags: životní_prostředí Benešov
+tags: 
+ - životní prostředí 
+ - Benešov
 title: 'Prší málo nebo jen s vodou neumíme hospodařit?'
 description: 'životní prostředí, Benešov'
 author: Jana Skopalíková

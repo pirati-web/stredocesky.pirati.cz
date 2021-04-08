@@ -3,7 +3,11 @@ category: blog
 layout: post
 date: 2020-09-27
 #published: false
-tags: Louny senátní_volby životní_prostředí zemědělství
+tags: 
+ - Louny
+ - senátní volby
+ - životní prostředí
+ - zemědělství
 title: 'O krajině a zemědělství se sedlákem pod Milešovkou'
 description: 'Louny, senátní volby, životní prostředí, zemědělství' 
 author: Adéla Šípová

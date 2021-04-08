@@ -3,7 +3,7 @@ date: 2018-11-19
 category: blog
 tags:
  - Kutná_Hora
- - komunální_politika
+ - komunální politika
 layout: post
 title: Piráti v Kutné Hoře mají místostarostu!
 author: Dalibor Záhora

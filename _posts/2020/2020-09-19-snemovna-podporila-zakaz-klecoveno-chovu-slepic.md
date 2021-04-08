@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2020-09-19
 #published: false
-tags: poslanecká_sněmovna životní_prostředí
+tags: 
+ - poslanecká sněmovna
+ - životní prostředí
 title: 'Sněmovna podpořila zákaz klecového chovu slepic'
 description: 'poslanecká sněmovna, životní prostředí' 
 author: mediální odbor
