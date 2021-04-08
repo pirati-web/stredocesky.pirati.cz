@@ -15,6 +15,7 @@ predsednictvo:
    jmeno: Ondřej Klimeš
 mandat-do: 12.9.2022
 volba: https://forum.pirati.cz/viewtopic.php?p=715320#p715320
+---
 
 Místní sdružení Mníšecko a Dolní Berounka bylo založeno 12. 9. 2020 a působí na Praze - východ a části okresu Beroun. Přesné vymezení je zobrazené na mapě. 
 
