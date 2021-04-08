@@ -56,30 +56,15 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 Pokud chcete být o našich plánovaných akcích informováni e-mailem, napište! (viz kontakty vpravo nahoře)
 
-<hr>
-
 # Členové MS
 
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/caha-400px.jpg' alt='Jan Čáha' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Jan Čáha** (* 14. února 1989) je zakládajícím členem a předsedou MS Jesenice - Jílové. Vystudoval strojní průmyslovou školu Betlémskou o pár let později dálkově také VOŠ a VŠ v oboru zdravotnický záchranář. Od roku 2012 pracuje na Zdravotnické záchranné službě, nyní jako zdravotnický záchranář a lektor vzdělávacího a výcvikového střediska. Také školí kurzy první pomoci ve firmě LifeSupport.
-</div>
 
 
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/moravek-400px.jpg' alt='Roman Morávek' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Roman Morávek** (* 20. listopadu 1970) je zakládajícím členem a prvním místopředsedou MS Jesenice - Jílové. Pochází z Prahy 8, ale již přes 15 let bydlí v Dolních Břežanech. Vystudoval VŠFS obor: Řízení podniku a podnikové finance. Mnoho let jako OSVČ dělá poradenství pro zahraniční, hlavně italské společnosti v různých odvětvích. Rekreačně hraje tenis, nohejbal a lyžuje.
-</div>
 
-
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/korbel-400px.jpg' alt='Jan Korbel' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Jan Korbel** (* 20. května 1979) je druhým místopředsedou MS Jesenice - Jílové a zároveň druhým místopředsedou krajského sdružení Středočeský kraj. Vesničan, počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.
-</div>
 
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/kerkova-400px.jpg' alt='Monika Keřková' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Monika Keřková** (* 29. srpna 1985) je od září 2019 členkou krajského sdružení Středočeský kraj České pirátské strany. Narodila se v Příbrami, ale většinu svého dětství prožila na Dobříši. Nyní žije v Ohrobci na Praze - západ, kde byla již podruhé zvolena do zastupitelstva obce a v minulém volebním období byla též členkou rady obce a finančního výboru. Více <a href="{{ 'lide/monika-kerkova' | relative_url }}">zde</a>.
-</div>
 
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Mirek Dvořák** (* 24. března 1972) je členem Pirátů od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.
-</div>
-
-<hr>
