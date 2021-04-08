@@ -58,7 +58,6 @@ calendar:
   id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
-
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
