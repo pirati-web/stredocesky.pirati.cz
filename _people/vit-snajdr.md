@@ -19,7 +19,7 @@ profiles:
   facebook: https://www.facebook.com/snajdr.v
   twitter:
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
