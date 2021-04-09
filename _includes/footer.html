@@ -1,0 +1,117 @@
+<footer class="footer bg-grey-700 text-white __js-root">
+  <ui-app inline-template>
+    <div>
+      <div class="footer__main py-4 lg:py-16 container container--default">
+        <section class="footer__brand">
+          <img src="{{ site.styleguide_base_url }}/images/logo-full-white.svg" alt="Pirátská strana" class="w-32 md:w-40 pb-6" />
+          <p class="para hidden md:block md:mb-4 lg:mb-0 text-grey-200">
+            Piráti, {{ site.time | date: '%Y' }}. Všechna práva vyhlazena.
+            Sdílejte a nechte ostatní sdílet za stejných podmínek.
+          </p>
+        </section>
+        <section class="footer__main-links bg-grey-700 text-white lg:grid grid-cols-3 gap-4">
+          {% for linkGroup in site.data.menu.bottom %}
+            <div class="{% if forloop.first %}pt-8 pb-4 lg:py-0{% else %}py-4 lg:py-0 border-t border-grey-400 lg:border-t-0{% endif %}">
+              <ui-footer-collapsible label="{{ linkGroup.title }}">
+                <ul class="mt-6 space-y-2 text-grey-200">
+                  {% for linkGroupItem in linkGroup.links %}
+                    <li>
+                      <a href="{{ linkGroupItem.link }}">{{ linkGroupItem.name }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </ui-footer-collapsible>
+            </div>
+          {% endfor %}
+        </section>
+        <section class="footer__social lg:text-right">
+          <div class="mb-4">
+            {% include social-icon-group.html class="space-x-2 text-white pb-4" %}
+            {% if site.organization.email %}
+            <div class="mb-2">
+              {% capture href %}mailto:{{ site.organization.email }}{% endcapture %}
+              {% include contact-line.html href=href icon="ico--envelope" caption="Dejte nám vědět" %}
+            </div>
+            {% endif %}
+            {% if site.github %}
+            <div class="mb-2">
+              {% capture href %}{{ site.github.url }}edit/{{ site.github.branch }}/{{ page.path }}{% endcapture %}
+              {% include contact-line.html href=href icon="ico--pencil" caption="Navrhni úpravu" %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="flex flex-col md:flex-row lg:flex-col lg:items-end space-y-2 md:space-y-0 md:space-x-2 lg:space-x-0 lg:space-y-2">
+            <a href="{{ site.organization.donateLink | default: 'https://dary.pirati.cz' }}" rel="noopener noreferrer" target="_blank" class="btn btn--icon btn--cyan-200 btn--hoveractive text-lg btn--fullwidth sm:btn--autowidth">
+              <div class="btn__body-wrap">
+                <div class="btn__body ">Přispěj</div>
+                <div class="btn__icon ">
+                  <i class="ico--pig"></i>
+                </div>
+              </div>
+            </a>
+
+            <a href="{{ site.organization.onboardingLink | default: 'https://nalodeni.pirati.cz' }}" rel="noopener noreferrer" target="_blank" class="btn btn--icon btn--blue-300 btn--hoveractive text-lg btn--fullwidth sm:btn--autowidth">
+              <div class="btn__body-wrap">
+                <div class="btn__body ">Naloď se</div>
+                <div class="btn__icon ">
+                  <i class="ico--anchor"></i>
+                </div>
+              </div>
+            </a>
+
+          </div>
+        </section>
+      </div>
+
+      {% if site.data.menu.transparencySection %}
+        <section class="footer__sub-links lg:border-t border-grey-400">
+          <div class="container container--default">
+            <ui-footer-collapsible label="Otevřenost" labelClass="lg:w-1/4" wrapperClass="flex flex-col lg:flex-row lg:space-x-4 lg:items-center py-4 lg:py-8 border-t border-grey-400 lg:border-t-0" slotWrapperclass="lg:w-2/4">
+              <ul class="lg:w-full lg:pr-8 grid grid-cols-1 lg:grid-cols-3 lg:gap-4 items-center mt-6 space-y-2 lg:mt-0 lg:space-y-0 text-grey-200">
+                <li class="w-full">
+                  <a href="https://ucet.pirati.cz" rel="noreferrer noopener" target="_blank">Transparentní účet</a>
+                </li>
+                <li class="w-full">
+                  <a href="https://smlouvy.pirati.cz" rel="noreferrer noopener" target="_blank">Registr smluv</a>
+                </li>
+                <li class="w-full">
+                  <a href="https://wiki.pirati.cz/fo/otevrene_ucetnictvi" rel="noreferrer noopener" target="_blank">Otevřené účetnictví</a>
+                </li>
+              </ul>
+            </ui-footer-collapsible>
+          </div>
+        </section>
+      {% endif %}
+
+      <section class="bg-black py-4 lg:py-12">
+        <div class="container container--default">
+          <div class="grid gap-4 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+            {% if site.data.menu.contact %}
+              {% for contact in site.data.menu.contact %}
+                {% if contact.id %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+                  {% assign description = contact.position %}
+                {% else %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
+                  {% assign description = person.teamDescription['contact'] %}
+                {% endif %}
+                {% include people/profile-badge.html item=person description=description %}
+              {% endfor %}
+            {% else %}
+              {% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
+              {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+              {% unless contactPersons == empty or contactPersons == blank or contactPersons == nil %}
+                {% for person in contactPersons %}
+                  {% include people/profile-badge.html item=person %}
+                {% endfor %}
+              {% endunless %}
+            {% endif %}
+          </div>
+        </div>
+      </section>
+    </div>
+  </ui-app>
+</footer>
+
+
+
