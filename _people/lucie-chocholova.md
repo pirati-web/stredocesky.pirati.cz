@@ -18,7 +18,7 @@ profiles:
   facebook: 
   twitter:
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kladno.jpg
 published: true
 ---
 
