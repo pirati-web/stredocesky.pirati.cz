@@ -14,3 +14,8 @@
     - title: Program pro Středočeský kraj
       categoryUid: 2020-krajske
 
+- groupUid: volby-2018  # identifier of the group, to be used in program point
+  title: Volby 2018     # title of the campaign group
+  campaigns:
+    - title: Komunální volby  # individual campaigns within the group
+      categoryUid: 2018-komunalni
