@@ -39,7 +39,7 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  #- type: organizationRedmineLink
+  - type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
