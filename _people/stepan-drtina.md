@@ -21,7 +21,7 @@ profiles:
   facebook: https://www.facebook.com/PiratStepanDrtina
   twitter: https://twitter.com/DrtinaStepan
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
