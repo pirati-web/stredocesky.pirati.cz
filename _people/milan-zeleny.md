@@ -14,7 +14,7 @@ mail:
 mob:
   - +420 723 929 899
 profiles:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
