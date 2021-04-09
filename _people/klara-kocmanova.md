@@ -20,7 +20,7 @@ profiles:
   twitter: https://twitter.com/KlaraKocmanova
   linkedin: https://www.linkedin.com/in/klára-kocmanová-197b751a1
   instagram: https://www.instagram.com/klara_kocman/
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
