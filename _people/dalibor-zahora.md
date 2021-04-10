@@ -18,7 +18,7 @@ profiles:
   facebook: https://www.facebook.com/dlbrz
   twitter: https://twitter.com/daliborzz
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

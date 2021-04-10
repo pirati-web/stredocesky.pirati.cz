@@ -10,7 +10,7 @@ img: people/filip-dite.jpg
 mail:
   - filip.dite@pirati.cz
 profiles:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/vojtech.ertl.9
   twitter:
   linkedin: 
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

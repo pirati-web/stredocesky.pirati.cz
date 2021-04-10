@@ -20,7 +20,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
   web: https://zmuda.cz/
 calendar: lmnbanr3ub4vftmu83g18fgr1s@group.calendar.google.com
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

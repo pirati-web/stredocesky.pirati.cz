@@ -20,7 +20,7 @@ profiles:
 #  facebook: https://www.facebook.com/nekdo
   twitter:
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

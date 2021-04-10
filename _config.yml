@@ -29,7 +29,6 @@ organization:
     120 00 Praha 2
   residenceImg: https://a.pirati.cz/stredocesky/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
-  #redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
   redmineLink: https://redmine.pirati.cz/projects/praha-8
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010

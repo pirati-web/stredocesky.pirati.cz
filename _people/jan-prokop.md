@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/honcka
   twitter:
   linkedin:
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

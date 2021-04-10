@@ -21,7 +21,7 @@ profiles:
   twitter:
   linkedin:
 calendar: oj2pgcouoq0tdnlqfgkpksumdo@group.calendar.google.com
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

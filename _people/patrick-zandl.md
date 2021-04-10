@@ -17,7 +17,7 @@ profiles:
   twitter: http://www.twitter.com/tangero
   linkedin:
   web: http://www.zandl.cz/
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

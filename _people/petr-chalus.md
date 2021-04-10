@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin:
   web: https://petrchalus.cz/
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

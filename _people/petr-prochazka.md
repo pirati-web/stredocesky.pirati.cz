@@ -19,7 +19,7 @@ profiles:
   twitter: 
   linkedin: 
   web: 
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 

@@ -19,7 +19,7 @@ profiles:
   twitter:
   linkedin:
   web: http://www.dominika.michailidu.cz
-heroImg: banner-default.jpg
+heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
