@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">{{page.title}}</h1>
+
+    <div class="lg:flex mt-8 lg:space-x-16">
+      <div class="lg:w-2/3">
+        <div itemprop="description" class="w-full content-block">
+          {{ content }}
+        </div>
+      </div>
+      <div class="pt-8 lg:w-1/3 md:pt-0">
+        <div class="space-y-8">
+          {% include sharebox.html %}
+
+          {% comment %}Optional infoboxes in the right row{% endcomment %}
+          {% if page.infoboxes %}
+            {% for infobox in page.infoboxes %}
+              {% include article-infobox.html content=infobox.content %}
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+
+    </div>
+
+
+
+	<br>
+
+	<h3>Předsednictvo</h3>
+	<ul>
+	{% for item in page.predsednictvo %}
+	<li>{{item.funkce}}: <strong>{{item.jmeno}}</strong></li>
+	{% endfor %}
+	<li>konec mandátu: <a href="{{page.volba}}" style="text-decoration:underline">{{page.mandat-do}}</a></li>
+	</ul>
+
+	<br>
+
+	<h3>Kontakty</h3>
+	<i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{page.mail}}">{{page.mail}}</a><br/>
+	<i class="fa fa-facebook"></i> <a class="c-emphasized-anchor" href="https://www.facebook.com/{{page.facebook}}">FB: {{page.facebook}}</a><br/>
+	<i class="fa fa-globe"></i> <a class="c-emphasized-anchor" href="{{page.forum}}">Fórum</a>
+  </section>
+</div>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
