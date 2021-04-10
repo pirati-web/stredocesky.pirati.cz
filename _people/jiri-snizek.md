@@ -19,7 +19,7 @@ profiles:
   facebook: https://www.facebook.com/snizekjiri
   twitter: https://twitter.com/snizekjiri
   linkedin: https://www.linkedin.com/in/ji%C5%99%C3%AD-sn%C3%AD%C5%BEek-60078272/
-heroImg: banner_jirka_ivan.png
+heroImg: banner-kutna-hora.jpg
 published: true  
 ---
 
