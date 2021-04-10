@@ -1,5 +1,5 @@
 ---
-layout: ms1
+layout: page
 contentClass: content-block
 title: Místní sdružení Mníšecko a Dolní Berounka
 rbar:
