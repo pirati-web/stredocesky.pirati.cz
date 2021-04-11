@@ -59,10 +59,6 @@ V minulosti pracovala jako asistentka poslance, tlumočnice, lektorka, asistentk
 </div>
 
 <div markdown="1" class="c-profile-badge">
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/lenka-kozlova.jpg' alt='Lenka Kozlová' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Lenka Kozlová** je z Milína a v roce 2014 zakládala MS Příbram. Členkou Pirátské strany je ale již od roku 2012. V předchozích letech pracovala mimo jiné jako vychovatelka v dětském domově či chystala první svobodné volby v rámci Občanského fóra. V současnosti je poslankyně a členka Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu. Jak říká, nová práce ji už i baví 😊, i když je prý díky maximální vytíženosti někdy k zbláznění. Do pirátské politiky se dala, jelikož je pro ni extra důležitá svoboda.
-</div>
-
-<div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/tomas-podlena.jpg' alt='Tomáš Podlena' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Tomáš Podlena** je členem Pirátské strany od roku 2017, avšak za Piráty kandidoval v rámci krajských voleb již v roce 2016. Momentálně je členem nově vzniklé komise "Smart city" v Příbrami. Vystudoval Informační technologie a nyní se druhým rokem věnuje studiu Mezinárodních vztahů a evropských studií. Ve svém volném čase dělá DJ a pořádá hudební akce po celé republice. Jeho motivací pro vstup do politiky byl politický vývoj v posledních letech, který ovlivnil morálku a náladu ve společnosti.
 </div>
 
