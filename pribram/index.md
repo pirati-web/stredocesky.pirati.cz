@@ -68,11 +68,11 @@ V minulosti pracovala jako asistentka poslance, tlumočnice, lektorka, asistentk
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/tony-schejbal.jpg' alt='Tony Schejbal' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Tony Schejbal** je aktivním pirátským členem MS Příbram již od roku 2016. V roce 2018 byl #1 na příbramské kandidátce a byl zvolen zastupitelem. Taktéž je členem komise pro mládež, tělovýchovu a sport. V současné době studuje na UK FTVS obor management sportu a ve volném čase vystupuje se svojí crew OVERDOSE po celé republice jako DJ. Důvodem, proč se nalodil mezi piráty, byla politická situace české politiky. Zároveň ho trápí současný stav sportu a kultury v Příbrami, čemuž se chce usilovně věnovat z pozice zastupitele.
-</div>
+</div><br>
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/tomas-podlena.jpg' alt='Tomáš Podlena' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Tomáš Podlena** je členem Pirátské strany od roku 2017, avšak za Piráty kandidoval v rámci krajských voleb již v roce 2016. Momentálně je členem nově vzniklé komise "Smart city" v Příbrami. Vystudoval Informační technologie a nyní se druhým rokem věnuje studiu Mezinárodních vztahů a evropských studií. Ve svém volném čase dělá DJ a pořádá hudební akce po celé republice. Jeho motivací pro vstup do politiky byl politický vývoj v posledních letech, který ovlivnil morálku a náladu ve společnosti.
-</div>
+</div><br>
 
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/jan-trnka.jpg' alt='Jan Trnka' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Jan Trnka** je původem z Ústí nad Labem a aktivním pirátským členem MS Příbram od roku 2017. Členem pirátské strany pak od roku 2018. Z pozice grafik-amatér tvořil kampaň #NOVÝPOHLED v komunálních volbách 2018, ale jeho hlavním oborem je údržba letadel, kterému se věnuje 15 let. Tento obor vystudoval na VŠB-TUO Ostrava a v současné době pracuje jako vedoucí údržby leteckého servisu. V rámci zaměstnání vede papírový boj, týmy lidí a cestuje napříč Evropou i kontinenty se šroubovákem či razítkem. Je ženatý, má dva syny a na volný čas moc nevěří, jelikož ho prý nikdy neviděl. 😊 Honza má rád výzvy a z pozice přistěhovalce ho vždy iritovala zdejší univerzální odpověď: "Tady jsi v Příbrami, TO neřeš." 😊  Proto se přidal mezi příbramské piráty a chce TO řešit.
