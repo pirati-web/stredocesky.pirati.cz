@@ -25,7 +25,6 @@ profiles:
    facebook: "https://www.facebook.com/PribramPirati"
    forum: "https://forum.pirati.cz/viewforum.php?f=692"
    mail: josef.bouse@pirati.cz
-   
 ---
 
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/uvodni-small.jpg' alt='úvodní banner' %}
