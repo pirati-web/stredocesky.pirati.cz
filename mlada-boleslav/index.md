@@ -24,8 +24,7 @@ contactPersons:
 profiles:
    facebook: "https://www.facebook.com/PiratiMDB"
    forum: "https://forum.pirati.cz/viewforum.php?f=1485"
-   mail: matous.adamu@pirati.cz
-   
+   email: matous.adamu@pirati.cz 
 ---
 
 [{% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
