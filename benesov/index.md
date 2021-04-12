@@ -1,39 +1,20 @@
 ---
-layout: page
-contentClass: content-block
+layout: ms
 title: Místní sdružení Benešov
-rbar:
-  - board
-  - pageContacts
-  - mail
-  - office
-  - contactPersons
-  - profiles
-boardName: Předsednictvo
-boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
-    endDate: 25.10.2020
-board:
-   - position: Předseda
-     uid: vaclav.kubaljak
-   - position: 1. místopředseda
-     uid: david.rejha
-   - position: 2. místopředseda
-     uid: jan.licka
-mail: 
-  - benesov@pirati.cz
-office:
-  - address: Antuškova, 256 01 Benešov
-  - name: PiCe KoZa 
-contactPersons:
-   - position: Předseda
-     uid: vaclav.kubaljak
-   - position: Krajský koordinátor
-     uid: barbora.vaicova
-profiles:
-   facebook: "https://www.facebook.com/piratskapalubaBN/"
-   instagram: "https://www.instagram.com/pirati.benesov/"
-   forum: "https://forum.pirati.cz/viewforum.php?f=967"
+description: Místní sdružení Benešov
+keywords: piráti, místní sdružení, Benešov
+mail: benesov@pirati.cz
+facebook: piratskapalubaBN
+forum: https://forum.pirati.cz/viewforum.php?f=967
+predsednictvo:
+ - funkce: předseda
+   jmeno: Václav Kubaljak
+ - funkce: 1. místopředseda
+   jmeno: David Řejha
+ - funkce: 2. místopředseda
+   jmeno: Jan Lička
+mandat-do: 25.10.2020
+volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
 ---
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/clenove-small.jpg' alt='clenove' %}
 
