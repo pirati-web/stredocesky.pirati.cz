@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after: 
 category:
-description: místní předsednictvo
+description: 2. místopředseda MS Mladá Boleslav
 img: people/jindrich-pechanda.jpg
 mail: jindrich-pechanda@pirati.cz
 mob:
