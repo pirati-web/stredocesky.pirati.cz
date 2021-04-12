@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after: 
 category:
-  - senatori
 description: místní předsednictvo
 img: people/jindrich-pechanda.jpg
 mail: jindrich-pechanda@pirati.cz
