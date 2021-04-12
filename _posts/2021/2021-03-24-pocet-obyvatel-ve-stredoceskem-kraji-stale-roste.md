@@ -21,7 +21,7 @@ kraje to také znamená, že je potřeba vést debaty o tom, jak s dlouhodobým 
 
 Zatímco mnoho jiných krajů se vylidňuje, ten Středočeský roste v průměru o 15 000 lidí ročně. Nejvíce se zahušťují lokality v těsném sousedství Prahy, kde nachází práci mnoho nově přistěhovaných lidí. „Je to logické, mnoho obyvatel České republiky jde do Prahy studovat, najdou si tam práci, vazby, a pak hledají bydlení. Vzhledem k cenám v Praze je pro většinu z nich finančně dostupnější pořídit si bydlení v těsném okolí metropole, a tak jdou bydlet k nám do středních Čech,“ vysvětluje radní s tím, že z dlouhodobého hlediska může být bydlení v Praze levnější, pokud se započítají náklady na dopravu a čas.
 
-{% asset 'https://a.pirati.cz/stredocesky/img/2021/2021-03-24-lideScK2.png' alt='Graf č. 2 - Počet obyvatel ve Středočeském kraji od roku 1970 dle sčítání obyvatel' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-03-24-lideScK2.png' alt='Graf č. 2 - Počet obyvatel ve Středočeském kraji od roku 1970 dle sčítání obyvatel' %}
 
 Například pro obyvatele okresů Praha-východ a Praha-západ to znamená, že za posledních 20 let existence Středočeského každý získal nového souseda: populace v těchto okresech se 
 zdvojnásobila. 
