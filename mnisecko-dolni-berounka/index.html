@@ -25,8 +25,6 @@ profiles:
    facebook: "https://www.facebook.com/PiratiMDB"
    forum: "https://forum.pirati.cz/viewforum.php?f=1485"
    mail: michal.tresl@pirati.cz
-facebook: https://www.facebook.com/PiratiMDB
-forum: https://forum.pirati.cz/viewforum.php?f=1485
 ---
 
 Místní sdružení Mníšecko a Dolní Berounka bylo založeno 12. 9. 2020 a působí na Praze - východ a části okresu Beroun. Přesné vymezení je zobrazené na mapě. 
