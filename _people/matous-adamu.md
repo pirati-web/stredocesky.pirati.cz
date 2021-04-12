@@ -20,9 +20,5 @@ published: true
 ---
 
 
-**Matouš Adamů** (* 27.dubna 1998) je členem MS Pirátů v Mladé Boleslavi a od roku 2021 předsedou tamního MS. Angažuje se také v karjském mediálním odboru a u Mladých Pirátů. Pochází z Mladé Boleslavi, kde vystudoval střední školu v oboru se zaměřením na dopravu a logistiku. Aktuálně pracuje jako IT podpora u jednoho ze tří hlavních mobilních operátorů.
-
-Pirátskou stranu vidí jako politickou stranu, která má ambice digitalizovat Česko a již nyní je silnou opozicí konvenčním politickým stranám.
-
-Zajímá se o nové technologie v oblasti IT a jejich případné uplatnění v běžném životě. Volný čas rád vyplňuje sledováním aktuálních OVM, zpravodajství ČT24, novinek v IT, případně "vypouštěním" u deskových či PC her nebo poslechem hudby.
+Zajímám se o zahraniční politiku a není mi lhostejné, co se kolem nás děje. Jsem právník a když to bylo třeba, poskytl jsem jako bývalý zastupitel obce Trnová (kde se svou rodinou žiju) bezplatný právní servis pro obecní potřeby. Někteří z vás mě možná znají z loňské pirátské demonstrace proti turecké agresi do severní Sýrie (Rojavy), kde jsem byl jedním z řečníků. Také jsme se mohli potkat na přednáškách o Kurdech v pražském pirátském přístavu. Občas komentuji blízkovýchodní události v deníku Referendum i v jiných médiích. Jsem předsedou výkonného výboru Kurdského občanského sdružení. Studuji doktorský studijní program Teoretické právní vědy - Pracovní právo a právo sociálního zabezpečení na PFUK.
 
