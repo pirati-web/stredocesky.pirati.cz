@@ -9,7 +9,7 @@ description: 2. místopředseda MS Mladá Boleslav
 img: people/martin-karim.jpg
 mail: 
   - martin.karim@pirati.cz
-mobil:
+mob:
   - 
 profiles:
   web: https://lide.pirati.cz/person/1911/
