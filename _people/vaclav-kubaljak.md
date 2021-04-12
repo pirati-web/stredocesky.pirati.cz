@@ -18,6 +18,9 @@ profiles:
   twitter: https://twitter.com/VKubaljak
   instagram: https://www.instagram.com/yakthegreat/
   linkedin:
+office:
+  - address: Antuškova, 256 01 Benešov
+  - name: PiCe KoZa
 heroImg: banner-kutna-hora.jpg
 published: true
 ---
