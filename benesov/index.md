@@ -16,6 +16,11 @@ board:
      uid: david.rejha
    - position: 2. místopředseda
      uid: jan.licka
+mail: 
+  - benesov@pirati.cz
+office:
+  - address: Antuškova, 256 01 Benešov
+  - name: PiCe KoZa 
 contactPersons:
    - position: Předseda
      uid: vaclav.kubaljak
@@ -24,7 +29,6 @@ contactPersons:
 profiles:
    facebook: "https://www.facebook.com/piratskapalubaBN/"
    forum: "https://forum.pirati.cz/viewforum.php?f=967"
-   mail: benesov@pirati.cz
 ---
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/clenove-small.jpg' alt='clenove' %}
 
