@@ -1,20 +1,30 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Benešov
-description: Místní sdružení Benešov
-keywords: piráti, místní sdružení, Benešov
-mail: benesov@pirati.cz
-facebook: piratskapalubaBN
-forum: https://forum.pirati.cz/viewforum.php?f=967
-predsednictvo:
- - funkce: předseda
-   jmeno: Václav Kubaljak
- - funkce: 1. místopředseda
-   jmeno: David Řejha
- - funkce: 2. místopředseda
-   jmeno: Jan Lička
-mandat-do: 25.10.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
+rbar:
+  - board
+  - pageContacts
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
+    endDate: 25.10.2020
+board:
+   - position: Předseda
+     uid: vaclav.kubaljak
+   - position: 1. místopředseda
+     uid: david.rejha
+   - position: 2. místopředseda
+     uid: jan.licka
+contactPersons:
+   - position: Předseda
+     uid: vaclav.kubaljak
+   - position: Krajský koordinátor
+     uid: barbora.vaicova
+profiles:
+   facebook: "https://www.facebook.com/piratskapalubaBN/"
+   forum: "https://forum.pirati.cz/viewforum.php?f=967"
+   mail: benesov@pirati.cz
 ---
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/clenove-small.jpg' alt='clenove' %}
 
