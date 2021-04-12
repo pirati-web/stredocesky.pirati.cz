@@ -27,7 +27,7 @@ profiles:
    email: matous.adamu@pirati.cz 
 ---
 
-[{% asset 'ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
+[{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
 
 ## Kdo jsme?
 MS Mladá Boleslav založil František Kopřiva s Dominikou Michailidu a s naším tehdejším členem Luborem Jenčkem v roce 2014. Od té doby uplynulo mnoho vody, František Kopřiva je dnes poslancem dolní komory Parlamentu ČR a Dominika Michailidu zastupitelkou obce Krnsko. Naše sdružení se rozrostlo na šest členů a několik aktivních příznivců. V roce 2é22 bychom rádi postavili kandidátku do komunálních voleb v Mladé Boleslavi a rozhýbali tak stojaté vody místní politiky.
