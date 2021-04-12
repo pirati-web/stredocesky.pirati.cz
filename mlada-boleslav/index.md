@@ -1,38 +1,27 @@
 ---
-layout: page
-contentClass: content-block
+layout: ms
 title: Místní sdružení Mladá Boleslav
-rbar:
-  - board
-  - pageContacts
-boardName: Předsednictvo
-boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
-    endDate: 02.02.2023
-board:
-   - position: Předseda
-     uid: matous.adamu
-   - position: 1. místopředseda
-     uid:  dominika.michailidu
-   - position: 2. místopředseda
-     uid: jindrich.pechanda
-contactPersons:
-   - position: Předseda
-     uid: matous.adamu
-   - position: Krajský koordinátor
-     uid: barbora.vaicova
-profiles:
-   facebook: "https://www.facebook.com/PiratiMDB"
-   forum: "https://forum.pirati.cz/viewforum.php?f=1485"
-   email: matous.adamu@pirati.cz 
+description: Místní sdružení Mladá Boleslav
+keywords: piráti, místní sdružení, Mladá Boleslav
+mail: matous.adamu@pirati.cz
+facebook: PiratiMB
+forum: https://forum.pirati.cz/viewforum.php?f=737
+predsednictvo:
+ - funkce: předseda
+   jmeno: Matouš Adamů
+ - funkce: 1. místopředsedkyně
+   jmeno: Dominika Michailidu
+ - funkce: 2. místopředseda
+   jmeno: Mgr. Jindřich Pechanda
+mandat-do: 02.02.2023
+volba: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
 ---
-
-[{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
+[{% asset 'https://a.pirati.cz/stredocesky/img/ms//mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
 
 ## Kdo jsme?
 MS Mladá Boleslav založil František Kopřiva s Dominikou Michailidu a s naším tehdejším členem Luborem Jenčkem v roce 2014. Od té doby uplynulo mnoho vody, František Kopřiva je dnes poslancem dolní komory Parlamentu ČR a Dominika Michailidu zastupitelkou obce Krnsko. Naše sdružení se rozrostlo na šest členů a několik aktivních příznivců. V roce 2é22 bychom rádi postavili kandidátku do komunálních voleb v Mladé Boleslavi a rozhýbali tak stojaté vody místní politiky.
 Chceš s námi tvořit dějiny? Napiš nám na Facebook, zavolej, napiš e-mail nebo nejlépe – přijď na naši akci.
-[{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/MSMBoldschlool.jpg' alt='MS Mladá Boleslav Old School' %}]
+[{% asset 'https://a.pirati.cz/stredocesky/img/ms//mlada-boleslav/MSMBoldschlool.jpg' alt='MS Mladá Boleslav Old School' %}]
 
 # Lidé
 
@@ -60,4 +49,3 @@ Do Pirátské strany vstoupil ve svých 18 letech, na jaře 2014. Již předtím
 {% asset 'people/filip-dite.jpg' alt='Filip Dítě'  align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 Další rodilý Boleslavák, místopředseda mladoboleslavského sdružení a bývalý koordinátor dobrovolníků u Pirátů Středočeského kraje.
 V pracovním životě se nenudil. Po vyučení pracoval 3 roky v logistice, poté 5 let sbíral zkušenosti jako barman, aby se k logistice opět vrátil. V roce 2018 pracoval na pozici krajského koordinátora dobrovolníků. Mezi jeho zájmy patří hudba, práce s PC, rád se podívá na dokumenty nebo posedí s přáteli. 
-
