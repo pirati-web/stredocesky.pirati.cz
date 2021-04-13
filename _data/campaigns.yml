@@ -1,19 +1,6 @@
 # Campaigns are grouped, this usually reperesents situation when multiple
 # election campaings are held at the same time (which saves $$$ for the country).
 
-- groupUid: 2018-komunalky  # identifier of the group, to be used in program point
-  title: Komunální volby 2018     # title of the campaign group
-  campaigns:
-    - title: Kolín
-      categoryUid: 2018-komunalky-kolin
-    - title: Kutná Hora
-      categoryUid: 2018-komunalky-kutna_hora
-- groupUid: 2020-krajske  # identifier of the group, to be used in program point
-  title: Krajské volby 2020     # title of the campaign group
-  campaigns:
-    - title: Program pro Středočeský kraj
-      categoryUid: 2020-krajske
-
 - groupUid: volby-2018  # identifier of the group, to be used in program point
   title: Volby 2018     # title of the campaign group
   campaigns:

@@ -1,20 +1,24 @@
 ---
 layout: contacts
-residence: yes
-description: Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
+title: Kontaktní informace
+description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+noresidence: yes
+contactPersons:
+  - martin.sterba
+  - jan.kolator
 ---
-## Přidejte se
+ <h1>Přidejte se k nám</h1>
 
-Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
+**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
-Pokud se chcete zapojit a nevíte jak na to, koukněte na naši [stránku pro zájemce o členství a registrované příznivce](/zajemci).
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
-## Kde nás najdete
+<h4>Transparenstnost</h4>
+- Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
+- Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
-Využíváme [Pirátské centrum v Praze](https://praha.pirati.cz/pice/), ale pravidelně se scházíme na výjezdech po celém kraji. Schůze jsou vždy v kalendáři a jste na ně zváni. Dále pravidelně pořádáme setkání pro zájemce o členství nebo “Pivo s poslancem”, v našem kraji s Lenkou Kozlovou a Františkem Kopřivou.
+<h4>Podpořte nás!</h4>
+- Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/), kde vyberete Jiný účel: MS Praha 8 (nebo specifický symbol 110108).
 
-## Další informace
-
-Spoustu zajímavých informací najdete v článcích na tomto webu, ale také v elektronických verzích tištěných Pirátských listů z našeho kraje. Více na stránce [Archiv Pirátských listů](/piratske-listy/).
-
+- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*

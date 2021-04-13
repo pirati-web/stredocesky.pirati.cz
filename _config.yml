@@ -1,137 +1,102 @@
 # Welcome to Jekyll!
-#
-# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
-# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
-# technické nastavení
-#
-
-title: Piráti - Středočeský kraj # To co je napsané na tabu ve kterém je stránka.
-email: stredocesky@pirati.cz
-description: >-
-  Česká pirátská strana - Krajské sdružení Středočeský kraj
-# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: krajské sdružení, střední čechy, středočeši, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stredocesky.pirati.cz" # the base hostname & protocol for your site
+administrator:
+  email: pavel.franc@pirati.cz # mail kam pujdou maily o webu
+github:
+  url: https://github.com/pirati-web/stredocesky.pirati.cz/
+  branch: master
+url: "https://stredocesky.pirati.cz"
 
 mediaStorage: stredocesky
 
-administrator:
-  email: jan.suchanek@gmail.com, lukas.kohout@pirati.cz # mail kam pujdou chybove vystupy
+title: "Piráti - Středočeský kraj"
+description: "Česká pirátská strana - místní sdružení Praha 8"
+keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na osmičce"
 
 organization:
-  name: Piráti - Středočeský kraj
-  shortName: Piráti - Středočeský kraj
+  name: "Piráti - Středočeský kraj"
   email: stredocesky@pirati.cz
-  phone: +420 778 111 488
   address: |
-    Na Moráni 360/3
-    120 00 Praha 2
-  residenceImg: https://a.pirati.cz/stredocesky/img/pice-mapa.png
+      Na Moráni 3
+      120 00 Praha 2
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
   redmineLink: https://redmine.pirati.cz/projects/stredni-cechy
+  residenceImg:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
-# Nastavení zobrazení tabulky kontaktů.
-# Lze využít:
-# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
-# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
-  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
-#  - type: piratiRootWebsite
-#  - type: custom
-    #iconClass: fa fa-envelope
-    #label: Vlastní řádek tabulky
-    #body: <a href="http://example.com">link</a>
+  - type: piratiRootWebsite
 
 calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  title: Krajský kalendář
   id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
+  title: "Krajský kalendář"
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/PiratiStredniCechy
   profilePageName: Piráti - Středočeský kraj
-  #appId: 1526197851008996
+  appId: 1526197851008996
 
-twitter:
+matomo:
   loadSDK: true
-  profile: pirati_sck
-
-instagram:
-  #profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  #profilePage: https://plus.google.com/u/0/+piratskastrana
-
-flicker:
-  #profilePage: https://www.flickr.com/photos/pirati/
+  siteId: 68
 
 forum:
   page: https://forum.pirati.cz/stredocesky-kraj-f276/
 
-github:
-  url: https://github.com/pirati-web/stredocesky.pirati.cz/
-  branch: master
-
 youtube:
   channel: UCID4m0gBoaG5sFmQ5l-iRBQ
 
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+twitter:
+  loadSDK: true
+  profile: piratipraha
 
-github_username:  pirati-web
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
 
-sass:
-  style: compressed
-  sass_dir: _sass
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
+
+############### SETTINSG #################
 
 theme: jekyll-theme-pirati
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-environment-variables
-  - jekyll-redirect-from
-paginate_path: "/aktuality/:num/"
-paginate: 11
+
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
 
 exclude:
-  - readme.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - docker-compose.yml
   - vendor
-  - TODO.txt
 
 permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
-
+    permalink: /lide/:path:output_ext
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /volby/:path:output_ext
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -148,6 +113,11 @@ defaults:   # defaults values for collection scope
         - people
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_program"
     values:
       layout: "program-post"
@@ -155,29 +125,20 @@ defaults:   # defaults values for collection scope
          - garant
          - program
 
-emptyArray: []
-
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - _sass
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

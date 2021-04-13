@@ -2,7 +2,16 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+
+Gemfile.lock
+desktop.ini
+
+node_modules
+bower_components
+
+Thumbs.db
+package-lock.json
+
 .bundle
 vendor
-Gemfile.lock
 .DS_Store
