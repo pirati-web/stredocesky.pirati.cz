@@ -1,20 +1,33 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Mladá Boleslav
-description: Místní sdružení Mladá Boleslav
-keywords: piráti, místní sdružení, Mladá Boleslav
-mail: matous.adamu@pirati.cz
-facebook: PiratiMB
-forum: https://forum.pirati.cz/viewforum.php?f=737
-predsednictvo:
- - funkce: předseda
-   jmeno: Matouš Adamů
- - funkce: 1. místopředsedkyně
-   jmeno: Dominika Michailidu
- - funkce: 2. místopředseda
-   jmeno: Mgr. Jindřich Pechanda
-mandat-do: 02.02.2023
-volba: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
+rbar:
+  - board
+  - pageContacts
+  - contactPersons
+  - mail
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
+    endDate: 02.02.2023
+board:
+   - position: Předseda
+     uid: matous.adamu
+   - position: 1. místopředseda
+     uid: dominika.michailidu
+   - position: 2. místopředseda
+     uid: jaroslav.pechanda
+contactPersons:
+   - position: Předseda
+     uid: matous.adamu
+   - position: Krajský koordinátor
+     uid: barbora.vaicova
+mail: 
+   - matous.adamu@pirati.cz
+profiles:
+   facebook: "https://www.facebook.com/PiratiMB"
+   forum: "https://forum.pirati.cz/viewforum.php?f=737"
 ---
 [{% asset 'https://a.pirati.cz/stredocesky/img/ms/mlada-boleslav/top.png' alt='MS Mladá Boleslav' %}](https://nalodeni.pirati.cz/)
 
