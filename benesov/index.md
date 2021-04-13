@@ -7,8 +7,8 @@ rbar:
   - pageContacts
   - mail
   - office
-#  - contactPersons
-#  - profiles
+  - contactPersons
+  - profiles
 boardName: Předsednictvo
 boardTurn:
     electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
