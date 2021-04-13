@@ -3,7 +3,7 @@ title: Podpoříme sport a volnočasové aktivity
 campaignCategoryUid: 2018-komunalni
 campaignGroupUid: volby-2018
 uid: sluzby
-order: 6
+order: 1
 garant: antonin.schejbal
 redmine: 34535
 img: program/sluzby.jpg
