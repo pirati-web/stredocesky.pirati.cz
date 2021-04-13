@@ -5,7 +5,6 @@ title: Místní sdružení Mladá Boleslav
 rbar:
   - board
   - pageContacts
-  - contactPersons
   - mail
 boardName: Předsednictvo
 boardTurn:
@@ -17,12 +16,7 @@ board:
    - position: 1. místopředseda
      uid: dominika.michailidu
    - position: 2. místopředseda
-     uid: jaroslav.pechanda
-contactPersons:
-   - position: Předseda
-     uid: matous.adamu
-   - position: Krajský koordinátor
-     uid: barbora.vaicova
+     uid: jindrich.pechanda
 mail: 
    - matous.adamu@pirati.cz
 profiles:
