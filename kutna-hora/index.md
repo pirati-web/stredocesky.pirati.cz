@@ -1,21 +1,34 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Kutná Hora
-description: Místní sdružení Kutná Hora
-keywords: piráti, místní sdružení, Kutná Hora
-mail: milan.zeleny@pirati.cz
-facebook: kutnahorapirati
-forum: https://forum.pirati.cz/viewforum.php?f=1020
-predsednictvo:
- - funkce: předseda
-   jmeno: Milan Zelený
- - funkce: 1. místopředsedkyně
-   jmeno: Klára Kocmanová
- - funkce: 2. místopředseda
-   jmeno: Robin Jiráň
-mandat-do: 21.1.2021
-volba: https://forum.pirati.cz/viewtopic.php?t=45520
+rbar:
+  - board
+  - profiles
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?t=45520
+    endDate: 21.1.2021
+board:
+   - position: Předseda
+     uid: milan.zeleny
+   - position: 1. místopředsedkyně
+     uid: klara.kocmanova
+   - position: 2. místopředseda
+     uid: robin.jiran
+mail: 
+  - milan.zeleny@pirati.cz
+mob:
+#  - 739 544 467
+office:
+#  - address: Antuškova, 256 01 Benešov
+#  - name: PiCe KoZa 
+profiles:
+   facebook: "https://www.facebook.com/PiratiKutnaHora/"
+#   instagram: "https://www.instagram.com/piratikolin/"
+   forum: "https://forum.pirati.cz/viewforum.php?f=1020"
 ---
+
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/kutna-hora/kutnohoraci-small.jpg' alt='clenove' %}
 
 Místní sdružení Kutná Hora patří mezi mladší ve Středočeském kraji. Bylo založeno v srpnu 2018. Nicméně již od ledna probíhala intenzivní příprava na říjnové komunální volby, ve kterých jsme získali 6,87 % a dva zastupitele. Zakládajícími členy byli Štěpán Drtina, Klára Kocmanová a Robin Jiráň. Po volbách se naše MS rozrostlo ještě o Milana Zeleného a Víta Šnajdra. V současné době je MS tedy pětičlenné. V prosinci na post předsedy MS rezignoval kvůli souběhu funkcí Štěpán Drtina a na uvolněné místo byl zvolen Milan Zelený. Tým místopředsedů mu doplňují Klára Kocmanová a Robin Jiráň. V současné době evidujeme několik zájemců o členství a aktivně se snažíme o podchycení pirátské komunity v dalších městech okresu (Zruč nad Sázavou, Čáslav, Uhlířské Janovice).
