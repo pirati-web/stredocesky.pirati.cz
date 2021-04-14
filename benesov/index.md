@@ -4,10 +4,6 @@ contentClass: content-block
 title: Místní sdružení Benešov
 rbar:
   - board
-#  - pageContacts
-#  - mail
-#  - office
-#  - contactPersons
   - profiles
 boardName: Předsednictvo
 boardTurn:
@@ -25,11 +21,6 @@ mail:
 office:
   - address: Antuškova, 256 01 Benešov
   - name: PiCe KoZa 
-contactPersons:
-   - position: Předseda
-     uid: vaclav.kubaljak
-   - position: Krajský koordinátor
-     uid: barbora.vaicova
 profiles:
    facebook: "https://www.facebook.com/piratskapalubaBN/"
    instagram: "https://www.instagram.com/pirati.benesov/"
