@@ -11,7 +11,7 @@ img: people/martin-polak.jpg
 mail:
   - martin.polak@pirati.cz
 mob:
-  - +420 732 311 309
+#  - +420 732 311 309
 profiles:
   github:
   facebook: https://www.facebook.com/mart1n.p0lak

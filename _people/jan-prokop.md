@@ -8,8 +8,8 @@ category:
 description:
 img: people/jan-prokop.jpg
 mail: jan.prokop@pirati.cz
-mob: +420 702 237 439
-#  - 
+mob: 
+#  - +420 702 237 439
 profiles:
   web: 
   github:

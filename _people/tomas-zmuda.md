@@ -20,7 +20,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
   web: https://zmuda.cz/
 calendar: lmnbanr3ub4vftmu83g18fgr1s@group.calendar.google.com
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-jinocany.jpg
 published: true
 ---
 
@@ -32,4 +32,5 @@ Je šťastně ženatý a má jednu dceru. Členem České pirátské strany je o
 
 Rád sportuje, nejvíce se věnuje běhu, má za sebou desítky půlmaratonů. Dále staví hračky založené na mikro počítači Raspberry Pi a ve volných chvíli vytváří webové stránky.
 
-
+## Kalendář Tomáše Zmudy
+<iframe src="https://calendar.google.com/calendar/embed?src=lmnbanr3ub4vftmu83g18fgr1s%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

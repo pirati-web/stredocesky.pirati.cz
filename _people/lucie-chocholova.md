@@ -28,3 +28,5 @@ Lucie má více jak dvacetiletou praxi v kultuře. V tomto oboru pracovala jak v
 
 Mezi její zájmy patří divadlo, film, výtvarné umění, ale také politika, která do těchto oblastí bohužel zasahuje čím dál více. To bylo také hlavním motivem k aktivnímu působení v politice. Vnímá Pirátskou stranu jako stranu, která má potenciál navrátit důvěru lidí v politiku. Oceňuje její liberální zaměření a aplikaci demokratických principů a důraz na odbornost.
 
+## Kalendář Lucie Cirkva Chocholové
+<iframe src="https://calendar.google.com/calendar/embed?src=chocholova.lucie%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
