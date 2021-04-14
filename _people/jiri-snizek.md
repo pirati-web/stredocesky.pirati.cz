@@ -41,3 +41,4 @@ Současně s posledním ročníkem na ČVUT jeden rok studoval filosofii na Úst
 * [Jiří Snížek, předseda a lídr středočeských Pirátů o pandemii](/aktuality/jiri-snizek-predseda-a-lidr-stredoceskych-piratu-o-pandemii.html)
 
 [Kalendář](https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html)
+<iframe src="https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
