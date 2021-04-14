@@ -28,6 +28,9 @@ main:
   - link: /volby/2020/krajske/?pohled=program
     name: Volby
     match: volby
+  - link: /krajsky-program/
+    name: Krajský program
+    match: krajsky-program  
   - link: /kontakt/
     name: Kontakty
     match: kontakt
