@@ -5,8 +5,8 @@ title: Místní sdružení Benešov
 rbar:
   - board
 #  - pageContacts
-  - mail
-  - office
+#  - mail
+#  - office
 #  - contactPersons
   - profiles
 boardName: Předsednictvo
