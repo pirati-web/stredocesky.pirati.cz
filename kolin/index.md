@@ -1,21 +1,34 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Kolín
-description: Místní sdružení Kolín
-keywords: piráti, místní sdružení, Kolín
-mail: tereza.kvitova@pirati.cz
-facebook: PiratiKolin
-forum: https://forum.pirati.cz/viewforum.php?f=991
-predsednictvo:
- - funkce: předsedkyně
-   jmeno: Tereza Kvitová
- - funkce: 1. místopředseda
-   jmeno: Svatopluk Boček
- - funkce: 2. místopředsedkyně
-   jmeno: Kristýna Hlásková
-mandat-do: 4.6.2022
-volba: https://forum.pirati.cz/viewtopic.php?f=993&t=51529
+rbar:
+  - board
+  - profiles
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=993&t=51529
+    endDate: 4.6.2022
+board:
+   - position: Předsedkyně
+     name: Tereza Kvitová
+   - position: 1. místopředseda
+     name: Svatopluk Boček
+   - position: 2. místopředsedkyně
+     name: Kristýna Hlásková
+mail: 
+  - tereza.kvitova@pirati.cz
+mob:
+#  - 739 544 467
+office:
+#  - address: Antuškova, 256 01 Benešov
+#  - name: PiCe KoZa 
+profiles:
+   facebook: "https://www.facebook.com/PiratiKolin/"
+   instagram: "https://www.instagram.com/piratikolin/"
+   forum: "https://forum.pirati.cz/viewforum.php?f=991"
 ---
+
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/kolin/kolinaci-small.jpg' alt='clenove' %}
 
 Místní sdružení Kolín, patří mezi mladší sdružení v kraji, protože vzniklo až v roce 2018. Avšak Pirátská strana má v našem okrese dlouhou historii, protože už v roce 2010 byla v Kolíně v kraji jediná samostatná komunální kandidátka Pirátů.
