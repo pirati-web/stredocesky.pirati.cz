@@ -31,7 +31,7 @@ profiles:
 
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
 
-Místní sdružení Beroun bylo založeno v září 2020 po více než ročních přípravách a postupném budování členské základny. Momentálně jsme parta čtyř lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
+Místní sdružení Beroun bylo založeno v září 2020 po více než ročních přípravách a postupném budování členské základny. Momentálně jsme parta šesti lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
 
 Naším cílem je místní sdružení Beroun postupně rozvíjet. Pomáhat České pirátské straně při volebních kampaních tak, jako jsme to dělali do teď, budovat povědomí o Pirátech a Pirátkách v berounském okrese, pořádat nebo se podílet na přípravách některých akcí, aktivně se zajímat o problematiku Berouna a dalších obcí nebo dobrovolně pomáhat různým spolkům a neziskovým organizacím s veřejně prospěšnými činnostmi. Naše setkání se snažíme realizovat každý měsíc v Berouně a budeme rádi, když se při této příležitosti navzájem poznáme a pobavíme se o všem, co Vás zajímá. 
 
