@@ -11,21 +11,18 @@ boardTurn:
     endDate: 29.9.2022
 board:
    - position: Předseda
-     # uid: 
      name: Sámir Shanaáh
    - position: 1. místopředseda
-     # uid: 
      name: Pavel Kešner
    - position: 2. místopředseda
-     # uid:
      name: Vojtěch Vopařil
 mail: 
   - beroun@pirati.cz
 mob:
 - 739 544 467
-# office:
-  - address: Antuškova, 256 01 Benešov
-  - name: PiCe KoZa 
+office:
+#  - address: Antuškova, 256 01 Benešov
+#  - name: PiCe KoZa 
 profiles:
    facebook: "https://www.facebook.com/PiratiBeroun"
 #   instagram: "https://www.instagram.com/pirati.benesov/"
