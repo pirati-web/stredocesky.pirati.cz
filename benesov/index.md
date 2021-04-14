@@ -4,11 +4,11 @@ contentClass: content-block
 title: Místní sdružení Benešov
 rbar:
   - board
-  - pageContacts
+#  - pageContacts
   - mail
   - office
-  - contactPersons
-#  - profiles
+#  - contactPersons
+  - profiles
 boardName: Předsednictvo
 boardTurn:
     electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
