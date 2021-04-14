@@ -1,22 +1,38 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Beroun
-description: Místní sdružení Beroun
-keywords: piráti, místní sdružení, Beroun
-mail: beroun@pirati.cz
-facebook: PiratiBeroun
-forum: https://forum.pirati.cz/viewforum.php?f=1491
-predsednictvo:
- - funkce: předseda
-   jmeno: Sámir Shanaáh
- - funkce: 1. místopředseda
-   jmeno: Pavel Kešner
- - funkce: 2. místopředseda
-   jmeno: Vojtěch Vopařil
-mandat-do: 29.9.2022
-volba: https://forum.pirati.cz/viewtopic.php?p=718340#p718340
+rbar:
+  - board
+  - profiles
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?p=718340#p718340
+    endDate: 29.9.2022
+board:
+   - position: Předseda
+     # uid: 
+     name: Sámir Shanaáh
+   - position: 1. místopředseda
+     # uid: 
+     name: Pavel Kešner
+   - position: 2. místopředseda
+     # uid:
+     name: Vojtěch Vopařil
+mail: 
+  - beroun@pirati.cz
+mob:
+- 739 544 467
+# office:
+  - address: Antuškova, 256 01 Benešov
+  - name: PiCe KoZa 
+profiles:
+   facebook: "https://www.facebook.com/PiratiBeroun"
+#   instagram: "https://www.instagram.com/pirati.benesov/"
+   forum: "https://forum.pirati.cz/viewforum.php?f=1491"
 ---
-{% asset 'https://a.pirati.cz/stredocesky/ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
+
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/beroun/spolecna-1000px.jpg' alt='společná fotka' %}
 
 Místní sdružení Beroun bylo založeno v září 2020 po více než ročních přípravách a postupném budování členské základny. Momentálně jsme parta čtyř lidí s tím, že pomalu, ale jistě přicházejí noví zájemci o členství, z nichž jsou mnozí příznivci a v brzké době budou procházet procesem nalodění. 
 
