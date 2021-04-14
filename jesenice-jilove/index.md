@@ -1,21 +1,34 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Jesenice - Jílové
-description: Místní sdružení Jesenice - Jílové
-keywords: piráti, místní sdružení, Jesenice, Jílové u Prahy
-mail: jesenice-jilove@pirati.cz
-facebook: PiratiJeseniceJilove
-forum: https://forum.pirati.cz/viewtopic.php?f=276&t=48168
-predsednictvo:
- - funkce: předseda
-   jmeno: Jan Čáha
- - funkce: 1. místopředseda
-   jmeno: Roman Morávek
- - funkce: 2. místopředseda
-   jmeno: Jan Korbel
-mandat-do: 24.9.2021
-volba: https://forum.pirati.cz/viewtopic.php?p=638856#p638856
+rbar:
+  - board
+  - profiles
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?p=638856#p638856
+    endDate: 24.9.2021
+board:
+   - position: Předseda
+     name: Jan Čáha
+   - position: 1. místopředseda
+     name: Roman Morávek
+   - position: 2. místopředseda
+     uid: jan.korbel
+mail: 
+  - jesenice-jilove@pirati.cz
+mob:
+#  -
+office:
+#  - address: Antuškova, 256 01 Benešov
+#  - name: PiCe KoZa 
+profiles:
+   facebook: "https://www.facebook.com/PiratiJeseniceJilove"
+#   instagram: "https://www.instagram.com/pirati.benesov/"
+   forum: "https://forum.pirati.cz/viewtopic.php?f=276&t=48168"
 ---
+
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/spolecna-1000px.jpg' alt='společná fotka' %}
 
 Místní sdružení Jesenice - Jílové působí na Praze - západ, v části ORP Černošice na východ od Vltavy. Přesné vymezení území je správní obvod obce s pověřeným obecním úřadem Jesenice a správní obvod obce s pověřeným obecním úřadem Jílové u Prahy. Jsme však otevření ostatním a rádi uvítáme i piráty a podporovatele z přilehlých území, především pak z hraničních oblastí ORP Říčany a ORP Benešov, ke kterým máme velmi blízko (např. Kamenice).
