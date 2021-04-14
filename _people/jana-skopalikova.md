@@ -33,3 +33,4 @@ Piráty volí už dlouho, aktivvně se o ně začala zajímat po úspěchu volb�
 
 Miluje přírodu, táhne ji to směrem k zero-waste, pracovala s dětmi v přírodovědném oddílu a vede cvičení na Katedře botaniky PřF UK. Ráda hraje na kytaru, sem tam fotí a zajímá se o rekonstrukci historie.
 
+<iframe src="https://calendar.google.com/calendar/embed?src=oj2pgcouoq0tdnlqfgkpksumdo%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
