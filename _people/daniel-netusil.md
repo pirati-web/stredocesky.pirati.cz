@@ -1,6 +1,8 @@
 ---
 uid: daniel.netusil
 name: Daniel Netušil
+redirect_from:
+  /daniel-netusil/
 titles:
   before: Ing.
   after:
@@ -17,7 +19,7 @@ mob:
   - +420 778 757 697
 profiles:
   github:
-#  facebook: https://www.facebook.com/nekdo
+  facebook: 
   twitter:
   linkedin:
 heroImg: banner-kutna-hora.jpg
