@@ -23,7 +23,7 @@ office:
   - name: PiKNyk
 profiles:
   facebook: "https://www.facebook.com/PiratiNymbursko"
-  forum: https://forum.pirati.cz/viewforum.php?f=1363 "https://www.facebook.com/piratskapalubaBN/"
+  forum: "https://forum.pirati.cz/viewforum.php?f=1363"
 ---
 {% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
