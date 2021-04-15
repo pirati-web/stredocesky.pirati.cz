@@ -15,7 +15,7 @@ board:
    - position: 1. místopředseda
      name: Vojtěch Lukavec
    - position: 2. místopředseda
-     name: <a href="https://lide.pirati.cz/personProfile/1321/">Petr Hladký</a>
+     name: Petr Hladký
 mail: 
   - petr.prochazka@pirati.cz
 office:
