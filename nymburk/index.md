@@ -25,7 +25,7 @@ profiles:
   facebook: "https://www.facebook.com/PiratiNymbursko"
   forum: "https://forum.pirati.cz/viewforum.php?f=1363"
 ---
-{% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
 # O nás
 První místní sdružení Pirátů v Nymburském okrese bylo ustanoveno 1.11.2013, přičemž ve stávající sestavě oficiálně existuje od 3.12.2018. Od samého počátku sdružovalo členy z vícero obcí a to konkrétně ze Sadské, Poděbrad a Nymburka. 
