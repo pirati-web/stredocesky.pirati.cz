@@ -22,11 +22,8 @@ office:
   - address: Nerudova 697/1, 288 02 Nymburk
   - name: PiKNyk
 profiles:
-   facebook: "https://www.facebook.com/PiratiNymbursko"
-   facebook1: "https://www.facebook.com/PiratiPodebrady"
-   facebook2: "https://www.facebook.com/LysaPirati"
-   facebook3: "https://www.facebook.com/Piráti-Milovice-100116105291252"
-   forum: https://forum.pirati.cz/viewforum.php?f=1363 "https://www.facebook.com/piratskapalubaBN/"
+  facebook: "https://www.facebook.com/PiratiNymbursko"
+  forum: https://forum.pirati.cz/viewforum.php?f=1363 "https://www.facebook.com/piratskapalubaBN/"
 ---
 {% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
