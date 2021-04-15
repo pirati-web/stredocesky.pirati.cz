@@ -1,22 +1,34 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Nymburk
-description: Místní sdružení Nymburk
-keywords: piráti, místní sdružení, Nymburk, Poděbrady, Sadská
-mail: petr.prochazka@pirati.cz
-facebook: PiratiNymburk
-forum: https://forum.pirati.cz/viewforum.php?f=1363
-predsednictvo:
- - funkce: předseda
-   jmeno: <a href="https://wiki.pirati.cz/lide/petr_prochazka">Petr Procházka</a>
- - funkce: 1. místopředseda
-   jmeno: <a href="https://wiki.pirati.cz/lide/martin_martin">Martin Martin</a>
- - funkce: 2. místopředseda
-   jmeno: <a href="https://www.facebook.com/jirina.prikrylova.7">Jiřina Procházková</a>
-mandat-do: 03.12.2020
-volba: https://forum.pirati.cz/viewtopic.php?f=799&t=29429&p=592959#p592959
+rbar:
+  - board
+  - profiles
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=1365&t=54652
+    endDate: 06.12.2022
+board:
+   - position: Předseda
+     uid: petr.prochazka
+   - position: 1. místopředseda
+     name: Vojtěch Lukavec
+   - position: 2. místopředseda
+     name: <a href="https://lide.pirati.cz/personProfile/1321/">Petr Hladký</a>
+mail: 
+  - petr.prochazka@pirati.cz
+office:
+  - address: Nerudova 697/1, 288 02 Nymburk
+  - name: PiKNyk
+profiles:
+   facebook: "https://www.facebook.com/PiratiNymbursko"
+   facebook1: "https://www.facebook.com/PiratiPodebrady"
+   facebook2: "https://www.facebook.com/LysaPirati"
+   facebook3: "https://www.facebook.com/Piráti-Milovice-100116105291252"
+   forum: https://forum.pirati.cz/viewforum.php?f=1363 "https://www.facebook.com/piratskapalubaBN/"
 ---
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
+{% asset 'ms/nymburk/spolecna-1000px.jpg' alt='společná fotka' %}
 
 # O nás
 První místní sdružení Pirátů v Nymburském okrese bylo ustanoveno 1.11.2013, přičemž ve stávající sestavě oficiálně existuje od 3.12.2018. Od samého počátku sdružovalo členy z vícero obcí a to konkrétně ze Sadské, Poděbrad a Nymburka. 
@@ -31,25 +43,62 @@ V posledních volbách do Evropského parlamentu roku 2019 dosáhli Piráti v Ny
 
 Pořádáme nepravidelná setkání s příznivci v rámci schůzí MS a to dle aktuální potřeby v různých obcích okresu.
 
+# Komunální volby 2022
+Od začátku roku 2021 se začínáme pilně připravovat na komunální volby na Nymbursku. Naší ambicí je postavit atraktivní a úspěšné kandidátky ve všech městech, především pak v Nymburce, Poděbradech, Lysé nad Labem a v Milovicích. Naším cílem je ovlivňovat lokální politiku tak, aby občané našeho okrasu získali dostupný a kvalitní servis a dobře se jim v jejich městech žilo.
+
+# PiKNyk
+V červnu roku 2020 otevřeli nymburští Piráti na adrese Nerudova 697/1 Pirátské centrum s názvem **PiKNyk**. Covidová opatření zatím nedovolují využívat tento prostor naplno, takže v současné době slouží zejména pro uskladnění oděvů vybraných v rámci "Sbírky pro pořebné" z nemocnice Nymburk. Kromě spolupráce s charitativními a neziskovými organizacemi v různých oblastech, chceme prostor využít zejména pro setkávání lidí. Plánujeme kurzy 3D tísku, promítání, besedy či deskohraní.
+
 # Lidé
 
 ### Petr Procházka
 
-Narodil se v roce 1981 ve Dvoře Králové nad Labem a víceméně celý život má spojen s polabským městem Nymburk. Po studiu na Gymnáziu Nymburk a absolvování vojenské služby započala jeho profesní kariéra, která je beze zbytku zasvěcena dopravě a logistice. Pirátem se stal v roce 2013 a necelý rok působil i jako předseda KS Sčk. V roce 2017 těsně neúspěšně kandidoval za Piráty ve volbách do poslanecké sněmovny. Kandidátka Pirátů do zastupitelstva města Nymburk v roce 2018 skončila velice těsně pod hranicí (4,34%) zisku mandátu zastupitele města. Přesto Piráti v Nymburce získali alespoň místo jednoho člena v majetkové a likvidační komisi. Po ustavení MS Nymburk získal ve volbách post předsedy MS. Aktuálně pracuje jako hlavní dispečer mezinárodních vlaků u významného železničního dopravce. V rámci kraje je odborníkem na dopravu, především železniční. Mezi jeho zájmy patří cestování, turistika, vaření, české i světové minipivovary a pivo všeobecně,vědomostní hry a kvízy a moderování v rádiu.
+Narodil se v roce 1981 ve Dvoře Králové nad Labem a víceméně celý život má spojen s polabským městem Nymburk. Po studiu na Gymnáziu Nymburk a absolvování vojenské služby započala jeho profesní kariéra, která je beze zbytku zasvěcena dopravě a logistice. Pirátem se stal v roce 2013 a necelý rok působil i jako předseda KS Sčk. V roce 2017 těsně neúspěšně kandidoval za Piráty ve volbách do poslanecké sněmovny. Kandidátka Pirátů do zastupitelstva města Nymburk v roce 2018 skončila velice těsně pod hranicí (4,34%) zisku mandátu zastupitele města. Přesto Piráti v Nymburce získali alespoň místo jednoho člena v majetkové a likvidační komisi. Po ustavení MS Nymburk získal ve volbách post předsedy MS. V roce 2020 se stal kraským zastupitelem ve Středočeském kraji Aktuálně pracuje jako hlavní dispečer mezinárodních vlaků u významného železničního dopravce. V rámci kraje je odborníkem na dopravu, především železniční. Mezi jeho zájmy patří cestování, turistika, vaření, české i světové minipivovary a pivo všeobecně,vědomostní hry a kvízy a moderování v rádiu.
+
+### Vojtěch Lukavec
+
+Vojtěch se narodil v roce 1997 v Nymburce, ale celý svůj dosavadní život strávil v "konkurenčním městě" Nymburka, lázeňských Poděbradech. V Poděbradech vystudoval základní školu a víceleté gymnázium. Od roku 2016 je studentem oboru Všeobecné lékařství na 1. Lékařské fakultě UK v Praze. 
+V roce 2018 začal jako příznivce spolupracovat s Piráty na úrovni komunální a na odborné úrovni v krajském expertním týmu, zabývajícím se otázkami zdravotnictví. V roce 2019 se stal členem Pirátů a pirátského Resortního týmu Zdravotnictví Poslanecké sněmovny. Po krajských volbách v roce 2020 se stal prvním náhradníkem do krajského zastupitelstva Středočeského kraje, na kraji aktuálně působí jako člen Výboru pro zdravotnictví. 
+Kromě práce pro Pirátskou stranu v roce 2020 během epidemie Covid-19 nasbíral mnoho praktických medicínských zkušeností jako sanitář a praktická zdravotní sestra na infekčních odděleních. Problematice českého zdravotnictví se věnuje i v publicistických článcích a na twitterovém účtu <a href="https://twitter.com/gas_koniec">@gas_koniec</a>.
+Ve volném čase sportuje, věnuje se vysokohorské turistice, četbě a příležitostně počítačovým hrám a jejich designu. 
+
+### Petr Hladký
+
+Narodil se v březnu 1986 v Nymburce a téměř celý život s malou přestávkou žije v Lysé nad Labem. Je hrdým otcem tří malých dětí a proto mu není lhostejná budoucnost  města a naší země. Před nedávnem (2020) se proto přidal k Pirátům aby se mohl více zapojit, do utváření lepší budoucnosti naší země, našich dětí.
+Ve svém ne-Pirátském životě se živí jako živnostník ve stavebnictví a někdy i jako řidič z povolání. Ve volném čase se věnuje historii z pohledu amatérského hledače relikvií s detektorem kovů a Armwrestlingu.
+
+> **Motto:** "Být Pirátem není vůbec jednoduché, spousta práce, spousta kritiky od okolí, ale věřím že veškeré mé úsilí se pomalu ale jistě vyplácí."
 
 ### Martin Martin
 
-V pirátské straně je od roku 2013 s krátkou pauzou během studií na VŠ. Od roku 2018 působí jako první místopředseda MS Nymburk. Vystudoval akustiku a profesně se věnuje akustice a zvuku na 100% svého života. Celý dosavadní život má spojen s Nymburkem a okolím, kromě období studií na VŠ v Brně. Mezi největší zájmy patří samozřejmě akustika, metalová hudba.
+V pirátské straně je od roku 2013 s krátkou pauzou během studií na VŠ. Od roku 2020 působí jako čtvrtý místopředseda PKS Středočeského kraje. Vystudoval akustiku a profesně se věnuje akustice a zvuku na 100% svého života. Celý dosavadní život má spojen s Nymburkem a okolím, kromě období studií na VŠ v Brně. Mezi největší zájmy patří samozřejmě akustika, metalová hudba.
 
 ### Jiřina Procházková
 
 Pochází z Jihlavy a je učitelkou na ZŠ. Dlouholetá příznivkyně Pirátské strany přišla do Nymburka v roce 2017, aby se v Květnu 2018 stala členkou Pirátů. a v roce 2018 se stala druhou místopředsedkyní MS Nymburk. Působí ve středočeském KETu školství. Učí na menší škole ve středočeském Přerově nad Labem. Ráda se věnuje četbě, cestování a práci s dětmi.
 
+### Vilém Nájemník
+
+narozen v roce 1991, rodák z Jablonce nad Nisou kandidoval za Piráty tamtéž už v roce 2010. Po absolvování studií pedagogické fakulty na Turecké Muğla Sıtkı Koçman University se odstěhoval zpět do České republiky od kdy působí na Boleslavsku a v Poděbradech. Pracuje jako projektový vedoucí ve vzdělávání pro Mladoboleslavskou automobilku. Je členem MS od roku 2020, jeho rajónem je především moderní vzdělávání s důrazem na využití technologií a osvěta v rámci mobility zítřka.
+Od roku 2020 členem Výboru pro dopravu Středočeského kraje
+
 ### Další členové
 
-Dalšími členy jsou Pavel Kvíz (od roku 2017) a Vojtěch Lukavec (od 2019). V dohledné době se chystáme přijmout několik dalších členů z řad našich příznivců a dobrovolníků.
+Dalšími členy jsou Pavel Kvíz (od roku 2017). V dohledné době se chystáme přijmout několik dalších členů z řad našich příznivců a dobrovolníků.
 
-# Členové komisí Rady a výborů Zastupitelstva města Nymburka v období 2018 - 2020
+# Členové komisí Rady a výborů Zastupitelstva města Nymburka v období 2018 - 2022
 
 * **Komise pro majetek a likvidační**
   * Petr Procházka
+
+# Členové komisí Rady a výborů Zastupitelstva Středočeského kraje v období 2020 - 2024
+
+* **Kontrolní výbor**
+  * Petr Procházka
+
+* **Výbor pro dopravu**
+  * Petr Procházka
+  * Vilém Nájemník
+  
+* **Výbor pro zdravotnictví**
+  * Vojtěch Lukavec
