@@ -20,7 +20,7 @@ mail:
   - benesov@pirati.cz
 office:
   - address: Antuškova, 256 01 Benešov
-  - officename: PiCe KoZa 
+    name: PiCe KoZa 
 profiles:
    facebook: "https://www.facebook.com/piratskapalubaBN/"
    instagram: "https://www.instagram.com/pirati.benesov/"
