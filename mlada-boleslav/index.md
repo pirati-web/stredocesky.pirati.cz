@@ -4,8 +4,7 @@ contentClass: content-block
 title: Místní sdružení Mladá Boleslav
 rbar:
   - board
-  - pageContacts
-  - mail
+  - profiles
 boardName: Předsednictvo
 boardTurn:
     electionUrl: https://forum.pirati.cz/viewtopic.php?f=739&t=55245
