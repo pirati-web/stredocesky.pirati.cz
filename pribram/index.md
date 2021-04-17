@@ -4,8 +4,7 @@ contentClass: content-block
 title: Místní sdružení Příbram
 rbar:
   - board
-  - pageContacts
-  - mail
+  - profiles
 boardName: Předsednictvo
 boardTurn:
     electionUrl: https://forum.pirati.cz/viewtopic.php?f=696&t=51984
