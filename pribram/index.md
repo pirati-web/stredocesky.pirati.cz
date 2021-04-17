@@ -64,7 +64,7 @@ V minulosti pracovala jako asistentka poslance, tlumočnice, lektorka, asistentk
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/tony-schejbal.jpg' alt='Tony Schejbal' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Tony Schejbal** je aktivním pirátským členem MS Příbram již od roku 2016. V roce 2018 byl #1 na příbramské kandidátce a byl zvolen zastupitelem. Taktéž je členem komise pro mládež, tělovýchovu a sport. V současné době studuje na UK FTVS obor management sportu a ve volném čase vystupuje se svojí crew OVERDOSE po celé republice jako DJ. Důvodem, proč se nalodil mezi piráty, byla politická situace české politiky. Zároveň ho trápí současný stav sportu a kultury v Příbrami, čemuž se chce usilovně věnovat z pozice zastupitele.
 </div>
-
+<br>
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/tomas-podlena.jpg' alt='Tomáš Podlena' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Tomáš Podlena** je členem Pirátské strany od roku 2017, avšak za Piráty kandidoval v rámci krajských voleb již v roce 2016. Momentálně je členem nově vzniklé komise "Smart city" v Příbrami. Vystudoval Informační technologie a nyní se druhým rokem věnuje studiu Mezinárodních vztahů a evropských studií. Ve svém volném čase dělá DJ a pořádá hudební akce po celé republice. Jeho motivací pro vstup do politiky byl politický vývoj v posledních letech, který ovlivnil morálku a náladu ve společnosti.
 </div>
