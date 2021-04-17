@@ -1,21 +1,29 @@
 ---
-layout: ms
+layout: page
+contentClass: content-block
 title: Místní sdružení Příbram
-description: Místní sdružení Příbram
-keywords: piráti, místní sdružení, Příbram
-mail: josef.bouse@pirati.cz
-facebook: PribramPirati
-forum: https://forum.pirati.cz/viewforum.php?f=692
-predsednictvo:
- - funkce: předseda
-   jmeno: Josef Bouše
- - funkce: 1. místopředseda
-   jmeno: Simona Luftová
- - funkce: 2. místopředseda
-   jmeno: Antonín Schejbal
-mandat-do: 18.04.2022
-volba: https://forum.pirati.cz/viewtopic.php?f=696&t=51984
+rbar:
+  - board
+  - pageContacts
+  - mail
+boardName: Předsednictvo
+boardTurn:
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=696&t=51984
+    endDate: 18.04.2022
+board:
+   - position: Předseda
+     uid: josef.bouse
+   - position: 1. místopředseda
+     uid: simona.luftova
+   - position: 2. místopředseda
+     uid: antonin.schejbal
+mail: 
+   - josef.bouse@pirati.cz
+profiles:
+   facebook: "https://www.facebook.com/PribramPirati/"
+   forum: "https://forum.pirati.cz/viewforum.php?f=692"
 ---
+
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/uvodni-small.jpg' alt='úvodní banner' %}
 
 MS Příbram založili v roce 2014 Lenka Kozlová, Vašek Pecha a Milan Müller,  kdy jsme se  účastnili prvních komunálních voleb a získali 1,15 %.
