@@ -93,10 +93,11 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path:output_ext
+    permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /volby/:path:output_ext
+    permalink: /komunalni-volby/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
