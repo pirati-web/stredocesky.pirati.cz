@@ -3,7 +3,7 @@ title: Posílíme lokálnost a udržitelnost
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 6
+order: 5
 garant: jana.skopalikova
 redmine: 34535
 img: program/sluzby.jpg
