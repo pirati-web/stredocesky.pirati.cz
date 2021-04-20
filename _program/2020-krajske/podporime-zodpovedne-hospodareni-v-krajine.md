@@ -1,7 +1,7 @@
 ---
 title: Podpoříme zodpovědné hospodaření v krajině
 campaignCategoryUid: 2020-krajske
-campaignGroupUid: volby-2020
+campaignGroupUid: 2020-krajske
 uid: sluzby
 order: 6
 garant: jana.skopalikova
