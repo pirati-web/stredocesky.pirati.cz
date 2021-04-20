@@ -1,6 +1,6 @@
 ---
 title: Podpoříme zodpovědné hospodaření v krajině
-campaignCategoryUid: 2020-krajske
+campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
 order: 6
