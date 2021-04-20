@@ -11,17 +11,7 @@ perex: >
   2. Minimalizujeme vznik odpadů<br>
   3. Posílíme lokálnost a udržitelnost<br>
   4. Podpoříme zodpovědné hospodaření v krajině<br>
-order: 1
-redmine:
-  - 34535
-  - 34536
-  - 34531
-  - 34528
-intro: >
-  1. Vrátíme vodu lidem i krajině<br>
-  2. Minimalizujeme vznik odpadů<br>
-  3. Posílíme lokálnost a udržitelnost<br>
-  4. Podpoříme zodpovědné hospodaření v krajině<br>
+order: 3
 ---
 
 **1. Vrátíme vodu lidem i krajině**<br>
