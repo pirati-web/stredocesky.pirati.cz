@@ -1,7 +1,7 @@
 ---
 title: Posílíme lokálnost a udržitelnost
-campaignCategoryUid: 2018-komunalni
-campaignGroupUid: volby-2018
+campaignCategoryUid: 2020-krajske-plneni
+campaignGroupUid: volby-2020
 uid: sluzby
 order: 6
 garant: jana.skopalikova
