@@ -3,7 +3,7 @@ title: Sport a volný čas
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 7
+order: 900
 garant: antonin.schejbal
 redmine: 34844
 img: program/sluzby.jpg
