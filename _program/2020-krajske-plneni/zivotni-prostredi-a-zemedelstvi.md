@@ -3,7 +3,7 @@ title: Životní prostředí a zemědělství
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 3
+order: 200
 garant: jana.skopalikova
 redmine: 35929
 img: program/sluzby.jpg
