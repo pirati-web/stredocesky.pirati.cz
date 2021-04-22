@@ -3,7 +3,7 @@ title: Vzdělávání
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 4
+order: 700
 garant: simona.luftova
 redmine: 35930
 img: program/sluzby.jpg
