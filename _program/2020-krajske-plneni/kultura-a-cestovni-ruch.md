@@ -3,7 +3,7 @@ title: Kultura a cestovní ruch
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 6
+order: 300
 garant: lucie.chocholova
 redmine: 35932
 img: program/sluzby.jpg
