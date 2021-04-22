@@ -3,7 +3,7 @@ title: Moderní úřad
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 400
+order: 500
 garant: tomas.zmuda
 redmine: 35934
 img: program/sluzby.jpg
