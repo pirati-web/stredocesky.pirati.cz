@@ -3,7 +3,7 @@ title: Transparentní kraj
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 300
+order: 400
 garant: tomas.zmuda
 redmine: 35935
 img: program/sluzby.jpg
