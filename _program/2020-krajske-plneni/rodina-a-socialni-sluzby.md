@@ -3,7 +3,7 @@ title: Rodina a sociální služby
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 5
+order: 800
 garant: milan.zeleny
 redmine: 35931
 img: program/sluzby.jpg
