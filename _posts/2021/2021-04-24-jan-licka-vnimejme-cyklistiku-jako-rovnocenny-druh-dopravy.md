@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-date: 2021-04-24
+date: 2021-04-22
 #published: false
 tags: krajská_politika regionální_rozvoj doprava
 title: 'Jan Lička: Vnímejme cyklistiku jako rovnocenný druh dopravy'
 description: 'krajská politika, regionální rozvoj, doprava'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
-image: posts/2021/2021-04-24-cyklo.jpg
+image: posts/2021/2021-04-22-cyklo.jpg
 ---
 Středočeský kraj (SčK) vyčlenil celkem 18,5 milionu korun na výstavbu cyklostezek na dálkových páteřních cyklotrasách, které kraj propojují. Budování cyklostezek patří mezi jeden ze zásadních cílů současného vedení kraje.
 
