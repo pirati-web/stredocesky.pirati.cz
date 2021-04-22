@@ -3,7 +3,7 @@ title: Zdravotnictví
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 2
+order: 1000
 garant: petr.tomas
 redmine: 35925
 img: program/sluzby.jpg
