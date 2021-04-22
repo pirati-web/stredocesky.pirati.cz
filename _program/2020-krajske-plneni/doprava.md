@@ -3,7 +3,7 @@ title: Doprava
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
-order: 1
+order: 600
 garant: jan.licka
 redmine: 35899
 img: program/sluzby.jpg
