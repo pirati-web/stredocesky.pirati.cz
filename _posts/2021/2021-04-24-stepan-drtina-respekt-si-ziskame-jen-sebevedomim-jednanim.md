@@ -8,7 +8,7 @@ title: 'Štěpán Drtina: Respekt si získáme jen sebevědomím jednáním'
 description: 'zahraniční politika. komentář'
 author: Štěpán Drtina
 authorId: stepan.drtina
-image: posts/2021/2021-01-18-Kopriva.jpg
+image: posts/2021/2021-04-24-drtina.jpg
 ---
 
 Rusko (a jeho historické podoby) nám ukazuje, že od něj nelze čekat rozumnou dohodu nebo dokonce něco jako přiznání viny. Propaganda autoritativního režimu jede na plné obrátky a tuto situaci se bude snažit využít na maximum. Možnost mávat spiknutím "zlého západu" se nepromarňuje.
