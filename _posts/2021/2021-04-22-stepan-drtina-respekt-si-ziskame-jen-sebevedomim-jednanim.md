@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-04-24
+date: 2021-04-22
 #published: false
 tags: zahraniční_politika komentář
 title: 'Štěpán Drtina: Respekt si získáme jen sebevědomím jednáním'
