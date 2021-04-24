@@ -7,7 +7,7 @@ tags: hoax místní_rozvoj
 title: 'Matouš Vanča: Hoaxy nás nezlomí, na skutečném programu pracujeme usilovně dál.'
 description: 'hoax, místní rozvoj'
 author: Matouš Vanča
-authorId: matous.vanca
+#authorId: matous.vanca
 image: posts/2020/vanca.jpg
 ---
 
@@ -20,6 +20,7 @@ Snažíme se v týmu Místní rozvoj psát program co nejpoctivěji dokážeme, 
 Chceme totiž, aby se v téhle zemi žilo líp, a to ve všech regionech. Nejen v Praze, ale i na venkově, v pohraničí, v regionech se sociálními problémy. Zkrátka i v těch končinách, na které současná vláda zapomněla.
 
 Tahle země má budoucnost, i když se to po působení současné vlády nezdá.
+<br><br>
 
 {% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-04-24-hoax.jpg' alt='HOAX' align='center' width='600px' %}
 
