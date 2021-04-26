@@ -8,7 +8,7 @@ title: 'Adéla Šípová: Podporuji advokáty ve snaze prosadit on-line volbu ve
 description: 'senát, digitalizace'
 author: Adéla Šípová
 #authorId: adela.sipova
-image: posts/2021/2021-04-26-adela.jpg
+image: posts/2021/2021-04-26-adela2.jpg
 ---
 
 > „Jsem profesí advokátka, a proto své kolegy podporuji v jejich snaze prosadit možnost on-line volby do volebního řádu advokátní komory. Připravila jsem proto i novelu zákona o advokacii, pro kterou se budu nyní snažit získat podporu ostatních senátorů,“ uvedla senátorka Adéla Šípová (nezávislá za Českou pirátskou stranu).
