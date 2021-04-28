@@ -8,7 +8,7 @@ title: 'Lenka Kozlová: Zveřejněte pravidla pro pořádání letních táborů
 description: 'covid-19, komentář, poslanecká sněmovna'
 author: Lenka Kozlová
 #authorId: lenka.kozlova
-image: posts/2021/2021-04-2á-tabor.jpg
+image: posts/2021/2021-04-28-tabor.jpg
 ---
 
 Pirátská poslankyně Lenka Kozlová zaslala interpelaci ministrovi školství Robertu Plagovi a ministrovi zdravotnictví Petru Arenbergerovi. Žádá v ní zveřejnění plánu ohledně 
