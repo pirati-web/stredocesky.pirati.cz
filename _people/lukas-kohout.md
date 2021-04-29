@@ -9,6 +9,7 @@ category:
   - tajemnik
   - kontaktni_osoba
 ordDalsi: 5
+ordKontaktni_osoba: 5
 description: tajemník klubu zastupitelů SčK
 img: people/lukas-kohout.jpg
 mail: lukas.kohout@pirati.cz
