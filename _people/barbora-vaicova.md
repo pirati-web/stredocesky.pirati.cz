@@ -10,6 +10,7 @@ category:
   - koordinator
   - kontaktni_osoba
 ordDalsi: 1
+ordKontaktni_osoba: 1
 img: people/barbora-vaicova.jpg
 mail:
   - barbora.vaicova@pirati.cz
