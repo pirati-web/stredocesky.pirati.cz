@@ -9,6 +9,7 @@ category:
   - kontaktni_osoba
 description: PR manager a kontakt pro média
 ordDalsi: 4
+ordKontaktni_osoba: 4
 img: people/ondrej-petr.jpg
 mail:
   - ondrej.petr@pirati.cz
