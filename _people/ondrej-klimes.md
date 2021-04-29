@@ -10,6 +10,7 @@ category:
 ordDalsi: 3
 description: Vedoucí Mediálního odboru KS
 ordDalsi: 3
+ordKontaktni_osoba: 3
 img: people/ondrej-klimes.jpg
 mail:
   - ondrej.klimes@pirati.cz
