@@ -19,7 +19,7 @@ profiles:
   twitter: 
   linkedin: 
   web: 
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-porici-nad-sazavou.jpg
 published: true
 ---
 
