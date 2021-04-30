@@ -33,6 +33,6 @@ Jsem členem  KET-IT a SmartCity a KET – Finance ve Středočeském kraji. Cel
 
 Vystudoval jsem Obchodní akademii ve Vlašimi, poté Západočeskou univerzitu v Plzni, obor Technologie a IT. Inženýrský titul jsem získal na základě diplomované práce orientované na reálné dopady do výroby pro anglickou společnost Renishaw. Pracoval jsem v několika nadnárodních společnostech. V současné době jsem ředitelem odboru informatických aplikací na Magistrátu hl. města Prahy. 
 
-Jsem členem MS Benešov, který jsem spoluzakládal. Také působím v několika okrašlovacích spolcích.
+Jsem členem MS Benešov, které jsem spoluzakládal. Také působím v několika okrašlovacích spolcích.
 
 Ve svém volném čase se rád podívám na film a zajdu do divadla. Také mě zajímá psychologie a moderní IT technologie, ale na prvním místě je pro mě vždy rodina.
