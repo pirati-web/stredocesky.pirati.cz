@@ -18,7 +18,7 @@ profiles:
   facebook: "https://www.facebook.com/simona.luftova/"
   twitter: "https://twitter.com/SimonaLuftova"
   linkedin: "https://cz.linkedin.com/in/simona-luftova-93227b93"
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-pribram.jpg
 published: true
 ---
 
