@@ -14,8 +14,19 @@ mail:
 mob:
   - +420 723 929 899
 profiles:
+ - linkedin: "https://www.linkedin.com/in/milan-zelen%C3%BD-2388871a9/"
+ - youtube: "https://www.youtube.com/watch?v=-Eft6To5_kQ"
+ - facebook: "https://www.facebook.com/milan.zeleny.98"
 heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
-**Milan Zelený** (* 1998) je předsedou místního sdružení Kutná Hora. Narodil se v Čáslavi, ale celý život žije v Kutné Hoře. Po vystudování zdravotnického lycea v Kolíně se rozhodl pro studium oboru ergoterapie na Fakultě zdravotnických studií Univerzity J. E. Purkyně v Ústí nad Labem. Je členem krajského expertního týmu pro zdravotnictví. Ve své maturitní práci se věnoval problematice života s cervikobrachiálním syndromem. Milan se zajímá zejména o oblast zdravotnictví, ale i čtení knih či cestování.
+(* 27. srpna 1998)
+
+Jsem předsedou místního sdružení Kutná Hora a středočeským krajským zastupitelem. Na kraji jsem se zapojil do Komise pro bezpečnost a IZS a jsem místopředsedou Výboru pro sociální věci.
+
+Narodil jsem se v Čáslavi, ale celý život bydlím v Kutné Hoře.
+
+Po absolvování zdravotnického lycea v Kolíně jsem se rozhodl studovat obor ergoterapie na Fakultě zdravotnických studií Univerzity J. E. Purkyně v Ústí nad Labem.
+
+Ve své maturitní práci jsem se věnoval problematice života s cervikobrachiálním syndromem. Také ve volném čase se zajímám zejména o oblast zdravotnictví. Baví mě číst knihy a cestovat.
