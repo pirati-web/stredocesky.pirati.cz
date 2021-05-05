@@ -18,7 +18,7 @@ profiles:
   facebook:
   twitter:
   linkedin:
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-pribram.jpg
 published: true
 ---
 
