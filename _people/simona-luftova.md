@@ -15,23 +15,29 @@ mob:
 profiles:
   web:
   github:
-  facebook: https://www.facebook.com/simona.luftova
-  twitter:
-  linkedin:
+  facebook: "https://www.facebook.com/simona.luftova/"
+  twitter: "https://twitter.com/SimonaLuftova"
+  linkedin: "https://cz.linkedin.com/in/simona-luftova-93227b93"
 heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
-**Simona Luftová** (* 1973) je členkou a druhou místopředsedkyní místního sdružení Příbram. Zastupuje Piráty v místním kontrolním výboru a ve vzdělávací a zahraniční komisi. V roce 2018 kandidovala do příbramského zastupitelstva.
+(* 1973)
 
-Jako dítě emigrovala s rodiči do Rakouska, kde žila jeden rok, a následně do Jihoafrické republicky, kde žila 10 let. V roce 1992 se vrátila do ČSFR a nastoupila na FF-UK, kde studovala anglistiku-amerikanistiku a politologii. Během studia absolvovala dvě studijní stáže v USA na Suffolk University v Bostnu, kde se hlavně věnovala americkým studiím. Po návratu přestoupila na FSV-UK, kde získala magisterský titul v oboru Politologie. Několik let později absolvovala rozšiřující studium pedagogiky a didaktiky AJ na PF-UK.
+Jsem členkou Pirátské strany, krajskou zastupitelkou ve Středočeském kraji a místopředsedkyní Výboru pro výchovu, vzdělávání a zaměstnanost a druhou místopřededkyní zastupitelského klubu. Současně jsem také první místopředsedkyní místního sdružení Příbram. Zastupuji Piráty v Kontrolním výboru, v Komisi pro vzdělávání a školství a Zahraniční komisi v mé domovské Příbrami. Jsem členkou krajského expertního týmu pro oblast vzdělávání. V roce 2020 jsem za Piráty kandidovala do Senátu na Příbramsku. 
 
-V současné době pracuje více než 10 let jako středoškolská učitelka a také píše a koordinuje mezinárodní vzdělávací projekty pro studenty a učitelé v rámci programu Erasmus+. Na těchto projektech spolupracuje s učiteli a řediteli z různých zemí a díky této spolupráci má přehled o vzdělávání a vzdělávacích systémech v řadě zemí EU. Má zkušenosti z oblasti projektového řízení, vedení týmů na místní a mezinárodní úrovni. Zajímá se o inovativní směry ve vzdělávání a ráda by se podílela na smysluplných změnách v této oblasti, které posunou české školství do 21. století.
+Jako dítě jsem emigrovala s rodiči do Rakouska a následně do Jihoafrické republiky, kde jsem vystudovala soukromou dívčí církevní školu (Convent of St. Agnes, Welkom). V roce 1992 jsem se vrátila do ČSFR a nastoupila na Filosofickou fakultu Univerzity Karlovy, kde jsem studovala anglistiku-amerikanistiku a politologii. Během studia jsem absolvovala dvě studijní stáže v USA na Suffolk University v Bostonu, kde jsem se věnovala americkým studiím. Vystudovala jsem Fakultu sociálních věd Univerzity Karlovy, kde jsem získala magisterský titul v oboru Politologie. O několik let později jsem absolvovala rozšiřující studium pedagogiky a didaktiky AJ na Pedagogické fakultě Univerzity Karlovy.
 
-V minulosti pracovala jako asistentka poslance, tlumočnice, lektorka, asistentka právníků a marketingová koordinátorka pro mezinárodní firmy. Angažuje se v místním sdružení na ochranu městské zeleně. Je vdaná a má tři děti. Velmi ráda cestuje a poznává nové zajímavé lidi a místa. 
+V současné době pracuji přes 10 let jako středoškolská učitelka a také píšu a koordinuji mezinárodní vzdělávací projekty pro studenty a učitele v rámci programu Erasmus+. Na těchto projektech spolupracuji s učiteli a řediteli z různých zemí. Díky této spolupráci jsem získala přehled o vzdělávání a vzdělávacích systémech v celé řadě zemí EU. 
+
+Mám zkušenosti z oblasti projektového řízení, vedení týmů na místní a mezinárodní úrovni. Zajímám se o inovativní směry a moderní trendy ve vzdělávání a jedním z mých cílů je podpora modernizace vzdělávacího systému u nás. Jsem členkou Učitelské platformy. Důležitá jsou pro mě také témata, která se týkají životního prostředí, nakládání s odpady, dětských exekucí a lidská práva.
+
+V minulosti jsem pracovala jako asistentka poslance, tlumočnice, lektorka, asistentka právníků a marketingová koordinátorka pro mezinárodní firmy. Angažuji se v místním sdružení na ochranu městské zeleně. Jsem vdaná a mám tři děti a moje rodina je pro mě velmi důležitá. Velmi ráda cestuji a poznávám nové zajímavé lidi a místa.
 
 ### Související články
 
+* [Pro změnu vzdělávání v Česku je důležité nebát se myslet a jednat mimo zažité hranice](https://stredocesky.pirati.cz/aktuality/simona-luftova-pro-zmenu-vzdelavani-v-cesku-je-dulezite-se-nebat-se-myslet-a-jednat-mimo-zazite-hranice.html)
+* [Kraj potřebuje jasnou koncepci pro střední školy](https://stredocesky.pirati.cz/aktuality/koncepce-stredni-skoly.html)
 * [Simona Luftová Na palubě s Piráty: Zajímá mě, jak fungují školy u nás ve městě a jak probíhají výběrová řízení](/aktuality/simona-luftova-na-palube-s-piraty-zajima-me-jak-funguji-skoly-u-nas-ve-meste-a-jak-probihaji-vyberova-rizeni.html)
 * [Piráti vyšlou do boje o senátorské křeslo na Příbramsku Simonu Luftovou](/aktuality/pirati-vyslou-do-boje-o-senatorske-kreslo-na-prribramsku-simonu-luftovou.html)
 * [Simona Luftová, kandidátka na senátora v obvodu Příbram, o školství v době pandemie](/aktuality/simona-luftova-kandidatka-na-senatora-v-obvodu-pribram-o-skolstvi-v-dobe-pandemie.html)
