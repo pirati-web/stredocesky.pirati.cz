@@ -23,7 +23,7 @@ profiles:
   twitter:
   linkedin: "https://www.linkedin.com/in/daniel-netu%C5%A1il-1780175b/"
   youtube: "https://www.youtube.com/watch?v=g1PfsxwMZ6E"
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-benesov.jpg
 published: true
 ---
 
