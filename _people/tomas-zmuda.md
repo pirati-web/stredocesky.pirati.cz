@@ -15,22 +15,27 @@ mob:
   - +420 607 258 445
 profiles:
   github:
-  facebook:
-  twitter: https://twitter.com/TomasZmuda
-  linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/
+  facebook: "https://www.facebook.com/tomas.zmuda"
+  twitter: "https://twitter.com/TomasZmuda"
+  linkedin: "https://www.linkedin.com/in/tom%C3%A1%C5%A1-zmuda-91924351/"
   web: https://zmuda.cz/
 calendar: lmnbanr3ub4vftmu83g18fgr1s@group.calendar.google.com
 heroImg: banner-jinocany.jpg
 published: true
 ---
 
-**Tomáš Zmuda** (* 8. dubna 1988, Mariánské Lázně) pochází z Lokte u Karlových Varů. Střední školu studoval v Rokycanech (obor elektronické počítačové systémy), vysokou školu v Praze, kde v roce 2013 získal titul Ing. v oboru Mezinárodní teritoriální studia. V průběhu studia již vedl školní projekty při účasti až 30 studentů v týmu. Diplomová práce byla zaměřena na vzájemnou interoperabilitu železničních dopravců. Bohužel je stále aktuální, od roku 2013 se téměř nic nezměnilo. Nyní bydlí v obci Jinočany, kde byl zvolen zastupitelem pro období 2018-2022. V rámci výkonu zastupitele je předsedou finačního výboru obce. Od října 2020 je také uvolněným zastupitelem Středočeského kraje a místopředseda výboru pro digitalizaci a chytrý kraj. V letech 2017-2018 zastával v Pirátské straně funkci místopředsedy kraje.
+(* 8. dubna 1988, Mariánské Lázně) 
 
-Pracovat začal jako steward a prodejce jízdenek ve Student Agency, následně při vysoké škole se vrátil k IT do Národní technické knihovny v Praze jako ICT administrátor. Po absolutoriu pracoval 3 roky jako IT projektový manažer ve společnosti Dantem s.r.o. a následně pracoval na stejné pozici ve společnosti CS Soft a.s. zabývající se systémy pro řízení letového provozu.
+Pocházím z Lokte u Karlových Varů. Vystudoval jsem obor elektronické počítačové systémy na střední škole v Rokycanech. Absolvoval jsem vysokou školu v Praze, kde jsem v roce 2013 získal titul Ing. v oboru Mezinárodní teritoriální studia. V průběhu studia jsem vedl školní projekty při účasti až 30 studentů v týmu. Moje diplomová práce byla zaměřena na vzájemnou interoperabilitu železničních dopravců. Bohužel je stále aktuální, od roku 2013 se téměř nic nezměnilo. 
 
-Je šťastně ženatý a má jednu dceru. Členem České pirátské strany je od roku 2016. Je v registru dárců kostní dřeně a také pravidelný dárce A+ krve. Jeho hlavním zájmem je na lokální úrovni zprůhlednit samosprávu obcí, lépe poskytovat informace občanům a hlavně konečně učinit e-government obcí použitelným. Na celostátní úrovni podporovat a podílet se na pirátské filozofii a konat!
+Aktuálně žiji v obci Jinočany, kde jsem byl zvolen zastupitelem pro období 2018-2022 a také předsedou finančního výboru obce. Od října 2020 jsem také uvolněným zastupitelem Středočeského kraje a místopředsedou výboru pro digitalizaci a chytrý kraj. 31. 12. 2020 jsem na funkci zastupitele a předsedy finančního výboru rezignoval, abych se mohl plně věnovat práci pro kraj. V letech 2017-2018 jsem v rámci Pirátsky strany zastával funkci místopředsedy kraje.
 
-Rád sportuje, nejvíce se věnuje běhu, má za sebou desítky půlmaratonů. Dále staví hračky založené na mikro počítači Raspberry Pi a ve volných chvíli vytváří webové stránky.
+Začal jsem pracovat jako steward a prodejce jízdenek ve Student Agency. Posléze jsem se během vysokoškolského studia vrátil k informačním technologiím. V Národní technické knihovně v Praze jsem působil jako ICT administrátor a správce serverů. Po absolvování školy jsem 3 roky pracoval jako IT projektový manažer ve společnosti Dantem s.r.o., následně jsem pracoval na stejné pozici ve společnosti CS SOFT a.s., která se zabývá se systémy pro řízení letového provozu.
+
+Jsem šťastně ženatý a mám jednu dceru. Členem České pirátské strany jsem od roku 2016. 
+Mým hlavním zájmem je na lokální úrovni zprůhlednit samosprávu obcí, lépe poskytovat informace občanům, a hlavně konečně učinit e-government obcí použitelným. Zaměřuji se na digitalizaci a inovace jak na úrovni samosprávy, tak i státní správy. 
+
+Rád sportuji, nejvíce se věnuji běhu, mám za sebou desítky půlmaratonů a dalších závodů včetně několika ročníků závodu VltavaRun. Také stavím hračky založené na mikropočítači Raspberry Pi a ve volných chvílích vytvářím webové stránky.
 
 ## Kalendář Tomáše Zmudy
 <iframe src="https://calendar.google.com/calendar/embed?src=lmnbanr3ub4vftmu83g18fgr1s%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
