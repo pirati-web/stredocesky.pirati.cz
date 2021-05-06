@@ -18,7 +18,7 @@ profiles:
   facebook: "https://twitter.com/JanLicka"
   twitter:
   linkedin: "https://www.linkedin.com/in/jan-licka-08a93613/"
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-struharov.jpg
 published: true
 ---
 
