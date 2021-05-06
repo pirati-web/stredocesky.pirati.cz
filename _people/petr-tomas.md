@@ -27,7 +27,7 @@ published: true
 
 Jsem profesionálním záchranářem už od roku 1990 a v minulosti jsem byl i hlavní sestrou Letecké záchranné služby. Celou svou profesní kariéru má spojenu se středočeským zdravotnictvím. V říjnu 2020 byl zvolen jako nezávislý na kandidátce Pirátů do zastupitelstva Středočeského kraje.
 
-Je mi 49 let a letos 17.11 to bude 30 let, co jsem stál na Národní třídě jako student a následně poznal jak chutná bílý polský pendrek v zátylku.Pracuji na středočeské záchrance. Vystudoval jsem gympl, zdravotní školu, mám atestaci z anestezie resuscitace a intenzivní medicíny. Mám 4 syny. Nemám dluhy ani hypotéku (letos splacena).Čistý rejstřík trestů. 
+Je mi 51 let a letos 17.11 to bude 32 let, co jsem stál na Národní třídě jako student a následně poznal jak chutná bílý polský pendrek v zátylku.Pracuji na středočeské záchrance. Vystudoval jsem gympl, zdravotní školu, mám atestaci z anestezie resuscitace a intenzivní medicíny. Mám 4 syny. Nemám dluhy ani hypotéku (letos splacena).Čistý rejstřík trestů. 
 
 Mám živnosťák a loni jsem si založil společnost TOMED Medical. Věnuji se školení a AED a defibrilátorům obecně. Tři roky jsem dělal externě klinického specialistu pro zahraniční firmu. V rejstříku mě najdete ještě ve spolku Pastelkov (aktivita například výsadba aleje) a Incitatus (s Václavem Láskou - podpora nezávislých. kandidátů do senátu).
 
