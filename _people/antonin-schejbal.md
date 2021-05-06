@@ -25,6 +25,8 @@ heroImg: banner-pribram.jpg
 published: true
 ---
 
+(*1996)
+
 Vystudoval jsem osmileté gymnázium v Příbrami. Během studia na střední škole jsem studoval 3 měsíce na švýcarském gymnáziu Kanti Baden. V současné době studuj  management sportu na UK FTVS a v roce 2022 bych měl dokončit magisterské studium.
 
 Momentálně jsem zastupitelem města Příbram, kde jsem také členem sportovní a kulturní komise Rady města. V roce 2020 jsem byl zvolen zastupitelem Středočeského kraje a působím v krajském sportovním výboru.  Taktéž jsem  bývalým předsedou Krajského sdružení Středočeský kraj a mám zkušenosti s prací asistenta poslance. V Příbrami provozuji multižánrový hudební klub Pojistka a mám rád low budget cestování. 
