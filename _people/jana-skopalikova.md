@@ -21,7 +21,7 @@ profiles:
   twitter: "https://twitter.com/JSkopalikova"
   linkedin: "https://www.linkedin.com/in/jana-skopalikova/"
 calendar: oj2pgcouoq0tdnlqfgkpksumdo@group.calendar.google.com
-heroImg: banner-default.jpg
+heroImg: banner-jana.jpg
 published: true
 ---
 
