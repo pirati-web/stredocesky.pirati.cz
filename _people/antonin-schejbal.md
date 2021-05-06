@@ -16,16 +16,19 @@ mail:
 mob:
   - +420 777 703 766
 profiles:
-  github:
-  facebook:
-  twitter:
-  linkedin:
-heroImg: banner-kutna-hora.jpg
+  github: 
+  facebook: "https://www.facebook.com/LynxOverdose"
+  twitter: "https://twitter.com/TonySchejbal"
+  linkedin: "https://www.linkedin.com/in/anton%C3%ADn-schejbal-0199111a6/"
+  instagram: "https://www.instagram.com/tonyschejbal/"
+heroImg: banner-pribram.jpg
 published: true
 ---
 
-**Antonín Schejbal** (* 28. června 1996) vystudoval osmileté gymnázium v Příbrami. Během studia na střední škole studoval 3 měsíce na švýcarském gymnáziu Kanti Baden. V současné době studuje třetí ročník managementu sportu na UK FTVS.
+Vystudoval jsem osmileté gymnázium v Příbrami. Během studia na střední škole jsem studoval 3 měsíce na švýcarském gymnáziu Kanti Baden. V současné době studuj  management sportu na UK FTVS a v roce 2022 bych měl dokončit magisterské studium.
 
-Momentálně je zastupitelem města Příbram, kde je také členem sportovní a kulturní komise Rady města. Taktéž je bývalým předsedou Krajského sdružení Středočeský kraj a má zkušenosti s prací asistenta poslance. Když nepirátí, tak cestuje, věnuje se DJingu a všeobecně má rád hudbu.
+Momentálně jsem zastupitelem města Příbram, kde jsem také členem sportovní a kulturní komise Rady města. V roce 2020 jsem byl zvolen zastupitelem Středočeského kraje a působím v krajském sportovním výboru.  Taktéž jsem  bývalým předsedou Krajského sdružení Středočeský kraj a mám zkušenosti s prací asistenta poslance. V Příbrami provozuji multižánrový hudební klub Pojistka a mám rád low budget cestování. 
+Mimo jiné dělám několik let dobrovolníka v lidskoprávní organizaci Amnesty International a zúčastnil jsem se rozvojového projektu v Tanzánii.
 
-Mimo jiné dělá dobrovolníka v lidskoprávní organizaci Amnesty International.  
+### Články a videa
+* [Bylo mi hloupé sedět doma a nezapojit se](https://pribramsky.denik.cz/lide-odvedle/dobrovolnik-antonin-schejbal-bylo-mi-hloupe-sedet-doma-a-nezapojit-se-20200422.html)
