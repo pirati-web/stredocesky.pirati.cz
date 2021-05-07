@@ -19,13 +19,13 @@ Středočeský kraj ukončil první z etap stavebních prací v rámci projektu 
 
 > „Jsem ráda, že se díky aktivitě mnoha lidí podařilo zachránit další kousek přírody ve středních Čechách. Podle odborníků by bez zásahu mokřad v Jablonné postupně zanikl. Nyní po obnově této evropsky významné lokality věřím, že se kuňkám bude opět dařit,“ uvedla krajská radní pro životní prostředí a zemědělství Jana Skopalíková.
 
-{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/2021-05-07-zaby.jpg' alt='kuňky obecné' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-05-07-zaby.jpg' alt='kuňky obecné' %}
 
 V rámci projektu proběhlo zatím kompletní odbahnění cca dvou hektarů tzv. Velkého mokřadu, došlo k obnově nepropustnosti přírodní hráze, odtokového koryta. Dále bylo vymodelováno dno a litorální zóny a mokřad byl z většiny naplněn vodou.
 
 Žabky v lokalitě nezůstaly, protože vlivem stavebních prací přišly o možnost přirozeně zazimovat a rozmnožovat se. Ani vedlejší tzv. Malý mokřad, který v předchozích letech vysychal, nebyl vhodnou alternativou. 
 
-{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/2021-05-07-zaby2.jpg' alt='kuňky obecné' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-05-07-zaby2.jpg' alt='kuňky obecné' %}
 
 Proto bylo odchyceno celkem 400 kuněk, které byly uloženy ve specializovaném zařízení, kde mohly naplňovat své životní potřeby. Mezitím se rozmnožily a do mokřadu se vrátilo přesně 428 kuněk.
  
@@ -33,4 +33,4 @@ Celkové náklady projektu byly vyčísleny téměř na 5,5 mil. Kč a Středoč
 
 > „Na závěr nezbývá než poděkovat obci Jablonná, bez jejíž spolupráce by nebylo možné projekt realizovat, a také všem, kdo se na záchraně lokality podíleli. Podobné akce jsou poměrně unikátní, mimo jiné i pro jejich vysokou finanční náročnost,“ dodala radní Skopalíková.
 
-{% asset 'https://a.pirati.cz/resize/500x500/stredocesky/img/posts2020/2021-05-07-zaby3.jpg' alt='kuňka obecná' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-05-07-zaby3.jpg' alt='kuňka obecná' %}
