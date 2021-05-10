@@ -12,7 +12,7 @@ ordPKS: 2
 img: people/klara-kocmanova.jpg
 mail:
   - klara.kocmanova@pirati.cz
-mob: +420 778 111 488
+mob: +420 733 765 433
  # -
 profiles:
   github:
