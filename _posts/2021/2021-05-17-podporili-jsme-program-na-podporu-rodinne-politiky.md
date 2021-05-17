@@ -30,7 +30,7 @@ Aktuálně v něm najdete celkem 30 opatření pro podporu rodin ve čtyřech r�
 * **Prostor přátelský rodinám**
 * **Komunikace a spolupráce**
 
-> "Úkolem Středočeského kraje je aktivně podporovat vznik a zachování funkční rodiny, kvalitu rodinného života a vhodných podmínek pro rodiny v oblasti osobní, volnočasové a profesní, aby došlo ke zvýšení kvality života," pověděl místopředseda Milan Zelený.
+> "Úkolem Středočeského kraje je aktivně podporovat vznik a zachování funkční rodiny, kvalitu rodinného života a vhodných podmínek pro rodiny v oblasti osobní, volnočasové a profesní, aby došlo ke zvýšení kvality života," doplnil místopředseda Milan Zelený.
 
 ### Co chce Středočeský kraj zlepšit?
 
