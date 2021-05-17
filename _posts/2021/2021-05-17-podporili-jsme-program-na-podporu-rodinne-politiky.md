@@ -25,10 +25,10 @@ Piráti se věnují dlouhodobě tématu dostupného bydlení, které začíná b
 
 Aktuálně v něm najdete celkem 30 opatření pro podporu rodin ve čtyřech různých oblastech:
 
-•	**Služby pro rodiny**
-•	**Podpora trhu práce a slaďování rodinného a osobního života**
-•	**Prostor přátelský rodinám**
-•	**Komunikace a spolupráce**
+* **Služby pro rodiny**
+* **Podpora trhu práce a slaďování rodinného a osobního života**
+* **Prostor přátelský rodinám**
+* **Komunikace a spolupráce**
 
 > "Úkolem Středočeského kraje je aktivně podporovat vznik a zachování funkční rodiny, kvalitu rodinného života a vhodných podmínek pro rodiny v oblasti osobní, volnočasové a profesní, aby došlo ke zvýšení kvality života," pověděl místopředseda Milan Zelený.
 
