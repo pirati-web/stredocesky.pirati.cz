@@ -10,7 +10,7 @@ title: 'Koalice Pirátů a Starostů zahájila předvolební kampaň: Vráťme z
 description: 'poslanecká sněmovna, volby'
 author: Mediální Odbor
 #authorId: lucie.chocholova
-image: posts/2021/zahajeni-kampane-2021.jpg
+image: "https://a.pirati.cz/stredocesky/img/posts/2021/zahajeni-kampane-2021.jpg"
 ---
 
 ## Vráťme zemi budoucnost: Piráti a STAN zahájili kampaň do sněmovních voleb. Chtějí vyvést Česko z krize, modernizovat ekonomiku i zdravotnictví či zajistit dostupnější bydlení
