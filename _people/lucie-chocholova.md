@@ -22,7 +22,7 @@ heroImg: banner-kladno.jpg
 published: true
 ---
 
-(*18. 7. 1978) 
+(*18. 7. 1978)
 
 Narodila jsem v Kladně, kde jsem prožila většinu svého života. Vystudovala jsem OA ve Slaném a při zaměstnání dále bakalářské a následně magisterské studium Management v kultuře na MU v Brně. Mám dvě děti, se kterými žiju v obci Kačice na Kladensku.
 
