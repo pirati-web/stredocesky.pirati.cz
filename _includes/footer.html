@@ -115,3 +115,241 @@
 
 
 
+<link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="https://www.piratiastarostove.cz/static/elections2021/images/favicon-bw-120.png" sizes="120x120">
+
+<!-- Styles -->
+<link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styleguide.min.css">
+<link rel="stylesheet" href="https://www.piratiastarostove.cz/static/elections2021/css/styles.css">
+<style type="text/css">
+sup {
+  white-space: nowrap;
+}
+</style>
+<div class="bg-acidgreen text-black">
+             <nav class="medium-12 large-7">
+                  <a href="https://www.piratiastarostove.cz/program/">&nbsp;</a>
+                </nav>
+ 
+</div>
+
+
+
+
+
+<div class=" bg-white">
+   <div class="row bg-grey-700">
+		  <div class=" bg-lemon">
+			  <table><tbody><tr><td style="width: 7%;">&nbsp;</td>
+     				 <td style="width: 50%;"><a href="https://www.piratiastarostove.cz">
+						 <img src="https://www.pirati.cz/assets/img/header/vratmezemibudoucnost_s.png" alt="Piráti a Starostové" style="margin-top: 0px;">
+					 </a></td>
+      <td style="background-color: #000; width: 50%;"><div class="medium-12 large-7 u-stacked-medium-down columns" style="background-color: #000; height: 85px; padding-top: 10px; padding-left: 5px;">
+                 <nav class="c-vertical-navigation u-center---medium-down">
+                    
+                       <a href="https://www.piratiastarostove.cz/program/"><img src="https://www.piratiastarostove.cz/static/elections2021/images/logo-koalicni.e373206e07e9.svg"></a> 
+
+                </nav>
+			 </div>	</td>
+			 <td style="background-color: #000; width: 7%;">&nbsp;</td>
+      </tr></tbody></table>
+		  </div>		  
+   <div class="row">			  
+	 <div class="bg-black text-white">
+				 <nav class=" medium-12 large-7 ">
+					  <a href="https://www.piratiastarostove.cz/program/">&nbsp;</a>
+					</nav>
+
+	 </div>
+   </div>	   
+   <div class="row">
+	<section id="jakpomoci" class="lg:flex">
+    <div class="w-full">
+      <div class="cta-card cta-news px-8 py-8 bg-acidgreen text-black">
+        <p class="font-alt text-4xl">CHCI VĚDĚT VÍCE</p>
+        <form method="post" action="https://www.piratiastarostove.cz/prihlaseni-k-newsletteru/">
+          <input type="hidden" name="csrfmiddlewaretoken" value="ZerZ0grBRC8kdub1dHvoc9ISJrA6sICWtGgF8sIOZH6hrG2k2xKu5PwqiCqKcEya">
+          <input type="hidden" name="return_page_id" value="408">
+          <input name="email" type="email" class="text-input form-field__control w-full mt-7" value="" placeholder="Zadejte email" required="">
+          <button class="btn btn--icon my-2 text-lg w-full cta-btn">
+            <div class="btn__body-wrap">
+              <div class="btn__body py-4 leading-4 w-full">Přihlásit se k newsletteru</div>
+              <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+                <i class="ico--chevron-right"></i>
+              </div>
+            </div>
+          </button>
+          <div class="checkbox form-field__control cta-cbox h-6">
+            <input type="checkbox" name="confirmed" id="confirmed_bottom" required="">
+            <label for="confirmed_bottom" style="color: #000000"> Souhlasím se <a href="https://www.piratiastarostove.cz/zasady-ochrany-osobnich-udaju/" class="underline" target="_blank">zásadami ochrany osobních údajů</a> a zasíláním novinek</label>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="w-full">
+      <div class="cta-card cta-help px-8 py-8 bg-lemon " id="cta-card">
+        <p class="font-alt text-4xl w-1">CHCI POMÁHAT</p>
+        
+        <a href="https://nalodeni.pirati.cz/kampan2021/" class="btn btn--icon text-lg w-full cta-button my-2">
+          <div class="btn__body-wrap">
+            <div class="btn__body py-4 leading-4 w-full">Chci pomáhat v kampani</div>
+            <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+              <i class="ico--chevron-right"></i>
+            </div>
+          </div>
+        </a>
+      </div>
+      <script>
+        if (typeof window.initializehelp === 'undefined') {
+          window.initializehelp = function() {
+            let state = 0;
+            document.querySelectorAll('.cta-help-toggler').forEach(item => {
+              item.addEventListener("click", event => {
+                helpelement = event.target.closest(".cta-help");
+                let elements = helpelement.querySelectorAll(".cta-animated");
+                let elements2 = helpelement.querySelectorAll(".cta-animated-rev");
+                if (state === 0) {
+                  [].forEach.call(elements, function(el) {
+                    el.classList.remove("collapsed");
+                  });
+                  [].forEach.call(elements2, function(el) {
+                    el.classList.add("collapsed");
+                  });
+                  state = 1;
+                } else {
+                  [].forEach.call(elements2, function(el) {
+                    el.classList.remove("collapsed");
+                  });
+                  [].forEach.call(elements, function(el) {
+                    el.classList.add("collapsed");
+                  });
+                  state = 0;
+                }
+              });
+            });
+          }
+
+          window.addEventListener('load', function() {
+            initializehelp();
+          });
+        }
+
+        function isValidPhone(phoneNumber) {
+          var found = phoneNumber.search(/^[+]*[(]{0,1}[0-9]{1,3}[)]{0,1}[-\s\./0-9]{7,18}$/g);
+          if (found > -1) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+
+        function isValidZip(zip) {
+          var found = zip.search(/^(?=.*\d)[\d ]{5,6}$/g);
+          if (found > -1) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+        window.addEventListener('DOMContentLoaded', (event) => {
+          var elements = document.querySelectorAll("input, select");
+          for (var i = 0; i < elements.length; i++) {
+            if (elements[i].getAttribute("type") == "email") {
+              elements[i].onchange = function(e) {
+                e.target.setCustomValidity("");
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "E-mail je povinná položka"
+                  );
+                else
+                  e.target.setCustomValidity(
+                    "Neplatný e-mail"
+                  );
+              }
+            } else if (elements[i].getAttribute("name") == "tel") {
+              elements[i].onchange = function(e) {
+                if (isValidPhone(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("Telefonní číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninput = function(e) {
+                if (isValidPhone(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("Telefonní číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "Telefon je povinná položka"
+                  );
+              };
+            } else if (elements[i].getAttribute("name") == "psc") {
+              elements[i].onchange = function(e) {
+                if (isValidZip(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("PSČ číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninput = function(e) {
+                if (isValidZip(e.target.value)) {
+                  e.target.setCustomValidity("");
+                } else {
+                  e.target.setCustomValidity("PSČ číslo obsahuje chybu");
+                }
+                e.target.checkValidity();
+              };
+              elements[i].oninvalid = function(e) {
+                if (e.target.value == "")
+                  e.target.setCustomValidity(
+                    "PSČ je povinná položka"
+                  );
+              };
+            } else {
+              elements[i].oninvalid = function(e) {
+                e.target.setCustomValidity("");
+                if (!e.target.validity.valid) {
+                  e.target.setCustomValidity("Toto pole je povinné");
+                }
+              };
+              elements[i].onchange = function(e) {
+                e.target.setCustomValidity("");
+              };
+            }
+          }
+        });
+      </script>
+    </div>
+
+    <div class="w-full">
+      <div class="cta-card cta-support px-8 py-8 bg-white">
+        <p class="font-alt text-4xl w-1">CHCI PODPOŘIT</p>
+        <a href="https://dary.pirati.cz/projekty-kampane/piratiastarostove/" class="btn btn--icon text-lg w-full cta-btn my-2">
+          <div class="btn__body-wrap">
+            <div class="btn__body py-4 leading-4 w-full">Chci darovat na kampaň</div>
+            <div class="btn__icon px-4 bg-grey-800 border-grey-500">
+              <i class="ico--chevron-right"></i>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+  </div>
+ 
+   </div>
+</div>
+ 
+
+
