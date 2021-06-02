@@ -39,5 +39,5 @@ Středočeská jednička Vít Rakušan ze STAN rozdával koaliční listy přím
 Líbí se vám, co Piráti a starostové dělají? Uvítáme pomoc, do předvolební kampaně se můžete zapojit i vy.
 > "Pokud byste nám chtěli pomoci v naše tažení za volebním vítězstvím, třeba s roznosem novin, tak to velmi uvítáme. Naše kampaně vždy stály na dobrovolnické aktivitě a bez ní by naše volební úspěchy jistě nebyly takové. Stačí se zaregistrovat [ZDE](http://bit.ly/PridejSeKnam)," uvedl na Facebooku Štěpán Drtina.
 
-### Koaliční listy [VRAŤME ZEMI BUDOUSNOST](https://a.pirati.cz/stredocesky/files/Koaliční_noviny_Piráti_a_STAN_léto_2021.pdf)
+### Koaliční listy [VRAŤME ZEMI BUDOUCNOST](https://a.pirati.cz/stredocesky/files/Koaliční_noviny_Piráti_a_STAN_léto_2021.pdf)
 ### [PROGRAM Piráti a Starostové 2021](https://a.pirati.cz/stredocesky/files/PROGRAM-PaS-2021-web.pdf)
