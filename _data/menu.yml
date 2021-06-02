@@ -25,7 +25,8 @@ main:
   - link: /krajske-expertni-tymy/
     name: Experti
     match: experti
-  - link: /volby/2020/krajske/?pohled=program
+  #- link: /volby/2020/krajske/?pohled=program
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/stredocesky/
     name: Volby
     match: volby
   - link: /program/
