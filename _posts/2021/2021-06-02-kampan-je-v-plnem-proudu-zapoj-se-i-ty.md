@@ -13,7 +13,7 @@ author: Soňa Brunnerová
 image: posts/2021/2021-06-02-kampan.png
 ---
 
-Uběhly dva týdny od oficiálního startu předvolební kampaně Pirátů a starostů. V úterý 18. května jste mohli potkat s dobrovolníky a členy Pirátů a STAN ve středočeských městech a také v Praze. Rozdávali koaliční noviny nazvané Vraťme zemi budoucnost. Do voleb vyjdou ještě jedny noviny.
+Uběhly dva týdny od oficiálního startu předvolební kampaně Pirátů a starostů. V úterý 18. května jste se mohli potkat s dobrovolníky a členy Pirátů a STAN ve středočeských městech a také v Praze. Rozdávali koaliční noviny nazvané Vraťme zemi budoucnost. Do voleb vyjdou ještě jedny noviny.
 
 Byli jsme ve všech okresech. Kampaň startovala v celé ČR. Mohli jste se potkat s koaličními partnery, kandidáty, řadovými členy a také dobrovolníky. V koaličních listech jsme představili první dvanáctku kandidátů. Víta Rakušana ze STAN a pirátku Kláru Kocmanovou, jedničku a dvojku na kandidátce, formou rozhovoru a dalších 10 kandidátů formou krátkého medailonku.
 
