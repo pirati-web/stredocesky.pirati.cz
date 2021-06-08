@@ -1,5 +1,6 @@
 ---
 layout: page
+contentClass: content-block
 title: Archiv Pirátských listů
 ---
 
