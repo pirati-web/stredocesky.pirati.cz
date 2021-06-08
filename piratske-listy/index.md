@@ -3,7 +3,7 @@ layout: page
 title: Archiv Pirátských listů
 ---
 
-{% asset 'piratske-listy.jpg' alt='Ivan Bartoš roznášející Pirátské listy' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/piratske-listy.jpg' alt='Ivan Bartoš roznášející Pirátské listy' %}
 
 V tomto archivu můžete nalézt starší verze tištěných novin – Pirátských listů, které vydáváme asi dvakrát do roka. Tyto noviny distribuujeme do schránek ve větších městech Středočeského kraje – předně v místech, kde již máme místní sdružení, nebo na našich předvolebních akcích. V případě, že se k vám žádné noviny nedostaly nebo Vás zajímá, co se děje v jiných městech Středočeského kraje, můžete si přečíst zde umístěné elektronické verze.
 
