@@ -13,19 +13,14 @@ author: Soňa Brunnerová
 image: posts/2021/2021-06-08-EVVO.jpg
 ---
 
-# Podporujeme ekologickou výchovu
-
-Středočeské zastupitelstvo na schválilo přidělení dotací na environmentální vzdělávání a osvětu. Sedm milionů korun bude rozdělena mezi 28 projektů, které byly během 3. až 18. března podány přes aplikaci eDotace.
+Středočeské zastupitelstvo schválilo přidělení dotací na environmentální vzdělávání a osvětu. Sedm milionů korun bude rozděleno mezi 28 projektů, které byly během 3. až 18. března podány přes aplikaci eDotace.
 > „Environmentální výchovu, vzdělávání a osvětu ve Středočeském kraji podporujeme nejen slovy, ale i finančními prostředky. V pondělí 31. května jsme na zasedání Zastupitelstva schválili rozdělení prostředků z Programu 2021 v celkové výši 7 milionů Kč pro celkem 28 projektů, které získaly nejvyšší průměrné bodové skóre od členů hodnotící komise dle předem daných kritérií,“ uvedla pirátská radní pro oblast životního prostředí a zemědělství Jana Skopalíková
-> 
 
 Mezi schválené projekty patří např. budování naučných a lesních stezek, výukové programy pro školy a příměstské tábory.  Čtyři organizace v řízení uspěly dokonce dvakrát – Felbiánek (Mníšek pod Brdy), M´am´aloca (Český Brod), Muzeum Říčany a ZO ČSOP Polabí (Poděbrady).
 
 > „V uplynulém roce se ukázalo, jak je důležité mít kolem sebe přírodu a místa, kam se můžeme rádi vracet. Jsem moc ráda, že můžeme podpořit organizace a školy, které pro nás tato místa zvelebují a zároveň nás učí, jak o přírodu, nejen v našem okolí, pečovat,“ dodala Jana Skopalíková.
-> 
 
 ## Přehled udělených dotací
-
 
 
 | Název žadatele                              | Projekt                                                                                           | Udělená dotace |
