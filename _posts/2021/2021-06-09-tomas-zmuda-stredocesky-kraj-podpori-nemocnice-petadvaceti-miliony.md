@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2021-06-09
-published: false
+#published: false
 tags: 
    - zdravotnictví
    - krajská politika
