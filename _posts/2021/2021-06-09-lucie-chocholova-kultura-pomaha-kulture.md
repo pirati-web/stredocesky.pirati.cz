@@ -10,7 +10,7 @@ title: 'Lucie Chocholová: Kultura pomáhá kultuře'
 description: 'kultura, krajská politika'
 author: Soňa Brunnerová
 #authorId: stepan.drtina
-image: posts/2021/2021-06-09-divadlo.JPG
+image: posts/2021/2021-06-09-divadlo.jpg
 ---
 
 V pátek 11. června odstartuje akce s názvem *Středočeské kulturní léto* s mottem "Kultura pomáhá kultuře". Na různých místech středních Čech, na nádvořích, v zámeckých zahradách, nebo ve skanzenech lidové architektury, které spravují příspěvkové organizace kraje, se odehrají představení divadel, koncerty, filmové projekce a řada dalších kulturních událostí. 
