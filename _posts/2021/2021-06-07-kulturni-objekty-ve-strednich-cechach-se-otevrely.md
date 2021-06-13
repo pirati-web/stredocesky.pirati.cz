@@ -31,7 +31,7 @@ Navštívit můžete Galerii Středočeského kraje (GASK) v Kutné Hoře. Od  1
 V Kutné Hoře je otevřeno také České muzeum stříbra i s důlní štolou. Aktuálně se na prohlídku dostane maximálně 8 lidí ve skupině. Mj. můžete zajít na výstavu *Černé řemeslo: Kováři a zámečníci na Kutnohorsku*, a také na expozici *Obrazy české krajiny* od malíře Jana Antonína Venuta v Tylově domě.
 
 ### Kolínsko
-Regionální muzeum v Kolíně na webu informuje, se v něm od června konají prohlídky kolínského chrámu sv. Bartoloměje, zvonice a kostnice. V kolínském muzeu můžete zajít na několik výstav. Jedna je o sladkostech z Kolínska, další se jmenuje *Umění ve službách reklamy*, zabývá se tématem užité grafiky na Kolínsku. Pokud se zajímáte o etymologii, oceníte výstavu *Vážky*, na které je prezentována většina druhů vážek vyskytujících se na území Kolínska.
+Regionální muzeum v Kolíně na webu informuje, se v něm od června konají prohlídky kolínského chrámu sv. Bartoloměje, zvonice a kostnice. V kolínském muzeu můžete zajít na několik výstav. Jedna je o sladkostech z Kolínska, další se jmenuje *Umění ve službách reklamy*, zabývá se tématem užité grafiky na Kolínsku. Pokud se zajímáte o entomologii, oceníte výstavu *Vážky*, na které je prezentována většina druhů vážek vyskytujících se na území Kolínska.
 
 ### Blízké okolí Prahy
 
