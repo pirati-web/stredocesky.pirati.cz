@@ -11,7 +11,7 @@ title: 'Piráti a Starostové spojují na Kladně síly pro komunální volby 20
 description: 'tisková zpráva, Kladno, komunální volby'
 author: Mediální odbor
 #authorId: lucie.chocholova
-image: posts/2021/2021-06-15-blava.jpg
+image: posts/2021/2021-06-16-kladno.jpg
 ---
 
 *Kladno, 16. červen 2021* – **Kladenské organizace České pirátské strany a hnutí STAN uzavřeli koaliční
