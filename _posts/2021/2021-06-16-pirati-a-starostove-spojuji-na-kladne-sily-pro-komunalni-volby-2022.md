@@ -37,9 +37,9 @@ bude konat ve čtvrtek 24. června od 17 h v Kročehlavech “u tržnice”.
 
 ## Kontakt pro média:
 **Roman Hájek** / nestr. za Piráty, tel. +420 605 452 469 <br>
-**Anna Gamanová** / nestr. za STAN, tel. +420 775 081 285, [anna.gamanova@stankladno.cz](anna.gamanova@stankladno.cz) <br>
-**Michal Hažlinský** / Piráti , tel. +420 731 576 795, [michal.hazlinsky@pirati.cz](michal.hazlinsky@pirati.cz)
+**Anna Gamanová** / nestr. za STAN, tel. +420 775 081 285, [anna.gamanova@stankladno.cz](mailto:anna.gamanova@stankladno.cz) <br>
+**Michal Hažlinský** / Piráti , tel. +420 731 576 795, [michal.hazlinsky@pirati.cz](mailto:michal.hazlinsky@pirati.cz)
 
 ## Organizační záležitosti:
-**Filip Zoubek** / nestr. za Piráty , tel.+420 606 299 299, [mskladno@pirati.cz](mskladno@pirati.cz) <br>
-**Jitka Hanušová** / nestr. za STAN, tel.+420 739 540 688, [info@stankladno.cz](info@stankladno.cz)
+**Filip Zoubek** / nestr. za Piráty , tel.+420 606 299 299, [mskladno@pirati.cz](mailto:mskladno@pirati.cz) <br>
+**Jitka Hanušová** / nestr. za STAN, tel.+420 739 540 688, [info@stankladno.cz](mailto:info@stankladno.cz)
