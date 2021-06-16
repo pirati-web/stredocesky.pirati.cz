@@ -31,15 +31,15 @@ bude konat ve čtvrtek 24. června od 17 h v Kročehlavech “u tržnice”.
 
 <iframe width="768   " height="432    " src="https://www.youtube.com/embed/4SWWGo6NKCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Fotografie představitelů koalice](https://drive.google.com/drive/folders/1L0VVbKcZex1QWJ1AAfzUclBmlv5sqD3z?usp=sharing)
+### Fotografie představitelů koalice ke stažení naleznete [zde](https://drive.google.com/drive/folders/1L0VVbKcZex1QWJ1AAfzUclBmlv5sqD3z?usp=sharing)
 
-Aktuální dění průběžně komentujeme na www.piratiastarostovekladno.cz
+### Aktuální dění průběžně komentujeme na [www.piratiastarostovekladno.cz](http://piratiastarostovekladno.cz/)
 
-### Kontakt pro média:
+## Kontakt pro média:
 **Roman Hájek** / nestr. za Piráty, tel. +420 605 452 469 <br>
 **Anna Gamanová** / nestr. za STAN, tel. +420 775 081 285, anna.gamanova@stankladno.cz <br>
 **Michal Hažlinský** / Piráti , tel. +420 731 576 795, michal.hazlinsky@pirati.cz
 
-### Organizační záležitosti:
+## Organizační záležitosti:
 **Filip Zoubek** / nestr. za Piráty , tel.+420 606 299 299, mskladno@pirati.cz <br>
 **Jitka Hanušová** / nestr. za STAN, tel.+420 739 540 688, info@stankladno.cz <br>
