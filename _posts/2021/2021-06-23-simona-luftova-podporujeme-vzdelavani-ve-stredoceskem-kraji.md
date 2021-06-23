@@ -10,7 +10,7 @@ title: 'Simona Luftová: Podporujeme vzdělávání ve Středočeském kraji'
 description: 'krajská politika, školství'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
-image: posts/2021/2021-06-23-skola.jpg
+image: posts/2021/2021-06-23-skola2.jpg
 ---
 
 Krajské vzdělávání má svůj akční plán, který se nezastavil ani během dlouhotrvající koronavirové pandemie. Projekt Implementace Krajského akčního plánu II Středočeského kraje (IKAP II) si klade za cíl **podporovat na území Středočeského kraje následující oblasti**:
