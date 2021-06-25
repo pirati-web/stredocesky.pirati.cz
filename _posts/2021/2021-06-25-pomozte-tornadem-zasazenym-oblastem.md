@@ -55,7 +55,7 @@ Variabilní symbol: 4042616737 <br> <br>
 Přednastavená částka: 500,- Kč <br> <br> <br>
 
 ## Jak pomáhají Piráti?
-Také jsme [založili sbírku](https://dary.pirati.cz/projekty-kampane/pirati-a-starostove-shromazduji-prostredky-na-pomoc-bouri-zasazenym-lidem-na-jizni-morave/), kterou chceme pomoci. V pátek 25. června ráno se sešla pracovní skupina *Piráti pomáhají* a navrhla řešení, jak se zapojit do pomoci. Podrobnosti najdete na webu [Piratipomahaji.cz](https://www.piratipomahaji.cz/pomoc-jmk-tornado)
+Také jsme [založili sbírku](https://dary.pirati.cz/projekty-kampane/pirati-a-starostove-shromazduji-prostredky-na-pomoc-bouri-zasazenym-lidem-na-jizni-morave/), kterou chceme pomoci. V pátek 25. června ráno se sešla pracovní skupina *Piráti pomáhají* a navrhla řešení, jak se zapojit do pomoci.
 
 > "Aktuálně oslovujeme naše členy, dobrovolníky ale i zastupitele, Piráty ve vedení měst a krajů, ale i poslanecký klub a další. Získané prostředky poté pošleme vybrané nadaci, která pomáhá bouří zasaženým obcím," uvedl Ivan Bartoš na Facebooku.
 
