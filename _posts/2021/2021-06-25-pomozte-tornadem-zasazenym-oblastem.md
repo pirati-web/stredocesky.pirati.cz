@@ -11,7 +11,7 @@ title: 'Pomozte tornádem zasaženým oblastem!'
 description: 'živelná pohroma, životní prostředí, piráti pomáhají'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
-image: posts/2021/2021-06-25-tornado.jpg
+image: posts/2021/2021-06-25-tornado2.jpg
 ---
 
 Jako středočeští Piráti chceme **vyjádřit sounáležitost všem, kteří byli postiženi živelnou katastrofou** na jihu Moravy, ale také na Lounsku, kde jdou škody do desítek milionů.
