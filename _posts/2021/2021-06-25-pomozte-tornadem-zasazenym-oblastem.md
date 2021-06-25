@@ -52,7 +52,11 @@ Přednastavená částka: 500,- Kč <br> <br> <br> <br> <br>
 [**Nadace VIA**](https://www.darujme.cz/projekt/1204937) <br> <br>
 Číslo účtu: 2198370339/0800 <br> <br>
 Variabilní symbol: 4042616737 <br> <br>
-Přednastavená částka: 500,- Kč <br> <br> <br> <br> <br> <br> <br>
+Přednastavená částka: 500,- Kč <br> <br> <br> <br>
 
 Jako Piráti budeme mít také vlastní sbírku, kterou chceme pomoci.
 > "Aktuálně oslovujeme naše členy, dobrovolníky ale i zastupitele, Piráty ve vedení měst a krajů, ale i poslanecký klub a další. Získané prostředky poté pošleme vybrané nadaci, která pomáhá bouří zasaženým obcím," uvedl Ivan Bartoš.
+
+Zastupitelstvo Středočeského kraje, kde jsme součástí koalice, v pondělí 28. června projedná mimořádný návrh poslat humanitární pomoc ve výši 1 milionu Kč do tornádem postiženého Jihomoravského kraje.
+
+
