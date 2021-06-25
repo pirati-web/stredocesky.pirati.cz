@@ -26,7 +26,7 @@ Mnozí lidé přišli o svůj domov a majetek, někteří ztratili člena své r
 Složky Integrovaného záchranného systému občany opakovaně vyzývají, ať se na místo nevypravují jako dobrovolníci. Možností, jak těmto lidem pomoci, je celá řada. Nemálo z nás se již nezištně zapojila do dárcovských sbírek.
 
 {% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/QR-cerveny-kriz.png' alt='QR platba' align='left' width='150px' style='margin: 0px 0px 0px 30px;' %} 
-[**Český červený kříž **](https://www.cervenykriz.eu/) <br>
+[**Český červený kříž**](https://www.cervenykriz.eu/) <br>
 Číslo účtu: 333999/2700 <br>
 Variabilní symbol: 2101 <br>
 Přednastavená částka: 500,- Kč <br><br><br><br><br>
