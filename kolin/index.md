@@ -33,7 +33,7 @@ profiles:
 
 Místní sdružení Kolín, patří mezi mladší sdružení v kraji, protože vzniklo až v roce 2018. Avšak Pirátská strana má v našem okrese dlouhou historii, protože už v roce 2010 byla v Kolíně v kraji jediná samostatná komunální kandidátka Pirátů.
 
-Zakládající členové: Martin Polák, Vojtěch Ertl, Jiří Chládek a Jiří Snížek.
+Zakládající členové: Martin Polák, Jiří Chládek, Jiří Snížek a Vojtěch Ertl (již nečlen).
 
 # Faktografické údaje o Kolíně
 
@@ -56,10 +56,6 @@ Kolín je město na východě Středočeského kraje na řece Labi a obec s roz�
 ### Martin Polák
 
 Narozen v Kolíně, kde dosud žije, pracuje a kde založil rodinu. Kolín má tedy opravdu v malíčku. ;-) O emancipaci členů subkultury internetu se zajímal už před založením Pirátské strany v roce 2009. Založení strany se sice nijak aktivně neúčastnil, ale byl nadšen, že se něco takového děje i v ČR. Za Českou pirátskou stranu posléze kandidoval v komunálních volbách v roce 2010, v době, kdy v Kolíně byla jediná samostatná kandidátka Pirátů v celém Středočeském kraji. Více informací naleznete [zde](https://wiki.pirati.cz/lide/martin_polak).
-
-### Vojtěch Ertl
-
-Od roku 2014 působí v komisi Rady města Kolín pro výstavbu a rozvoj města. Pro město Kolín mimo jiné připravoval odbornou část VŘ na nového městského architekta v Kolíně. Pracuje jako architekt, odborný asistent na FA ČVUT. Ve volném čase chová včely. Více informací naleznete [zde](https://stredocesky.pirati.cz/lide/vojtech-ertl/).
 
 ### Jiří Chládek
 
