@@ -6,7 +6,7 @@ date: 2021-06-30
 tags: 
   - krajská politika
   - fondy
-title: 'Pomozte tornádem zasaženým oblastem!'
+title: 'Schválili jsme rozdělení prostředků z fondů Středočeského kraje!'
 description: 'krajská politika, fondy'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
