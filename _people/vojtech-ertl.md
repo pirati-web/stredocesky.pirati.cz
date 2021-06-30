@@ -18,7 +18,7 @@ profiles:
   twitter:
   linkedin: 
 heroImg: banner-kutna-hora.jpg
-published: true
+published: false
 ---
 
 **Vojtěch Ertl** (* 28. července 1987, Kolín) je členem České pirátské strany. Po maturitě na Církevním gymnáziu v Kutné Hoře vystudoval obor Architektura a urbanismus na Fakultě architektury ČVUT v Praze, kde v současné době působí jako odborný asistent a doktorand.
