@@ -90,5 +90,4 @@ Střední školu studoval v České Třebové, obor provoz a ekonomika v doprav�
 * **Komise dopravy**
   * Jaroslav Pros
 * **Komise pro hospodaření s byty a nebytovými prostory**
-  * Ing. Jiří Snížek
-
+  * Ing. arch. Vojtěch Ertl
