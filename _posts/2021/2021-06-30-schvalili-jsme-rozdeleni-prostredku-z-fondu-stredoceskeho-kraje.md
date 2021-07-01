@@ -89,7 +89,7 @@ Zastupitelé schválili poskytnutí dotací ze **Středočeského fondu životn�
 Neuspělo celkem [6 žadatelů](https://www.kr-stredocesky.cz/web/urad/navrhy-materialu-pro-jednani-zastupitelstva?p_p_id=usnesenipred_WAR_GordicUSNportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadFile&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_pos=2&p_p_col_count=3&id=189217&typJednani=1&export=0) kvůli nedostatku prostředků a [jeden uchazeč byl vyřazen](https://www.kr-stredocesky.cz/web/urad/navrhy-materialu-pro-jednani-zastupitelstva?p_p_id=usnesenipred_WAR_GordicUSNportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadFile&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_pos=2&p_p_col_count=3&id=189218&typJednani=1&export=0) z důvodu formálních nedostatků.
 
 > "Členové hodnotící komise žádosti hodnotili prostřednictvím internetové aplikace podle předem zveřejněných hodnotících kritérií. Pořadí žadatelů bylo sestaveno podle průměrného bodového hodnocení od nejvyššího k nejnižšímu a v druhé úrovni podle data a času elektronického podání žádosti,“ popsala průběh hodnocení žádostí Jana Skopalíková.
-> 
+
 ## Pro vaše větší bezpečí
 Dotace ze **Středočeského Fondu podpory hasičů a složek IZS** jsou rozděleny do několika tematických zadání:
 
