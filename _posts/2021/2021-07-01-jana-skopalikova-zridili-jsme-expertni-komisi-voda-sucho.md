@@ -6,7 +6,7 @@ date: 2021-07-01
 tags: 
   - životní prostředí
   - krajská politika
-title: 'Jana Skopalíková: Zřídili jsme expertní komisi "voda - sucho"'
+title: 'Jana Skopalíková: Zřídili jsme expertní komisi "VODA - SUCHO"'
 description: 'životní prostředí, krajská politika'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
