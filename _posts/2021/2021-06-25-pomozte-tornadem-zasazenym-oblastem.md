@@ -48,11 +48,11 @@ Přednastavená částka: 500,- Kč <br> <br> <br> <br>
 Variabilní symbol: - <br> <br>
 Přednastavená částka: 500,- Kč <br> <br> <br> <br>
 
-{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/QR-nadace-via.png' alt='QR platba' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/via.png' alt='QR platba' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %}
 [**Nadace VIA**](https://www.darujme.cz/projekt/1204937) <br> <br>
-Číslo účtu: 2198370339/0800 <br> <br>
-Variabilní symbol: 4042616737 <br> <br>
-Přednastavená částka: 500,- Kč <br> <br> <br>
+Číslo účtu: - <br> <br>
+Variabilní symbol: - <br> <br>
+Přednastavená částka: - Kč <br> <br> <br>
 
 ## Jak pomáhají Piráti?
 Také jsme [založili sbírku](https://dary.pirati.cz/projekty-kampane/pirati-a-starostove-shromazduji-prostredky-na-pomoc-bouri-zasazenym-lidem-na-jizni-morave/), kterou chceme pomoci. V pátek 25. června ráno se sešla pracovní skupina *Piráti pomáhají* a navrhla řešení, jak se zapojit do pomoci.
