@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2021-07-03
-published: false
+#published: false
 tags: 
   - krajská politika
   - regionální rozvoj
