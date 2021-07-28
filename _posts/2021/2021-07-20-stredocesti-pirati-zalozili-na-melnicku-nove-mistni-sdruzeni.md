@@ -6,7 +6,7 @@ date: 2021-07-20
 tags: 
   - MS Mělník
   - tisková zpráva
-title: 'Středočeští Piráti založili na Mělnicku nové Místní sdružení'
+title: 'Středočeští Piráti založili na Mělnicku nové místní sdružení'
 description: 'MS Mělník, tisková zpráva'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
