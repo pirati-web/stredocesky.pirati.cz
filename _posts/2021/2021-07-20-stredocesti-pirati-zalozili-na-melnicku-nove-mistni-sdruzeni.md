@@ -40,15 +40,15 @@ Piráty z MS Mělník můžete sledovat na Facebooku a Instagramu.
 
 Lukáš Kohout, předseda MS Mělník
 T: +420 792 224 676
-E: lukas.kohout@pirati.cz
+E: [lukas.kohout@pirati.cz](mailto:lukas.kohout@pirati.cz)
 
 Jana Szeryńská, 1. místopředsedkyně MS Mělník
 T: +420 603 865 957
-E: jana.szerynska@pirati.cz
+E: [jana.szerynska@pirati.cz](mailto:jana.szerynska@pirati.cz)
 
 Martin Vlček, 2. místopředseda MS Mělník
 T: +420 731 662 897
-E: martin.vlcek@pirati.cz
+E: [martin.vlcek@pirati.cz](mailto:martin.vlcek@pirati.cz)
 
 
 ## Kam dál?
