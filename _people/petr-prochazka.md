@@ -4,7 +4,7 @@ name: Petr Procházka
 titles:
   before: 
   after:
-description: krajský zastupitel, místopředseda Výboru pro dopravu
+description: krajský zastupitel, místopředseda Kontrolního Výboru, předseda MS Nymburk
 category:
   - kraj
 img: people/petr-prochazka.jpg
