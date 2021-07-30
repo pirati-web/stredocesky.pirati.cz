@@ -13,7 +13,7 @@ title: 'Podporujeme vznik tůní a mokřadů, zefektivňujeme středočeskou dop
 description: 'krajská politika, kultura, doprava, životní prostředí, tisková zpráva'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
-image: posts/2021/2021-07-29-RK.jpg
+image: posts/2021/2021-07-29-TZ-RK.jpg
 ---
 
 *Čtvrtek 29. července 2021* - **Rada Středočeského kraje schválila výzvu na poskytnutí dotací ke spolufinancování projektů na posílení biodiverzity v krajině. Radní také odsouhlasili záměr na zefektivnění veřejné dopravy s cílem snížit náklady. Dále schválili dokument upravující technické standardy P+R parkovišť. V rámci uzavřeného Memoranda o spolupráci se Mašínův statek - památník tří odbojů rada tento čtvrtek krajská rada učinila další krok směřující k otevření Památníku tří odbojů v Lošanech.**
