@@ -6,7 +6,7 @@ date: 2021-08-02
 tags: 
   - sociální politika
   - piráti pomáhají
-title: 'Pomoáháme Jakubovi zlepšit život! Přispějte i vy na jeho sbírku!'
+title: 'Pomozte i vy Jakubovi zlepšit život!'
 description: 'sociální politika, piráti pomáhají'
 author: Soňa Brunnerová
 #authorId: lucie.chocholova
