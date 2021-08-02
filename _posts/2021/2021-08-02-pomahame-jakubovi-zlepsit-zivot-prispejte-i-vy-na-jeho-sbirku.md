@@ -42,4 +42,4 @@ Rád by docílil toho, aby se celkově změnil stávající systém sociálních
 
 > "Současná sociální politika státu s ohledem na těžce postižené je naprosto nedostatečná. Stále se upřednostňují velká pobytová zařízení ústavního typu před tím, aby člověk mohl žít doma a být alespoň do určité míry svobodný a nezávislý. Nejen, že sociální politika lidem s hendikepem moc nepomáhá, naopak jim komplikuje už tak těžký boj, který denně svádí. Sociální systém v Česku nefunguje tak, aby byla dostatečně nastavená individualizovaná podpora. Aby člověk s těžkým hendikepem získal tolik financí na péči, kterou skutečně potřebuje, a která by pokryla dostatečný počet hodin péče," konstatuje Jakub.
 
-Prispět Jakubovi můžete na webu [znesnaze21.cz](https://www.znesnaze21.cz/sbirka/polohovaci-vozik-pro-jakuba-z-melnika?fbclid=IwAR2JDobfLTHIx0UGmNPz1WSPZ5FAyjUgajam9ojv-9lo-g3FhdpxDZwe8BY).
+Prispět Jakubovi můžete na webu [znesnaze21.cz](https://www.znesnaze21.cz/sbirka/polohovaci-vozik-pro-jakuba-z-melnika).
