@@ -35,6 +35,22 @@ Středočeští radní se také seznámili s analýzou provozu na málo využív
 
 S ohledem na výrazné výpadky příjmů v rozpočtu kraje kvůli pandemii covid-19 byla provedena analýza vybraných lokálních tratí z pohledu jejich využití a budoucího přepravního potenciálu. Také byla analyzována výše předpokládaných provozních úspor se zohledněním případného nahrazení vlaků autobusovou dopravou. Mělo by se tak ušetřit  cca 52 milionů Kč ročně. Navržené změny se dotknou celkem 12 lokálek (viz tabulka).
 
+|Trať|Redukce v úseku|Nový rozsah objednávky|Úspora celkem v Kč|
+|:----:|:--------------------------:|:---------------------------------------------------------:|:----------:|
+|012|Plaňany zast. - Kouřim|bez objednávky|2 100 000|
+|062|Křinec - Městec Králové|provoz v 6 a + v období SELČ|3 300 000|
+|063|Bakov nad Jizerou - Dolní Bousov|bez objednávky|1 000 000|
+|064|Mšeno - Mladá Boleslav|int. 4 hodiny v PD celorok + provoz v 6 a + v období SELČ|13 600 000|
+|076|Mělník - Mšeno|int. 4 hodiny v PD celorok + provoz v 6 a + v období SELČ|viz trať 064|
+|094|(Kralupy nad Vltavou) - Vraňany - Lužec nad Vltavou|bez objednávky|2 200 000|
+|095|Straškov - Zlonice - (Slaný)|bez objednávky|800 000|
+|162|Rakovník - Kralovice|omezený sezónní provoz v 6 a + v období platnosti SELČ|8 200 000|
+|204|Březnice - Rožmitál pod Třemšínem|bez objednávky|4 500 000|
+|210|Čisovice - Mníšek - Dobříš|sezónní provoz v 6 a + v období platnosti SELČ|11 500 000|
+|222|Vlašim - Trhový Štěpánov|bez objednávky|5 000 000|
+|233|Čelákovice - Mochov|bez objednávky (převod výkonů na jinou trať)|-|
+|**Celkem**|||**52 200 000**|
+
 > "Musíme zdůraznit, že se nejedná o rušení železnice, nýbrž omezení provozu na tratích, kde je provoz nerentabilní a vysoce ztrátový. Kraj na rozdíl od silnic není správcem samotné infrastruktury a je pouze objednavatelem dopravy. Tam, kde není pádný důvod k zachování provozu vlaků, podporujeme zrušení objednávání. Naopak tam, kde je potenciál železnice vyšší, jsme pro zachování provozu a hledání řešení, které nebude krajskou pokladnu nadále neúměrně zatěžovat. Příklady vidíme v jiných krajích. Jedná se například o individuální jednání s dopravci, nebo možnost převodu provozu do závazku jednotlivých obcí, či jejich svazků," upřesňuje Petr Procházka z krajského Výboru pro dopravu.
 
 Současné náklady na jeden vlakokilometr provozování lokální trati vycházejí na 95-135 Kč. Oproti tomu jeden kilometr autobusové dopravy krajskou kasu vyjde na 40-50 Kč. Náklady na provoz lokálek se budou zvyšovat z důvodu povinného zavádění zabezpečovacího systému ETCS a také nutné obměně vozového parku. Provoz na lokální železniční trati se tak v budoucnu prodraží o desítky korun na kilometr.
