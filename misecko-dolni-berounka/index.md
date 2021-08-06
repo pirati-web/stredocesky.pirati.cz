@@ -7,15 +7,15 @@ rbar:
   - profiles
 boardName: Předsednictvo
 boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?p=715320#p715320
+    electionUrl: https://forum.pirati.cz/viewtopic.php?p=766655&sid=0261dd8420b15a9500e06a1463f67db9#p766655
     endDate: 12.9.2022
 board:
    - position: Předseda
-     uid: michal.tresl
-   - position: 1. místopředseda
      uid: martin.karim
-   - position: 2. místopředseda
+   - position: 1. místopředseda
      uid: ondrej.klimes
+   - position: 2. místopředseda
+     uid: marek.jericha
 contactPersons:
    - position: Předseda
      uid: michal.tresl
