@@ -22,8 +22,10 @@ Jak se mnohokrát ukázalo, projevy solidarity Čechům rozhodně nejsou cizí. 
 Jakub je 36letý kluk z Mělníka, který se od narození potýká s nejtěžší formou dětské mozkové obrny, které se říká spastická kvadruparéza. Je odkázán na péči druhých, sám se nezvládne ani najíst, jelikož nezvládne dostatečně hýbat rukama. Žije v pronajatém bytě, který je vybaven podle jeho potřeb. Osobní asistence, kterou s ohledem na své závažné postižení potřebuje po celý den, je pro Jakuba i jeho rodinu finančně velmi nákladná a příspěvek na péči ji zdaleka nepokryje v míře, kterou skutečně potřebuje. I z toho důvodu se o něj stará celý život pouze jeho maminka.
 
 > “Peníze, které se vyberou navíc, určitě využiji pro dokoupení dalšího příslušenství k polohovacímu vozíku. Stěžejní je pro mě ovšem pokrytí osobní asistence do budoucna. **Abych se nemusel dennodenně probouzet se strachem, že jednou skončím v ústavu, až to moji rodiče přestanou zvládat. To bych nepřežil**. A to jen proto, že nezvládnu uhradit osobní asistenci z příspěvku na péči. Moje 67letá maminka je vážně nemocná, má velké zdravotní problémy, které se stále zhoršují. Nevíme, jak dlouho se o mě zvládne starat. Ta chvíle může nastat kdykoliv. **Proto si moc vážím jakékoliv další podpory**,” vysvětluje Jakub Vybíral.
-> 
+
 Jakákoliv další vybraná suma nad rámec cílové částky Jakubovi pomůže překonat nejistotu, se kterou ve svém životě denně potýká.
+
+### Prispět Jakubovi můžete na webu [znesnaze21.cz](https://www.znesnaze21.cz/sbirka/polohovaci-vozik-pro-jakuba-z-melnika).
 
 ## Současná sociální politika státu pro těžce hendikepované je naprosto nedostatečná, říká Jakub
 
@@ -42,4 +44,4 @@ Rád by docílil toho, aby se celkově změnil stávající systém sociálních
 
 > "Současná sociální politika státu s ohledem na těžce postižené je naprosto nedostatečná. Stále se upřednostňují velká pobytová zařízení ústavního typu před tím, aby člověk mohl žít doma a být alespoň do určité míry svobodný a nezávislý. Nejen, že sociální politika lidem s hendikepem moc nepomáhá, naopak jim komplikuje už tak těžký boj, který denně svádí. Sociální systém v Česku nefunguje tak, aby byla dostatečně nastavená individualizovaná podpora. Aby člověk s těžkým hendikepem získal tolik financí na péči, kterou skutečně potřebuje, a která by pokryla dostatečný počet hodin péče," konstatuje Jakub.
 
-Prispět Jakubovi můžete na webu [znesnaze21.cz](https://www.znesnaze21.cz/sbirka/polohovaci-vozik-pro-jakuba-z-melnika).
+
