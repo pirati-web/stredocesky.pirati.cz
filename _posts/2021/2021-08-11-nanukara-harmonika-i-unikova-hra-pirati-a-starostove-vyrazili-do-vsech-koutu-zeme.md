@@ -7,7 +7,7 @@ tags:
    - tisková zpráva
    - volby
    - poslanecká sněmovna
-title: 'Nanukára, harmonika i úniková hra, Piráti a Starostové vyrazili do všech koutů zeměů'
+title: 'Nanukára, harmonika i úniková hra, Piráti a Starostové vyrazili do všech koutů země'
 description: 'tisková zpráva, volby, poslanecká sněmovna'
 author: Mediální odbor
 #authorId: lucie.chocholova
