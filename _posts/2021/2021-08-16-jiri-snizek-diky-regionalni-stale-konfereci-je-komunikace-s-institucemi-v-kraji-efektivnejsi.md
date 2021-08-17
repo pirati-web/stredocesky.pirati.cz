@@ -7,7 +7,7 @@ tags:
   - krajská politika
   - regionální rozvoj
   - tisková zpráva
-title: 'Jiří Snížek: Díky Regionální stálé konfereci je kominikace s institucemi v kraji efektivnější!'
+title: 'Jiří Snížek: Díky Regionální stálé konfereci je komunikace s institucemi v kraji efektivnější!'
 description: 'krajská politika, regionální rozvoj, tisková zpráva'
 author: Mediální odbor
 #authorId: lucie.chocholova
