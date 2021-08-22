@@ -44,6 +44,11 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 # Aktivity MS
 
+##### 2021
+
+* pravidelně každý třetí čtvrtek v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých obcích na našem území)
+* dále se účastníme kontaktní kampaně pro volby do Sněmovny
+
 ##### 2020
 
 * 16.1.2020 Schůze místního sdružení ve Vestci
@@ -54,8 +59,15 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 * 14.5.2020 Na RUM s Piráty (online)
 * 18.6.2020 Na RUM s Piráty (online)
 * 15.7.2020 Na PIVO s Piráty - Ohrobec
+* 12.8.2020 S Piráty na Sázavě - sjíždění řeky
 * Červenec - zahájení kampaně do kraje a Senátu v našich obcích
 * 27.8.2020 Na PIVO s Piráty - Kozlovna Velké Popovice
+* 4.9.2020 Setkání s kandidátkou do Senátu Simonou Luftovou v Jílovém
+* 23.9.2020 Pirátský rok v našem místním sdružení - výročí založení
+* 22.10.2020 Online veřejná schůze místního sdružení
+* 12.11.2020 Online veřejná schůze místního sdružení
+* 17.12.2020 Online veřejná schůze místního sdružení
+* 21.12.2020 Maratón psaní dopisů - https://maraton.amnesty.cz
 
 ##### 2019
 
