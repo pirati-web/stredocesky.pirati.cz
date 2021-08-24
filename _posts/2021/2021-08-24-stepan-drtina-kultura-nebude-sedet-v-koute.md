@@ -14,9 +14,7 @@ authorId: stepan.drtina
 image: posts/2021/2021-08-24-drtina.jpg
 ---
 
-## Kultura nebude sedět v koutě! 
-
-Společně s pražským kandidátem [Ondrou Chrástem](https://www.piratiastarostove.cz/kandidati/mgr-ondrej-chrast/) máme plán. Níže píšeme, jak se kultura dostala do současného stavu, co s tím chceme dělat a proč je její podpora důležitá.
+Kultura nebude sedět v koutě! Společně s pražským kandidátem [Ondrou Chrástem](https://www.piratiastarostove.cz/kandidati/mgr-ondrej-chrast/) máme plán. Níže píšeme, jak se kultura dostala do současného stavu, co s tím chceme dělat a proč je její podpora důležitá.
 
 ## Každých 15 měsíců nový ministr kultury
 
