@@ -15,7 +15,7 @@ author: Mediální odbor
 image: posts/2021/2021-08-30-luftova.jpg
 ---
 
-**Simona Luftová** je naše [kandidátka v letošních volbách do Poslanecké sněmovny na 31. místě](https://www.piratiastarostove.cz/kandidati/mgr-simona-luftova/). Je jí 48 let. Přes 10 let pracuje jako středoškolská učitelka a také koordinuje mezinárodní vzdělávací projekty pro studenty a učitele v rámci programu Erasmus+. V dětství žila a studovala v Jihoafrické republice. Začátkem 90. let se už jako dospělá vrátila do Československa a vystudovala anglistiku-amerikanistiku a politologii na Filosofické fakultě Univerzity Karlovy.
+**Simona Luftová** je naše [kandidátka v letošních volbách do Poslanecké sněmovny na 31. místě](https://www.piratiastarostove.cz/kandidati/mgr-simona-luftova/). Je jí 48 let. Přes 10 let pracuje jako středoškolská učitelka a také koordinuje mezinárodní vzdělávací projekty pro studenty a učitele v rámci programu Erasmus+. V dětství žila a studovala v Jihoafrické republice. Začátkem 90. let se už jako dospělá vrátila do Československa a vystudovala politologii na Fakultě sociální věd a rozšiřující pedagogické vzdělávání na Pedagogické fakultně Univerzity Karlovy.
 
 ### **Co tě motivovalo kandidovat v letošních volbách do Poslanecké sněmovny?**
 > Možnost kandidovat do Poslanecké sněmovny vnímám jako příležitost osobně aktivně přispět a podílet se na změnách, které naše země v dnešní covidové době potřebuje.
