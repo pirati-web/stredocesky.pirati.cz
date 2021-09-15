@@ -12,7 +12,7 @@ title: 'Václav Kubaljak: Musíme investovat do nových řešení ve školách!'
 description: 'volby, rozhovor, poslanecká sněmovna, školství'
 author: Mediální odbor
 authorId: stepan.drtina
-image: posts/2021/2021-09-15-kubaljak.jpg
+image: posts/2021/2021-09-13-kubaljak.jpg
 ---
 
 **Václav Kubaljak** je [náš kandidát z 19. místa](https://www.piratiastarostove.cz/kandidati/bc-vaclav-kubaljak/) do poslanecké sněmovny. Vystudoval chemii a biologii na Pedagogické fakultě Univerzity Karlovy. Je mu 32 let a žije ve Struhařově. Nyní pracuje jako konzultant e-learningu na volné noze. Je předsedou místního sdružení (MS) Benešov a Krajského expertního týmu (KET) školství Středočeského kraje. Působí také ve Výboru pro vzdělávání, výchovu a zaměstnanost Středočeského kraje.
