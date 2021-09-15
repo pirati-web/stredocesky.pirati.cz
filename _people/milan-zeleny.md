@@ -8,7 +8,7 @@ titles:
 category:
   - kraj
 ordKraj: 8
-img: people/milan-zeleny.jpg
+img: people/milan-zeleny1.jpg
 mail:
   - milan.zeleny@pirati.cz
 mob:
