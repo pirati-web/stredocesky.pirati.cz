@@ -3,7 +3,7 @@ uid: milan.zeleny
 name: Milan Zelený
 description: krajský zastupitel, místopředseda Výboru pro sociální věci
 titles:
-  before: 
+  before: Bc.
   after:
 category:
   - kraj
@@ -21,12 +21,8 @@ heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
-(* 27. srpna 1998)
+Jsem předsedou místního sdružení Kutná Hora a středočeským krajským zastupitelem, kde jsem členem Komise pro bezpečnost a IZS a místopředsedou Výboru pro sociální věci.
 
-Jsem předsedou místního sdružení Kutná Hora a středočeským krajským zastupitelem. Na kraji jsem se zapojil do Komise pro bezpečnost a IZS a jsem místopředsedou Výboru pro sociální věci.
+Narodil jsem se 27. srpna 1998 v Čáslavi, ale celý život žiji v Kutné Hoře. Absolvoval jsem zdravotnické lyceum v Kolíně a poté získal bakalářský titul v oboru - ergoterapie na Fakultě zdravotnických studií Univerzity J. E. Purkyně v Ústí nad Labem. Jsem zaměstnán jako ergoterapeut v nemocnici Kutná Hora. Ve své bakalářské práci jsem zpracoval případovou studii pacientky s onemocněním schizofrenie v období hospitalizace.
 
-Narodil jsem se v Čáslavi, ale celý život bydlím v Kutné Hoře.
-
-Po absolvování zdravotnického lycea v Kolíně jsem se rozhodl studovat obor ergoterapie na Fakultě zdravotnických studií Univerzity J. E. Purkyně v Ústí nad Labem.
-
-Ve své maturitní práci jsem se věnoval problematice života s cervikobrachiálním syndromem. Také ve volném čase se zajímám zejména o oblast zdravotnictví. Baví mě číst knihy a cestovat.
+Jsem také členem krajského expertního týmu pro zdravotnictví a sociální politiku. Zajímám se zejména o oblast zdravotnictví, ale i o čtení knih nebo cestování.
