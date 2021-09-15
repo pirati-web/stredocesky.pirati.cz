@@ -7,7 +7,7 @@ tags:
    - krajská politika
    - cestovní ruch
    - tisková zpráva
-title: 'Lucie Cirkva Chocholová: Jmenovali jsme novu ředitelku Středočeské centrály cestvního ruchu!'
+title: 'Lucie Cirkva Chocholová: Jmenovali jsme novou ředitelku Středočeské centrály cestovního ruchu!'
 description: 'krajská politika, cestovní ruch, tisková zpráva'
 author: Mediální odbor
 authorId: lucie.cirkva.chocholova
