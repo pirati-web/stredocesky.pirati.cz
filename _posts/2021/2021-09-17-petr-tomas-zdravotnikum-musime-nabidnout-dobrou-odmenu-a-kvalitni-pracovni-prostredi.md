@@ -8,7 +8,7 @@ tags:
   - rozhovor
   - poslanecká sněmovna
   - zdravotnictví
-title: '# Petr Tomáš: Zdravotníkům musíme nabídnout dobrou odměnu a kvalitní pracovní prostředí!'
+title: 'Petr Tomáš: Zdravotníkům musíme nabídnout dobrou odměnu a kvalitní pracovní prostředí!'
 description: 'volby, rozhovor, poslanecká sněmovna, zdravotnictví'
 author: Mediální odbor
 authorId: stepan.drtina
