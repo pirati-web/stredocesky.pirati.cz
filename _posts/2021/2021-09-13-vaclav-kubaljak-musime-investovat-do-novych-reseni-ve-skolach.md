@@ -11,7 +11,7 @@ tags:
 title: 'Václav Kubaljak: Musíme investovat do nových řešení ve školách!'
 description: 'volby, rozhovor, poslanecká sněmovna, školství'
 author: Mediální odbor
-authorId: stepan.drtina
+#authorId: stepan.drtina
 image: posts/2021/2021-09-13-kubaljak.jpg
 ---
 
