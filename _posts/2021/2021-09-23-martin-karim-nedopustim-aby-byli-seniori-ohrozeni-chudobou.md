@@ -12,7 +12,7 @@ title: 'Martin Karim: Nedopustím, aby byli senioři ohroženi chudobou!'
 description: 'volby, poslanecká sněmovna, rozhovor, sociální politika'
 author: Mediální odbor
 #authorId: stepan.drtina
-image: posts/2021/2021-09-23-karim.jpg
+image: posts/2021/2021-09-23-karim1.jpg
 ---
 
 Martin Karim je 55letý [pirátský kandidát do Poslanecké sněmovny z 11. místa](https://www.piratiastarostove.cz/kandidati/judr-martin-karim/). Pracuje jako právník - metodik v oblasti mezinárodněprávního oddělení České správy sociálního zabezpečení a vlastní daňově poradenskou firmu. Aktuálně studuje tzv. velký doktorát (Ph.D.) se zaměřením na právo sociálního zabezpečení na Právnické fakultě Univerzity Karlovy. Titul doktora práv (JUDr.) získal tamtéž, ale jeho almou mater je Panevropská vysoká škola v Bratislavě. 
