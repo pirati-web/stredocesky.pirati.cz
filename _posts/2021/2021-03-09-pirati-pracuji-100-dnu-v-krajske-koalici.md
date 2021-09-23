@@ -3,7 +3,8 @@ category: blog
 layout: post
 date: 2021-03-08
 #published: false
-tags: krajská_politika
+tags: 
+   - krajská politika
 title: 'Piráti pracují: 100 dnů v krajské koalici'
 description: 'krajská politika'
 author: Mediální odbor
