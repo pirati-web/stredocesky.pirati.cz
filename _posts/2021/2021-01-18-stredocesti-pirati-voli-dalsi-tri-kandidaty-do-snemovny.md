@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-01-18
 #published: false
-tags: volby poslanecká_sněmovna
+tags: 
+   - volby 
+   - poslanecká sněmovna
 title: 'Středočeští Piráti zvolili další tři kandidáty do Sněmovny!'
 description: 'volby, poslanecká sněmovna'
 author: Ondřej Petr
