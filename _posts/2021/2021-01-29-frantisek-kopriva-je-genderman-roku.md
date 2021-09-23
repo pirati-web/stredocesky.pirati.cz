@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-01-29
 #published: false
-tags: sociální_politika poslanecká_sněmovna rovné_šance
+tags: 
+   - sociální politika
+   - poslanecká sněmovna
+   - rovné šance
 title: 'František Kopřiva je Genderman roku!'
 description: 'sociální politika, poslanecká sněmovna, rovné šance'
 author: Ondřej Petr
