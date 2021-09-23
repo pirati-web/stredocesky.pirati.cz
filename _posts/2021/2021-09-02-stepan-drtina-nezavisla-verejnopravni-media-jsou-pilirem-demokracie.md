@@ -5,11 +5,10 @@ date: 2021-09-02
 #published: false
 tags: 
   - volby
-  - rozhovor
   - poslanecká sněmovna
   - veřejnoprávní média
 title: 'Štěpán Drtina: Nezávislá veřejnoprávní média jsou pilířem demokracie!'
-description: 'volby, rozhovor, poslanecká sněmovna, veřejnoprávní média'
+description: 'volby, poslanecká sněmovna, veřejnoprávní média'
 author: Mediální odbor
 authorId: stepan.drtina
 image: posts/2021/2021-09-02-drtina.jpg
