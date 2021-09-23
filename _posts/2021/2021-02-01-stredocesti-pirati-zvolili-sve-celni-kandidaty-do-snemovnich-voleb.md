@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-02-01
 #published: false
-tags: poslanecká_sněmovna volby
+tags: 
+   - volby
+   - poslanecká sněmovna
 title: 'Středočeští Piráti zvolili své čelní kandidáty do sněmovních voleb!'
 description: 'poslanecká sněmovna, volby'
 author: Ondřej Petr
