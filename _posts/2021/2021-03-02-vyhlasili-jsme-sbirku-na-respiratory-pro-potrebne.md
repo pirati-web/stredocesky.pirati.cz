@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-03-02
 #published: false
-tags: piráti_pomáhají covid-19
+tags: 
+   - piráti pomáhají
+   - covid-19
 title: 'Vyhlásili jsme sbírku na respirátory pro potřebné'
 description: 'krajská politika, životní prostředí'
 author: Ondřej Petr
