@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-02-17
 #published: false
-tags: krajská_politika sociální_politika
+tags: 
+   - krajská politika
+   - sociální politika
 title: 'Rada kraje schválila milionovou dotaci pro potravinovou banku'
 description: 'krajská politika, sociálnípolitika'
 author: Soňa Brunnerová
