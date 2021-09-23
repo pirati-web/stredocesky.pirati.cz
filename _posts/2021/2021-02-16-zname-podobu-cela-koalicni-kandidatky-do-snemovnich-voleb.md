@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-02-16
 #published: false
-tags: poslanecká_sněmovna volby
+tags: 
+   - poslanecká sněmovna
+   - volby
 title: 'Známe podobu čela koaliční kandidátky do sněmovních voleb!'
 description: 'poslanecká sněmovna, volby'
 author: Ondřej Petr
