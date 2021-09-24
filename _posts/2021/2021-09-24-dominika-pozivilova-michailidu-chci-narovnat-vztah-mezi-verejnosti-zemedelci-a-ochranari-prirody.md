@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-09-21
+date: 2021-09-24
 #published: false
 tags: 
   - volby
@@ -12,7 +12,7 @@ tags:
 title: 'Dominika Poživilová Michailidu: Chci narovnat vztah mezi veřejností, zemědělci a ochranáři přírody!'
 description: 'volby, poslanecká sněmovna, zemědělství, životní prostředí'
 author: Mediální odbor
-authorId: stepan.drtina
+#authorId: stepan.drtina
 image: posts/2021/2021-09-24-michailidu.jpg
 ---
 
