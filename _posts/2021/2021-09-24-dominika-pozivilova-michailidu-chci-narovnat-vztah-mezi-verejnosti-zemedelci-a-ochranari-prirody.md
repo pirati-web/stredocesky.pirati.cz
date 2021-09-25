@@ -13,7 +13,7 @@ title: 'Dominika Poživilová Michailidu: Chci narovnat vztah mezi veřejností,
 description: 'volby, poslanecká sněmovna, zemědělství, životní prostředí'
 author: Mediální odbor
 #authorId: stepan.drtina
-image: posts/2021/2021-09-24-michailidu.jpg
+image: posts/2021/2021-09-24-michailidu1.jpg
 ---
 
 Dominika Poživilová Michailidu je [pirátská kandidátka z 9. místa](https://www.piratiastarostove.cz/kandidati/mga-dominika-pozivilova-michailidu/) v letošních volbách do Poslanecké sněmovny. Je zastupitelkou v obci Krnsko. Věci veřejné se tak staly nedílnou součástí jejího života. Na manželově rodinné farmě má na starosti administrativu a komunikaci s úřady. Tam se také začala více zajímat o souvislosti mezi zemědělstvím a životním prostředím. Je vystudovanou výtvarnicí, i proto má blízko také ke kultuře.
