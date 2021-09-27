@@ -15,7 +15,7 @@ img: people/barbora-vaicova.jpg
 mail:
   - barbora.vaicova@pirati.cz
 mob:
-  - +420 770 113 640
+  - +420 770 113 640
 profiles:
   github:
   facebook:
