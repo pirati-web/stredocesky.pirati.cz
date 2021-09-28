@@ -7,15 +7,15 @@ rbar:
   - profiles
 boardName: Předsednictvo
 boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?p=638856#p638856
-    endDate: 24.9.2021
+    electionUrl: https://forum.pirati.cz/viewtopic.php?p=769348#p769348
+    endDate: 24.9.2023
 board:
    - position: Předseda
-     name: Jan Čáha
-   - position: 1. místopředseda
-     name: Roman Morávek
-   - position: 2. místopředseda
      uid: jan.korbel
+   - position: 1. místopředseda
+     name: Mirek Dvořák
+   - position: 2. místopředseda
+     name: Jan Čáha
 mail: 
   - jesenice-jilove@pirati.cz
 mob:
@@ -83,21 +83,20 @@ Pokud chcete být o našich plánovaných akcích informováni e-mailem, napišt
 
 # Členové MS
 
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/caha-400px.jpg' alt='Jan Čáha' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
-**Jan Čáha** (* 14. února 1989) je zakládajícím členem a předsedou MS Jesenice - Jílové. Vystudoval strojní průmyslovou školu Betlémskou o pár let později dálkově také VOŠ a VŠ v oboru zdravotnický záchranář. Od roku 2012 pracuje na Zdravotnické záchranné službě, nyní jako zdravotnický záchranář a lektor vzdělávacího a výcvikového střediska. Také školí kurzy první pomoci ve firmě LifeSupport.<br><br><br>
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/korbel-400px.jpg' alt='Jan Korbel' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
+**Jan Korbel** (* 20. května 1979) je předsedou MS Jesenice - Jílové. V letech 2018 až 2020 byl také druhým místopředsedou krajského sdružení Středočeský kraj a v letech 2019 až 2021 druhým místopředsedou tohoto místního sdružení. Vesničan, počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.<br><br><br><br><br>
 
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
+**Mirek Dvořák** (* 24. března 1972) je prvním místopředsedou MS Jesenice - Jílové. Členem Pirátů je od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.<br>
+
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/caha-400px.jpg' alt='Jan Čáha' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
+**Jan Čáha** (* 14. února 1989) je zakládajícím členem a druhým místopředsedou MS Jesenice - Jílové. Mezi lety 2019 a 2021 byl také předsedou tohoto místního sdružení. Vystudoval strojní průmyslovou školu Betlémskou o pár let později dálkově také VOŠ a VŠ v oboru zdravotnický záchranář. Od roku 2012 pracuje na Zdravotnické záchranné službě, nyní jako zdravotnický záchranář a lektor vzdělávacího a výcvikového střediska. Také školí kurzy první pomoci ve firmě LifeSupport.<br><br><br>
 
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/moravek-400px.jpg' alt='Roman Morávek' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
-**Roman Morávek** (* 20. listopadu 1970) je zakládajícím členem a prvním místopředsedou MS Jesenice - Jílové. Pochází z Prahy 8, ale již přes 15 let bydlí v Dolních Břežanech. Vystudoval VŠFS obor: Řízení podniku a podnikové finance. Mnoho let jako OSVČ dělá poradenství pro zahraniční, hlavně italské společnosti v různých odvětvích. Rekreačně hraje tenis, nohejbal a lyžuje.<br><br><br><br>
-
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/korbel-400px.jpg' alt='Jan Korbel' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
-**Jan Korbel** (* 20. května 1979) je druhým místopředsedou MS Jesenice - Jílové. V letech 2018 až 2020 také druhým místopředsedou krajského sdružení Středočeský kraj. Vesničan, počítačový expert, uživatel a propagátor svobodného software. Piráty sleduje od jejich vzniku v roce 2009. Více <a href="{{ 'lide/jan-korbel/' | relative_url }}">zde</a>.<br><br><br><br><br>
+**Roman Morávek** (* 20. listopadu 1970) je zakládajícím členem MS Jesenice - Jílové a mezi lety 2019 a 2021 také jeho prvním místopředsedou. Pochází z Prahy 8, ale již přes 15 let bydlí v Dolních Břežanech. Vystudoval VŠFS obor: Řízení podniku a podnikové finance. Mnoho let jako OSVČ dělá poradenství pro zahraniční, hlavně italské společnosti v různých odvětvích. Rekreačně hraje tenis, nohejbal a lyžuje.<br><br><br><br>
 
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/kerkova-400px.jpg' alt='Monika Keřková' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
 **Monika Keřková** (* 29. srpna 1985) je od září 2019 členkou krajského sdružení Středočeský kraj České pirátské strany. Narodila se v Příbrami, ale většinu svého dětství prožila na Dobříši. Nyní žije v Ohrobci na Praze - západ, kde byla již podruhé zvolena do zastupitelstva obce a v minulém volebním období byla též členkou rady obce a finančního výboru. Více <a href="{{ 'lide/monika-kerkova' | relative_url }}">zde</a>.<br><br><br>
-
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/dvorak-400px.jpg' alt='Mirek Dvořák' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} 
-**Mirek Dvořák** (* 24. března 1972) je členem Pirátů od června 2020. Vystudoval VŠ námořní v Gdyni v Polsku a v roce 2007 získal diplom MBA v oboru General Management, City University of Seattle, při VŠFS. Pracoval na různých pozicích v mezinárodním obchodě v oblasti marketingu a obchodu. V současnosti působí jako Business Development Director pro oblast střední a východní Evropy. Narodil se v Praze, ale posledních patnáct let žije s rodinou ve Vestci. Ztotožňuje se s otevřenou transparentní společností, urychleným zaváděním moderních technologií ve společnosti a zejména ve státní správě a upřednostněním investic do vzdělávání.<br>
 
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/jesenice-jilove/rubenstein-400px.jpg' alt='Ira Rubenstein' align='left' width='200px' style='margin: 0px 30px 10px 30px;' %} **Ira Rubenstein** - new Pirate with a lengthy career. He started in the mid-1970s working for New York government, then worked as a consultant, and moved into finance in the late 1980s. His longtime focus is alternative energy and clean technology of all kinds. He worked for two decades in finance in New York and came to Prague to pursue regional and global opportunities in 2005.  He moved permanently to the Czech Republic in 2009, becoming a citizen about 5 years ago. He still works in finance with both Prague and California-based firms. He loves the energy that founders and innovators bring to their businesses and he try to help them succeed. Ira works at Czech Technical University in Prague as the Mentor for Technology Transfer. He also initiated The Innovation SPOT at Pragovka, intended to be the largest co-creation facility for entrepreneurial companies in Central Europe. And Ira provides internal advise to a company focused on helping science-based startups to get to success.<br>
 
