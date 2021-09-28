@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2021-09-28
-published: false
+#published: false
 tags: 
   - volby
   - rozhovor
