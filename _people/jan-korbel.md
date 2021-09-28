@@ -5,7 +5,7 @@ titles:
   before: 
   after: 
 category:
-description: 2. místopředseda místního sdružení
+description: předseda místního sdružení
 img: people/jan-korbel.jpg
 mail: jan.korbel@pirati.cz
 mob:
@@ -20,11 +20,11 @@ heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
-**Jan Korbel** (* 20. května 1979) je druhým místopředsedou místního sdružení Jesenice-Jílové České pirátské strany. Od listopadu 2018 byl také dva roky druhým místopředsedou krajského sdružení Středočeský kraj. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.
+**Jan Korbel** (* 20. května 1979) je předsedou místního sdružení Jesenice-Jílové České pirátské strany. Od listopadu 2018 byl také dva roky druhým místopředsedou krajského sdružení Středočeský kraj a mezi lety 2019 a 2021 druhým místopředsedou místního sdružení. Narodil se v Písku a od roku 2000 bydlí ve Středočeském kraji.
 
 Vystudoval slaboproudou elektroprůmyslovku, obor výpočetní technika, ale s počítači začal už v roce 1988 na kroužku programování. Na střední škole se pak věnoval programování síťových aplikací a pravěkému HTML. Po střední objevoval zákoutí globální sítě ze [Silicon Hillu](https://www.siliconhill.cz/) v dobách jeho největší undergroundové slávy. Díky tomu zažil éru opravdu svobodného internetu – dobu, kdy většina lidí o síť neměla zájem a ta byla omezená jen rychlostí modemu nebo koaxiálního kabelu.
 
-Další školu dostal při plnění civilní služby na Ústavu informatiky Akademie věd. Nyní se živí správou Linuxových serverů, různých síťových zařízení a bezpečností. Používá a při každé vhodné příležitosti propaguje svobodný software. Sám se snaží komunitě něco vracet, ať už sdílením zkušeností z funkčních řešení, překlady, bugreporty nebo drobnými patchi.
+Síťovým aplikacím se dále věnoval při plnění civilní služby na Ústavu informatiky Akademie věd. Nyní se živí správou Linuxových serverů, různých síťových zařízení a bezpečností. Používá a při každé vhodné příležitosti propaguje svobodný software. Sám se snaží komunitě také něco vracet, ať už sdílením zkušeností z funkčních řešení, překlady, bugreporty nebo drobnými patchi.
 
 Českou pirátskou stranu sleduje od jejího vzniku na abclinuxu.cz a sdílí myšlenku svobodného přístupu k informacím. První pirátskou akcí, které se účastnil, byl protest proti ACTA v roce 2012.
 
