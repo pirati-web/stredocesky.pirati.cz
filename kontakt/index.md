@@ -23,6 +23,7 @@ contactPersons:
 **Zajímá vás co děláme ve středních Čechách, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
 **Komunikujeme pravidelně na Facebooku**, najdete nás jako [Česká pirátská strana - Středočeský kraj](https://www.facebook.com/PiratiStredniCechy).
+A nepravidelně také na **Twitteru** [Piráti Střední Čechy](https://twitter.com/pirati_sck).
 
 <h4>Transparenstnost</h4>
 - Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
