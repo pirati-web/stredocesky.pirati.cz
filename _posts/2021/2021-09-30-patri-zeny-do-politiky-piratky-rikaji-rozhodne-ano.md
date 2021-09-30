@@ -21,4 +21,4 @@ image: posts/2021/2021-09-30-zeny.jpg
 
 Svět na muže a ženy nedělí, ale skládá se z nich, zdůrazňoval první Československý prezident Tomáš Garrigue Masaryk. Piráti proto podporují a vyzývají ženy k účasti na politických aktivitách.
 
-<iframe width="600" height="338" src="https://youtu.be/JHCSOhWHsvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JHCSOhWHsvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
