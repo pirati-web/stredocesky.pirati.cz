@@ -22,7 +22,7 @@ contactPersons:
    - position: Krajský koordinátor
      uid: barbora.vaicova
 mail: 
-   - michal.tresl@pirati.cz
+   - martin.karim@pirati.cz
 profiles:
    facebook: "https://www.facebook.com/PiratiMDB"
    forum: "https://forum.pirati.cz/viewforum.php?f=1485"
