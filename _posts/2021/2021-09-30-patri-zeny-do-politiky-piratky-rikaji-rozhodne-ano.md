@@ -13,7 +13,7 @@ author: Mediální odbor
 image: posts/2021/2021-09-30-zeny.jpg
 ---
 
-*Praha, 30. září 2021* – **Že ženy do politiky patří, říkají Piráti a Pirátky již dlouho. Nyní Pirátky vytvořily video, v němž zaznívají stereotypní věty a mýty, které při svém působení v politice samy slyšely. Chtějí tak poukázat jejich nesmyslnost. V Poslanecké sněmovně Českého Parlamentu působí pouze 22,5 procenta žen, a to i přesto, že se chtějí podílet na rozhodování stejně jako muži. Na rozdíl od nich však čelí specifickým překážkám. S těmi se setkávají prakticky na všech úrovních. Jednou z nich jsou urážlivé poznámky.**
+*Praha, 30. září 2021* – **Že ženy do politiky patří, říkají Piráti a Pirátky již dlouho. Nyní Pirátky vytvořily video, v němž zaznívají stereotypní věty a mýty, které při svém působení v politice samy slyšely. Chtějí tak poukázat jejich nesmyslnost. V Poslanecké sněmovně českého Parlamentu působí pouze 22,5 procenta žen, a to i přesto, že se chtějí podílet na rozhodování stejně jako muži. Na rozdíl od nich však čelí specifickým překážkám. S těmi se setkávají prakticky na všech úrovních. Jednou z nich jsou urážlivé poznámky.**
 
 > „Když jsem vstoupila do politiky, zažila jsem řadu situací, které se mužům kolem mne nestávaly. Od obyčejného „dneska ti to sluší“, přes „slečna je tady kvůli zápisu, že?“ až po „s kým se asi musela vyspat, aby tu dnes mohla být?“. Vždy jsem si připadala jako v padesátých letech minulého století. Nepotřebuji, aby mě někdo hodnotil na základě vzhledu. Neustálé hodnocení zevnějšku je jeden z důvodů, proč je veřejný prostor pro ženy tak odrazující. To musíme změnit," sdílela svou zkušenost s nevyžádanými komentáři lídryně koaliční kandidátky do Poslanecké sněmovny za Středočeský kraj Klára Kocmanová. 
 
