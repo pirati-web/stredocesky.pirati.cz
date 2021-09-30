@@ -85,7 +85,7 @@
               </div>
             </button>
 
-            <button @click="toggleView('calendar');" class="btn btn--inline-icon btn--condensed btn--hoveractive btn--grey-500 btn--to-orange-300 text-sm" :class="{'btn--activated': isCurrentView('calendar')}">
+            <button @click="toggleView('calendar');replaceHTMLEnts();" class="btn btn--inline-icon btn--condensed btn--hoveractive btn--grey-500 btn--to-orange-300 text-sm" :class="{'btn--activated': isCurrentView('calendar')}">
               <div class="btn__body">
                 <i class="btn__inline-icon ico--calendar mr-0 md:mr-2 text-orange-300"></i>
                 <span class="hidden md:block">{{ site.calendar.title }}</span>
@@ -141,3 +141,23 @@
     {% endif %}
   </ui-app>
 </div>
+<script>
+function replaceHTMLEnts() {
+  // Get all <p> elements in the document
+  var x = document.querySelectorAll("p"); 
+  var i;
+  for (i = 0; i < x.length; i++) {
+    x[i].innerHTML=htmlDecode(x[i].innerHTML);
+ 
+  } 
+
+}
+  
+function htmlDecode(input){
+  var e = document.createElement('div');
+  e.innerHTML = input;
+  return e.childNodes.length === 0 ? "" : e.childNodes[0].nodeValue;
+}
+  
+
+</script>
