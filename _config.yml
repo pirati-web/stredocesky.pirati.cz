@@ -142,4 +142,4 @@ assets:
   sources:
     - assets/js
     - assets/img
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.3/assets/img
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
