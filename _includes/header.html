@@ -67,7 +67,7 @@
   </ui-app>
 </nav>
 
-<div class="__js-root">
+<div class="__js-root" @click="replaceHTMLEnts();">
   <ui-app inline-template>
     {% if site.env.GOOGLE_CALENDAR_APIKEY and site.calendar.id %}
       <ui-calendar-google-provider v-slot="{ events, onShowMore, hasMore }" :calendar-id="'{{ site.calendar.id }}'" :api-key="'{{ site.env.GOOGLE_CALENDAR_APIKEY }}'">
@@ -78,7 +78,7 @@
       <nav class="subnav">
         <div class="container container--wide">
           <div class="flex">
-            <button @click="toggleView('regions')" class="btn btn--condensed btn--grey-500 btn--hoveractive btn--to-white text-sm mr-2" :class="{'btn--activated': isCurrentView('regions')}">
+            <button @click="toggleView('regions');" class="btn btn--condensed btn--grey-500 btn--hoveractive btn--to-white text-sm mr-2" :class="{'btn--activated': isCurrentView('regions')}">
               <div class="btn__body">
                 <span>{{ site.organization.name }}</span>
                 <i class="ico--chevron-down ml-4"></i>
@@ -93,7 +93,7 @@
             </button>
 
             {% if calendarProvided %}
-              <a href="#" class="btn text-sm max-w-full hidden lg:block" @click="toggleView('calendar')" v-if="events.length > 0" v-cloak>
+              <a href="#" class="btn text-sm max-w-full hidden lg:block" @click="toggleView('calendar');" v-if="events.length > 0" v-cloak>
                 <div class="btn__body bg-grey-800 text-grey-200 flex divide-x">
                   <span class="pr-4">&#123;{events[0].title}&#125;</span>
                   <span class="pl-4">&#123;{events[0].allDay ? 'Celý den' :  events[0].startDateVerbose + ', ' + events[0].startTimeVerbose}&#125;</span>
@@ -119,7 +119,7 @@
           <ui-region-map class="container container--default" />
         </div>
         <div class="subnav-aside__item" :class="{'subnav-aside__item--visible': isCurrentView('calendar')}">
-          <a @click="toggleView('calendar')" class="subnav-aside__close"><i class="ico--close"></i></a>
+          <a @click="toggleView('calendar');replaceHTMLEnts();" class="subnav-aside__close"><i class="ico--close"></i></a>
           <div class="container container--default">
             {% if calendarProvided %}
               <ui-calendar-renderer :events="events" :on-show-more="onShowMore" :has-more="hasMore" :name="'{{ site.calendar.title }}'"></ui-calendar-renderer>
@@ -150,7 +150,12 @@ function replaceHTMLEnts() {
     x[i].innerHTML=htmlDecode(x[i].innerHTML);
  
   } 
-
+  x = document.querySelectorAll("a"); 
+  for (i = 0; i < x.length; i++) {
+    if (x[i].hasOwnProperty("font-bold") && x[i].hasOwnProperty("block")) {
+          x[i].innerHTML=htmlDecode(x[i].innerHTML);
+     }
+  } 
 }
   
 function htmlDecode(input){
@@ -158,6 +163,5 @@ function htmlDecode(input){
   e.innerHTML = input;
   return e.childNodes.length === 0 ? "" : e.childNodes[0].nodeValue;
 }
-  
-
+ 
 </script>
