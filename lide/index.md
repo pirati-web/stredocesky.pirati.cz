@@ -8,6 +8,9 @@ groups:
   - name: Předsednictvo Středočeského kraje
     category: pks
     sort: ordPKS
+  - name: Senátoři
+    category: senatori
+    sort: ordSenatori
   - name: Poslanci za Středočeský kraj
     category: poslanec
     sort: ordPoslanec
