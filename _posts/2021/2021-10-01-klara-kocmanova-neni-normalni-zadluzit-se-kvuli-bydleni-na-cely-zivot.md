@@ -1,7 +1,7 @@
 ---
 category: blog
 layout: post
-date: 2021-09-27
+date: 2021-10-01
 #published: false
 tags: 
   - volby
