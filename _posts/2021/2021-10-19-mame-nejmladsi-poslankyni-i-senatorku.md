@@ -20,8 +20,8 @@ Středočeští Piráti mají po letošních volbách další prim. Do sněmovny
 
 Nejmladší česká poslankyně se o politiku zajímá už od dětství. Sleduje dění a do veřejného prostoru se doposud zapojovala spíše jako občanská aktivistka. Piráty sledovala již od jejich vzniku a byli jí blízcí svými idejemi i programem. Líbilo se jí, že Česká pirátská strana vznikla odspoda, z iniciativy běžných občanů.  Klára je 1. místopředsedkyní krajského sdružení Pirátů, v Kutné Hoře vede místní buňku a je členkou komisí rady města pro sociální politiku a pro životní prostředí.
 
-> „Na politice mě přitahuje, že můj hlas může být slyšet. A nejlépe toho dosáhnu tím, že v politice budu i vidět. Snažím se vrstevníky motivovat, že politické prostředí můžeme změnit jedině tak, že do něj sami vneseme lepší kulturu. Je to jediný způsob, jak udělat politiku o něco přívětivější,“ uvedla Klára Kocmanová.
-> 
+> „Na politice mě přitahuje, že můj hlas může být slyšet. A nejlépe toho dosáhnu tím, že v politice budu i vidět. Snažím se vrstevníky motivovat, že politické prostředí můžeme změnit jedině tak, že do něj sami vneseme lepší kulturu. Je to jediný způsob, jak udělat politiku o něco přívětivější,“ uvedla Klára Kocmanová. 
+
 Počet žen se ve sněmovně zvýšil na rovných 50 i díky preferenčním hlasům, ke kterým vyzývala např. iniciativa Zakroužkuj ženu, která si dala za cíl změnit poměry mezi muži a ženami v Poslanecké sněmovně. Oproti minulým volbám, kdy věkový průměr u Pirátů byl 34 let, se v rámci zvolených členů v koalici zvýšil na 46,5 roku. Na 50 let, tedy o dva a čtvrt roku, se zvýšil i průměrný věk všech poslanců po těchto volbách.
 
 > „Obávám se, že se nacházíme v takovém začarovaném kruhu, kdy mladí lidé mají v politice malé zastoupení. Tím pádem se tam neakcentují témata, která jsou pro ně důležitá. A proto u nich nevzniká zájem se o to zajímat, nebo se angažovat,“ dodala Klára Kocmanová.
