@@ -13,7 +13,7 @@ author: Soňa Brunnerová
 #authorId: stepan.drtina
 image: posts/2021/2021-10-19-klara-adela1.jpg
 ---
-Středočeští Piráti mají po letošních volbách další prim. Do sněmovny se totiž probojovala naše 28letá kandidátka Klára Kocmanová. Ta nyní patří mezi tři nové poslance mladší 30 let, zároveň se stala nejmladší českou poslankyní. V kategorii "pod 30" je jedinou ženou. Klára Kocmanová pomyslně doplnila právničku Adélu Šípovou, která se před rokem jako první zástupkyně České pirátské strany probojovala do Senátu a stala se nejmladší senátorkou, a to za obvod Kladno.
+Středočeští Piráti mají po letošních volbách další unikát. Do sněmovny se totiž probojovala naše 28letá kandidátka Klára Kocmanová. Ta nyní patří mezi tři nové poslance mladší 30 let, zároveň se stala nejmladší českou poslankyní. V kategorii "pod 30" je jedinou ženou. Klára Kocmanová pomyslně doplnila právničku Adélu Šípovou, která se před rokem jako první zástupkyně České pirátské strany probojovala do Senátu a stala se nejmladší senátorkou, a to za obvod Kladno.
 
 ## Nejmladší poslankyně motivuje mladé k zájmu o politiku
 [Klára Kocmanová](https://stredocesky.pirati.cz/lide/klara-kocmanova/), která do sněmovny usedne po boku ostřílenějších pirátských kolegů Ivana Bartoše, Olgy Richterové a Jakuba Michálka, do voleb šla hned s několika tématy, které chce prosazovat. Zčásti se týkají mladé generace, o kterou se podle Klářiných slov v politickém programu doposud nikdo moc nezajímal.
