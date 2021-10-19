@@ -11,7 +11,7 @@ title: 'Máme nejmladší poslankyni i senátorku!'
 description: 'volby, poslanecká sněmova, senát'
 author: Soňa Brunnerová
 #authorId: stepan.drtina
-image: posts/2021/2021-10-19-klara-adela.jpg
+image: posts/2021/2021-10-19-klara-adela1.jpg
 ---
 Středočeští Piráti mají po letošních volbách další prim. Do sněmovny se totiž probojovala naše 28letá kandidátka Klára Kocmanová. Ta nyní patří mezi tři nové poslance mladší 30 let, zároveň se stala nejmladší českou poslankyní. V kategorii "pod 30" je jedinou ženou. Klára Kocmanová pomyslně doplnila právničku Adélu Šípovou, která se před rokem jako první zástupkyně České pirátské strany probojovala do Senátu a stala se nejmladší senátorkou, a to za obvod Kladno.
 
