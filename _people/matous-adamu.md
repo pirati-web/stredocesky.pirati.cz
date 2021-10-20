@@ -20,7 +20,7 @@ published: true
 ---
 
 
-**Matouš Adamů** (* 27.dubna 1998) je členem MS Pirátů v Mladé Boleslavi a od roku 2021 předsedou tamního MS. Angažuje se také v karjském mediálním odboru a u Mladých Pirátů. Pochází z Mladé Boleslavi, kde vystudoval střední školu v oboru se zaměřením na dopravu a logistiku. Aktuálně pracuje jako IT podpora u jednoho ze tří hlavních mobilních operátorů.
+**Matouš Adamů** (* 27.dubna 1998) je členem Pirátů v Mladé Boleslavi a od roku 2021 předsedou tamního MS. Angažuje se také v krajském mediálním odboru a u Mladých Pirátů. Pochází z Mladé Boleslavi, kde vystudoval střední školu v oboru se zaměřením na dopravu a logistiku. Aktuálně pracuje jako IT podpora u jednoho ze tří hlavních mobilních operátorů.
 
 Pirátskou stranu vidí jako politickou stranu, která má ambice digitalizovat Česko a již nyní je silnou opozicí konvenčním politickým stranám.
 
