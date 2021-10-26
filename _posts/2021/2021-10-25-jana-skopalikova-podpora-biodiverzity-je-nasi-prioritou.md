@@ -21,3 +21,4 @@ Zastupitelstvo kraje schválilo poskytnutí dvou individuálních dotací na kof
 Projekt **Budování a obnova tůní na Podblanicku** je zaměřen na přírodovědně cenné mokřadní louky, z nichž některé jsou vyhlášené i jako Evropsky významná lokalita Podlesí. Na loukách dojde k odstranění náletových dřevin a obnoví se nebo vytvoří nové tůně pro obojživelníky. Na lokalitu již byly navráceny rovněž vzácné druhy rostlin.
 
 Druhým podpořeným projektem je **Revitalizace Jizbické pískovny**. Tento projekt řeší revitalizaci území s ekologicky cenným ekosystémem. Tím vytvoří a posílí jednak stabilní stanoviště pro ohrožené druhy živočichů, ale zároveň též zpřístupní areál bývalé pískovny veřejnosti. Součástí projektu je také vybudování naučné stezky.
+ 
