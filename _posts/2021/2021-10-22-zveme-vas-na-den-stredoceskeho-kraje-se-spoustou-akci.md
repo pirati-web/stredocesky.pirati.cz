@@ -4,10 +4,10 @@ layout: post
 date: 2021-10-22
 #published: false
 tags: 
-  - životní prostředí
-  - tisková zpráva
+  - kultura
+  - krajská politika
 title: 'Zveme vás na Den Středočeského kraje se spoustou akcí'
-description: 'životní prostředí, tisková zpráva'
+description: 'kultura, krajská politika'
 author: Soňa Brunnerová
 #authorId: stepan.drtina
 image: posts/2021/2021-10-22-lucie.jpg
