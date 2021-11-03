@@ -1,6 +1,6 @@
 ---
 title: BEZPEČNOST a POŘÁDEK  
-campaignCategoryUid: 2018-komunalni
+campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2018
 uid: participace
 order: 4
