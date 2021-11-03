@@ -2,8 +2,8 @@
 title: BEZPEČNOST a POŘÁDEK  
 campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
-uid: sluzby
-order: 4
+uid: sluzby2
+order: 1
 garant: lukas.kohout
 redmine: 29093
 img: program/sluzby.jpg
