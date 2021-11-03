@@ -4,7 +4,7 @@ campaignCategoryUid: 2020-krajske-plneni
 campaignGroupUid: volby-2020
 uid: sluzby
 order: 4
-garant: pavel.nazarsky
+garant: lukas.kohout
 redmine: 29093
 img: program/sluzby.jpg
 intro: > 
