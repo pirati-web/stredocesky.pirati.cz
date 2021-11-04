@@ -28,7 +28,7 @@ Jednou ze zastávek výjezdu na Dobříšsko byla návštěva v Budínku u Dobř
 S řediteli kulturních příspěvkových organizací  se [Lucie Cirkva Chocholová](https://stredocesky.pirati.cz/lide/lucie-chocholova/) setkává pravidelně. V rámci návštěvy Dobříšska byla na programu prohlídka **Památníku Karla Čapka** ve Staré Huti u Dobříše. 
 > „Byla jsem ráda, že to jak se daří realizovat projekty v této krajské kulturní instituci, mohli vidět i moji kolegové radní. Stálá expozice zde prochází v různých etapách obměnou. V rámci Dne Středočeského kraje 28. října si můžete památník prohlédnout zdarma,“ pochválila tuto iniciativu předsedkyně výboru .
 
-{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-10-27-chocholova.jpg' alt='Lucie Cirkva Chocholová' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-10-27-chocholovajpg.jpg' alt='Lucie Cirkva Chocholová' %}
 
 Na závěr se konaly dvě debaty. První byla určena pro vedení obcí ORP Dobříš, druhá pro širokou veřejnost. Moc děkujeme všem účastníkům. Tradičně se hojně diskutovalo o opravách silnic, dostupnosti veřejné dopravy, ale i o školství, kultuře, životním prostředí či územním plánování.
 
