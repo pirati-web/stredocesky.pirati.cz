@@ -5,8 +5,8 @@ titles:
   before: 
   after:
 category:
-  - poslanec
-description: poslankyně Parlamentu ČR
+  - rv
+description: vychovatelka
 img: people/lenka-kozlova.jpg
 #ordPoslanec: 1
 asistenti:
@@ -25,16 +25,14 @@ profiles:
   googleplus: https://plus.google.com/u/0/109672280399174717475
   twitter: https://twitter.com/Kozlova_Pirati
   web: http://lenkakozlova.cz/
-office:
-  - address: Malostranské náměstí 7/19, 118 26  Praha 1 – Malá Strana
-    name: Poslanecký klub České pirátské strany
+ 
 #    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 heroImg: banner-kutna-hora.jpg
 published: true
 ---
 V profesním životě prošla několika zaměstnáními, nejcennější zkušenosti z počátku kariery má z pětiletého období působení ve funkci samostatného provozního technika v DP HMP METRO. Tam se musela naučit, jak spoustu technických záležitostí, tak pracovat s podřízenými a vést kolektiv. Po přestěhování z Prahy a po mateřské dovolené byla nucena úplně změnit obor. Vybrala si vychovatelství a doplnila si vzdělání – DPS na UK. Pracovala 13 let jako vychovatelka v dětském domově. Později pak v jiném zařízení, na stejné pozici až do října 2017.
 
-V parlamentních volbách 2017 byla za Piráty zvolena do PS PČR. Je předsedkyní Podvýboru pro mládež a volnočasové aktivity, členkou a ověřovatelkou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu, členkou Podvýboru pro kulturu, Podvýboru pro mládež a volnočasové aktivity, Podvýboru pro náhradní výchovnou péči, Podvýboru pro regionální školství a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny.
+V parlamentních volbách 2017 byla za Piráty zvolena do PS PČR. Byla předsedkyní Podvýboru pro mládež a volnočasové aktivity, členkou a ověřovatelkou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu, členkou Podvýboru pro kulturu, Podvýboru pro mládež a volnočasové aktivity, Podvýboru pro náhradní výchovnou péči, Podvýboru pro regionální školství a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny.
 
 ## Doba před Piráty
 
