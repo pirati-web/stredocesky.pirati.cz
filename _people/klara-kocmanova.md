@@ -6,8 +6,9 @@ titles:
   after: 
 category:
   - pks
+  - poslanec
   - kandidat-2018-komunalni-kutna_hora
-description: 1. místopředsedkyně krajského sdružení
+description: poslankyně Parlamentu ČR, 1. místopředsedkyně krajského sdružení
 ordPKS: 2
 img: people/klara-kocmanova.jpg
 mail:
@@ -24,7 +25,7 @@ heroImg: banner-kutna-hora.jpg
 published: true
 ---
 
-**Klára Kocmanová** (* 5. listopadu 1992) pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Dlouhodobě se věnuje sociálním tématům a životnímu prostředí. Momentálně je v Kutné Hoře předsedkyní místního sdružení Pirátů, v komunální politice pak členkou komise pro sociální záležitosti a komise pro životní prostředí. Dříve pracovala na Krajském úřadě Středočeského kraje jako referentka, poté jako provozní pražské čokoládovny, koordinátorka středočeských Pirátů a pravá ruka senátorky Adély Šípové. Ráda čte, vaří, fotografuje, hraje na baskytaru a jezdí na koni.
+**Klára Kocmanová** (* 5. listopadu 1992) pochází z Kutné Hory, kde odmaturovala na Církevním Gymnáziu. Dlouhodobě se věnuje sociálním tématům a životnímu prostředí. Zvolená v říjnu 2021 poslankyní Parlamentu České Republiky je v Kutné Hoře předsedkyní místního sdružení Pirátů, v komunální politice pak členkou komise pro sociální záležitosti a komise pro životní prostředí. Dříve pracovala na Krajském úřadě Středočeského kraje jako referentka, poté jako provozní pražské čokoládovny, koordinátorka středočeských Pirátů a pravá ruka senátorky Adély Šípové. Ráda čte, vaří, fotografuje, hraje na baskytaru a jezdí na koni.
 
 ### Související články
 * [Středočeská lídryně Klára Kocmanová se představila na celostátním fóru Pirátů](/aktuality/stredoceska-lidryne-klara-kocmanova-se-predstavila-na-celostatnim-foru-piratu.html)
