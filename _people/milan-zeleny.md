@@ -1,7 +1,7 @@
 ---
 uid: milan.zeleny
 name: Milan Zelený
-description: krajský zastupitel, místopředseda Výboru pro sociální věci
+description: krajský zastupitel, místopředseda Komise pro bezpečnost a IZS
 titles:
   before: Bc.
   after:
