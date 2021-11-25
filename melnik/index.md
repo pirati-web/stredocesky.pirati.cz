@@ -62,9 +62,9 @@ Po studiích jsem získala práci snů v americké firmě, která obchodovala s 
 
 ## SOCIÁLNÍ SÍTĚ
 ### Facebook
-[Piráti Mělník](https://www.facebook.com/PiratiMelnik)
-[Piráti Kralupy](https://www.facebook.com/PiratiKralupy)
-[Piráti Neratovice](https://www.facebook.com/PiratiNeratovice)
-Skupina pro příznivce [Pirátské podpalubí Kralupy nad Vltavou, Mělník a Neratovice](https://www.facebook.com/groups/387700292119119)
+* [Piráti Mělník](https://www.facebook.com/PiratiMelnik)
+* [Piráti Kralupy](https://www.facebook.com/PiratiKralupy)
+* [Piráti Neratovice](https://www.facebook.com/PiratiNeratovice)
+* Skupina pro příznivce [Pirátské podpalubí Kralupy nad Vltavou, Mělník a Neratovice](https://www.facebook.com/groups/387700292119119)
 ### Instagram
-[Piráti Mělník](https://www.instagram.com/piratimelnik/)
+* [Piráti Mělník](https://www.instagram.com/piratimelnik/)
