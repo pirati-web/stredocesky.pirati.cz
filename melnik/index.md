@@ -13,9 +13,9 @@ board:
    - position: Předseda
      uid: lukas.kohout
    - position: 1. místopředsedkyně
-     uid: Jana Szeryńská
+     name: Jana Szeryńská
    - position: 2. místopředseda
-     uid: Martin Vlček
+     name: Martin Vlček
 mail: 
    - melnik@pirati.cz
 profiles:
