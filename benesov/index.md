@@ -7,8 +7,8 @@ rbar:
   - profiles
 boardName: Předsednictvo
 boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=44238
-    endDate: 25.10.2020
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=969&t=54311
+    endDate: 28.11.2022
 board:
    - position: Předseda
      uid: vaclav.kubaljak
