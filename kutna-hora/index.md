@@ -7,8 +7,8 @@ rbar:
   - profiles
 boardName: Předsednictvo
 boardTurn:
-    electionUrl: https://forum.pirati.cz/viewtopic.php?t=45520
-    endDate: 21.1.2021
+    electionUrl: https://forum.pirati.cz/viewtopic.php?f=1022&t=53081
+    endDate: 22.6.2022
 board:
    - position: Předseda
      uid: milan.zeleny
