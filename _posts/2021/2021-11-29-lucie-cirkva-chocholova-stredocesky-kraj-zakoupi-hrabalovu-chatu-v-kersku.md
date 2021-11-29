@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2021-11-29
-published: false
+#published: false
 tags: 
   - kultura
   - krajská politika
