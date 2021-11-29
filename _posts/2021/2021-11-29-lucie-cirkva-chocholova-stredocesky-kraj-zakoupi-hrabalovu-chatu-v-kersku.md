@@ -27,6 +27,6 @@ Po několika jednáních se povedlo s majitelem nemovitosti nalézt kompromisn�
 
 > "Zachování Hrabalovy chaty a její plánované otevření veřejnosti je skvělým krokem Středočeského kraje. Bohumil Hrabal svým dílem dalece přesahuje hranice kraje a v mnoha svých dílech i České Republiky. Otevření expozice o životě a díle tohoto velikána přímo v jeho chatě v prostoru Kerského lesa na Nymbursku přispěje k rozvoji turistiky a cestovního ruchu v této oblasti," pochvaluje si tento krok nyburský rodák a krajský zastupitel za Piráty [Petr Procházka](https://stredocesky.pirati.cz/lide/petr-prochazka/).
 
-{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-11-29-petr.jpg' alt='Petr Procházka' %}Petr Procházka s historikem a starostou Nymburka PhDr. Pavlem Fojtíkem na zasedání krajského zastupitelstva.
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2021/2021-11-29-petr.jpg' alt='Petr Procházka' %}Petr Procházka s historikem Polabského muzea, krajským zastupitelem a místopředsedou Výboru pro památkovou péči, kulturu a cestovní ruch PhDr. Pavlem Fojtíkem na zasedání zastupitelstva.
 
 Návštěvníkům bude chata přístupná již během příštího roku v rámci tradiční akce Hrabalovo Kersko. Finální podobu pro komplexní využití plánovaného programu bude mít objekt v roce 2024.
