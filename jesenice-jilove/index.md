@@ -44,10 +44,14 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 # Aktivity MS
 
+##### 2022
+
+* pravidelně každá středa v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých místech na našem území)
+
 ##### 2021
 
-* pravidelně každý třetí čtvrtek v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých obcích na našem území)
-* dále se účastníme kontaktní kampaně pro volby do Sněmovny
+* pravidelně každý třetí čtvrtek (od prosince středa) v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých místech na našem území)
+* více různých aktivit v rámci kontaktní kampaně pro volby do Sněmovny
 
 ##### 2020
 
