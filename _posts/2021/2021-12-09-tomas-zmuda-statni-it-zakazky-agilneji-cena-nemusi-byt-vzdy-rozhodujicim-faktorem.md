@@ -9,12 +9,14 @@ tags:
 title: 'Tomáš Zmuda: Státní IT zakázky agilněji? Cena nemusí být vždy rozhodujícím faktorem!'
 description: 'digitalizace, krajská politika'
 author: Mediální odbor
-#authorId: lucie.chocholova
+authorId: tomas.zmuda
 image: posts/2021/2021-12-09-tenderthon1.jpg
 ---
 
 Agilita neboli agilní vývoj nemusí být jen dominantou soukromých firem. Jedná se o moderní nástroj, díky kterému dokáže zadavatel pružněji reagovat a zachycovat změny na trhu ve svůj prospěch. Cílem je po dobu celé realizace zakázky splnit individuální a proměnlivé potřeby zadavatele. 
+
 Standardně to nyní funguje tak, že státní správa navrhne zadání ve formě více či méně pečlivě definovaných funkčních a nefunkčních požadavků, to poté soutěží na otevřeném trhu a zakázka má většinou jen jedno hodnotící kritérium; cena. Nicméně praxe ukazuje dvě úskalí, cena neukáže kvalitu dodavatele a potřeby zadavatele se mohou měnit (a také se mění) v průběhu plnění. Dodavatel je ale svázán zadáním a změny v plnění pak způsobují nechvalně známé vícepráce. 
+
 Jak se i ve státní sféře posunout od ceny ke kvalitě, nad tím se na pilotním ASWA Tenderthonu 19. 11. v pražském Karlíně bavili zástupci Středočeského kraje a Asociace softwarových agentur, které reprezentovaly agentury Applifting, NetGlade a Synetech. Od zástupců Středočeského kraje dostaly agentury zadání, na které měly během 3 hodin připravit nabídky. Ty pak společně vyhodnocovali a detailně prodiskutovali.
 
 > „Spolupráce vznikla tak, že jsme se jako první kraj stali členem spolku Otevřená města, a přes něj a Martina Šebka jsme se propojili. Cílem Tenderthonu bylo získat argumenty pro to, že cena jako 100% rozhodovací faktor při zadávání software zakázky je nesmysl. Dobře napsané zadání a důraz na kvalitu je ideální pro úředníky i bezproblémové užívání produktu,“ říká místopředseda Výboru pro digitalizaci a chytrý kraj Tomáš Zmuda.
