@@ -7,7 +7,7 @@ tags:
   - životní prostředí
   - NP Křivoklátsko
   - krajská politika
-title: 'Jana Skopalíková: Zahájila jsme diskusi s obcemi o záměru vyhlášení NP Křivoklátsko!'
+title: 'Jana Skopalíková: Zahájila jsem diskusi s obcemi o záměru vyhlášení NP Křivoklátsko!'
 description: 'digitalizace, krajská politika'
 author: Mediální odbor
 #authorId: lucie.chocholova
