@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2021-12-10
-published: false
+#published: false
 tags: 
   - životní prostředí
   - NP Křivoklátsko
