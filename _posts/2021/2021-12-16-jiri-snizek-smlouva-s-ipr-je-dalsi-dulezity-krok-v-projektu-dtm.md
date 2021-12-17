@@ -11,7 +11,7 @@ title: 'Jiří Snížek: Smlouva s IPR je další důležitý krok v projektu DT
 description: 'krajská politika, regionální rozvoj, digitalizace'
 author: Mediální odbor
 #authorId: lucie.chocholova
-image: posts/2021/2021-12-16-jana.jpg
+image: posts/2021/2021-12-16-jirka.jpg
 ---
 
 *Praha 16. prosince 2O21 -* **Na dnešním zasedání schválila Rada Středočeského kraje třístrannou Smlouvu o spolupráci při vytvoření a zajištění provozu, správy a aktualizace datového obsahu informačního systému digitální technické mapy. Na činnosti by kraj spolupracoval nejen s hlavním městem Prahou, ale také Institutem plánování a rozvoje hlavního města Prahy. Podpisu smlouvy musí předcházet kladné stanovisko obou zastupitelstev.**  
