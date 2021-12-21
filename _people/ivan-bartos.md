@@ -1,6 +1,7 @@
 ---
 uid: ivan.bartos
 name: Ivan Bartoš
+published: false
 titles:
   before: PhDr.
   after: Ph.D.
