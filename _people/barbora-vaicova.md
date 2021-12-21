@@ -11,7 +11,7 @@ category:
   - kontaktni_osoba
 ordDalsi: 1
 ordKontaktni_osoba: 1
-img: people/barbora-vaicova.jpg
+img: people/barbora-knotova-vaicova.jpg
 mail:
   - barbora.knotova.vaicova@pirati.cz
 mob:
