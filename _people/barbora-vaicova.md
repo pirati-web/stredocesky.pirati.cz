@@ -1,6 +1,6 @@
 ---
-uid: barbora.vaicova
-name: Barbora Vaicová
+uid: barbora.knotova.vaicova
+name: Barbora Knotová Vaicová
 titles:
   before: 
   after:
@@ -13,7 +13,7 @@ ordDalsi: 1
 ordKontaktni_osoba: 1
 img: people/barbora-vaicova.jpg
 mail:
-  - barbora.vaicova@pirati.cz
+  - barbora.knotova.vaicova@pirati.cz
 mob:
   - +420 770 113 640
 profiles:
@@ -22,7 +22,7 @@ profiles:
   twitter: 
   linkedin: 
   web: 
-heroImg: banner-kutna-hora.jpg
+heroImg: banner-rakovnik.jpg
 published: true
 ---
-**Barbora Vaicová** je koordinátorkou Pirátů Středočeského kraje.
+**Barbora Knotová Vaicová** je koordinátorkou Pirátů Středočeského kraje.
