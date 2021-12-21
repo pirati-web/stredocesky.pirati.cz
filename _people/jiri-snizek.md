@@ -50,4 +50,3 @@ Celkem 7 let jsem spolupracoval s firmou [Alis s r.o.](http://www.alis.cz) Pro n
 
 [Kalendář](https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html)
 
-<iframe src=https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
