@@ -5,7 +5,6 @@ titles:
   before: PhDr.
   after: Ph.D.
 category:
-  - poslanec
 description: poslanec Parlamentu ČR
 img: people/ivan-bartos.jpg
 #ordPoslanec: 1
