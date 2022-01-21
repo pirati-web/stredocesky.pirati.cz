@@ -35,4 +35,4 @@ Projekt je fázi příprav a bude ho projednávat centrální **komise Ministers
 
 Cena Koridoru D204 se pohybuje kolem 40 miliard korun, hlavním investorem je Správa železnic. Výstavba by podle plánů mohla začít v roce 2035 a **první cestující by ji využili kolem roku 2040**.
 
-<iframe width="100%" height="500" src="https://light.polar.cz/videa/prahatv/zpravy/publikovano/2022/01/13/k02386_kraj_chysta_stavbu_noveho_zeleznicniho_koridoru_lq.mp4" frameborder="0"></iframe>
+<iframe width="100%" height="100%" src="https://light.polar.cz/videa/prahatv/zpravy/publikovano/2022/01/13/k02386_kraj_chysta_stavbu_noveho_zeleznicniho_koridoru_lq.mp4" frameborder="0"></iframe>
