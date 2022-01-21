@@ -15,7 +15,7 @@ author: Jan Macal
 image: posts/2021/2021-12-16-jirka.jpg
 ---
 
-**Radní pro regionální rozvoj Jiří Snížek a místopředseda Výboru pro dopravu Jan Líčka podpořili výstavbu nového železničního Koridoru D204. Ten by měl ulehčit dopravě mezi Benešovem a Prahou, rozšířit trať o 3 nové zastávky a vlaky v novém úseky budou moct jezdit až 200 km/h.**
+**Radní pro regionální rozvoj Jiří Snížek a místopředseda Výboru pro dopravu Jan Lička podpořili výstavbu nového železničního Koridoru D204. Ten by měl ulehčit dopravě mezi Benešovem a Prahou, rozšířit trať o 3 nové zastávky a vlaky v novém úseky budou moct jezdit až 200 km/h.**
 
 ## Stávající trať je přetížená a populace regionu bude růst
 Ačkoliv spoje mezi Benešovem a Prahou jezdí ve zhruba v půlhodinových intervalech, často se stává, že na některé cestující **už ve vlacích nezbývá místo**. Počet obyvatel v regionu bude navíc nadále růst. Podle prognózy Přírodovědecké fakulty UK **přibyde ve Středočeském kraji 900 tisíc obyvatel** do roku 2050. 
