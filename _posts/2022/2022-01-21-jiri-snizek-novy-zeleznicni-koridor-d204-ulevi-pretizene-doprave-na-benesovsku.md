@@ -20,7 +20,7 @@ image: posts/2021/2021-12-16-jirka.jpg
 ## Stávající trať je přetížená a populace regionu bude růst
 Ačkoliv spoje mezi Benešovem a Prahou jezdí ve zhruba v půlhodinových intervalech, často se stává, že na některé cestující **už ve vlacích nezbývá místo**. Počet obyvatel v regionu bude navíc nadále růst. Podle prognózy Přírodovědecké fakulty UK **přibyde ve Středočeském kraji 900 tisíc obyvatel** do roku 2050. 
 
-Osobní dopravě by podle návrhu Správy železnic měl ulevit Koridor D204. Ten bude součástí vysokorychlostní trati Praha - Brno - Břeclav. Nová trasa se napojí v Bystřici u Benešova a vzniknou na ní **tři nové zastávky**: ve Velkých Popovicích, v Nespekách a v lokalitě Lipany.
+Osobní dopravě by podle návrhu Správy železnic měl ulevit Koridor D204. Ten bude součástí konvenční trati Praha - Brno - Břeclav. Nová trasa se napojí v Bystřici u Benešova a vzniknou na ní **tři nové zastávky**: ve Velkých Popovicích, v Nespekách a v lokalitě Lipany.
 
 > “Vznikne úplně nová trať, kde budou vlaky jezdit rychleji, až 200 km/h. Nová trať pomůže Středočechům přímo v dotčených obcích, kde budou zastávky. A zároveň bude sloužit jako spádová zastávka pro okolní obce. Lidé přijedou autem na zastávku a dál už budou pokračovat rychlým vlakem do Prahy,” uvedl [Jiří Snížek](https://stredocesky.pirati.cz/lide/jiri-snizek/), náměstek hejtmanky Středočeského kraje a radní pro regionální rozvoj.
 
