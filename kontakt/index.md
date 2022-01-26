@@ -7,7 +7,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 contactPersons:
   contentSize: even
 contactPersons:
-  - id: barbora.vaicova
+  - id: barbora.knotova.vaicova
     position: Koordinátorka dobrovolníků pro Středočeský kraj
   - id: monika.kuncova
     position: Koordinátorka dobrovolníků pro Středočeský kraj
