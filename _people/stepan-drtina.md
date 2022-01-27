@@ -16,7 +16,7 @@ mob:
   - +420 775 221 705
 profiles:
   github:
-  facebook: https://www.facebook.com/PiratStepanDrtina
+  facebook: https://www.facebook.com/stepandrtina/
   twitter: https://twitter.com/DrtinaStepan
   linkedin:
 heroImg: banner-kutna-hora.jpg
