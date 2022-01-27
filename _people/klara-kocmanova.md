@@ -17,7 +17,7 @@ mob: +420 733 765 433
  # -
 profiles:
   github:
-  facebook: https://www.facebook.com/PiratkaKlaraKocmanova
+  facebook: https://www.facebook.com/KlaraKocmanovaPiratka
   twitter: https://twitter.com/KlaraKocmanova
   linkedin: https://www.linkedin.com/in/klára-kocmanová-197b751a1
   instagram: https://www.instagram.com/klara_kocman/
