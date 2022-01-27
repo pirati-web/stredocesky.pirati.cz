@@ -22,9 +22,9 @@ office:
   - address: Antuškova, 256 01 Benešov
     name: PiCe KoZa 
 profiles:
-   facebook: "https://www.facebook.com/piratskapalubaBN/"
-   instagram: "https://www.instagram.com/pirati.benesov/"
-   forum: "https://forum.pirati.cz/viewforum.php?f=967"
+   facebook: https://www.facebook.com/piratibenesov
+   instagram: https://www.instagram.com/pirati.benesov/
+   forum: https://forum.pirati.cz/viewforum.php?f=967
 ---
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/clenove-small.jpg' alt='clenove' %}
 
