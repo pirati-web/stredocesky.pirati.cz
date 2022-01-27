@@ -16,7 +16,7 @@ mob:
   - +420 728 270 457
 profiles:
   github:
-  facebook: https://www.facebook.com/snajdr.v
+  facebook: https://www.facebook.com/V%C3%ADt-%C5%A0najdr-101837282359785/
   twitter:
   linkedin:
 heroImg: banner-kutna-hora.jpg
