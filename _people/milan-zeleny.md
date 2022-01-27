@@ -14,9 +14,9 @@ mail:
 mob:
   - +420 723 929 899
 profiles:
- - linkedin: "https://www.linkedin.com/in/milan-zelen%C3%BD-2388871a9/"
+  facebook: "https://www.facebook.com/milan.zeleny.98"
+  linkedin: "https://www.linkedin.com/in/milan-zelen%C3%BD-2388871a9/"
  - youtube: "https://www.youtube.com/watch?v=-Eft6To5_kQ"
- - facebook: "https://www.facebook.com/milan.zeleny.98"
 heroImg: banner-kutna-hora.jpg
 published: true
 ---
