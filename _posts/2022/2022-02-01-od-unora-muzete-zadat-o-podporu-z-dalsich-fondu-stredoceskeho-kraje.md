@@ -11,7 +11,7 @@ title: 'Od února můžete žádat o podporu z dalších fondů Středočeského
 description: '  - krajská politika, fondy, tisková zpráva'
 author: Mediální odbor
 #authorId: lukas.kohout
-image: posts/2021/2022-02-01-zastupitele1.jpg
+image: posts/2022/2022-02-01-zastupitele1.jpg
 ---
 
 **Fond hejtmanky, Fond na podporu obecního bydlení či Infrastrukturní fondy, tentokrát na drobné vodohospodářské projekty a na podporu rozvoje a obnovy základních škol. To jsou další ze Středočeských fondů, které se v únoru otevřou novým žadatelům. Kromě toho je stále možnost čerpat z Fondu obnovy venkova, který je určen na podporu rozvoje obcí do 2000 obyvatel.**
