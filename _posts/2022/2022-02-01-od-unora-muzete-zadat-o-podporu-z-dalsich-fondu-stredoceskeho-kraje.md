@@ -34,7 +34,7 @@ Maximální výše dotace je 1 milion korun. Je důležité zmínit, že Fond na
 Další oblastí, na kterou jsou v rámci Infrastrukturního fondu vyčleněné finance je podpora rozvoje a obnovy základních a mateřských škol. Od 1. do 18. února se otevírá pouze jedna část tohoto programu. Jde o projekty podpořené z Ministerstva financí v působnosti obcí v roce 2020. Místopředsedkyně Výboru pro výchovu, vzdělávání a zaměstnanost [Mgr. Simona Luftová](https://stredocesky.pirati.cz/lide/simona-luftova/)  k tomu doplňuje: 
 > „Kvalita života rodin s dětmi ve velké míře závisí i na dostupnosti vzdělání. První na řadě jsou pochopitelně mateřské a základní školy. Snažíme se obce v jejich snahách o zabezpečení dostatečného počtu míst ve školkách a školách maximálně podporovat.“ 
 
-Maximální výše jednotlivé dotace pro Projekty podpořené z MF v působnosti obcí, je 10 milionů korun. Pro další části z tohoto programu bude výzva otevřena v dubnu 2022. Více informací najdete ZDE.
+Maximální výše jednotlivé dotace pro Projekty podpořené z MF v působnosti obcí, je 10 milionů korun. Pro další části z tohoto programu bude výzva otevřena v dubnu 2022. Více informací najdete [ZDE](https://www.kr-stredocesky.cz/web/odbor-rizeni-dotacnich-projektu/stredocesky-infrastrukturni-fond).
 
 ### Řešení krize bydlení
 Dalším fondem, ze kterého mohou obce čerpat finanční prostředky je Fond na podporu obecního bydlení. 
