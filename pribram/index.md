@@ -11,7 +11,7 @@ boardTurn:
     endDate: 18.04.2022
 board:
    - position: Předseda
-     uid: josef.bouse
+     uid:
    - position: 1. místopředseda
      uid: simona.luftova
    - position: 2. místopředseda
@@ -50,8 +50,7 @@ Nestihli jste zasedání zastupitelstva ? Můžete jej shlédnout zpětně onlin
 <div markdown="1" class="c-profile-badge">
 {% asset 'https://a.pirati.cz/stredocesky/img/ms/pribram/josef-bouse.jpg' alt='Josef Bouše' align='left' width='200px' style='margin: 20px 30px 10px 30px;' %} **Josef Bouše** je pirát a aktivní člen MS Příbram od roku 2017. Současně je členem dopravní komise města Příbram a pracuje jako IT specialista v korporátní potravinářské firmě. Zde má na starosti část IT, která spravuje výrobní prostory a administrativu, ale jeho práce je velice pestrá. 
 Ve volném čase se věnuje opět IT, programuje, opravuje a staví počítače a spoustu dalšího. Příležitostně fotí a zbytek času tráví s rodinou. Baví ho karetní a deskové hry, jako například Magic the Gathering a také DnD s přáteli.
-Aktuálně je předsedou MS Příbram. Snaží se o zlepšení a prosazení Pirátů v Příbrami. Aktivně se účastní krajských a místních Pirátských schůzí a dalších akcí. 
-Rád by aby lidé mohli o svém městě rozhodovat, proto se snaží podpořit co nejvíce lidí, aby byli slyšet. Dříve si myslel, že jedinec nemůže nic změnit, ale nechtěl si jen stěžovat a přihlížet a díky Pirátům se může zapojit a dnes ví, že na každém záleží. Dokonce i jediný hlas může měnit, ať už na komunální úrovni tak i jinde.
+Aktuálně je předsedou KS Středočeský kraj. Aktivně se účastní krajských a místních Pirátských schůzí a dalších akcí. Rád by aby lidé mohli o svém městě rozhodovat, proto se snaží podpořit co nejvíce lidí, aby byli slyšet. Dříve si myslel, že jedinec nemůže nic změnit, ale nechtěl si jen stěžovat a přihlížet a díky Pirátům se může zapojit a dnes ví, že na každém záleží. Dokonce i jediný hlas může měnit, ať už na komunální úrovni tak i jinde.
 </div>
 
 <div markdown="1" class="c-profile-badge">
