@@ -15,7 +15,7 @@ board:
    - position: 1. místopředseda
      name: Vojtěch Lukavec
    - position: 2. místopředseda
-     name: Petr Hladký
+     name: Alena Klimtová
 mail: 
   - petr.prochazka@pirati.cz
 office:
