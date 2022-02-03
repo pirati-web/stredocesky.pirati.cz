@@ -14,8 +14,8 @@ board:
      name: Sámir Shanaáh
    - position: 1. místopředseda
      name: Pavel Kešner
-   - position: 2. místopředseda
-     name: Vojtěch Vopařil
+   - position: 2. místopředsedkyně
+     name: Klára Kadár
 mail: 
   - beroun@pirati.cz
 mob:
@@ -47,16 +47,6 @@ Sámir se narodil v Praze a nyní již několik let žije v Berouně. Vystudoval
 
 Pavel se narodil v Berouně. Několik let žil v Králově Dvoře. Po studiu se rozhodl vrátit zpět do Berouna, kde dnes žije. Živí se jako podnikatel v několika oborech, mezi něž patří autodoprava a gastro provoz. V životě ho naplňuje pocit adrenalinu a objevování nových věcí. Politiku vnímá jako důležitý nástroj pro budování lepší budoucnosti. Pavel rád cestuje, objevuje nové technologie a trendy.
 
-**Vojtěch Vopařil - místopředseda Místního sdružení Beroun**
-
-Vojtěch se narodil v roce 1989  v Berouně, kde také, až na čtyřletý odskok do Poděbrad po přelomu tisíciletí, celý život žije. Vystudoval osmileté gymnázium a následně bakalářský i magisterský program Informatika se zaměřením na Softwarové inženýrství na Fakultě informačních technologií ČVUT. Pracuje jako softwarový vývojář pro zdravotnický holding AKESO, pod nějž spadá mimo jiné berounská nemocnice.
-
-S Pirátskou stranou začal sympatizovat již krátce po jejím založení, a to zejména pro nespokojenost s byrokracií, korupcí a v neposlední řadě technickou zaostalostí ze strany státního aparátu. Jeho vizí je moderní stát, který bude občanovi dobrým pomocníkem, ale který se zároveň nebude pasovat do role občanova rodiče.
-
-**David Hösl - člen místního sdružení Beroun**
-
-David se narodil v roce 1985 v Domažlicích. Vyrůstal ve Staňkově a dospíval v Plzni, kde studoval osmileté sportovní gymnázium, jehož studium narušilo zranění. Od svých 17 až do svých 24 pracoval v Plzni v gastronomii a následně v kasínu. Ve 25 letech se odstěhoval do Prahy a vrátil se ke sportu jak kariérně tak rekreačně. Od roku 2016 žije v Králově Dvoře se svou partnerkou a synem v rodinném domku v Popovicích. Velmi rád cestuje, běhá a zdolává překážky. Má rád výzvy a těžkou nebo složitou práci. O politiku se zajímá od puberty, pirátem se cítil tak nějak vždycky, oficiálním Pirátem je od roku 2018.
-
 **Klára Kadár - členka místního sdružení Beroun**
 
 Klára Kadár pochází z Krkonoš a nyní několik let žije v Hýskově. Vystudovala literární historii
@@ -71,7 +61,3 @@ sociálních věcí. Ve volném čase ráda cestuje, jezdí na motorce a na koni
 čas zabírá potomek, proto svůj zájem přesměrovala na zahradu, kde zahájila své pěstitelské
 pokusy. S Piráty sympatizuje řadu let a má ráda čitelnost a stabilitu jejich politiky. Ve straně se chce
 zaměřit především na sociální témata.
-
-**Milan Svoboda - člen místního sdružení Beroun**
-
-je studentem Farmaceutické fakulty Univerzity Karlovy, kde ho letos čekají státní zkoušky. V rámci Pirátů se zaměřuje na témata registrace léčiv a zdraqvotnictví, ke kterým má vztah. V MS Beroun se zapoje především v organizačních a technických záležitostech, nyní čerstvě řeší dva projekty s účastí MS a Berounskou zelení. Mezi jeho záliby patří příroda, běh, blockchain a celá řada dalších koníčků, na které už mu kvůli jeho vytížení mnoho času nezbýává.
