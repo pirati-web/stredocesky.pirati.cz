@@ -7,7 +7,7 @@ tags:
   - krajská politika
   - sociální politika
   - tisková zpráva
-title: 'Milan Zelený: Pomáháme znevýhodněním prožívat plnohodnotný život!'
+title: 'Milan Zelený: Pomáháme znevýhodněným prožívat plnohodnotný život!'
 description: 'krajská politika, sociální politika, tisková zpráva'
 author: Mediální odbor
 #authorId: lukas.kohout
