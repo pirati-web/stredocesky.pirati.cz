@@ -10,7 +10,7 @@ tags:
 title: 'Lucie Cirkva Chocholová: Nebudeme tolerovat papalášský přístup k dotacím!'
 description: 'krajská politika, kultura, tisková zpráva'
 author: Mediální odbor
-#authorId: lucie.chocholova
+#authorId: lukas.kohout
 image: posts/2022/2022-02-10-lucie.jpg
 ---
 
