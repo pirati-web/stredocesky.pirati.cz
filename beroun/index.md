@@ -43,11 +43,11 @@ Jedním z hlavních našich cílů na naší cestě je kandidovat v příštích
 
 Sámir se narodil v Praze a nyní již několik let žije v Berouně. Vystudoval Globální podnikání a management a pokračuje dál ve studiu MBA v oboru Psychologie managementu. Pracuje jako Koordinátor fundraisingu pro neziskovou organizaci a Českou pirátskou stranu, dále pracuje jako manažer v rodinné firmě. Celý život ho naplňuje pomáhat a dělat radost svému okolí a politiku vnímá jako další vhodný nástroj v práci pro společnost. Sámir je kavárenský povaleč, rád cestuje, miluje hudbu/tanec a nejraději tráví čas se svou ženou a psem.
 
-**Pavel Kešner - místopředseda Místního sdružení Beroun**
+**Pavel Kešner - 1. místopředseda Místního sdružení Beroun**
 
 Pavel se narodil v Berouně. Několik let žil v Králově Dvoře. Po studiu se rozhodl vrátit zpět do Berouna, kde dnes žije. Živí se jako podnikatel v několika oborech, mezi něž patří autodoprava a gastro provoz. V životě ho naplňuje pocit adrenalinu a objevování nových věcí. Politiku vnímá jako důležitý nástroj pro budování lepší budoucnosti. Pavel rád cestuje, objevuje nové technologie a trendy.
 
-**Klára Kadár - členka místního sdružení Beroun**
+**Klára Kadár - 2. místopředsedkyně sdružení Beroun**
 
 Klára Kadár pochází z Krkonoš a nyní několik let žije v Hýskově. Vystudovala literární historii
 a kulturní dějiny se specializací na gender history na univerzitě v Pardubicích. V rámci
@@ -61,3 +61,8 @@ sociálních věcí. Ve volném čase ráda cestuje, jezdí na motorce a na koni
 čas zabírá potomek, proto svůj zájem přesměrovala na zahradu, kde zahájila své pěstitelské
 pokusy. S Piráty sympatizuje řadu let a má ráda čitelnost a stabilitu jejich politiky. Ve straně se chce
 zaměřit především na sociální témata.
+
+**Jan Hovorka - člen místního sdružení Beroum**
+
+Honza od roku 1999 let bydlí v Zadní Třebani, kde s rodinou chová ovce, slepice a včely. Ve volném čase leze po skalách, hraje na kytaru nebo housle, nebo se spřáteli potuluje krajinou. Více nežli 25 let si užívá kontakt se studenty na Přirodovědecké fakultě Univerzity Karlovy kde učí chemii a fyziku ovzduší a vede Laboratoř pro studium kvality ovzduší. Ve druhém funkčním období je v obecním zastupitelstvu, kam kandidoval za spolek Salto, který tvoří jeho rodina a sousedští přátelé a kamarádi. Spolek má za předmět činnosti ochranu a tvorbu životního prostředí, zejména ochranu zeleně a krajinného rázu.
+K pirátům se dal, protože je považuje za jedinou moderní politickou stranu, v které je systematicky vyřešena transparentnost v rozhodování a nakládání s veřejnými prostředky. Nabízí svoje znalosti v tvorbě a ochraně životního prostředí.
