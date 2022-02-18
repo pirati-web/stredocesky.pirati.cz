@@ -86,9 +86,6 @@ První místopředseda MS Benešov a zakládající člen. Vystudoval osmileté 
 ### Jan Lička
 Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí jako zástupce garanta v sekci Doprava a vedoucí krajského expertního týmu Doprava a infrastruktura. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
 
-### Jana Skopalíková
-Třetí místopředsedkyně středočeských Pirátů a bývalá předsedkyně MS Benešov. Vystudovala magisterské studium na Přírodovědecké fakultě UK – obor botanika, a tamtéž nyní studuje doktorský program. Má ráda přírodu, focení, hudbu, stepuje a šije historické kostýmy. Více <a href="{{ 'lide/jana-skopalikova/' | relative_url }}">zde</a>.
-
 ### Daniel Netušil
 Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem. Více <a href="{{ 'lide/daniel-netusil/' | relative_url }}">zde</a>.
 
