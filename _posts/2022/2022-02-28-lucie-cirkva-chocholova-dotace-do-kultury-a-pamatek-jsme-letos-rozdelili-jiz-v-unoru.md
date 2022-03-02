@@ -7,7 +7,7 @@ tags:
   - krajská politika
   - kultura
   - tisková zpráva
-title: 'Lucie Cirkva Chocholová: Dotace do kultury a památek jsme letor rozdělili již v únoru!'
+title: 'Lucie Cirkva Chocholová: Dotace do kultury a památek jsme letos rozdělili již v únoru!'
 description: 'krajská politika, kultura, tisková zpráva'
 author: Mediální odbor
 authorId: Lucie.Chocholova
