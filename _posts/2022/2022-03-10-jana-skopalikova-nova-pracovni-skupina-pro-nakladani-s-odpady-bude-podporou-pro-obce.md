@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2022-03-10
-published: false
+#published: false
 tags: 
   - krajská politika
   - životní prostředí
