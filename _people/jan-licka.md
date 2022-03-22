@@ -14,9 +14,8 @@ mail:
 mob:
   - +420 727 839 754
 profiles:
-  github:
-  facebook: "https://twitter.com/JanLicka"
-  twitter:
+  facebook: "https://www.facebook.com/jan.licka"
+  twitter: "https://twitter.com/JanLicka"
   linkedin: "https://www.linkedin.com/in/jan-licka-08a93613/"
 heroImg: banner-struharov.jpg
 published: true
