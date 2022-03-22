@@ -48,5 +48,5 @@ Celkem 7 let jsem spolupracoval s firmou [Alis s r.o.](http://www.alis.cz) Pro n
 * [Lídr Pirátů Jiří Snížek o nadcházejících krajských volbách](/aktuality/lidr-piratu-jiri-snizek-o-nadchazejicich-krajskych-volbach.html)
 * [Jiří Snížek, předseda a lídr středočeských Pirátů o pandemii](/aktuality/jiri-snizek-predseda-a-lidr-stredoceskych-piratu-o-pandemii.html)
 
-[Kalendář](https://webmail.kr-stredocesky.cz/owa/calendar/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/674e7d322bb84764ae9ae44043716c1911043518251869948043/calendar.html)
+[Kalendář](https://outlook.office365.com/calendar/published/072f74f4c32d465c8cfc6672d9906d7b@kr-s.cz/c6adb2fe1cc4484db44125c7122add3f3940816159488449079/calendar.html)
 
