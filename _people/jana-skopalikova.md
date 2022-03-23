@@ -7,8 +7,8 @@ titles:
 category:
   - pks
   - kraj
-description: 2. místopředsedkyně krajského sdružení, krajská radní pro životní prostřední a zemědělství
-ordPKS: 3
+description: 1. místopředsedkyně krajského sdružení, krajská radní pro životní prostřední a zemědělství
+ordPKS: 2
 ordKraj: 2
 img: people/jana-skopalikova.jpg
 mail: jana.skopalikova@pirati.cz
