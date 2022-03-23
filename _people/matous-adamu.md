@@ -5,7 +5,9 @@ titles:
   before: 
   after: 
 category:
-description: předseda MS Mladá Boleslav
+  - pks
+description: 4. místopředseda KS, předseda MS Mladá Boleslav
+ordPKS: 5
 img: people/matous-adamu.jpg
 mail: 
   - matous.adamu@pirati.cz
