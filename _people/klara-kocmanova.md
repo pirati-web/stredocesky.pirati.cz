@@ -5,11 +5,9 @@ titles:
   before: 
   after: 
 category:
-  - pks
   - poslanec
   - kandidat-2018-komunalni-kutna_hora
 description: poslankyně Parlamentu ČR, 1. místopředsedkyně krajského sdružení
-ordPKS: 2
 img: people/klara-kocmanova.jpg
 mail:
   - klara.kocmanova@pirati.cz
