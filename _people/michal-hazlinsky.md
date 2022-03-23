@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 4. místopředseda krajského sdružení
-ordPKS: 5
+description: 3. místopředseda krajského sdružení
+ordPKS: 4
 img: people/michal-hazlinsky.jpg
 mail: michal.hazlinsky@pirati.cz
 mob: +420731576795
