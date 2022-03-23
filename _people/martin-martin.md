@@ -6,8 +6,8 @@ titles:
   after: 
 category:
   - pks
-description: 3. místopředseda krajského sdružení
-ordPKS: 4
+description: 2. místopředseda krajského sdružení
+ordPKS: 3
 img: people/martin-martin.jpg
 mail: martin.martin@pirati.cz
 mob: +420739625288
