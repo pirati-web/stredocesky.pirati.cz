@@ -18,7 +18,7 @@ Od dubna 2022 je na krajském úřadě nasazen jednotný systém pro zadávání
 
 {% asset 'https://a.pirati.cz/stredocesky/img/posts/2022/2022-04-01-redmine.png' alt='Redmine' %}
 
-> „Když mě oslovil ředitel úřadu, zdali bych nevěděl o něčem, co by zavedlo pořádek a přehled, **Redmine** byl jasnou volbou. Mám zkušenosti s Bugzillou, Jirou a Salesforce, ale **Redmine** jsem několik let administroval a znám jej detailně nejen z pohledu uživatele.“ říká [Tomáš Zmuda](https://stredocesky.pirati.cz/lide/tomas-zmuda/) - uvloněný místopředseda Výboru pro digitalizaci a chytrý kraj za Pirtátskou stranu.
+> „Když mě oslovil ředitel úřadu, zdali bych nevěděl o něčem, co by zavedlo pořádek a přehled, **Redmine** byl jasnou volbou. Mám zkušenosti s Bugzillou, Jirou a Salesforce, ale **Redmine** jsem několik let administroval a znám jej detailně nejen z pohledu uživatele.“ říká [Tomáš Zmuda](https://stredocesky.pirati.cz/lide/tomas-zmuda/) - uvolněný místopředseda Výboru pro digitalizaci a chytrý kraj za Pirtátskou stranu.
 
 Několik měsíců trvala příprava metodiky a to hlavně s ohledem na jiné procesy než jaké bývají ve firmách. Tým vedoucích odborů a oddělení, který byl zapojen do příprav, se snažil systém co nejvíce přizpůsobit potřebám úřadu. Důležité je myslet na základní pravidlo: musí to být **rychlejší a jednodušší** než zadání úkolu přes e-mail nebo telefon. Z toho mimo jiné vyplynulo zadání, že **Redmine** nemá duplikovat již existující systémy a také není určen pro evidenci rutinních úkolů vyplývajících ze správní činnosti v samostatné i přenesené působnosti.
 
