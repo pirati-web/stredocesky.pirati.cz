@@ -10,7 +10,7 @@ tags:
 title: 'Tomáš Zmuda: Středočeský krajský úřad začal používat systém Redmine'
 description: 'krajská politika, digitalizace, tisková zpráva'
 author: Mediální odbor
-#authorId: lukas.kohout
+authorId: tomas.zmuda
 image: posts/2022/2022-04-01-tomas.jpg
 ---
 
