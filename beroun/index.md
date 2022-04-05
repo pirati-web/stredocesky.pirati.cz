@@ -68,4 +68,5 @@ Honza od roku 1999 let bydlí v Zadní Třebani, kde s rodinou chová ovce, slep
 K pirátům se dal, protože je považuje za jedinou moderní politickou stranu, v které je systematicky vyřešena transparentnost v rozhodování a nakládání s veřejnými prostředky. Nabízí svoje znalosti v tvorbě a ochraně životního prostředí.
 
 **Michael Karafiát - člen místního sdružení Beroun**
+
 Michal se narodil v roce 1971 ve Stodu. Po studiu v oblasti zemědělské, strojní a ekonomické – se věnoval práci v reklamní oblasti s realizací eventů pro korporátní klienty. Posledních deset let jsou jeho profesí i zálibou telekomunikace. Nyní žije s dětmi žiji v Praskolesech. K Pirátům ho přilákala hlavně otevřenost a transparentnost v jednání. Sdílí také progresivní a moderní názor na vývoj společnosti, který by se neměl bát pojmenovat věci i nepopulární a pro někoho možná i těžko pochopené. U Pirátů se chce věnovat rozvoji venkova a rodinné politice.
