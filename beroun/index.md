@@ -62,7 +62,10 @@ sociálních věcí. Ve volném čase ráda cestuje, jezdí na motorce a na koni
 pokusy. S Piráty sympatizuje řadu let a má ráda čitelnost a stabilitu jejich politiky. Ve straně se chce
 zaměřit především na sociální témata.
 
-**Jan Hovorka - člen místního sdružení Beroum**
+**Jan Hovorka - člen místního sdružení Beroun**
 
 Honza od roku 1999 let bydlí v Zadní Třebani, kde s rodinou chová ovce, slepice a včely. Ve volném čase leze po skalách, hraje na kytaru nebo housle, nebo se spřáteli potuluje krajinou. Více nežli 25 let si užívá kontakt se studenty na Přirodovědecké fakultě Univerzity Karlovy kde učí chemii a fyziku ovzduší a vede Laboratoř pro studium kvality ovzduší. Ve druhém funkčním období je v obecním zastupitelstvu, kam kandidoval za spolek Salto, který tvoří jeho rodina a sousedští přátelé a kamarádi. Spolek má za předmět činnosti ochranu a tvorbu životního prostředí, zejména ochranu zeleně a krajinného rázu.
 K pirátům se dal, protože je považuje za jedinou moderní politickou stranu, v které je systematicky vyřešena transparentnost v rozhodování a nakládání s veřejnými prostředky. Nabízí svoje znalosti v tvorbě a ochraně životního prostředí.
+
+**Michael Karafiát - člen místního sdružení Beroun**
+Michal se narodil v roce 1971 ve Stodu. Po studiu v oblasti zemědělské, strojní a ekonomické – se věnoval práci v reklamní oblasti s realizací eventů pro korporátní klienty. Posledních deset let jsou jeho profesí i zálibou telekomunikace. Nyní žije s dětmi žiji v Praskolesech. K Pirátům ho přilákala hlavně otevřenost a transparentnost v jednání. Sdílí také progresivní a moderní názor na vývoj společnosti, který by se neměl bát pojmenovat věci i nepopulární a pro někoho možná i těžko pochopené. U Pirátů se chce věnovat rozvoji venkova a rodinné politice.
