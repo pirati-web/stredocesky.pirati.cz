@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-03-11
 #published: false
-tags: krajská_politika covid-19
+tags: 
+  - krajská politika
+  - covid-19
 title: 'Středočeský kraj dnes zahájil dobrovolné testování v předurčených školách'
 description: 'krajská politika, covid-19'
 author: Ondřej Petr 
