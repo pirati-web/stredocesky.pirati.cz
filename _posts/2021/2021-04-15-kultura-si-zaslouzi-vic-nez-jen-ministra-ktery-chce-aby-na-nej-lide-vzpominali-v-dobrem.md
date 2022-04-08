@@ -3,7 +3,8 @@ category: blog
 layout: post
 date: 2021-04-15
 #published: false
-tags: kultura
+tags: 
+  - kultura
 title: 'Kultura si zaslouží víc než jen ministra, který chce, aby na něj lidé vzpomínali v dobrém'
 description: 'kultura'
 author: Lucie Cirkva Chocholová
