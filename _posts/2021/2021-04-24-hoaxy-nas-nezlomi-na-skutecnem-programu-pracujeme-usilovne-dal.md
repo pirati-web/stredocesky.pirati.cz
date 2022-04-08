@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-04-24
 #published: false
-tags: hoax místní_rozvoj
+tags: 
+  - hoax 
+  - regionální rozvoj
 title: 'Matouš Vanča: Hoaxy nás nezlomí, na skutečném programu pracujeme usilovně dál.'
 description: 'hoax, místní rozvoj'
 author: Matouš Vanča
