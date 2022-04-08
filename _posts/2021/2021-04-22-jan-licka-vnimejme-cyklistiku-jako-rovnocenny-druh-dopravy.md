@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-04-22
 #published: false
-tags: krajská_politika regionální_rozvoj doprava
+tags: 
+  - krajská politika 
+  - regionální rozvoj 
+  - doprava
 title: 'Jan Lička: Vnímejme cyklistiku jako rovnocenný druh dopravy'
 description: 'krajská politika, regionální rozvoj, doprava'
 author: Soňa Brunnerová
