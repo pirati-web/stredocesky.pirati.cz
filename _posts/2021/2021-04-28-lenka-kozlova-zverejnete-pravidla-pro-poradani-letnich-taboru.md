@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-04-28
 #published: false
-tags: covid-19 komentář poslanecká_sněmovna
+tags: 
+  - covid-19
+  - komentář
+  - poslanecká sněmovna
 title: 'Lenka Kozlová: Zveřejněte pravidla pro pořádání letních táborů!'
 description: 'covid-19, komentář, poslanecká sněmovna'
 author: Lenka Kozlová
