@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-03-29
 #published: false
-tags: krajská_politika školství
+tags: 
+  - krajská politika
+  - školství
 title: 'Vyjádření zastupitelského klubu k optimalizaci gymnázií v Příbrami'
 description: 'krajská politika, školství'
 author: Mediální odbor
