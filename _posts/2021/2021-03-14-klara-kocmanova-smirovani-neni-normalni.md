@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-03-14
 #published: false
-tags: EU lidská_práva bezpečnost
+tags: 
+  - EU 
+  - lidská práva 
+  - bezpečnost
 title: 'Klára Kocmanová: Šmírování není normální'
 description: 'EU, lidská práva, bezpečnost'
 author: Mediální odbor 
