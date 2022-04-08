@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-03-26
 #published: false
-tags: celostátní_politika poslanecká_sněmovna covid-19
+tags: 
+  - celostátní politika
+  - poslanecká sněmovna
+  - covid-19
 title: 'Ivan Bartoš: Vláda musí vyvodit odpovědnost za způsobené škody'
 description: 'celostátní politika, poslanecká sněmovna, covid-19'
 author: Mediální odbor
