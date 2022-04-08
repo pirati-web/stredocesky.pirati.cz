@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-03-10
 #published: false
-tags: krajská_politika digitalizace
+tags: 
+  - krajská politika 
+  - digitalizace
 title: 'Středočeský Platební portál již běží v ostrém provozu'
 description: 'krajská politika, digitalizace'
 author: Lukáš Kohout
