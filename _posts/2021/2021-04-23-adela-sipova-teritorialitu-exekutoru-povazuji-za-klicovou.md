@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-04-23
 #published: false
-tags: senát exekuce sociální_oblast
+tags: 
+  - senát
+  - exekuce
+  - sociální politika
 title: 'Adéla Šípová: Teritorialitu exekutorů považuji za klíčovou'
 description: 'senát, exekuce, sociální oblast'
 author: Mediální odbor
