@@ -3,7 +3,8 @@ category: blog
 layout: post
 date: 2021-03-26
 #published: false
-tags: krajská_politika
+tags: 
+  - krajská politika
 title: 'Jana Skopalíková: Podporujeme malé a střední regionální výrobce potravin'
 description: 'krajská politika'
 author: Mediální odbor
