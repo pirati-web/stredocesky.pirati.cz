@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-04-29
 #published: false
-tags: krajská_politika covid-19 piráti_pomáhají
+tags: 
+  - krajská politika
+  - covid-19
+  - piráti pomáhají
 title: 'Rozdali jsme přes 15 tisíc respirátorů!'
 description: 'covid-19, komentář, poslanecká sněmovna'
 author: Soňa Brunnerová
