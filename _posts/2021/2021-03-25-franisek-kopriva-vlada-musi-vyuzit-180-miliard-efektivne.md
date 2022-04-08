@@ -3,7 +3,10 @@ category: blog
 layout: post
 date: 2021-03-25
 #published: false
-tags: celostátní_politika poslanecká_sněmovna covid-19
+tags: 
+   - celostátní politika
+   - poslanecká sněmovna
+   - covid-19
 title: 'Franišek Kopřiva: Vláda musí využít 180 miliard efektivně'
 description: 'celostátní politika, poslanecká sněmovna, covid-19'
 author: Ondřej Petr
