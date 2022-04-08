@@ -3,7 +3,9 @@ category: blog
 layout: post
 date: 2021-04-26
 #published: false
-tags: senát digitalizace
+tags: 
+  - senát
+  - digitalizace
 title: 'Adéla Šípová: Podporuji advokáty ve snaze prosadit on-line volbu vedení České advokátní komory'
 description: 'senát, digitalizace'
 author: Adéla Šípová
