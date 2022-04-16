@@ -11,11 +11,11 @@ boardTurn:
     endDate: 28.11.2022
 board:
    - position: Předseda
-     uid: vaclav.kubaljak
-   - position: 1. místopředseda
-     uid: david.rejha
-   - position: 2. místopředseda
      uid: jan.licka
+   - position: 1. místopředseda
+     name: Damian Chaluš
+   - position: 2. místopředseda
+     uid: daniel.netusil
 mail: 
   - benesov@pirati.cz
 office:
@@ -77,26 +77,29 @@ Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet 
 
 ## Lidé
 
-### Václav Kubaljak
-Předseda MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
-
-### David Řejha
-První místopředseda MS Benešov a zakládající člen. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
-
 ### Jan Lička
-Druhý místopředseda MS Benešov a zakládající člen. Ve straně působí jako zástupce garanta v sekci Doprava a vedoucí krajského expertního týmu Doprava a infrastruktura. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
+Předseda MS Benešov a zakládající člen. Ve straně působí jako gestor resortního týmu Doprava a člen krajského expertního týmu Doprava a infrastruktura. Od roku 2020 je krajským zastupitelem a místopředsedou Výboru pro dopravu Zastupitelstva Středočeského kraje. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
+
+### Damian Chaluš
+Druhý místopředseda MS Benešov, student Politologie a mezinárodních vztahy na FSV UK, je členem Pirátů od 1. června 2021.
 
 ### Daniel Netušil
-Člen MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem. Více <a href="{{ 'lide/daniel-netusil/' | relative_url }}">zde</a>.
+Druhý místopředseda MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem. Více <a href="{{ 'lide/daniel-netusil/' | relative_url }}">zde</a>.
 
-### Ondřej Hrdý
-Zakládající člen MS Benešov, bývalý předseda. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
+### Václav Kubaljak
+Předseda MS Benešov, vedoucí krajského expertního týmu v oblasti Školství a vzdělávání. Učitel druhého stupně na základní škole, předměty biologie a chemie. Zajímá se o historický šerm, rád fotí, chodí do přírody a jeho neoblíbenější film je Forrest Gump. 
 
 ### Hana Chalušová
 Členka MS Benešov, pomáhala místní sdružení zakládat. Je lektorka a&nbsp;psychoterapeutka Terapie Na Tělo, mluvčí národní organizace Fórum Rodičů a spolupracuje se školami pro podporu dětí se specifickými vzdělávacími potřebami – Rytmus, od klienta k občanovi. Mezi její zájmy patří rodina, příroda, tvoření, tanec, meditace a mindfulness, četba a studium, komunikace a&nbsp;vztahy, společnost.
 
 ### Milan Krch
 Člen MS Benešov, vedoucí krajského expertního týmu Finance.
+
+### David Řejha
+Bývalý první místopředseda MS Benešov a zakládající člen MS Benešov, nyní registrovaný příznivce Pirátů. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
+
+### Ondřej Hrdý
+Zakládající člen MS Benešov, bývalý předseda, nyní registrovaný příznivce Pirátů. Pochází z města Benešov, kde stále žije. Vystudoval benešovské gymnázium, nyní studuje na Pedagogické fakultě UK obor Matematika. Rád tripuje, cestuje, hraje na kytaru a housle, píše poezii a blog o Mindfulness, zajímá se o zdravý životní styl, jogu, meditaci a jeho nejoblíbenější knížka je Malý princ.
 
 <hr>
 
