@@ -7,7 +7,7 @@ tags:
   - krajská politika
   - cestovní ruch
   - tisková zpráva
-title: 'Lucie Cirkva Chocholová: Uzavření memoranda na podporu rozvoje poutního turismu pomlůže naplnit jeho nevyužitý potenciál!'
+title: 'Lucie Cirkva Chocholová: Uzavření memoranda na podporu rozvoje poutního turismu pomůže naplnit jeho nevyužitý potenciál!'
 description: 'krajská politika, cestovní ruch, tisková zpráva'
 author: Mediální odbor
 #authorId: lukas.kohout
