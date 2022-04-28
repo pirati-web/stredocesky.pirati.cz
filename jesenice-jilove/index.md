@@ -46,7 +46,7 @@ Ustavující schůze místního sdružení byla 23.9.2019 na geografickém stře
 
 ##### 2022
 
-* pravidelně každá středa v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých místech na našem území)
+* pravidelně každá třetí středa v měsíci schůze místního sdružení (podle epidemiologických podmínek pouze online, jinak na různých místech na našem území)
 
 ##### 2021
 
