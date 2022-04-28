@@ -36,7 +36,7 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 <hr>
 
 ## Novinky
-{% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/2022-Q2-PiCeKoZa.jpg' alt='Program PiCe&KoZa' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/2022-Q2-PiCeKoZa.png' alt='Program PiCe&KoZa' %}
 
 <hr>
 
