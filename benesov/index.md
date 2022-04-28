@@ -55,7 +55,7 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 Předseda MS Benešov a zakládající člen. Ve straně působí jako gestor resortního týmu Doprava a člen krajského expertního týmu Doprava a infrastruktura. Od roku 2020 je krajským zastupitelem a místopředsedou Výboru pro dopravu Zastupitelstva Středočeského kraje. Více <a href="{{ 'lide/jan-licka/' | relative_url }}">zde</a>.
 
 ### Damian Chaluš
-Druhý místopředseda MS Benešov, student Politologie a mezinárodních vztahy na FSV UK, je členem Pirátů od 1. června 2021.
+První místopředseda MS Benešov, student Politologie a mezinárodních vztahy na FSV UK, je členem Pirátů od 1. června 2021.
 
 ### Daniel Netušil
 Druhý místopředseda MS Benešov, neuvolněný radní a člen Zastupitelstva města Benešova. Vystudoval magisterské studium na ČVUT obor Řízení regionálních projektů a pracuje jako metodik fondů EU a ekonomické spolupráce se zahraničím na Generálním ředitelství Národního památkového ústavu. Je také divadelním hercem, písničkářem, porotcem mažoretkové asociace IFMS a dlouholetým tanečním lektorem a choreografem. Více <a href="{{ 'lide/daniel-netusil/' | relative_url }}">zde</a>.
