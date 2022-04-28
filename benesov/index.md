@@ -36,33 +36,7 @@ Ustavující schůze místního sdružení Benešov proběhla dne 18. 2. 2018 ve
 <hr>
 
 ## Novinky
-
-- **25. 3. 2019**
-Proběhla akce Na dortík s poslancem Františkem Kopřivou, v rámci které proběhla prvně debata se studenty benešovského gymnázia a poté s veřejností nad kávou, kde jsme se zabývali tím, jak funguje legislativní proces Evropské unie nebo možnostmi a úskalími brexitu.
-- **5. 3. 2019**
-Naše reporty ze zastupitelstva je nyní možné sledovat i na našem [youtube kanálu](https://www.youtube.com/channel/UCAsgieqa9tSYwq2jHWXnkIQ).
-- **9. 1. 2019**  
-Bylo nominováno 18 členů a příznivců do 11 komisí Rady města Benešova. Z&nbsp;našeho popudu vznikly dvě nové komise – Komise pro infrastrukturu a Komise pro národnostní menšiny.
-- **17. 12. 2018**
-Druhé zasedání zastupitelstva města Benešov, kde byl obsazen za Piráty a Zelené Finanční výbor Ing. Danielem Netušilem a Kontrolní výbor Ing. Mgr. Radkem Klemperou. Bylo také schváleno pořizování audiovizuálního záznamu a online přenosu ze zasedání Zastupitelstva.
-- **29. 10. 2018**  
-Podepsána koaliční smlouva mezi stranami Volba pro Benešov, STAN, ODS a Piráti s&nbsp;podporou Zelených. Naším novým radním se stal Daniel Netušil (gesce e-Government).
-- **6. 10. 2018**  
-Ve volbách do Zastupitelstva města Benešov naše kandidátka Piráti s podporou Zelených získala 7,45 % hlasů a 2 mandáty, našimi novými zastupiteli jsou Daniel Netušil (Piráti) a&nbsp;Radek Klempera (Zelení).
-
-<hr>
-
-## Akce pořádané v roce 2018
-Za svou krátkou dobu existence stihlo MS Benešov uspořádat nebo se podílet na několika vzdělávacích akcích, akcích pro veřejnost a pro přírodu. Jedná se například o:
-
-- **15. 9.** podzimní ternín akce **Ukliďme Česko** – tentokrát hřiště a parky ve městě,
-- **14. 9.** na akci s **Piráty na náměstí** proběhla debata s hosty (Ivan Bartoš, František Kopřiva, Ladislav Kos, Viktor Mahrik), představení MS Benešov a jejího programu do nadcházejících voleb a koncert MessenJah, Cuk Letu, 
-- **28. 6.** debata **Doprava v Benešově**, kde jste se mohli seznámit s územním plánem z pohledu navržených dopravních řešení,
-- **24. 5.** se do našeho hledáčku dostalo školství aneb **Dobrá škola základ života**, kde vystoupil i náš kandidát na senátora Petr Chaluš,
-- **28. 4.** proběhla **Pirátská grilovačka na Klášterce**, kde jste si mohli kromě Pirátů z MS Benešov popovídat také s pirátským poslancem za Středočeský kraj Františkem Kopřivou,
-- **26. 4.** jsme se sešli nad tématem **Veřejná prostranství**, kde jsme se zabývali Táborskými kasárnami, Klášterkou, veřejnou zelení nebo Koupadly na Sladovce,
-- **7. 4.** jsme se zúčastnili akce **Ukliďme Česko**, kdy jsme pomáhali zvelebit okolí koupadel na&nbsp;Sladovce,
-- **8. 3.** jsme zahájili první besedu na téma místní architektury jménem **Krásné město Benešov**.
+{% asset 'https://a.pirati.cz/stredocesky/img/ms/benesov/2022-Q2-PiCeKoZa.jpg' alt='Program PiCe&KoZa' %}
 
 <hr>
 
@@ -94,6 +68,15 @@ Předseda MS Benešov, vedoucí krajského expertního týmu v oblasti Školstv�
 
 ### Milan Krch
 Člen MS Benešov, vedoucí krajského expertního týmu Finance.
+
+### Petr Kocourek
+Člen MS Benešov. Při cestě za vzděláním a prací procestoval půl světa a nyní pracuje jako statistik u Evropského orgánu pro bankovnictví.
+
+### Jiří Bradna 
+Člen MS Benešov. Živí se jako vývojář aplikací v bankovním segmentu, rád si zahraje RPG a strategie, ale také na klávesy. V komunálních volbách 2022 bude na naší kandidátce v Benešově.
+
+### Jan Houdek
+Člen MS Benešov
 
 ### David Řejha
 Bývalý první místopředseda MS Benešov a zakládající člen MS Benešov, nyní registrovaný příznivce Pirátů. Vystudoval osmileté gymnázium v Benešově a&nbsp;nyní studuje na VŠCHT. Angažuje se v aktivitách spojených s architekturou a životním prostředím, v&nbsp;politice ho mimo jiné také zajímá zahraniční dění.
