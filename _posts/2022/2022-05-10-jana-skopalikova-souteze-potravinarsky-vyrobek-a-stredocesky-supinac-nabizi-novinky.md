@@ -16,7 +16,7 @@ image: posts/2022/2022-05-10-jana.jpg
 
 Výsledky 15. ročníku soutěže Potravinářský výrobek Středočeského kraj za rok 2021 byly slavnostně vyhlášeny na výstavišti v Lysé nad Labem. Soutěž, zaměřená na podporu propagace malých a středních potravinářských výrobců v regionu, v každé ze 7 kategorií vyhlašuje vítěze, který získává certifikát Potravinářský výrobek Středočeského kraje. Blanket výrobce opravňuje po dobu dvou let užívat na výrobku ochrannou známku s logem soutěže. Přihlášky do letošního 16. ročníku je možné podávat až do 31. prosince 2022. Podrobnosti lze najít na [webu](https://www.kr-stredocesky.cz/web/zivotni-prostredi/zemedelstvi-potravina) Středočeského kraje.
 
-{% asset 'https://a.pirati.cz/stredocesky/img/posts/2022/2022-05-10-jana.jpg' alt='Potravinářský výrobek Středočeského kraje' %}
+{% asset 'https://a.pirati.cz/stredocesky/img/posts/2022/2022-05-10-jana2.jpg' alt='Potravinářský výrobek Středočeského kraje' %}
 
 Středočeský šupináč je soutěž organizovaná Středočeským krajem a Středočeským územním svazem Českého rybářského svazu o nejlepší rybářský úlovek v daném roce. Zúčastnit se může každý držitel rybářského lístku a povolenky k lovu na revírech ČRS na území Středočeského kraje, jenž má trvalý pobyt na území Středočeského kraje. Vyhodnocení a předání cen se uskuteční na výstavišti v Lysé nad Labem při příležitosti konání Středočeských dožínek na podzim 2022. Přihlašování do letošního 13. ročníku je možné až do 10. září 2022. Bližší informace jsou k dispozici na [zde](https://www.kr-stredocesky.cz/web/zivotni-prostredi/rybarstvi-supinac).
 
