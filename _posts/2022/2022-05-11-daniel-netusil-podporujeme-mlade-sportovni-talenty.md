@@ -24,7 +24,7 @@ Sportovní centra mládeže také spolupracují s tzv. **paprsky**. To jsou spo
 
 Dalším typem krajské podpory talentovaných sportovců je také Fond sportu a volného času. V rámci Výboru pro tělovýchovu a sport Středočeského kraje, jehož jsem místopředsedou, se snažím zasadit o to, aby finanční podpora sportu byla celkově vyšší a cílila i do jiných odvětví, které splní požadovaná kritéria. SCM se nesmí stát uzavřenou skupinou klubů. Jejich činnost musíme pečlivě vyhodnocovat a dát šanci získat status SCM i jiným klubům, které v daném sportu prokážou vyšší úroveň kvality práce s dětmi a mládeží. Otázkou tedy zůstává, kdy a v jakém případě by se mělo z paprsku stát SCM a naopak. Vymyslet tento systém určení by mělo být naším dalším úkolem.
 
-### Nyní jsou v rámci SCM podporovány tyto druny sportů: 
+### Nyní jsou v rámci SCM podporovány tyto druhy sportů: 
 * atletika
 * badminton
 * baseball
