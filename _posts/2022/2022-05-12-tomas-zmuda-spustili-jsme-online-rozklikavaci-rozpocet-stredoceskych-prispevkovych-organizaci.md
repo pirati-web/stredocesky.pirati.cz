@@ -15,7 +15,7 @@ image: posts/2022/2022-05-12-tomas.jpg
 ---
 
 
-Na základě iniciativy Pirátů schválilo Zastupitelstvo Středočeského kraje vstup do spolku Otevřená města jako vůbec prvního kraje v ČR. První projekt, který jsme začali realizovat bylo nasazení rozklikávacího rozpočtu CityVizor. Kraj jako takový má již od jara 2021 [rozklikávací rozpočet](https://rozpocet.kr-stredocesky.cz) od společnosti Gordic. V kraji máme cca 270 příspěvkových organizací a u všech jednou za 3 měsíce konsolidujeme účetní data.
+Na základě iniciativy Pirátů schválilo Zastupitelstvo Středočeského kraje vstup do spolku Otevřená města jako vůbec prvního kraje v ČR. První projekt, který jsme začali realizovat bylo nasazení rozklikávacího rozpočtu [CityVizor](https://cityvizor.cz/landing). Kraj jako takový má již od jara 2021 [rozklikávací rozpočet](https://rozpocet.kr-stredocesky.cz) od společnosti Gordic. V kraji máme cca 270 příspěvkových organizací a u všech jednou za 3 měsíce konsolidujeme účetní data.
 
 > „Rozklikávací rozpočet veřejné instituce je jedním ze základních pilířů transparentnosti a proto jsem rád, že Středočeský kraj zveřejnil online hospodaření nejen své, ale i všech zřizovaných příspěvkových organizací,“ uvedl Tomáš Zmuda - místopředseda Výboru pro digitalizaci a chytrý kraj.
 
